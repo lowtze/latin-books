@@ -86,6 +86,7 @@ gammon.
 Of this famous pastime may be truly said:
 
 > "Age cannot wither, nor custom stale
+>
 > Its infinite variety."
 
 From the period of its invention, which many authors have
@@ -149,7 +150,8 @@ NEW YORK, NOV., 1895.
 IN ITS VARIED AND PRIMITIVE STAGES.
 
 > "Man’s life’s a game of *tables*, and he may
-Mend his bad fortune by his wiser play."
+> 
+> Mend his bad fortune by his wiser play."
 
 Of the innummerable drawing-room games in vogue, perhaps
 none has a more mystifying, not to say bewildering, beginning
