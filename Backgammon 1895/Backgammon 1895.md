@@ -44,7 +44,7 @@ BY
 A. HOWARD CADY
 
 BLACK.
-Black's Inner Table. Black's Outer Table.
+Black's Inner Tabl. Black's Outer Table.
 
 [!]
 
@@ -80,19 +80,17 @@ in what we have become wonted to regard as hackneyed and
 dull: hence, of no importance in this age of rushing progress.
 
 Among the good old things which, according to tradition
-and history, have existed almost since the world began is back-
-gammon.
+and history, have existed almost since the world began is backgammon.
 
 Of this famous pastime may be truly said:
 
 > "Age cannot wither, nor custom stale
->
 > Its infinite variety."
 
 From the period of its invention, which many authors have
 tried to trace back to the dark ages, it has held sway over
-myriads of people of all nations and through different centur-
-ies, who have known it in its various and primitive stages, until
+myriads of people of all nations and through different centuries, 
+who have known it in its various and primitive stages, until
 this present day, when, also, it is very generally played by its
 modern votaries.
 
@@ -103,11 +101,11 @@ of evolution it attained its present status, for that seems to be
 beyond human ken.
 
 I shall try simply to give a brief synopsis of the origin and
-progressive stages of this very fascinating pastime in its primi-
+progressive stages of this very fascinating pastime in its primitive
 
 <div style="page-break-after: always;"></div>
 
-tive state, which, I trust, will interest the reader sufficiently to
+state, which, I trust, will interest the reader sufficiently to
 arouse in him a desire for further investigation of the subject,
 and also give the necessary treatise on the modern game.
 
@@ -150,8 +148,7 @@ NEW YORK, NOV., 1895.
 IN ITS VARIED AND PRIMITIVE STAGES.
 
 > "Man’s life’s a game of *tables*, and he may
-> 
-> Mend his bad fortune by his wiser play."
+Mend his bad fortune by his wiser play."
 
 Of the innummerable drawing-room games in vogue, perhaps
 none has a more mystifying, not to say bewildering, beginning
@@ -166,9 +163,9 @@ but leads deeper into the mazes of antiquity.
 Among these various theories is one which presents itself as
 a plausible suggestion of the invention of the game. It is
 that draughts (or checkers) were originally counters, such as
-little stones, for instance, which were moved about on a calcu-
-lation board to reckon up the throws, and that it was an after-
-thought to permit skill to take the place of moves.
+little stones, for instance, which were moved about on a calculation
+board to reckon up the throws, and that it was an afterthought
+to permit skill to take the place of moves.
 
 Certain it is that the classic draughts were described always
 as a stone (*calx* or *calculus*).
@@ -181,11 +178,11 @@ board—*abacus*.
 There is a certain fascination about an investigation of this
 kind which increases with every new phase of the subject
 brought to one’s notice. One is almost in danger of forgetting,
-or, at least, slighting the modern game, as the various char-
+or, at least, slighting the modern game, as the various characteristics
 
 <div style="page-break-after: always;"></div>
 
-acteristics of the ancient or, more properly speaking, original
+of the ancient or, more properly speaking, original
 pastime, in its primitive form, holds fast the interest and
 attention of the student.
 
@@ -196,8 +193,8 @@ special proof, however, that he had anything to do with its
 origin.
 
 It is difficult to ascertain just what kind of backgammon
-the Greeks played in the earlier ages; but from different writ-
-ings we gather that often, when they speak of *dice playing*,
+the Greeks played in the earlier ages; but from different writings
+we gather that often, when they speak of *dice playing*,
 they do not mean simply hazard, but a species rather of the
 first-named game, where the throws of the dice are used to
 direct certain and skilful moves of the pieces.
@@ -235,8 +232,8 @@ dice a recognition of the decrees of Allah—that fall sometimes
 for a man and sometimes against him."
 
 Indeed, has it not been asserted by one that: "This is a
-nobler game than chess, for the backgammon player acknowl-
-edges predestination and the divine will, but the chess player
+nobler game than chess, for the backgammon player acknowledges
+predestination and the divine will, but the chess player
 denies them like a dissenter!"
 
 In Rome, among the Christian antiquities, there is a marble
@@ -247,8 +244,8 @@ write his name when they throw the dice, Amen."
 
 Although roughly traced, as if by the untutored hand of some
 stonecutter, it, nevertheless, shows that the board was similar
-to the one now used, even to the division in the centre, separat-
-ing the two groups of six points on either side.
+to the one now used, even to the division in the centre, separating
+the two groups of six points on either side.
 
 It is from Rome of ancient days, too, that we receive or,
 better speaking, inherit the custom of making the double
@@ -278,8 +275,8 @@ Chaucer confirms this, when he tells us that the early name of
 <div style="page-break-after: always;"></div>
 
 backgammon was tables, at which period it was played with
-three dice, and all the "men" began their action in the advers-
-ary’s table. The title of "tables" dropped out of use in the
+three dice, and all the "men" began their action in the adversary’s
+table. The title of "tables" dropped out of use in the
 Elizabethan era.
 
 Just how it came by its present name is, and always will be,
@@ -289,8 +286,8 @@ while De Henry tries to meet it by claiming its name as a
 Welsh compound—from *back* (little) and *cammon* (battle).
 
 Strutt and Bishop Kennett on their sides, however, furnish
-deductions to seemingly prove its derivation from the Anglo-
-Saxon "bac" (back) and "gamone" a game—*i.e.*, "a game
+deductions to seemingly prove its derivation from the Anglo-Saxon
+"bac" (back) and "gamone" a game—*i.e.*, "a game
 where players are expected to be sent back."
 
 The backgammon games, of which there seem to be so many
@@ -303,30 +300,29 @@ It seems to be very generally assumed that lot backgammon
 came first, and was followed by dice backgammon, which is
 the European variety, and the one best known to-day.
 
-In classic history, we find many plain indications of back-
-gammon, and the ancient Greek pastime called *Kubeia*, or
+In classic history, we find many plain indications of backgammon,
+and the ancient Greek pastime called *Kubeia*, or
 "dice-playing," is proven by numerous classical passages to
 have been of this same family.
 
 In Palestine and Egypt a species of backgammon called *Tab*
 is played.
 
-Writing of the "modern Egyptians," Edward W. Lane dis-
-cusses at some length the various games played by them, and
+Writing of the "modern Egyptians," Edward W. Lane discusses
+at some length the various games played by them, and
 which he thinks especially suited to their "sedate dispositions."
 
 He tells us, for instance, that they enjoy greatly *Satreng*
 (known to us by the more familiar name of chess), *dameh*
 (draughts), and *Tawulah* (backgammon or trictrac).
 
-*Tab*, alluded to above, and which is the variety most exten-
-sively played among the lower orders in Egypt, may be classed
+*Tab*, alluded to above, and which is the variety most extensively
+played among the lower orders in Egypt, may be classed
 under the head of lot backgammon. Incidentally, it may be
 
 <div style="page-break-after: always;"></div>
 
 mentioned that this is known in other parts of the East as
-
 "*Tabwa-dukk*," an elaborate nomenclature which Mr. Lane
 says he never heard applied to it in Egypt.
 
@@ -335,8 +331,8 @@ of a flat form about 8 inches in length and two-thirds of an inch
 in width, are first prepared. Usually, they are made of bits of
 palm branch, one side of which, cut flat and smooth, is white,
 the other green, or, when not fresh, yellow in tint; the first
-side is called white and the other black, by way of distinguish-
-ing them. They are called *tab*. The *seega*, upon which the
+side is called white and the other black, by way of distinguishing
+them. They are called *tab*. The *seega*, upon which the
 game is played, is a board, divided into four rows of squares,
 called "*beyts*" or "*dars*," each about 2 inches in width.
 
@@ -391,15 +387,15 @@ the removal from the original spot, are called *Nasara*
 writer quaintly expresses it, they "go forth conquering and to
 conquer," they are called *Muslimeen* (Moslems.)
 
-According to Dr. Birch, no Egyptian dice have been dis-
-covered earlier than the Roman era, nor any distinct allusion
+According to Dr. Birch, no Egyptian dice have been discovered
+earlier than the Roman era, nor any distinct allusion
 either to backgammon. Therefore this game cannot prove a
 claim to a place in the list of early Egyptian inventions; hence
 the nearest relation to *tab* is probably Chinese backgammon,
 though this latter is played with dice.
 
-From Sanskrit titerature we learn that games similar to back-
-gammon were known in ancient India. Among them mention
+From Sanskrit titerature we learn that games similar to backgammon
+were known in ancient India. Among them mention
 is made of *Panchiko*, played with cowrie shells, and in which
 
 <div style="page-break-after: always;"></div>
@@ -408,8 +404,8 @@ it appears the winning throws were when all mouths came up
 or down, as against the common throw, in which some fell each
 way. Another game on the same order was also known there
 which, according to the researches of Professor Weber, was
-called *Ayanaja* (luck or unluck). At least, that was the expres-
-sion used in regard to the moving of the pieces which traveled
+called *Ayanaja* (luck or unluck). At least, that was the expression
+used in regard to the moving of the pieces which traveled
 right and left through the squares, taking an unprotected man
 from his place to begin his course anew.
 
@@ -445,8 +441,8 @@ used, counts as follows:
 Mouths up . . . None, one, two,three, four, five, six.
 Men round first . . (Go on.) (Stop.) (Go on.)
 
-Mr. Taylor states that, after careful research into the San-
-scrit references and consultation with Professor Jolloy, of
+Mr. Taylor states that, after careful research into the Sanscrit
+references and consultation with Professor Jolloy, of
 Wurzburg, he is inclined to think that the game *Panchika*
 already alluded to, and which is played with fine cowrie shells,
 represents one of the earliest forms of *Pachisi*, which signifies
@@ -456,13 +452,13 @@ school are ancient in India.
 
 A comparison of this Hindoo game *Pachisi* displays close
 connection with Arab *Tab*. Still another game played in India,
-and, like *Pachisi*, is called *Chupua*; in this variation the cow-
-ries being superseded by a kind of oblong dice, numbered on
+and, like *Pachisi*, is called *Chupua*; in this variation the cowries
+being superseded by a kind of oblong dice, numbered on
 the four sides, but not at the ends.
 
 The Indian *Pachisi* board has been introduced into England,
-with four sets of four small draughts as the pieces and the ordi-
-nary dice. In this form it most closely resembles English
+with four sets of four small draughts as the pieces and the ordinary
+dice. In this form it most closely resembles English
 backgammon.
 
 From India to Madrid is a long journey, but in the tour of
@@ -476,9 +472,9 @@ Mr. Taylor gives a very interesting account of the game in
 its primitive state in ancient Mexico, and from this we may
 venture to cull a few items.
 
-Long before Hernando Cortis landed with his army of Span-
-ish invaders at Vera Cruz, we are told, one variety of back-
-gammon had already found its way from Asia into Mexico, and
+Long before Hernando Cortis landed with his army of Spanish
+invaders at Vera Cruz, we are told, one variety of backgammon
+had already found its way from Asia into Mexico, and
 had become a very fashionable amusement at the babaric court
 of Matizuma.
 
@@ -503,15 +499,15 @@ and putting on a little stone.
 PATOLLI IN ANCIENT MEXICO
 
 In his "Monarchia Indiana" (1616) Juan de Torquemada,
-in part following this account, gives even more details, show-
-ing the diagram which he describes to have been of the shape
+in part following this account, gives even more details, showing
+the diagram which he describes to have been of the shape
 of the *Pachisi* board, and the pieces of different colors.
 
 <div style="page-break-after: always;"></div>
 
 He says of it: "They call it Patolli, because these dice are
 called so; they throw with both hands on a thin mat
-on which are made certain lines after the maner of a cross, [!]
+on which are made certain lines after the manner of a cross, [!]
 and others crossing them make the point falling up (as in dice),
 taking off or putting on little stones of different colors, as in
 the game of tables."
@@ -532,8 +528,8 @@ time after the conquest, as follows:
 
 <div style="page-break-after: always;"></div>
 
-like, or dice-playing, and there are four large beans, each hav-
-ing a hole, and they throw them with the hands, as one plays
+like, or dice-playing, and there are four large beans, each having
+a hole, and they throw them with the hands, as one plays
 a knuckle bones, on a mat, where there is a figure drawn. At this
 game they used to play to win precious things, such as gold beads
 and precious stones, very fine turquoises. This game and that of
@@ -548,8 +544,8 @@ pointed cross.
 To those interested in further research of this pastime,
 delightful and, withal, exhaustive accounts, will be found in
 old tomes, among which are especially recommended: Dalgo
-Duran’s "Hist Indias," Clavigero’s "Storia Antica del Mex-
-ico" Brasseur de Bourbourg's "Histoire du Mexique et de
+Duran’s "Hist Indias," Clavigero’s "Storia Antica del Mexico"
+Brasseur de Bourbourg's "Histoire du Mexique et de
 l’Amerique Centrale," Father Joseph Ochs’ "Nachrichten von
 Landern des Spanischen Amerika."
 
@@ -605,8 +601,8 @@ realm of the Great Spirit."
 It was with them essentially a betting game, in which the
 players were divided by tribes.
 
-Through established custom of long standing, it was intro-
-duced always as the final exercises on the celebration of the
+Through established custom of long standing, it was introduced
+always as the final exercises on the celebration of the
 *Green Corn*, the *Harvest* festivities and the New Year’s jubilee.
 
 The implements of the game are described as follows: A
@@ -631,14 +627,14 @@ GUS-KA-EH
 
 <div style="page-break-after: always;"></div>
 
-stones, the latter in various positions, thus displaying the de-
-grees of their convexity.
+stones, the latter in various positions, thus displaying the degrees
+of their convexity.
 
 A platform erected a few feet from the ground was covered
 with blankets. After the betting was closed—that sounds
 quite modern !—and the articles had been given into the
-custody of the managers, they seated themselves on this plat-
-form, surrounded by a crowd of spectators, while the players,
+custody of the managers, they seated themselves on this platform,
+surrounded by a crowd of spectators, while the players,
 two in number, sat down to the game between the two divisions
 into which they arranged themselves.
 
@@ -683,15 +679,15 @@ TO PLAY IT.
 
 Of the recognized varieties of the game which prevail to-day,
 three exist of a most interesting character, all of which, of
-course, are played with dice and are called respectively, Eng-
-lish, Russian or *Tric Trac* and Turkish Backgammon.
+course, are played with dice and are called respectively, English,
+Russian or *Tric Trac* and Turkish Backgammon.
 
 <hr align="center" width="20%">
 
 #### ENGLISH BACKGAMMON.
 
-To those unfamiliar with the game, a description of the im-
-plements used therein is, perhaps, the first essential, as to
+To those unfamiliar with the game, a description of the implements
+used therein is, perhaps, the first essential, as to
 thoroughly understand it one must know what these are.
 
 THE IMPLEMENTS.
@@ -707,7 +703,7 @@ the *inner* (or *home*) and outer tables.
 These are marked with twenty-four points or fleches, colored
 alternately black or white—or, as in the modern backgammon
 board, red and black—six points in each section. The points
-are sufficient in length to hold five pieces—or "men’"’—each,
+are sufficient in length to hold five pieces—or "men"—each,
 the last one covering the end of the same.
 
 These points are named as follows: That to extreme left in
@@ -789,12 +785,12 @@ excluded through a point (or fleche) being already full.
 
 THE GAME.
 
-The game is played by two persons, occupying opposite posi-
-tions to one another at the board.
+The game is played by two persons, occupying opposite positions
+to one another at the board.
 
 If the home tables are to be on the left, the pieces will be
-played as follows: White will place two men on the oppo-
-nent’s ace point, five on his twelfth (or No. 6 outer table),
+played as follows: White will place two men on the opponent’s
+ace point, five on his twelfth (or No. 6 outer table),
 three upon his own eighth, and five upon his sixth point.
 
 Black’s pieces will be played in corresponding order directly
@@ -904,8 +900,8 @@ more of the latter’s men.
 For instance, if he throws six ace, he cannot play a six from
 his six point, or an ace from his opponent’s twelfth point. He
 can, however, play a seven to his six point from the opponent’s
-twelfth, because his bar is open, although his twelfth is in pos-
-session of the opponent.
+twelfth, because his bar is open, although his twelfth is in possession
+of the opponent.
 
 Any part of a throw which cannot be played is lost; but the
 player *must* play the entire throw when he can. For example:
@@ -918,16 +914,16 @@ must do so.
 HITTING A BLOT.
 
 When, as will happen during the progress of a game, one
-man alone is left on a point it is called a *blot*, and is thus ex-
-posed to the hit of the adversary, who endeavors as a rule to
+man alone is left on a point it is called a *blot*, and is thus exposed
+to the hit of the adversary, who endeavors as a rule to
 do this by leading one of his own men to that point. The man
-hit is removed immediately and placed on the bar (the divi-
-sion between the boards), and the player to whom it belongs
+hit is removed immediately and placed on the bar (the division
+between the boards), and the player to whom it belongs
 
 <div style="page-break-after: always;"></div>
 
-cannot play again until the man is entered. This is accom-
-plished by the throw of a number which enables him to enter
+cannot play again until the man is entered. This is accomplished
+by the throw of a number which enables him to enter
 the blot on an unoccupied point in the opponent’s home
 table and playing it from a point of the board adjoining the
 opponent’s ace point.
@@ -964,8 +960,8 @@ players has carried all his men into his home (or inner) table.
 Directly this is done, he has the privilege of taking his men off
 the board, technically called *bearing*.
 
-For every number thrown a man is removed from the corres-
-ponding point, or, if the player prefers, it may be played up;
+For every number thrown a man is removed from the corresponding
+point, or, if the player prefers, it may be played up;
 
 [^1]: N.B.—When all six points are blocked, it is useless for the player to 
 throw, and his adversary, therefore, may continue to play until he opens a
@@ -996,16 +992,16 @@ trois point, and so on.
 If the player throws cinque ace, and has no man on his
 cinque, he can, if he wishes, play up an ace from his cinque
 point and bear the cinque from his quatre point. If, on the
-contrary, the player throws an ace, and his ace point is un-
-occupied, he may play up the ace.
+contrary, the player throws an ace, and his ace point is unoccupied,
+he may play up the ace.
 
 Here, as in the earlicr stage of the game, doublets entitle the
 player to play up, or bear, four men.
 
 If, after the player has begun bearing his men, he hits a blot
 he must enter on his adversary’s inner table, and he cannot
-bear any more men until this one taken up has been carried in-
-to his own inner table.
+bear any more men until this one taken up has been carried into
+his own inner table.
 
 In bearing, should the opponent be waiting to enter any of
 his men which have been hit, care should be taken to leave no
@@ -1027,8 +1023,8 @@ borne any men, has carried all his men out of the winner’s
 tables.
 
 Should a player, having borne a man, be taken up, he can
-only lose a hit, even if he fails to enter the man before the ad-
-versary bears all his.
+only lose a hit, even if he fails to enter the man before the adversary
+bears all his.
 
 When a number of games are being played the winner of a
 hit has the right to the first throw in the new game; but if a
@@ -1038,23 +1034,23 @@ single die, etc., as already described.
 
 TACTICS AND GENERAL INSTRUCTIONS.
 
-I. At the beginning of a game at backgammon the play- 
-er’s chief object should be, first, to secure his own or his adver-
-sary’s cinque point, or even both; second, when these points
+I. At the beginning of a game at backgammon the player’s
+chief object should be, first, to secure his own or his adversary’s
+cinque point, or even both; second, when these points
 are secured, to play a pushing game, and try to gammon the
 opponent.
 
 II. The next best point, after the cinque point in the home
-table is secured, is the bar-point, thereby preventing the adver-
-sary from running away if he throws double-sixes.
+table is secured, is the bar-point, thereby preventing the adversary
+from running away if he throws double-sixes.
 
 III. When the player has secured these, he should prefer to
 make a quatre point in his own inner table, rather than quatre
 point out of them.
 
 IV. Having gained this point, there is a good chance of
-gammoning the adversary, more especially if he is very for-
-ward. To accomplish this, however, it will be necessary to
+gammoning the adversary, more especially if he is very forward.
+To accomplish this, however, it will be necessary to
 vary the game, according to circumstances. Suppose the
 opponent’s inner table is very ragged; it will be to the interest
 of the player to open his bar-point in the hope of compelling
@@ -1075,8 +1071,8 @@ V. If not anxious to win more than a hit, the player should
 endeavor to gain his own or the adversary’s cinque point; and
 if he fail in this, through being hit by the opponent, who is
 also more forward than himself, he must play a bold game.
-Thus, place a man on his cinque or bar-point, and if the adver-
-sary fails to hit it, then cover; *i. e.,* place another piece on the
+Thus, place a man on his cinque or bar-point, and if the adversary
+fails to hit it, then cover; *i. e.,* place another piece on the
 one already there, the blot, himself, and play a forward game
 instead of a back one.
 
@@ -1116,7 +1112,7 @@ the adversary’s tables, for a gammon only.
 in the adversary’s tables, and to be put on the cinque point in his
 own tables for a gammon only.
 
-6. Two cinque to be brought over from the five men ‘placed
+6. Two cinque to be brought over from the five men placed
 in the adversary’s tables, and to be put on the trois point in his
 own tables, for a gammon or for a hit.
 
@@ -1130,14 +1126,14 @@ in his own tables, for a gammon or for a hit.
 9. Six and trois, a man to be brought from the adversary’s
 ace point, as far as he will go, for a gammon or for a hit.
 
-10. Six and quatre, a man to be brought from the adver-
-sary’s ace point, as far as he will go, for a gammon or for a hit.
+10. Six and quatre, a man to be brought from the adversary’s
+ace point, as far as he will go, for a gammon or for a hit.
 
 11. Six and cinque, a man to be carried from the adversary’s 
 ace point, as far as he can go, for a gammon or a hit.
 
-12. Cinque and quatre, a man to be carried from the adver-
-sary’s ace point, as far as he can go, for a gammon or for a hit.
+12. Cinque and quatre, a man to be carried from the adversary’s
+ace point, as far as he can go, for a gammon or for a hit.
 
 13. Cinque trois, to make the trois point in his table, for a
 gammon or for a hit.
@@ -1155,8 +1151,8 @@ in the adversary’s tables, for a gammon or for a hit.
 17. Quatre deuce, to make the quatre point in his own
 tables, for a gammon or for a hit.
 
-18. Quatre ace, to play a man from the five placed in the ad-
-versary's tables, for the quatre; and for the ace, to play a man
+18. Quatre ace, to play a man from the five placed in the adversary's
+tables, for the quatre; and for the ace, to play a man
 down upon the cinque point in his own tables, for a gammon only.
 
 19. Trois deuce, two men to be brought from the five placed
@@ -1172,7 +1168,7 @@ the adversary’s table, for the deuce; and for the ace, to play a
 man down upon the cinque point in his own tables.
 
 22. Deuce trois, two of them to be played on the cinque point
-in his own tables, and with the other two he is to take the—
+in his own tables, and with the other two he is to take the
 quatre point in the adversary’s tables.
 
 23. Two deuces, two of them are to be played on the quatre
@@ -1184,19 +1180,19 @@ tables to win the hit.
 
 24. Two quatre, two of them are to take the adversary’s
 cinque point in the adversary’s tables, and for the other two,
-two men are to be brought from the five placed in the ad-
-versary’s tables.
+two men are to be brought from the five placed in the adversary’s
+tables.
 
 25. Cinque ace, the cinque should be played from the five men
-placed in the adversary’s tables, and the ace from the adver-
-sary’s ace point.
+placed in the adversary’s tables, and the ace from the adversary’s
+ace point.
 
 26. Quatre ace, the quatre to be played from the five men
 placed in the adversary’s ace point.
 
 27. Deuce ace, the deuce to be played from the five men
-placed in the adversary’s table, and the ace from the adver-
-sary's ace point.
+placed in the adversary’s table, and the ace from the adversary's
+ace point.
 
 The last three chances are played in this manner because, an
 ace being laid down in the adversary’s tables, there is a
@@ -1251,8 +1247,8 @@ should be avoided, as it is always a risk.
 <div style="page-break-after: always;"></div>
 
 XI. At the beginning of a game or rubber, the player should
-not play for a "back game’’—*i. e.,* exposing of blots unneces-
-sarily and otherwise waiting for the adversary to make blots,
+not play for a "back game’’—*i. e.,* exposing of blots unnecessarily
+and otherwise waiting for the adversary to make blots,
 for by this method a great risk is run in the chance of losing a
 gammon in trying to win a hit.
 
@@ -1287,8 +1283,8 @@ number of throws.
 
 XIV. When one player is bearing his men, and the other
 has two men on a low point in the first one’s table and several
-in the outer table, it is well to leave a blot there, thus prevent-
-ing him from bearing his men to the greatest advantage, and
+in the outer table, it is well to leave a blot there, thus preventing
+him from bearing his men to the greatest advantage, and
 also gives the second player a chance of hitting him if he leaves
 a blot. If, however, on calculation, the second player finds
 
@@ -1404,8 +1400,8 @@ played for that die.
 has called his throw, and the throw is disputed, the player not in
 fault may name the number that shall be played for that die.
 
-7. The caster must abide by his call if the dice are subse-
-quently touched.
+7. The caster must abide by his call if the dice are subsequently
+touched.
 
 8. If the caster touches one of his own men he must play it,
 unless, prior to touching it, he intimates his intention of ad-
@@ -1479,8 +1475,8 @@ are not so good as the ace and deuce points, because when
 bearing his men, the deuce point often saves him from making
 a blot, which is almost certain to happen if the opponent (B)
 has possession of A’s ace and deuce points. A should further
-endeavor to be hit as often as possible, to keep his game back-
-ward, and for the same reason should refrain from hitting any
+endeavor to be hit as often as possible, to keep his game backward,
+and for the same reason should refrain from hitting any
 blots B makes.
 
 No. III.
@@ -1534,13 +1530,13 @@ A player is not obliged to enter all his men before he plays
 any, and he may take up blots, even if some of his men have
 not been entered.
 
-Should a player be taken up, he is obliged to enter the cap-
-tured "man" before playing any other already entered.
+Should a player be taken up, he is obliged to enter the captured
+"man" before playing any other already entered.
 
 A player who throws doublets is not only entitled to, but
 bound to use (or "play") the doublets thrown, and also the
-complimentary ones, *i. e.,* the corresponding doublets on oppo-
-site faces of the dice. Example: He throws sixes, therefore
+complimentary ones, *i. e.,* the corresponding doublets on opposite
+faces of the dice. Example: He throws sixes, therefore
 must first play four sixes and then four aces, and in addition
 he has another throw.
 
@@ -1549,10 +1545,10 @@ to either player when he throws his first set of doublets in the
 game.
 
 No player is permitted to play the "complimentary" doublets
-until he has completely used the doublets thrown, and, further-
-more, he has no right to another throw until he has played
-both sets of doublets—*i. e.,* those thrown and the correspond-
-ing ones.
+until he has completely used the doublets thrown, and, furthermore,
+he has no right to another throw until he has played
+both sets of doublets—*i. e.,* those thrown and the corresponding
+ones.
 
 The privilege is given of allowing the caster a a deuce, ace,
 to choose any doublets he likes on opposite faces of the dice,
@@ -1563,8 +1559,8 @@ regarding first doublets.
 
 Sometimes, if a player cannot complete his throw, or any
 part of it (whether doublets or not), it is agreed that the
-opponent shall play the remainder of it with his own men, mov-
-ing only one at a time. If, however, in so doing the opponent
+opponent shall play the remainder of it with his own men, moving
+only one at a time. If, however, in so doing the opponent
 leaves a blot which opens a point on which the first player (or
 caster) can play, this latter comes in and continues his play by
 taking up a blot.
@@ -1600,8 +1596,7 @@ This variation differs from both the English and Russian
 game, and is considered by many more interesting than either
 the others.
 
-The lead is determined as in the other varieties of Back-
-gammon.
+The lead is determined as in the other varieties of Backgammon.
 
 The player who has the lead begins by placing two of his
 men (or pieces) on what would be the first point in the Russian
@@ -1617,9 +1612,9 @@ until that is covered, and none this side (inner table) until he
 has fully entered all his men. After this he advances much as
 he would in the Russian variation.
 
-The player who throws doublets can use, not only the doub-
-lets thrown, but also the corresponding doublets on the oppo-
-site side of the dice. This, however, is not obligatory, as in
+The player who throws doublets can use, not only the doublets
+thrown, but also the corresponding doublets on the opposite
+side of the dice. This, however, is not obligatory, as in
 
 <div style="page-break-after: always;"></div>
 
@@ -1635,9 +1630,9 @@ entrance.
 After moving out the first two placed in his table, the player
 goes back to the Russian, counting first point one up to the sixth.
 
-The game will be found very intricate, hence move absorb-
-ing, as it proceeds; the player is frequently misled into believ-
-ing that he has the advantage, when, suddenly, he discovers
+The game will be found very intricate, hence move absorbing,
+as it proceeds; the player is frequently misled into believing
+that he has the advantage, when, suddenly, he discovers
 that he is beaten.
 
 In the foregoing pages, it has been out of the question, of
