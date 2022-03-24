@@ -1,16 +1,18 @@
+---
+title: Backgammon
+author: A. Howard Cady
+publisher: The American Sports Publishing CO
+year: 1895
+version: 0.9
+---
+
 # To Do:
 - [x] italicize all instances of i.e.
 - [x] change I to 1 where appropriate
 - [x] change <div style="page-break-after: always;"></div> page breaks to ```<div style="page-break-after: always;"></div> ```
-- [ ] add to Github
+- [x] add to Github
 - [ ] insert rough copies of all images
 - [ ] insert cleaned copies of all images
-
-## Changelog
-
-[[2022-03-22]] - italicized through end of Part I. Added to-dos. Imported to Obsidian.
-[[2022-03-24]] - finished initial corrections; figured out footnotes; set up header hierarchy
-
 
 # Book
 
