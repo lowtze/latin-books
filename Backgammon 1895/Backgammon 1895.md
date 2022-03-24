@@ -86,7 +86,7 @@ gammon.
 Of this famous pastime may be truly said:
 
 > "Age cannot wither, nor custom stale
-Its infinite variety."
+> Its infinite variety."
 
 From the period of its invention, which many authors have
 tried to trace back to the dark ages, it has held sway over
