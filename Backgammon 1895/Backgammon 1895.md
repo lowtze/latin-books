@@ -44,7 +44,7 @@ BY
 A. HOWARD CADY
 
 BLACK.
-Black's Inner Tabl. Black's Outer Table.
+Black's Inner Table. Black's Outer Table.
 
 [!]
 
