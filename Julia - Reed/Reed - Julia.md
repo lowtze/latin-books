@@ -13,7 +13,9 @@ tags: [[Latin Language|Latin]]
 - [ ] create a macron and non-macron version
 - [x] create a script to replace macrons with non-macrons that i can use for other books
 - [x] fix the contents page
+- [ ] updated ToC page to link to headers using Github Markdown spec - in progress
 - [ ] replace page dashes with page breaks
+- [ ] add all images to appropriate areas
 
 # Changelog
 - [[2022-03-25]] - initial commit; reformatted through story II; cleaned up hyphenated words, ToC, page breaks
@@ -21,6 +23,8 @@ tags: [[Latin Language|Latin]]
 # Book
 
 # JULIA: A LATIN READING BOOK 
+![cover](./images/cover.png)
+
 ---
 
 THE MACMILLAN COMPANY 
@@ -205,13 +209,13 @@ M. R.
 
 ## CONTENTS 
 
-Iūlia - 1
+[Iūlia](#Iūlia) - 1
 
-Ītalia - 5
+[Ītalia](#ītalia) - 5
 
-Rōma - 6
+[Rōma](#rōma) - 6
 
-Cerēs et Persephonē - 7
+[Cerēs et Persephonē](#cerēs-et-persephonē) - 7
 
 Rōmulus et Sabīnae - 13
 
@@ -249,7 +253,7 @@ General Vocabulary - 82
 
 ---
 
-[!]
+![Persian Archers](./images/persian-archers.png)
 
 Persian Archers. 
 
@@ -372,11 +376,9 @@ plaustris portant.
 
 BaJ* 5 B 
 
-
+---
 
 ## RŌMA
-
-
 
 ### VI 
 
@@ -398,23 +400,23 @@ lacertae parvae properant. Pulchrae et i�cundae
 sunt lacertae. Cic�dae quoque undique cantant. 
 Lacertis -et cic�dis gr�tum est caelum caeruleum. 
 
-
-
-6 
-
-
+---
 
 ## CERĒS ET PERSEPHONĒ
 
 
 
-That fairfield 
-Of Enna, where Proserpin gatkering flowers, 
-Herself a fairer flower, by gloomy Dis 
-Was gathered � which cost Ceres all (hat pain 
-To seek Tier (hrough (he world, 
-
-Milton. 
+> That fair field 
+>
+>Of Enna, where Proserpin gathering flowers, 
+>
+>Herself a fairer flower, by gloomy Dis 
+>
+>Was gathered—which cost Ceres all that pain 
+>
+>To seek her through the world.
+>
+> Milton.
 
 ### VII 
 
