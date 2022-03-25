@@ -23,7 +23,7 @@ tags: [[Latin Language|Latin]]
 # Book
 
 # JULIA: A LATIN READING BOOK 
-![cover](./images/cover.png)
+![cover](./images/cover.PNG)
 
 ---
 
@@ -253,7 +253,7 @@ General Vocabulary - 82
 
 ---
 
-![Persian Archers](./images/persian-archers.png)
+![Persian Archers](./images/persian-archers.PNG)
 
 Persian Archers. 
 
