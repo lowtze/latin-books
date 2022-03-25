@@ -3,7 +3,7 @@ title: Julia - A Latin Reading Book
 author: Maud Reed
 publisher: The MacMillan Company
 year: 1941
-version: 0.1
+version: 0.2
 ---
 
 tags: [[Latin Language|Latin]]
@@ -11,10 +11,12 @@ tags: [[Latin Language|Latin]]
 # To-Do
 - [ ] clean up initial dump
 - [ ] create a macron and non-macron version
-- [ ] create a script to replace macrons with non-macrons that i can use for other books
+- [x] create a script to replace macrons with non-macrons that i can use for other books
 - [x] fix the contents page
 - [ ] replace page dashes with page breaks
 
+# Changelog
+- [[2022-03-25]] - initial commit; reformatted through story II; cleaned up hyphenated words, ToC, page breaks
 
 # Book
 
@@ -105,8 +107,6 @@ Conspicuous among the excellent, for
 sympathy and charm, is the version of the lovely 
 tale of Ceres and Proserpina. 
 
----
-
 Since the little book accomplishes so well its 
 avowed purpose, "to please," Latin teachers 
 will welcome it as a valuable ally in the effort 
@@ -144,8 +144,8 @@ it is hard to believe that no matter what the
 study, one's interest should be directed mainly 
 toward oneself. Moreover with all that Borne 
 means to us in history, with all that Italy, both 
-past and present, means to the ordinary edu- 
-cated English-speaking person, it seems to me 
+past and present, means to the ordinary educated 
+English-speaking person, it seems to me 
 that if we cannot make Latin interesting for 
 itself and from the very first, it is our own fault. 
 It is the gateway into a magic country and can 
@@ -157,14 +157,11 @@ else, a story book, and its first object is to
 please. The constructions have been made as easy 
 as possible, in order to give the child confidence 
 from the beginning. Nowadays classes are often 
-
----
-
 very large, and if translation is done in class, it is 
 difficult to keep up the interest while a complicated 
 construction is being puzzled out. If on the other 
-hand, the translation is done at home, the confi- 
-dence, and with it the interest, of the child may 
+hand, the translation is done at home, the confidence, 
+and with it the interest, of the child may 
 be marred from the first by difficulties that are 
 beyond him. 
 
@@ -190,9 +187,6 @@ A few passages from Latin poets have been
 introduced, but they can be taken or omitted at 
 the teacher's discretion. If the teacher will read 
 and translate them, the class will catch the metre 
-
----
-
 and have an idea of what is to come. It is as 
 though when out for a walk with children one 
 should draw attention to some place, visible but 
@@ -284,28 +278,25 @@ rosās pulchrās nautīs dat. Rubrae et albae sunt
 rosae. Saepe Iūlia ad nautārum casās rosās pulchrās 
 portat. Nautae puellam parvam laudant. 
 
---- 
+### II
+Ad Iūliae casam pīrāta vēnit. Rubra est pīrātae 
+tunica, splendidae sunt galea et hasta. Iūlia 
+prope casae portam stat et pīrātam spectat; 
+pīrātae hastam et galeam et tunicam rubram amat 
+et laudat. Pīrāta quoque Iūliam et casam et 
+rosās laudat. "O Iūlia," inquit, "pulchra es 
+puella et pulchrae sunt rosae tuae. Nāvicula mea 
+pulchra est. Alta est prōra nāviculae meae. In 
+extrēmā nāviculā sto et nāviculam guberno. 
+Alba est nāvicula mea; nunc prope ōram maritimam 
+stat." Tum Iūlia cum pīrātā ad ōram 
+maritimam ambulat et nāviculam albam spectat. 
+Iūlia et pīrāta prōram nāviculae multīs rosīs ornant. 
+Subito pīrāta puellam in nāviculam iactat. Multae 
+sunt lacrimae puellae, sed frustrā—pīrāta in extrēmā
+nāviculā stat et nāviculam gubernat. 
 
 ## end [[2022-03-25]]
-
-### II
-Ad I�liae casam pir�ta venit. Rubra est pir�tae 
-tunica, splendidae sunt galea et hasta. I�lia 
-prope casae portam stat et plr�tam spectat ; 
-pir�tae hastam et galeam et tunicam rubram amat 
-et laudat. Pir�ta quoque I�liam et casam et 
-ros�s laudat. " 0 I�lia," inquit, " pulchra es 
-puella et pulchrae sunt rosae tuae. N�vicula mea 
-pulchra est. Alta est pr�ra n�viculae meae. in 
-extrem � n�vicul� sto et n�viculam guberno. 
-Alba est n�vicula mea ; nunc prope �ram mari- 
-timam stat." Tum I�lia cum pir�t� ad �ram 
-
-maritimam ambulat et n�viculam albam spectat. 
-I�lia et pir�ta pr�ram n�viculae multis rosis ornant. 
-Subito pir�ta puellam in n�viculam iactat. Multae 
-sunt lacrimae puellae, sed frustr� � pir�ta in ex- 
-trem� n�vicul� stat et n�viculam gubernat. 
 
 ### III 
 
@@ -315,21 +306,6 @@ est in cas�. Tum agricola, " I�lia," excl�mat,
 frustr� � nulla est puella. Cena n�n est in 
 mens� par�ta, nec rosae in mens� sunt. Tum ad 
 �raii maritimam properat et procul n�viculam 
-
-
-
-IT 
-
-
-
-I�LIA 
-
-
-
-3 
-
-
-
 albam spectat. Ad naut�rum cas�s properat. 
 Naut�rum filiae perterritae, " Cum pir�tis," in- 
 quiunt, " est I�lia tua." Magna est ira agricolae. 
@@ -1852,7 +1828,7 @@ Ire deiectum monumenta regia
 
 temploque Vestae ; 
 
-Vio<e dum se nimium querenti 
+Vioe dum se nimium querenti 
 iacuit ult�rem. 
 
 HORAOB. 
@@ -2410,9 +2386,7 @@ narr�verunt.
 
 
 
-VOCABULARY OF NEW WORDS IN 
-
-EACH SECTION 
+##  VOCABULARY OF NEW WORDS IN EACH SECTION 
 
 
 
@@ -5372,9 +5346,7 @@ fugio, -ere, f�gi, fugitum � 1 tlee
 
 
 
-VOCABULARY OF WORDS USED IN 
-
-QUOTED PASSAGES 
+## VOCABULARY OF WORDS USED IN QUOTED PASSAGES
 
 
 
@@ -5809,7 +5781,7 @@ volo {irregul�r) � I wish.
 
 
 
-GENERAL VOCABULARY 
+## GENERAL VOCABULARY 
 
 
 
