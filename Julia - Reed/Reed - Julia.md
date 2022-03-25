@@ -296,85 +296,60 @@ Subito pīrāta puellam in nāviculam iactat. Multae
 sunt lacrimae puellae, sed frustrā—pīrāta in extrēmā
 nāviculā stat et nāviculam gubernat. 
 
-## end [[2022-03-25]]
-
 ### III 
 
-Agricola ad casam venit. Filia parva n�n 
-est in cas�. Tum agricola, " I�lia," excl�mat, 
-" filia mea, ubi es ? " Iterum I�liam vocat, sed 
-frustr� � nulla est puella. Cena n�n est in 
-mens� par�ta, nec rosae in mens� sunt. Tum ad 
-�raii maritimam properat et procul n�viculam 
-albam spectat. Ad naut�rum cas�s properat. 
-Naut�rum filiae perterritae, " Cum pir�tis," in- 
-quiunt, " est I�lia tua." Magna est ira agricolae. 
-Galeam et hastam raptat. Nautae n�viculam 
-suam agricolae dant. Nautae quoque gale�s et 
-hast �s raptant, et cum agricol� ad plr�t�rum 
-n�viculam properant. Tum agricola pir�t�s vocat ; 
-" Ubi," inquit, " est f�ia mea ? " Pir�tae, " F�ia 
-tua," inquiunt, " in n�vicul� nostr� est." Tum 
+Agricola ad casam vēnit. Fīlia parva nōn 
+est in casā. Tum agricola, " Iūlia," exclāmat, 
+"fīlia mea, ubi es?" Iterum Iūliam vocat, sed 
+frustrā—nulla est puella. Cēna nōn est in 
+mēnsā parāta, nec rosae in mēnsā sunt. Tum ad 
+ōram maritimam properat et procul nāviculam 
+albam spectat. Ad nautārum casās properat. 
+Nautārum filiae perterritae, "Cum pīrātīs," inquiunt, 
+"est Iūlia tua." Magna est īra agricolae. 
+Galeam et hastam raptat. Nautae nāviculam 
+suam agricolae dant. Nautae quoque galeās et 
+hastās raptant, et cum agricolā ad pīrātārum 
+nāviculam properant. Tum agricola pīrātās vocat;
+"Ubi," inquit, "est fīlia mea? " Pīrātae, " Fīlia 
+tua," inquiunt, " in nāviculā nostrā est." Tum 
+agricola pecūniam multam pīrātīs dat. Pīrātae 
+lūliam ad agricolae nāviculam portant. 
 
-agricola pec�niam multam pir�tis dat. Pir�tae 
-l�liam ad agricolae n�viculam portant. 
+### IV 
 
+Laeta est Iūlia quod iterum casam parvam cum 
+agricolā habitat. Sed Iūlia puella duodecim 
+annōrum iam est. Itaque agricola fīliae suae 
+tabulās dat. Pecūniam quoque lūdī magistrō dat. 
+Cotīdiē puella ad lūdum per agrōs ambulat. Multī
+iuvencī in agrīs sunt, sed impavida est puella. 
+Tabulās ad lūdum Iūlia portat. In tabulīs 
+litterae multae sunt. Lūdī magister lūliam laudat 
+quod litterās bene cotīdiē recitat. In lūdō multī
+puerī, multae puellae cum Iūliā sunt. Magister 
+lūdum bene gubernat. Industriīs puerīs magister 
+librōs pulchrōs dat; pigrōs malōsque puerōs 
+nōn laudat sed culpat. Magna est īra magistrī
+quod puerī pigrī litterās nōn bene recitant. Itaque 
+puerī pigrī in angulīs stant. Multae sunt lacrimae 
+puerōrum malōrum. Itaque puerī industriī sunt 
+et litterās bene recitant. Iūlia prandium ad 
+lūdum cotīdiē portat, quod longa est via. In 
+agrīs prandium est lūliae grātum. 
 
+Multās fābulās puerīs et puellīs magister benignus 
+in lūdō narrat; nunc dē Britanniā, nunc dē 
+longinquīs terrīs fābulās narrat. Grātae puerīs 
+et puellīs sunt fābulae. Nunc igitur in librō nōn 
+sōlum lūliae sed multīs etiam puerīs et puellīs
+fābulās narro. 
 
-IV 
+---
+# end [[2022-03-25]]
+## ĪTALIA 
 
-Laeta est I�lia quod iterum casam parvam cum 
-agricol� habitat. Sed I�lia puella duodecim 
-ann�rum iam est. Itaque agricola filiae suae 
-tabul�s dat. Pec�niam quoque l�di magistr� dat. 
-Cotidie puella ad l�dum per agr�s ambulat. Multi 
-iuvencl in agris sunt, sed impavida est puella. 
-Tabul�s ad l�dum I�lia portat. In tabulis 
-litt er ae multae sunt. L�di magister l�liam laudat 
-quod litter�s bene cotldie recitat. In l�d� multi 
-puerl, multae puellae cum I�li� sunt. Magister 
-l�dum bene gubernat. Industriis pueris magister 
-libr�s pulchr�s dat ; pigr�s mal�sque puer�s 
-
-n�n laudat sed culpat. Magna est ira magistri 
-
-
-
-4 
-
-
-
-JULIA 
-
-
-
-TV 
-
-
-
-quod pueri pigri litter�s n�n bene recitant. Itaque 
-pueri pigri in angulis stant. Multae sunt lacrimae 
-puer�rum mal�rum. Itaque pueri industrii sunt 
-et litter�s bene recitant. I�lia prandium ad 
-l�dum cotidie portat, quod longa est via. In 
-agris prandium est l�liae gr�tum. 
-
-Mult�s f �bul�s pueris et puellis magister benignus 
-in l�d� narrat ; nunc de Britanni�, nunc de 
-longinquis terris f�bul�s narrat. Gr�tae pueris 
-et puellis sunt f�bulae. Nunc igitur in libr� n�n 
-
-s�lum l�liae sed multis etiam pueris ez puelllB 
-
-f�bul�s narro. 
-
-
-
-ITALIA 
-
-
-
-V 
+### V 
 
 Oaeruleum est Italiae caelum. Itall caelum 
 caeruleum amant. Britannis quoque caelum 
@@ -399,11 +374,11 @@ BaJ* 5 B
 
 
 
-ROMA 
+## RŌMA
 
 
 
-VI 
+### VI 
 
 �lim R�m�ni oppidum parvum habitabant. Nunc 
 magna et splendida est Roma ; magnae et l�tae 
@@ -429,7 +404,7 @@ Lacertis -et cic�dis gr�tum est caelum caeruleum.
 
 
 
-CERES ET PERSEPHONE 
+## CERĒS ET PERSEPHONĒ
 
 
 
@@ -441,7 +416,7 @@ To seek Tier (hrough (he world,
 
 Milton. 
 
-VII 
+### VII 
 
 Nunc �num Deum ad�rant et Itall et Britanni. 
 Sed �lim R�m�nl mult�s de�s, mult�s de�s, ad�r�- 
@@ -477,7 +452,7 @@ territam rapt�vit. Tum Persephone, " 0 Ceres,"
 excl�mat, " ubi es ? Patruus meus filiam tuam ad 
 Inf er �s portat." 
 
-VIII 
+### VIII 
 
 Ceres n�n in Sicili� erat, sed iam ad insulam 
 proper�vit. Nusquam erat Persephone. Tum 
@@ -494,7 +469,7 @@ neque herbam neque vlne�s neque p�ma c�r�bat.
 Frustr� iuvenci albi agr�s ar�bant. N�n iam 
 cibum in plaustris magnis ad oppida port�bant. 
 
-IX 
+### IX 
 
 Tandem Ceres prope parvam agricolae casam in 
 sax� gelid� sedebat. Dea maesta di� lacrim�bat. 
@@ -533,7 +508,7 @@ et vlnum et fr�mentum. Deae tarnen fl�vae grata
 erat rustica cena. Post cenam in agricolae cas� 
 Dea manebat et cotldie Triptolemum c�r�bat. 
 
-X 
+### X 
 
 Iam l�na et stellae in cael� fulgebant. Umbrae 
 terr�s et pontum profundum cel�bant. Per 
@@ -570,7 +545,7 @@ mentum et vinum agricoKs monstr�bit. ,,
 
 
 
-XI 
+### XI 
 
 Tum Ceres ex agricolae cas� ambul�vit. Sed 
 fleverunt familia et flevit Triptolemus, quod n�n 
@@ -643,7 +618,7 @@ tuum et regnum Infer�rum deslder�bis. Vale,
 
 � c�ra regina." 
 
-XII 
+### XII 
 
 Tum Persephone cum Mercuri� e regn� Infer�rum 
 proper�vit. Mercurius equ�s valid�s incit�vit, 
@@ -662,11 +637,11 @@ in �rls victim�s mact�bant.
 
 
 
-R�MULUS ET SABINAE 
+## RŌMULUS ET SABĪNA
 
 
 
-XIII 
+### XIII 
 
 R�mulus erat Martis filius. Mars erat deus belli 
 et arm�rum. Milites R�m�ni Martern ad�r�bant 
@@ -712,7 +687,7 @@ vir �s in arma incit�verunt. R�m�ni sc�ta et
 gladi�s et hast�s habebant ; Sabinis nec sc�ta nec 
 gladii nec hastae fuerunt. 
 
-XIV 
+### XIV 
 
 Maesti igitur et ir�ti Sabin! ad terram Sabinam 
 proper�verunt. Per t�tam hiemem ibi manebant 
@@ -738,11 +713,11 @@ filiae vestrae."
 
 
 
-MARS R�MULUM IN CAELUM VOCAT 
+## MARS RŌMULUM IN CAELUM VOCAT
 
 
 
-XV 
+### XV 
 
 In angul� Tiberis Campus Martius iacebat. In 
 Camp� Marti� iuvenes R�m�ni corpora dfligenter 
@@ -777,7 +752,7 @@ XVI
 
 
 
-XVI 
+### XVI 
 
 Caelum iterum serenum erat. Iam R�m�nT in 
 Camp� Marti� iterum ambul�bant, sed regem 
@@ -799,7 +774,7 @@ n�men ad�r�bant.
 
 
 
-HOR�TIUS PUER 
+## HORĀTIUS PUER
 
 
 
@@ -810,7 +785,7 @@ virginibus puerisque canto.*
 
 Hobace. 
 
-XVII 
+### XVII 
 
 F�bulam de Hor�ti�, poet� praecl�r�, nunc v�bis 
 narr�bo. Ap�lia regio est Italiae. Mult�s silv�s, 
@@ -849,7 +824,7 @@ saevi," inquiunt, " et ursl silv�s incolunt. Lupus
 fortasse puerum etiam nunc cr�deliter necat." 
 Itaque di� et diligenter puerum quaerebant. 
 
-XVIII 
+### XVIII 
 
 Tandem in cael� columb�s alb�s videbant. 
 Columbae per caelum undique vol�bant et folia ad 
@@ -872,7 +847,7 @@ betis.
 
 
 
-BACCHUS ET PIR�TAE 
+## BACCHUS ET PĪRĀTAE
 
 
 
@@ -885,7 +860,7 @@ To scare thee, Melancholy !
 
 Keats. 
 
-XIX 
+### XIX 
 
 Inter de�s Romanos agricolae n�n s�lum Cererem 
 
@@ -920,7 +895,7 @@ JULIA
 
 
 
-
+###  XX
 
 Deus, ubi trans mare Aegaeum quondam 
 n�vig�bat, ad insulam parvam n�vem gubern�vit, 
@@ -955,7 +930,7 @@ n�ve vitis fl�rebat et in altum ascendebat.
 
 
 
-XXI 
+### XXI 
 
 
 
@@ -986,7 +961,7 @@ umbr� Bacchus ad terr�s longinqu�s navig�vit.
 
 
 
-HOE�TIUS COOLES 
+## HORĀTIUS CODES
 
 
 
@@ -1011,7 +986,7 @@ MaCAUTiAT,
 
 
 
-XXII 
+### XXII 
 
 
 
@@ -1054,7 +1029,7 @@ vehementer timebant. Etruscl fr�mentum cas-
 Kber�sque nec�verunt, multam praedam rap- 
 t�verunt. 
 
-XXIII 
+### XXIII 
 
 Intere� Porsennae facta Romanos n�n f ef ellerunt. 
 Virgines vest�les prope ignem sacrum de�s �r�bant ; 
@@ -1086,7 +1061,7 @@ anim�s ad proelium firm�verunt. Sed consules
 timebant, quod pauci erant R�m�ni, multi et 
 validi hostes. 
 
-XXIV 
+### XXIV 
 
 Hostes ante urbis m�r�s castra posuerunt. 
 Oastra vall� et foss� firm�verunt. Tum e castris 
@@ -1128,7 +1103,7 @@ pontem tecum conserv�bo."
 
 
 
-XXV 
+### XXV 
 
 Tres igitur R�m�ni in angust� loc� steterunt. 
 Nec Etrusci pugnam detrect�verunt. Tres prin- 
@@ -1161,7 +1136,7 @@ HOR�TI�S COCLES
 
 
 
-XXVI 
+### XXVI 
 
 Qves R�m�ni intere� pontem summis viribus 
 excidunt. Mox pontem in fl�men prosternent. 
@@ -1199,7 +1174,7 @@ JULIA
 
 
 
-xx vn 
+### XXVII
 
 
 
@@ -1231,7 +1206,7 @@ Virgil.
 
 
 
-IPHIGENEIA * 
+## ĪPHIGENEIA
 
 
 
@@ -1244,7 +1219,7 @@ Virgil.
 
 
 
-XXVIII 
+### XXVIII 
 
 
 
@@ -1288,7 +1263,7 @@ XXVlii
 n�vem imposuit. Vela Candida ventis secundis 
 dedit, et trans mare ad urbem Tr�iam proper�vit. 
 
-XXIX 
+### XXIX 
 
 Menel�us, ubi hospitis perfidiam vTdit, ad 
 fr�trem contendit et omnia narr�vit. Agamemnon 
@@ -1319,7 +1294,7 @@ Deae n�men pl�c�verint."
 
 
 
-XXX 
+### XXX 
 
 Rex, ubi �r�culi responsum audlvit, di� secum 
 lacrim�bat. " Est mihi domi," inquit, " filia c�ra, 
@@ -1358,7 +1333,7 @@ JULIA
 
 
 
-XXXI 
+### XXXI 
 
 
 
@@ -1384,7 +1359,7 @@ patri� e vlt� excessero."
 
 
 
-XXXII 
+### XXXII 
 
 Dlxit, et vult� sereno ad �ram pr�cessit, et vitam 
 cum sanguine f�dit. Ubi Graeci, misericordiae et 
@@ -1421,11 +1396,11 @@ patri� libenter dediderunt.
 
 
 
-CYRUS, CROESUS, SOL�N 
+## CȲRUS, CROESUS, SOLŌN
 
 
 
-XXXIII 
+### XXXIII 
 
 �lim in Lydia regn�bat rex, Croesus nomine, intcr 
 omnes gentes propter dlvitias n�tus. Lydia Asiae 
@@ -1472,7 +1447,7 @@ last offering to Apollo.
 
 
 
-XXXIV 
+### XXXIV 
 
 
 
@@ -1513,7 +1488,7 @@ gravissimas mihi d�bis. Servi mei rogum ingentem
 trabibus validis aedific�bunt ; te in rogum im- 
 p�nent ; tum te rogumque incendent." 
 
-XXXV 
+### XXXV 
 
 M�ne igitur servi rogum ingentem par�verunt 
 
@@ -1558,7 +1533,7 @@ D
 
 
 
-M�SAE ET CIC�DAE 
+## MŪSAE ET CICĀDAE
 
 
 
@@ -1569,7 +1544,7 @@ But all are divine.
 
 Matthew Arnold. 
 
-XXXVI 
+### XXXVI 
 
 totER montes Graecos vallis iacebat variis fl�ribus 
 laeta et omnium rerum f ecundissima . De montibus 
@@ -1594,7 +1569,7 @@ sed in primis poetae, conservantur et docentur.
 
 xxxvn M�SAE ET CIC�DAE 3e 
 
-XXXVII 
+### XXXVII 
 
 M�sae, simul �c in vaUem descenderunt, carmina 
 mira et divina cecinerunt. Arg�tae sunt M�s�rum 
@@ -1623,7 +1598,7 @@ cantant.
 
 
 
-R�M�LUS ET RBM�S 
+## RŌMULUS ET REMUS
 
 
 
@@ -1643,7 +1618,7 @@ The spirit of thy sire. yt
 
 Macaulat. 
 
-XXXVIII 
+### XXXVIII 
 
 In Foro Romano ruinae sunt templi Vestae rotundi, 
 nec procul Virginum Vest�lium domus. Hae 
@@ -1661,7 +1636,7 @@ aedific�ta erat. Aeneas, ubi ad Italiam venit,
 
 
 
-XXXIX 
+### XXXIX 
 
 
 
@@ -1726,7 +1701,7 @@ Silvia geminos, Martis filios, in gremio tenebat.
 
 Thb Wolf op the Capitol. 
 
-XL 
+### XL 
 
 
 
@@ -1756,7 +1731,7 @@ prosternebant, tum R�m�ni, " Ecce ! " inquiunt,
 tarn cr�deliter Rheam Silviam, fl �mini s ux�rem, 
 ex urbe expulimus." 
 
-XLI 
+### XLI 
 
 Gemini intere� prope fl�minis ripam � servis 
 relicti erant. Mars autem fili�rum n�n immemor 
@@ -1776,7 +1751,7 @@ past�res di� vitam rusticam agebant. � past�ri-
 bus R�mulus Remusque voc�ti sunt ; nihil autem 
 de orfgine su� sciebant. 
 
-XLII 
+### XLII 
 
 Omnes h�s annos Mars filios suos diligenter 
 conserv�bat, et tandem geminis, iam adolescentibus 
@@ -1835,11 +1810,9 @@ HORAOB.
 
 
 
-METTIUS CURTIUS 
+## METTIUS CURTIUS 
 
-
-
-XLIII 
+### XLIII 
 
 �lim in Foro Romano terra discessit, et hi�tus 
 latus altusque app�ruit. CSves omnes saxa pl�rima 
@@ -1885,11 +1858,11 @@ discessit�
 
 
 
-REGULIN 
+## RĒGULUS
 
 
 
-XLIV 
+### XLIV 
 
 Nulli per t�tum orbem terr�rum clves libentius 
 quam R�m�ni se patriae dederunt. 
@@ -1917,7 +1890,7 @@ sal�tem fug� petlverunt, et ad oppidum amlcum
 
 
 
-XLV 
+### XLV 
 
 
 
@@ -1992,7 +1965,7 @@ HOEbAOBL
 
 
 
-HECTOR ET ANDROMACHE 
+## HECTOR ET ANDROMACHĒ
 
 
 
@@ -2019,7 +1992,7 @@ In fragrant bosom, smiling through her tears.
 
 Chables Kingslbt. 
 
-XLVI 
+### XLVI 
 
 
 
@@ -2085,7 +2058,7 @@ deposuit, et bracchia iterum ad filium porrexit.
 Hic n�n iam perterritus est, sed risit, et patris collo 
 bracchia parvula dedit. 
 
-XLVII 
+### XLVII 
 
 Sed Andromache sollicito animo virum his 
 verbis culpa vit : "0 Hector/' inquit, " t�tam 
@@ -2140,7 +2113,7 @@ Cat�lltjs.
 
 
 
-EQUUS TR�I�N�S 
+## EQUUS TRŌIĀNUS
 
 
 
@@ -2151,7 +2124,7 @@ Of ashen-speared Priam, perish all.
 
 Charles Kingsley. 
 
-XLVIII 
+### XLVIII 
 
 H�c modo Tr�ia tandem capta est. Graeci verbis 
 falsis Tr�i�nos deceperunt. " O Tr�i�ni," in- 
@@ -2216,7 +2189,7 @@ EQUUS TR�I�NUS
 
 
 
-XLIX 
+### XLIX 
 
 Sed ubi nox umbris profundis terra s tegebat, 
 Graeci, qui in equo sunt cel�ti, e cavis lateribus 
@@ -2244,7 +2217,7 @@ Virgil.
 
 
 
-ORPHEUS ET EURYDICE 
+## ORPHEUS ET EURYDICĒ
 
 
 
@@ -2258,7 +2231,7 @@ There had made a lasting spring,
 
 Shakespeare ( ?) 
 
-L 
+### L 
 
 Per omnes gentes praecl�rum est Orphei n�men, 
 qui omnium poet�rum s�avissime canebat. Et 
@@ -2314,7 +2287,7 @@ JULIA
 
 
 
-LI 
+### LI 
 
 Orpheus tandem ad M�nes descendere constituit, 
 et saevum Pl�t�nis animum cant� dulci mulcere. 
@@ -2352,7 +2325,7 @@ ORPHEUS ET EURYDICE
 
 
 
-LH 
+### LII
 
 Iam Orpheus magna spe ad Superos ascendebat ; 
 iam Eurydice p�st virum ad l�cem proper�bat, 
