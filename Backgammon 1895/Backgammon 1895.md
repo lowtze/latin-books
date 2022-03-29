@@ -3,18 +3,18 @@ title: Backgammon
 author: A. Howard Cady
 publisher: The American Sports Publishing CO
 year: 1895
-version: 0.9
+version: 1.0
 ---
 
 # To Do:
 - [x] italicize all instances of i.e.
 - [x] change I to 1 where appropriate
-- [x] change <div style="page-break-after: always;"></div> page breaks to ```<div style="page-break-after: always;"></div> ```
 - [x] add to Github
-- [ ] insert rough copies of all images
+- [x] insert rough copies of all images
 - [ ] insert cleaned copies of all images
 
 # Book
+![cover](./images/cover.PNG)
 
 Spalding's
 Home Library
@@ -30,7 +30,6 @@ The American Sports Publishing CO
 
 Entered at the New York Post Office, NY. As Second Class Matter
 
-<div style="page-break-after: always;"></div>
 
 # Backgammon.
 
@@ -46,7 +45,7 @@ A. HOWARD CADY
 BLACK.
 Black's Inner Tabl. Black's Outer Table.
 
-[!]
+![title page backgammon board](./images/title-backgammon-set.PNG)
 
 White’s Inner Table. White’s Outer Table.
 WHITE.
@@ -56,13 +55,10 @@ PUBLISHED BY THE
 AMERICAN SPORTS PUBLISHING COMPANY
 241 BROADWAY, NEW YORK.
 
-<div style="page-break-after: always;"></div>
-
 Entered according to Act of Congress, in the year 1895, by
 The American Sports Publishing Co.,
 In the office of the Librarian of Congress, at Washington.
 
-<div style="page-break-after: always;"></div>
 
 ## Preface
 <hr align="center" width="20%">
@@ -102,9 +98,6 @@ beyond human ken.
 
 I shall try simply to give a brief synopsis of the origin and
 progressive stages of this very fascinating pastime in its primitive
-
-<div style="page-break-after: always;"></div>
-
 state, which, I trust, will interest the reader sufficiently to
 arouse in him a desire for further investigation of the subject,
 and also give the necessary treatise on the modern game.
@@ -138,7 +131,6 @@ add one more to the attractions of home.    A. H. C.
 
 NEW YORK, NOV., 1895.
 
-<div style="page-break-after: always;"></div>
 
 ## BACKGAMMON.
 <hr align="center" width="20%">
@@ -179,9 +171,6 @@ There is a certain fascination about an investigation of this
 kind which increases with every new phase of the subject
 brought to one’s notice. One is almost in danger of forgetting,
 or, at least, slighting the modern game, as the various characteristics
-
-<div style="page-break-after: always;"></div>
-
 of the ancient or, more properly speaking, original
 pastime, in its primitive form, holds fast the interest and
 attention of the student.
@@ -225,9 +214,6 @@ the first place.
 
 This game is very popular through the East, and "Orthodox
 Moslems," we hear, "have seen in the fateful throws of the
-
-<div style="page-break-after: always;"></div>
-
 dice a recognition of the decrees of Allah—that fall sometimes
 for a man and sometimes against him."
 
@@ -271,9 +257,6 @@ months."
 From Rome the game spread over Europe; its Latin name,
 *tabulae*, easily transformed into English and French tables.
 Chaucer confirms this, when he tells us that the early name of
-
-<div style="page-break-after: always;"></div>
-
 backgammon was tables, at which period it was played with
 three dice, and all the "men" began their action in the adversary’s
 table. The title of "tables" dropped out of use in the
@@ -319,9 +302,6 @@ He tells us, for instance, that they enjoy greatly *Satreng*
 *Tab*, alluded to above, and which is the variety most extensively
 played among the lower orders in Egypt, may be classed
 under the head of lot backgammon. Incidentally, it may be
-
-<div style="page-break-after: always;"></div>
-
 mentioned that this is known in other parts of the East as
 "*Tabwa-dukk*," an elaborate nomenclature which Mr. Lane
 says he never heard applied to it in Egypt.
@@ -340,7 +320,7 @@ Sometimes the board, or seega, consists of similar rows of
 holes made in the ground, or on a flat stone. These beyts are
 generally 7, 9, 11, 13 or 15 in each row.
 
-[!]
+![seega](./images/seega.PNG)
 
 The above illustration shows a *seega* of nine *beyts* in each
 row, distinguishing the *beyts* by letters; one side the capital,
@@ -354,17 +334,13 @@ sometimes pieces are placed only in a certain number of *beyts*
 in those rows, as, for instance, in the first four. The pieces of
 one row must be distinguished from those of the other.
 
-<div style="page-break-after: always;"></div>
-
 These pieces are called "*kilah*" (dog); in the singular, *kelli*.
 The throwing of lots (*tab*), of course, and not dice, regulates
 the moving of the men. They (the *tab*) are thrown against a
 stick set up in the ground, and the throw counted according
 to the number of *white* sides which come up. For example:
 
-Whiteup . . . None. One Two. Three. Four.
-
-Count... (Go on.) (Tab.) (Stop.) (Stop.) (Go on.)
+![white counts](./images/white-up.PNG)
 
 "There is evidently a crude attempt," says Mr. Taylor, "to
 reckon probabilities, giving a higher value to less frequent
@@ -397,9 +373,6 @@ though this latter is played with dice.
 From Sanskrit titerature we learn that games similar to backgammon
 were known in ancient India. Among them mention
 is made of *Panchiko*, played with cowrie shells, and in which
-
-<div style="page-break-after: always;"></div>
-
 it appears the winning throws were when all mouths came up
 or down, as against the common throw, in which some fell each
 way. Another game on the same order was also known there
@@ -418,9 +391,7 @@ A cloth, with colored diagram, is most generally used as the
 board, the zealous players, indeed, often carrying one rolled
 round their turbans.
 
-[!]
-
-<div style="page-break-after: always;"></div>
+![pachisi board](./images/pachisi-board.PNG)
 
 As seen from foregoing diagram, each of these four arms has
 twenty-four squares, of which the three crosses on them are
@@ -438,8 +409,7 @@ mouths upward.
 The scoring resembies that of *tab*, and, when six cowries are
 used, counts as follows:
 
-Mouths up . . . None, one, two,three, four, five, six.
-Men round first . . (Go on.) (Stop.) (Go on.)
+![scoring of pachisi](./images/mouths-up.PNG)
 
 Mr. Taylor states that, after careful research into the Sanscrit
 references and consultation with Professor Jolloy, of
@@ -465,9 +435,6 @@ From India to Madrid is a long journey, but in the tour of
 search an interesting one.
 
 In his charming paper on backgammon among the Aztecs,
-
-<div style="page-break-after: always;"></div>
-
 Mr. Taylor gives a very interesting account of the game in
 its primitive state in ancient Mexico, and from this we may
 venture to cull a few items.
@@ -494,7 +461,7 @@ there are certain lines like a merrel (or a draughts-board), on
 which they mark like stones the point which fell up, taking off
 and putting on a little stone.
 
-[!]
+![patolli board](./images/patolli.PNG)
 
 PATOLLI IN ANCIENT MEXICO
 
@@ -502,8 +469,6 @@ In his "Monarchia Indiana" (1616) Juan de Torquemada,
 in part following this account, gives even more details, showing
 the diagram which he describes to have been of the shape
 of the *Pachisi* board, and the pieces of different colors.
-
-<div style="page-break-after: always;"></div>
 
 He says of it: "They call it Patolli, because these dice are
 called so; they throw with both hands on a thin mat
@@ -514,7 +479,7 @@ the game of tables."
 
 In his "Historia Universal de las cosas de Nuova Espana"
 
-[!]
+![Patolli board as described by Torquemada, Sahagan and Others](./images/patolli-per-torquemada.PNG)
 
 PATOLLI BOARD AS DESCRIBED BY TORQUEMADA,
 SAHAGAN AND OTHERS.
@@ -525,9 +490,6 @@ time after the conquest, as follows:
 
 "The lords for this pleasure also played a game called
 *Patolli*, which is as the game of merello (or draughts), or the
-
-<div style="page-break-after: always;"></div>
-
 like, or dice-playing, and there are four large beans, each having
 a hole, and they throw them with the hands, as one plays
 a knuckle bones, on a mat, where there is a figure drawn. At this
@@ -567,9 +529,6 @@ all to point to Asiatic influence.
 From Patolli, or Patole, as the Egytians called it, we turn
 instinctively to the Indian variety of the game, which may
 be classified as another primitive form of backgammon with
-
-<div style="page-break-after: always;"></div>
-
 which Mr L. H. Morgan, in his "League of the Iroquois" and
 other writers have made us so familiar.
 
@@ -614,21 +573,16 @@ removed and the stones themselves burned on one side to
 blacken then.
 
 The accompanying illustration shows the bowl and peach
+stones, the latter in various positions, thus displaying the degrees
+of their convexity.
 
-<div style="page-break-after: always;"></div>
-
-[!]
+![Ga-Jih, or bowl](./images/ga-jih.PNG)
 
 GA-JIH, OR BOWL
 
-[!]
+![Gus-Ka-Eh](./images/gus-ka-eh.PNG)
 
 GUS-KA-EH
-
-<div style="page-break-after: always;"></div>
-
-stones, the latter in various positions, thus displaying the degrees
-of their convexity.
 
 A platform erected a few feet from the ground was covered
 with blankets. After the betting was closed—that sounds
@@ -668,11 +622,8 @@ which bears certain and marked characteristics suggestive of
 the modern and developed game of backgammon to which we
 may now turn.
 
-<div style="page-break-after: always;"></div> 
 
 ### PART II.
-
-<hr align="center" width="20%">
 
 DESCRIPTION OF THE GAME AND GENERAL INSTRUCTIONS HOW
 TO PLAY IT.
@@ -682,7 +633,6 @@ three exist of a most interesting character, all of which, of
 course, are played with dice and are called respectively, English,
 Russian or *Tric Trac* and Turkish Backgammon.
 
-<hr align="center" width="20%">
 
 #### ENGLISH BACKGAMMON.
 
@@ -711,8 +661,6 @@ white’s inner (or home) table, is called white’s ace point; the
 next, white’s deuce point, and the others in turn *trois*, *quatre*,
 *cinque* and *six* points.
 
-<div style="page-break-after: always;"></div> 
-
 The ace point in white’s outer table (No. 7), is called his *bar*
 point, and the remaining five, *deuce*, *trois* *quatre*, *cinque* and
 *six*, in their respective order.
@@ -726,7 +674,7 @@ save, that instead of twelve, fifteen of each color are required.
 BLACK.
 Black’s Home, or Inner Table.        Black’s Outer Table.
 
-[!]
+![starting position](./images/backgammon-starting-position.PNG)
 
 Red's Home, or Inner Table.        Red’s Outer Table.
 RED.
@@ -736,9 +684,6 @@ home (or inner) table the one nearest the window or lamp, as
 the hour of the day demands.
 
 The pieces can be reversed, making the outer table the inner
-
-<div style="page-break-after: always;"></div>
-
 table or *vice versa*, as the light may require, although, really,
 this is not compulsory.
 
@@ -780,8 +725,6 @@ done so.
 game.
 *To Enter*—To replace a piece in the table after it has been
 excluded through a point (or fleche) being already full.
-
-<div style="page-break-after: always;"></div>
 
 THE GAME.
 
@@ -829,8 +772,6 @@ die, rather than touch another one. This completes the move.
 The game thus started proceeds in the usual manner, the
 players throwing and moving alternately.
 
-<div style="page-break-after: always;"></div>
-
 The object of the game is for the player to move the men
 from point to point, as the successive numbers on the dice
 thrown indicate, and from the opponent’s home (or inner table)
@@ -875,8 +816,6 @@ go beyond his ace point, nor play on any point occupied by his
 adversary, *i. e.,* a point on which there are two or more men
 belonging to his adversary."
 
-<div style="page-break-after: always;"></div>
-
 If, however, all the points shown by the throw of the dice are
 already covered by the opponent’s men, the moves are lost.
 Example: If trey doublets are thrown, and the first third point
@@ -919,9 +858,6 @@ to the hit of the adversary, who endeavors as a rule to
 do this by leading one of his own men to that point. The man
 hit is removed immediately and placed on the bar (the division
 between the boards), and the player to whom it belongs
-
-<div style="page-break-after: always;"></div>
-
 cannot play again until the man is entered. This is accomplished
 by the throw of a number which enables him to enter
 the blot on an unoccupied point in the opponent’s home
@@ -961,16 +897,13 @@ Directly this is done, he has the privilege of taking his men off
 the board, technically called *bearing*.
 
 For every number thrown a man is removed from the corresponding
-point, or, if the player prefers, it may be played up;
+point, or, if the player prefers, it may be played up; 
+if, however, it is impossible to play up a man, it must be 
+"borne."
 
 [^1]: N.B.—When all six points are blocked, it is useless for the player to 
 throw, and his adversary, therefore, may continue to play until he opens a
 point in his home table.
-
-<div style="page-break-after: always;"></div>
-
-if, however, it is impossible to play up a man, it must be
-"borne."
 
 Suppose his home table to be made up, and he throws cinque
 dleuce, he bears one man from his cinque and one from his
@@ -1013,9 +946,6 @@ of his men.
 
 It is a *gammon*, or double game, when the player has borne
 all his men before his adversary has borne any. It is a triple
-
---
-
 or quadruple game (according to previous arrangement or
 agreement between the players), or *backgammon*, when the
 winner bears his last man before the adversary, not having
@@ -1058,9 +988,6 @@ the adversary to run out of this inner table with a six, and
 leave two blots, Then, if his men are properly spread; *i. e.,*
 not crowded on any one or more points, he cannot only catch
 the man (or piece) the adversary brings out, but also have a
-
-<div style="page-break-after: always;"></div>
-
 good chance of taking up the men left behind. But if the
 adversary has a blot in his inner table, it will then be advisable
 not to make up his own table, etc., but have a blot in it; and
@@ -1106,9 +1033,6 @@ tables, and two to be brought over from the five men placed in a
 the adversary’s tables, for a gammon only. 
 
 5. Two quatre to be brought over from the five men placed
-
-<div style="page-break-after: always;"></div>
-
 in the adversary’s tables, and to be put on the cinque point in his
 own tables for a gammon only.
 
@@ -1161,8 +1085,6 @@ in the adversary's tables, for a gammon only.
 20. Trois ace, to make the cinque point in his own tables,
 for a gammon or for a hit.
 
-<div style="page-break-after: always;"></div>
-
 21. Deuce ace, to play one man from the five men placed in
 the adversary’s table, for the deuce; and for the ace, to play a
 man down upon the cinque point in his own tables.
@@ -1209,9 +1131,6 @@ adversary
 
 The following table, arranged by Berkeley, it will be seen
 differs somewhat from that of Hoyle, with which the majority
-
-<div style="page-break-after: always;"></div>
-
 of players are familiar. He draws special notice to the error
 in Hoyle’s famous table, as also attention to the fact that he
 has added "the last five long ranges," etc.:
@@ -1221,7 +1140,8 @@ TABLE No. II.
 Giving the odds against being taken up, or hit on any number
 within the reach of single or double dice.
 
-[!]
+![the odds against being taken up, or hit on any number
+within the reach of single or double dice](./images/table-2.PNG)
 
 VIII. The player must guard against crowding his game at
 any time; *i. e.,* getting four or five men on any point, but more
@@ -1243,8 +1163,6 @@ save with double dice—*i. e.,* by throwing a number over six, as
 the chances are 5 to 1 against his doing so. When playing only
 for  a hit, and two of the adversary’s men are already up, this
 should be avoided, as it is always a risk.
-
-<div style="page-break-after: always;"></div>
 
 XI. At the beginning of a game or rubber, the player should
 not play for a "back game’’—*i. e.,* exposing of blots unnecessarily
@@ -1287,9 +1205,6 @@ in the outer table, it is well to leave a blot there, thus preventing
 him from bearing his men to the greatest advantage, and
 also gives the second player a chance of hitting him if he leaves
 a blot. If, however, on calculation, the second player finds
-
-<div style="page-break-after: always;"></div>
-
 that he can probably save the gammon by bringing both of his
 men out of the adversary’s table, he should wait for a blot.
 
@@ -1320,22 +1235,21 @@ the writers of this day, valuable information will be found:
 On the two dice there are thirty-six chances. In these
 thirty-six chances the points are:
 
-[!]
-
-<div style="page-break-after: always;"></div> 
+![In these
+thirty-six chances the points are](./images/calc-of-36-chances.PNG)
 
 Thus we se e that 294 divided by 36 gives 8 and a little more as
 the average throw with two dice.
 
 The chances upon two dice are calculated as follows:
 
-[!]
+![The chances upon two dice](./images/calc-of-2-chances.PNG)
 
 In order to find out by this table of thirty-six chances what
 are the odds of being hit upon a certain or flat die, the player
 must consult the following table where marked with an asterisk:
 
-[!]
+![odds of being hit upon a certain or flat die](./images/odds-of-being-hit.PNG)
 
 By this calculation it appears it is twenty-five to eleven
 against hitting an ace upon a certain or flat die.
@@ -1344,32 +1258,29 @@ This method holds good with respect to any other flat die as
 with the ace. For instance, What are the odds of entering a
 man upon the points 1, 2, 3, 4 or 5?
 
-<div style="page-break-after: always;"></div>
-
-[!]
+![odds to enter](./images/odds-to-enter.PNG)
 
 The following table shows the odds of hitting with any chance
 in the form of a single die:
 
-[!]
+![odds to hit with a single die](./images/odds-to-hit-single.PNG)
 
 The following table shows the odds of hitting with double
 dice:
 
-[!]
+![odds to hit with double dice](./images/odds-to-hit-double.PNG)
 
 The following table is given in order to show the odds of
 hitting upon a six in a table of thirty-six chances:
 
-[!]
+![odds of hitting upon a six](./images/hit-on-six.PNG)
 
 Deduct this 17 from 36, the number of chances upon two dice,
 and we have 19. From this table, then, we find that it is 19 to
 17 against being hit upon a six.
 
-[!]
+![deductions](./images/deduct-this.PNG)
 
-<div style="page-break-after: always;"></div>
 
 #### LAWS OF BACKGAMMON.
 
@@ -1418,8 +1329,6 @@ number thrown is deemed to be borne.
 
 [^2]: It is a disadvantage to play with too few men.
 
-<div style="page-break-after: always;"></div> 
-
 11. If a wrong number of points is played, the adversary
 may require the right number to be played, but he must do so
 before making his next throw.
@@ -1430,6 +1339,7 @@ BEARING.
 entered, the men so borne must be entered again, as well as
 the man taken up.
 
+
 #### PROBLEMS ILLUSTRATING THE GAME.
 
 Taken from Berkeley.
@@ -1438,11 +1348,9 @@ No. I.
 
 BLACK, OR B.
 
-[!]
+![problem one](./images/problem-1.PNG)
 
 WHITE, OR A.
-
-<div style="page-break-after: always;"></div>
 
 Suppose the men to be placed as shown in this diagram, who
 has the better game, A or B?
@@ -1461,11 +1369,9 @@ No. II.
 
 BLACK, OR A.
 
-[!]
+![problem two](./images/problem-2.PNG)
 
 WHITE, OR B.
-
-<div style="page-break-after: always;"></div>
 
 With the men arranged as in preceding diagram, who has the
 better game, A or B?
@@ -1483,14 +1389,12 @@ No. III.
 
 BLACK, OR A.
 
-[!]
+![problem three](./images/problem-3.PNG)
 
 WHITE, OR B.
 
 Who has the better of the Hit, with the men in position
 shown in above diagram?
-
-<div style="page-break-after: always;"></div> 
 
 It is anybody’s game; but the difficulty lies with B, who in
 the first place should endeavor to gain his cinque and quarter
@@ -1508,7 +1412,7 @@ as English Backgammon.
 
 BLACK.
 
-[!]
+![russian backgammon board layout](./images/russian-backgammon.PNG)
 
 The board is not furnished at starting; but both black and
 white (or red and black) men are entered in the same table—
@@ -1524,9 +1428,6 @@ be chosen, then naturally the march will be in the opposite
 direction.
 
 A player is not obliged to enter all his men before he plays
-
-<div style="page-break-after: always;"></div>
-
 any, and he may take up blots, even if some of his men have
 not been entered.
 
@@ -1571,9 +1472,6 @@ cannot complete it, or if the opponent completes, he may not
 throw again.
 
 If neither of the players can play any part of, or complete a
-
-<div style="page-break-after: always;"></div>
-
 throw, the remainder of it is lost, and in the case of doublets,
 deuce or ace, the caster (or first named player) does not throw
 again. In other respects, the game is similar to ordinary backgammon.
@@ -1589,6 +1487,8 @@ Germany, and on the Continent generally, is, that the player,
 who has his men in advance, shall hold as many successive
 points as possible, to prevent the opponent from hitting or pas-
 sing the forward men.
+
+<hr align="center" width="20%">
 
 #### TURKISH BACKGAMMON.
 
@@ -1615,9 +1515,6 @@ he would in the Russian variation.
 The player who throws doublets can use, not only the doublets
 thrown, but also the corresponding doublets on the opposite
 side of the dice. This, however, is not obligatory, as in
-
-<div style="page-break-after: always;"></div>
-
 the Russian variety, and therefore is not always done, as, prior
 to beginning of the game, the players agree often to use (count)
 only the face value of the doublets. This makes the game
