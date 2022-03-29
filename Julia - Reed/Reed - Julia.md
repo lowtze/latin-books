@@ -1412,7 +1412,7 @@ adolescentes erunt, tum ver� Am�lius f�tum suum
 sentiet." Nec falsa Deus praedixit. Mox Rhea 
 Silvia geminos, Martis filios, in gremio tenebat. 
 
-![The Wolf of the Capitol](./images/wolf-mother.png)
+![The Wolf of the Capitol](./images/wolf-mother.PNG)
 
 The Wolf of the Capitol.
 
@@ -1867,7 +1867,7 @@ am�bat. Cum e� in pr�tis nitidis l�dere gaudebat.
 Prope Thr�ciae �ram poeta uxorque eius bene 
 be�teque vivebant. Mox tarnen Eurydice, misera 
 
-![Orpheus playing the Lyre](./images/orpheus-lyre-edited.PNG)
+![Orpheus playing the Lyre](./images/orpheus-lyre-edited.png)
 
 Orpheus playing the Lyre. 
 
