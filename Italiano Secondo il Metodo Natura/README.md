@@ -1,4 +1,4 @@
-# isimn
+# Italiano Secondo il Metodo Natura
 
 This is a Markdown conversion of the scanned PDF of "Italiano Secondo il Metodo Natura" published in 1962 by the Nature Method Centre accessible [here](https://archive.org/details/Litalianoecondoetodoatura).
 
