@@ -615,7 +615,7 @@ Subito fulminis fragor populum perterruit; magnī
 dē caelō imbrēs virōs fēmināsque fugāvērunt. 
 Rōmulus sōlum serēnus impavidusque manēbat; 
 Martem patrem in caelō vidēbat. Tum Mars 
-fīlium verbīs benignīs vocāvit: "Satis," inquit,  
+fīlium verbīs benignīs vocāvit: "Satis," inquit,
 "in terrīs regnāvisti; nunc in caelō et in stellīs 
 cum patre tuō cēterīsque dīs regnābis. Fīlium 
 meum ad caelum portābo." Tum equōs mīrōs 
