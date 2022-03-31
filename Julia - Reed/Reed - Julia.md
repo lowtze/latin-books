@@ -546,57 +546,56 @@ Persephonē. Cēterī quoque deī laetī erant, quod
 agricolae ad templa dōna multa apportābant et 
 in ārīs victimās mactābant. 
 
-# end p28
 
 ---
 
 ## RŌMULUS ET SABĪNA
 
 ### XIII 
-R�mulus erat Martis fīlius. Mars erat deus belli 
-et arm�rum. Milites Rōmāni Martern ad�rābant 
-et in Martis �ris victim�s mactābant. R�mulus 
-igitur milites et arma vehementer amābat. Urbis 
-R�mae primus rex erat. Sed vir! s�lum urbem 
-habitābant; neque ux�res neque sor�res habēbant. 
-Itaque R�mulus t�tum populum convoc�vit, et  "O cives," inquit, "null �s fēmin�s habemus, sed 
-Sabin! civit�tem finitimam habitant. Sabini 
-fēmin�s mult�s et form�s�s habent. Sabin�s 
-igitur cum fēminis ad l�d�s invit�bimus, et virgines 
-rapt�bimus." Rōmāni igitur Sabin�s ad l�d�s 
-magn�s invit�vērunt. Pax erat inter Rōmānos et 
-Sabin�s. Itaque Sabini ad l�d�s Rōmān�rum 
-libenter proper�vērunt. Nec sc�ta nec gladi�s nec 
-hast�s apport�vērunt. Cum Sabinis virgines 
-multae et form�sae proper�vērunt. Sabini l�d�s 
-Rōmān�rum spect�vērunt. In mediis l�dis 
-Rōmāni magna v�ce subito cl�m�vērunt, et ecce! 
-virgines Sabinas rapt�vērunt et ad cas�s port�v- 
-ērunt. Frustr� m�tres lacrim�vērunt, frustr� 
-vir �s in arma incit�vērunt. Rōmāni sc�ta et 
-gladi�s et hast�s habēbant; Sabinis nec sc�ta nec 
-gladii nec hastae fuērunt. 
+Rōmulus erat Martis fīlius. Mars erat deus belli 
+et armōrum. Mīlitēs Rōmāni Martem adōrābant 
+et in Martis ārīs victimās mactābant. Rōmulus 
+igitur mīlitēs et arma vehementer amābat. Urbis 
+Rōmae primus rex erat. Sed virī sōlum urbem 
+habitābant; neque uxōrēs neque sorōrēs habēbant. 
+Itaque Rōmulus tōtum populum convocāvit, et  "O cives," inquit, "nullās fēminās habēmus, sed 
+Sabīnī cīvitātem finitimam habitant. Sabīnī 
+fēminās multās et formōsās habent. Sabīnōs 
+igitur cum fēminīs ad lūdōs invītābimus, et virginēs 
+raptābimus." Rōmāni igitur Sabīnōs ad lūdōs 
+magnōs invitāvērunt. Pax erat inter Rōmānos et 
+Sabīnōs. Itaque Sabīnī ad lūdōs Rōmānōrum 
+libenter properāvērunt. Nec scūta nec gladiōs nec 
+hastās apportāvērunt. Cum Sabīnīs virginēs 
+multae et formōsae properāvērunt. Sabīnī lūdōs 
+Rōmānōrum spectāvērunt. In mediīs lūdīs 
+Rōmāni magnā vōce subitō clāmāvērunt, et ecce! 
+virginēs Sabīnās raptāvērunt et ad casās portāvērunt. 
+Frustrā mātrēs lacrimāvērunt, frustrā
+virōs in arma incitāvērunt. Rōmānī scūta et 
+gladiōs et hastās habēbant; Sabīnīs nec scūta nec 
+gladiī nec hastae fuērunt. 
 
 
 ### XIV 
-Maesti igitur et ir�ti Sabin! ad terram Sabinam 
-proper�vērunt. Per t�tam hiemem ibi manēbant 
-et arma diligenter parābant. Via est longa inter 
-R�mam et terram Sabinam. Sed tandem Sabini, 
-iam arm�ti, ante port�s urbis R�mae stābant.  "O Rōmāni,' ' inquiunt, *' pro f�i�bus nostris, pro 
-sor�ribus nostris fortiter pugn�bimus . ' 9 Deinde 
-Sabinae e casis Rōmān�rum passis capillis evol�v- 
-ērunt; parvul�s port�vērunt et patribus fr�tri- 
-
-busque monstr�vērunt. Patres fr�tresque su�s 
-multis lacrimis �r�venint. "Nunc," inquiunt, 
- "in casis Rōmānis laetae et placidae habit�mus; 
-liber�s c�r�s habemus et vehementer am�mus; 
-et Sabin�s et Rōmānos am�mus. Si Rōmāni cum 
-Sabinis pugn�bunt, Rōmāni Sabin�s, Sabini 
-Rōmān�s nec�bunt. Tum Sabinae nec vir�s nec 
-patres nec fr�tres habebunt. O patres, valete! 
-nōn iam Sabinae sed Rōmānae semper erimus 
+Maestī igitur et īrātī Sabīnī ad terram Sabīnam 
+properāvērunt. Per tōtam hiemem ibi manēbant 
+et arma dīligenter parābant. Via est longa inter 
+Rōmam et terram Sabīnam. Sed tandem Sabīnī, 
+iam armātī, ante portās urbis Rōmae stābant.  
+"O Rōmāni," inquiunt, "prō fīliābus nostrīs, prō 
+sorōribus nostrīs fortiter pugnābimus." Deinde 
+Sabīnae ē casīs Rōmānōrum passīs capillīs evolāvērunt;
+parvulōs portāvērunt et patribus frātribusque 
+monstrāvērunt. Patrēs frātrēsque suōs 
+multīs lacrimīs ōrāverunt. "Nunc," inquiunt, 
+"in casīs Rōmānīs laetae et placidae habitāmus; 
+līberōs cārōs habēmus et vehementer amāmus; 
+et Sabīnōs et Rōmānos amāmus. Sī Rōmānī cum 
+Sabīnīs pugnābunt, Rōmāni Sabīnōs, Sabīnī 
+Rōmānōs necābunt. Tum Sabīnae nec virōs nec 
+patrēs nec frātrēs habēbunt. O patrēs, valēte! 
+nōn iam Sabīnae sed Rōmānae semper erimus 
 fīliae vestrae." 
 
 ---
@@ -604,44 +603,44 @@ fīliae vestrae."
 ## MARS RŌMULUM IN CAELUM VOCAT
 
 ### XV 
-In angul� Tiberis Campus Martius iacēbat. In 
-Camp� Marti� iuvenes Rōmāni corpora dfligenter 
+In angulō Tiberis Campus Martius iacēbat. In 
+Campō Martiō iuvenēs Rōmānī corpora dīligenter 
 exercēbant. Ita firma et valida habēbant corpora. 
-Post l�d�s in fl�vis Tiberis undis natābant. Ita 
+Post lūdōs in flāvīs Tiberis undīs natābant. Ita 
 Tiberis corpora fessa recreābat. 
 
-Hlc forte R�mulus clvibus suis i�ra dabat; 
-bonos cives laudabat; mal�s cives culpābat. 
-Subito f ulminis f ragor populum perterruit; magni 
-de cael� imbres vir�s fēmin�sque fug�vērunt. 
-R�mulus s�lum serenus impavidusque manēbat; 
-Martern patrem in cael� vidēbat. Tum Mars 
-fīlium verbīs benignis voc�vit : "Satis," inquit,  "in terris regn�visti; nunc in cael� et in stellis 
-cum patre tu� ceterisque dis regn�bis. Filium 
-meum ad caelum port�bo." Tum equ�s mir�s 
-incit�vit. R�mulus cum patre ad Stellas pro- 
-per�vit. 
+Hīc forte Rōmulus cīvibus suīs iūra dabat; 
+bonōs cīvēs laudābat; malōs cīvēs culpābat. 
+Subito fulminis fragor populum perterruit; magnī 
+dē caelō imbrēs virōs fēmināsque fugāvērunt. 
+Rōmulus sōlum serēnus impavidusque manēbat; 
+Martem patrem in caelō vidēbat. Tum Mars 
+fīlium verbīs benignīs vocāvit: "Satis," inquit,  
+"in terrīs regnāvisti; nunc in caelō et in stellīs 
+cum patre tuō cēterīsque dīs regnābis. Fīlium 
+meum ad caelum portābo." Tum equōs mīrōs 
+incitāvit. Rōmulus cum patre ad stellās properāvit. 
 
 
 ### XVI 
-Caelum iterum serenum erat. Iam RōmānT in 
-Camp� Marti� iterum ambulābant, sed regem 
-nusquam vidēbant. Mox autem I�lius, iuvenis 
+Caelum iterum serēnum erat. Iam Rōmānī in 
+Campō Martiō iterum ambulābant, sed rēgem 
+nusquam vidēbant. Mox autem Iūlius, iuvenis 
 Rōmānus, per viam Rōmānam iter ad urbem 
-tenēbat. Subito � sinistr�, magnum et serenum, 
-R�mulum prope viam vidēbat. Vehementer 
-timuit � capilli in capite horruērunt. Sed R�mulus 
-verbīs benignis, "O I�li," inquit, "nulla est causa 
-tim�ris. Nunc Quirites n�men meum ad�r�bunt 
-et R�mulum Quirinum voc�bunt. Templa et 
-�r�s aedific�bunt, et ad �r�s d�na apport�bunt. 
-Semper artem belK et arma c�r�bunt, et corpora in 
-armis diligenter exercebunt. Ita Quirinus Popu- 
-lum Rōmānum serv�bit." Itaque I�lius R�muli 
-dicta popul� narr�vit, et Quirites templum rotun- 
-dum aedific�vērunt. In templ� rotund� Quirin! 
-n�men ad�rābant. 
-
+tenēbat. Subito ā sinistrā, magnum et serēnum, 
+Rōmulum prope viam vidēbat. Vehementer 
+timuit—capillī in capite horruērunt. Sed Rōmulus 
+verbīs benignīs, "O Iūlī," inquit, "nulla est causa 
+timōris. Nunc Quirītēs nūmen meum adōrābunt 
+et Rōmulum Quirīnum vocābunt. Templa et 
+ārās aedificābunt, et ad ārās dōna apportābunt. 
+Semper artem bellī et arma cūrābunt, et corpora in 
+armīs dīligenter exercēbunt. Ita Quirīnus Populum 
+Rōmānum servābit." Itaque Iūlius Rōmulī 
+dicta populō narrāvit, et Quirītes templum rotundum
+aedificāvērunt. In templō rotundō Quirīnī 
+nūmen adōrābant. 
+# end p32
 ---
 
 ## HORĀTIUS PUER
@@ -661,7 +660,7 @@ F�bulam de Hor�ti�, poet� praecl�r�, nunc v�bis
 narr�bo. Ap�lia regio est Italiae. Mult�s silv�s, 
 mult�s et amoen�s camp�s habet. In pr�tls 
 herb�sls multi greges, multa equ�rum boumque 
-armenta errant. Hlc �lim Hor�tius habitābat, 
+armenta errant. Hīc �lim Hor�tius habitābat, 
 parvulus adhūc et m�tri patrique c�rus. Forte 
 serv�s, forte patrem m�tremque fefellit, et s�lus 
 per pr�ta amoena errābat. Gr�ti puer� erant 
@@ -670,9 +669,6 @@ l�d� et err�ribus fessus, in valle herb�s� iacuit et
 animum somn� profund� lax�vit. Intere� par- 
 entes solliciti puerum dlligenter quaerēbant. Et 
 parentes et servi vehementer timēbant. "Lupi 
-
-
-
 saevi," inquiunt, "et ursl silv�s incolunt. Lupus 
 fortasse puerum etiam nunc cr�deliter necat." 
 Itaque di� et diligenter puerum quaerēbant. 
@@ -690,9 +686,9 @@ lupl nec ursl infantem nec�verant, quia M�sae
 poetam etiam infantem semper conservant. 
 
 Post mult�s ann�s Hor�tius, iam adolescens, 
-R�mam, magnam urbem, inc olēbat. Sed dlvina 
+Rōmam, magnam urbem, inc olēbat. Sed dlvina 
 r�ra et vi tarn rusticam semper laudabat. M�sae 
-per multa pericula poetam conserv�vērunt. 
+per multa pericula poetam conservāvērunt. 
 Hor�t� carmina per t�tum orbem terr�rum etiam 
 nunc n�ta et praecl�ra sunt. V�s quoque Hor�tii 
 carmina mox legetis et in memoriae tabulis scri- 
@@ -740,42 +736,36 @@ homines, n�vem ad insulam impulērunt. Ubi
 iuvenem form�sum in �r� vidērunt, tum ver� 
 magno gaudi�, "Ecce! "inquiunt, "nōn sine 
 praed� ad patriam nostram n�vig�bimus. Homi- 
-
 nem rapt�bimus et in n�vem furtim imp�ne- 
 mus, tum cito cum captiv� ad �fricam n�vem 
-
 impellemus. �fricae incolae serv�s deslderant, 
 et pec�niam multam n�bis d�bunt, si n�s iuvenem 
 tarn pulchrum tr�diderimus." Tum plr�tae, mali 
-ign�vique ho min es, deum rapt�vērunt et in n�vem 
+ign�vique ho min es, deum raptāvērunt et in n�vem 
 imposuērunt; nec tarnen iuvenem f essum e 
-somn� excit�vērunt. 
+somn� excitāvērunt. 
 
 
+### XXI
 Ubi autem Bacchus e somn� se excit�vit, et und�s 
 caerule�s undique vidit, tum nec ir�tus nec 
 perterritus, <e Nōn ego," inquit, "stult�s ign�- 
 v�sque timeo; mox tarnen plr�tae n�men meum 
 videbunt et vehementer timebunt." Tum e medi� 
-n�ve vitis fl�rēbat et in altum ascendēbat. 
-
-
-### XXI 
+n�ve vitis fl�rēbat et in altum ascendēbat. Ē
 vite r�mi, e r�mis pampini fl�rēbant, et de summ Ts 
 r�mis �vae purpureae pendēbant. Nōn iam Can- 
 dida erant vela, sed l�ce purpure� fulgēbant. 
 
 Ubi nautae vitem miram in media n�ve vide- 
-runt, tum magno tim�re Deum spect�vērunt; 
+runt, tum magno tim�re Deum spectāvērunt; 
 capilli in capitibus horruērunt. Subito ex undis 
 tigres le�nesque saevi in n�vem ascendērunt et in 
 naut�s pertemt�s cucurrērunt. Pir�tae, terr�ris 
 pleni, e n�ve in mare se prostr� vērunt . Deinde 
 luppiter propter misericordiam homines in del- 
-
 phln�s convertit. Intere� Nept�nus vela purpurea 
 ventis secundls implevit, et s�lus sub Vitium 
-
 umbr� Bacchus ad terr�s longinqu�s navig�vit. 
 
 ---
@@ -805,7 +795,7 @@ umbr� Bacchus ad terr�s longinqu�s navig�vit.
 Rōmāni alterum Hor�tium memoria tenēbant et 
 in summ� hon�re habēbant. 
 
-Post R�mulum sex reges deinceps in urbe 
+Post Rōmulum sex reges deinceps in urbe 
 regnābant. Sed Tarquinius, ultimus regum, super- 
 bus et cr�delis erat. Nec i�ra bona popul� dabat, 
 nec civit�tem bene gubernābat. Itaque Rōmāni 
@@ -828,14 +818,14 @@ militibus te tuumque f�ium ad urbem sceler�tam
 d�cemus. Iterum in urbe regn�bis." Itaque per 
 t�tam Etr�riam, per cllv�s et agr�s nunt� con- 
 tendērunt, et ex omnibus vicis Etrusc�s ad arma 
-convoc�vērunt. Splendida erant arma Etrus- 
+convocāvērunt. Splendida erant arma Etrus- 
 c�rum; cristae rubrae in galeis horrēbant; sc�ta 
 l�ce corusc� fulgēbant. Porsenna cum militibus 
-R�mam contendit. Per omnes vic�s agricolae 
+Rōmam contendit. Per omnes vic�s agricolae 
 vehementer timēbant. Etruscl fr�mentum cas- 
 �sque incendērunt, arbores excidērunt, mulieres 
-Kber�sque nec�vērunt, multam praedam rap- 
-t�vērunt. 
+Kber�sque necāvērunt, multam praedam rap- 
+tāvērunt. 
 
 
 ### XXIII 
@@ -849,17 +839,17 @@ moenibus stābant et camp�s cllv�sque spectābant.
 
 Subito vigiles corusca Etrusc�rum arma procul 
 vidērunt. Mox inter hostes Porsennam, et Por- 
-sennae � dextr� Sextum, vidērunt. Deinde cives 
-odii et terr�ris pleni magna v�ce cl�m�vērunt et 
-anim�s ad proelium firm�vērunt. Sed consules 
+sennae � dextr� Sextum, vidērunt. Deinde cīvēs 
+odii et terr�ris pleni magna vōce cl�māvērunt et 
+anim�s ad proelium firmāvērunt. Sed consules 
 timēbant, quod pauci erant Rōmāni, multi et 
 validi hostes. 
 
 
 ### XXIV 
 Hostes ante urbis m�r�s castra posuērunt. 
-Oastra vall� et foss� firm�vērunt. Tum e castris 
-excessērunt et moenia Rōmāna oppugn�vērunt. 
+Oastra vall� et foss� firmāvērunt. Tum e castris 
+excessērunt et moenia Rōmāna oppugnāvērunt. 
 Fortiter et fer�citer pugnābant Rōmāni, sed 
 Etruscl validi Rōmānos paene vicērunt. Iam e 
 parte urbis Rōmānos fug�verant; iam omnia 
@@ -872,30 +862,29 @@ pontem cito excidetis, ego cum du�bus amicis
 contr� hostes in angust� loc� pugn�bo. Ita 
 omnes pro �ris templisque Rōmānis, pro ux�ribus 
 liberisque, pro sacris virginibus pugn�bimus. Ita 
-urbem R�mam conserv�bimus. Quis mecum in 
+urbem Rōmam conserv�bimus. Quis mecum in 
 extrem� ponte st�bit et contr� Etrusc�s pugn�bit ? * 
-
 Tum Lartius, "Ego," inquit, "� dextr� st�bo, et 
-pontem tecum conserv�bo "; et magna v�ce 
+pontem tecum conserv�bo "; et magna vōce 
 Herminius, "Ego," inquit, "� sinistr� st�bo et 
 pontem tecum conserv�bo." 
 
 
 ### XXV 
 Tres igitur Rōmāni in angust� loc� stetērunt. 
-Nec Etrusci pugnam detrect�vērunt. Tres prin- 
+Nec Etrusci pugnam detrectāvērunt. Tres prin- 
 cipes contra Rōmānos pr�cedunt. Superbl et 
 splendidl sunt principes; gladiis coruscis in 
 Hor�tium et comites pr�cedunt. Hor�tius autem 
 in hostem fulminis mod� ruit, et princeps Etrus- 
 cus magno frag�re ad terram cecidit. Lartius 
 quoque et Herminius hostes validls hastis vulner- 
-�vērunt et huml prostr�vērunt. Iterum Etrusci 
-milites fortes fer�cesque in Rōmānos misērunt; 
-iterum Rōmāni Etrusc�s nec�vērunt. Di� et 
+āvērunt et huml prostrāvērunt. Iterum Etrusci 
+mīlitēs fortes fer�cesque in Rōmānos misērunt; 
+iterum Rōmāni Etrusc�s necāvērunt. Di� et 
 �criter pugnābant. Iam multa hostium corpora 
 humi iacēbant. Etrusci timēbant, et Sextum, 
-Tarquinii fllium, incit�vērunt. Sed Sextus quoque 
+Tarquinii fllium, incitāvērunt. Sed Sextus quoque 
 Hor�tium timēbat et pugnam detrect�vit, nec in 
 Rōmān�s, tarn diros hostes, pr�cessit. 
 
@@ -932,7 +921,7 @@ orbem terr�rum Semper erat n�tum et praecl�rum,
 quod pro patri� fortiter pugn�verat. Et omnes 
 Rōmāni Tiberim fl�men semper ad�rābant, et ad 
 fl�minis rip�s d�na libenter f erēbant, quia omni um 
-Rōmān�rum est pater, et urbem R�mam f ortemque 
+Rōmān�rum est pater, et urbem Rōmam f ortemque 
 Rōmānum e fer�cibus Etruscis conserv�vit. 
 
 Am�tisne Graec�s Rōmān�sque f�bul�s ? Si 
@@ -1062,14 +1051,13 @@ am�ris pleni, virginem fortem vidērunt, ex omnibus
 militibus nemo fere lacrimas retinuit, sed omnes 
 gemitum profundum dedērunt. 
 
-
 Graeci igitur, simul �c Di�nae n�men virginis 
-sanguine pl�c�vērunt, vela Candida vento secundo 
-dedērunt, et ad Asiae �ram n�vig�vērunt. Ibi 
+sanguine pl�cāvērunt, vela Candida vento secundo 
+dedērunt, et ad Asiae �ram n�vigāvērunt. Ibi 
 multos annos Tr�iam vi et armis frustr� oppug- 
 nābant. Tandem, De�rum Immort�lium auxilio, 
 urbem incendērunt et praedam ingentem domum 
-report�vērunt. Helenam quoque Menel�us Spar- 
+reportāvērunt. Helenam quoque Menel�us Spar- 
 tam ad regiam red�xit. 
 
 Nonne n�bilem praecl�ramque virginem Iphi- 
@@ -1077,7 +1065,6 @@ geneiam put�tis ? Iphigeneiam memoria Semper
 tenete, nam pro patri� libenter e vit� excessit. 
 N�nne alii multi pro patri� e vit� excessenmt ? 
 Multi et Graeci et Rōmāni et Britanni vitam pro 
-
 patri� libenter dedidērunt. 
 
 ---
@@ -1100,11 +1087,11 @@ entior erat quam omnes patriae suae clves. Ubi
 dlvitias Croesi et omnes res pulcherrimas laud�vit, 
 tum Croesus, "O hospes, ,> inquit, "n�nne me 
 omnium hominum be�tissimum voc�s ? N�nne 
-ego be�tior sum quam omnes patriae tuae cives ? "
+ego be�tior sum quam omnes patriae tuae cīvēs ? "
 Sed Sol�n, "O Croese," respondit, Hodie sine 
 dubio be�tus es; �lim tarnen fortasse c�rae 
-
-Neminem, adhūc vivum, 
+gravissimae tē vexābunt. Nēminem, adhūc vīvum, 
+beātum voco."
 
 ![Croesus on the Pyre](./images/croesus-pyre-edited.png)
 
@@ -1117,21 +1104,19 @@ last offering to Apollo.
 ### XXXIV 
 Post paucos annos Cyrus, Pers�rum princeps, 
 c�pias in Med�rum agros d�xit, et t�tam regi�nem 
-
 celeriter vicit. Itaque et Mediae et Persiae, 
-ingentis regni, rex erat. Croesus, ubi cives Cyri 
-facta nunti�vērunt, "Si Cyrus," inquit, "adh�o 
+ingentis regni, rex erat. Croesus, ubi cīvēs Cyri 
+facta nuntiāvērunt, "Si Cyrus," inquit, "adh�o 
 adolescens, tarn celeriter Medos super�vit, sine 
 dubio ego, rex maximus divitissimusque , Cyrum 
 super�bo." C�pias igitur cito collegit et in 
 finitimos agros d�xit. Sed nōn bene rem gessit. 
 Nōn di� regis exercitus hostium impetum sustinēbat. 
-Persae Croesi milites fug�vērunt. In Lydiam 
+Persae Croesi mīlitēs fugāvērunt. In Lydiam 
 contendērunt et omnia loca ferro et ign! vast�- 
-vērunt; homines nec�vērunt; vicos et f r�mentuin 
+vērunt; homines necāvērunt; vicos et f r�mentuin 
 incendērunt. Rex perterritus regiam petivit. E� 
 intr�vit Cyrus. Cyrus, vehementer ir�tus, "C�r, 
-
 O Croese," rog�vit, "sine causa bellum in agros 
 meos intulistl ? T� igitur stultitiae tuae poenas 
 gravissimas mihi d�bis. Servi mei rogum ingentem 
@@ -1141,16 +1126,12 @@ p�nent; tum te rogumque incendent."
 
 ### XXXV 
 
-M�ne igitur servi rogum ingentem par�vērunt 
-
+M�ne igitur servi rogum ingentem parāvērunt 
 et Croesum e� imposuērunt. Tum Croesus ubi 
-
 calamit�tem suam sensit, trist! vult� gemitum ab 
-
 imo pectore dedit, et, Sol�nis verb�rum memor, 
  "Nōn falsa," inquit, "Sol�n, vir sapiens, dixit. 
 Ego me omni um hominum be�tissimum tot annos 
-
 put�bam. Nunc autem nemo per omnes gentes 
 miserior est. Superbiae stultitiaeque poenas do." 
 Cyrus, ubi Croesi verba audivit, et vultum tristem 
@@ -1205,7 +1186,7 @@ sed in primis poetae, conservantur et docentur.
 
 M�sae, simul �c in vaUem descendērunt, carmina 
 mira et divina cecinērunt. Arg�tae sunt M�s�rum 
-v�ces, nec per t�tum orbem terr�rum dulcior est 
+vōces, nec per t�tum orbem terr�rum dulcior est 
 sonitus quam cantus De�rum; nōn tarn su� viter 
 aves in summis arboribus canunt, ubi vere �era 
 cantibus mulcent. 
@@ -1225,7 +1206,6 @@ Tandem M�sae incolas iam tenuissimos ani-
 madvertenmt, et misericordiae plenae in cic�das 
 rirides convertērunt. Cic�dae igitur, etiam nunc 
 carminum dlvin�rum memores, t�tum diem 
-
 cantant. 
 
 ---
@@ -1261,7 +1241,7 @@ bantur, quod ignem sacrum in templo rotundo
 c�rābant. Hunc ignem Aeneas, Rōmān�rum pater, 
 Tr�i� d�igentissime apport�verat. Omnium Vir- 
 ginum Vest�lium n�tissima erat Rhea Silvia, 
-R�muli Remlque m�ter. Haec nōn R�mae sed 
+Rōmuli Remlque m�ter. Haec nōn Rōmae sed 
 Albae Longae habitābat, n�ndum enim Roma 
 aedific�ta erat. Aeneas, ubi ad Italiam venit, 
 paucos annos in his regi�nibus habitābat, et 
@@ -1275,7 +1255,7 @@ iura civibus dabat. Sed Numit�ri fr�ter erat,
 ferox cr�delisque vir, Am�lius nomine. Hic 
 comites c�pi�sque collegit, et contra fr�trem 
 exercitum d�xit. Di� et �criter pugnābant fr�tres, 
-sed Numit�ris milites hostium impetum nōn 
+sed Numit�ris mīlitēs hostium impetum nōn 
 sustinēbant, et fug� sal�tem petivērunt. Itaque 
 Numitor e regno � fr�tre expulsus est. 
 
@@ -1285,14 +1265,12 @@ Numitor e regno � fr�tre expulsus est.
 Am�lius igitur urbem iam regēbat. Sed Albae 
 Longae puella erat, Rhea Silvia nomine, Numit�ris 
 fīlia. Hanc puellam timēbat Am�lius, quod iusti 
-regis f�ia erat, et omnes cives virginem amābant.  "Sl huic puellae, ,> inquit, "fīlius erit, omnes 
-cives nōn me sed puerum iustum regem put�bunt. 
+regis f�ia erat, et omnes cīvēs virginem amābant.  "Sl huic puellae, ,> inquit, "fīlius erit, omnes 
+cīvēs nōn me sed puerum iustum regem put�bunt. 
 Nemo igitur virginem in m�trim�nium d�cet, sed 
 ignem sacrum cum virginibus sacris per t�tam 
 vlt am c�r�bit." Mars autem regis verba audivit 
 et risit. "Nōn ita," inquit, "rex sceler�tus 
-
-
 f�tum vTt�bit. Ego Rheae Silviae maritus ero; 
 mox puellae inf antes ērunt, fīlii mei; ubi hi pueri 
 adolescentes ērunt, tum ver� Am�lius f�tum suum 
@@ -1306,8 +1284,8 @@ The Wolf of the Capitol.
 
 ### XL 
 
-Am�lio, ubi in regia sedēbat, cives hanc rem 
-nunti�vērunt. Tum ver� rex ir� et tim�re vehe- 
+Am�lio, ubi in regia sedēbat, cīvēs hanc rem 
+nuntiāvērunt. Tum ver� rex ir� et tim�re vehe- 
 menter comm�tus est. Itaque servis perterritis,  "Hanc fēminam," inquit, "ad Tiberis ripas 
 d�cite et in undas iacite; perfida mulier perfidiae 
 poenas d�bit. Geminos quoque ad fl�minis ripas 
@@ -1337,7 +1315,7 @@ deinde lac geminis, sicut parvulis suis dabat.
 Poste�, ubi m�i�res erant gemini, nec iam lupae 
 c�ram desiderābant, past�res petlvērunt, et inter 
 past�res di� vitam rusticam agēbant. � past�ri- 
-bus R�mulus Remusque voc�ti sunt; nihil autem 
+bus Rōmulus Remusque voc�ti sunt; nihil autem 
 de orfgine su� sciēbant. 
 
 
@@ -1351,21 +1329,20 @@ avique ini�rias Ir�ti." Sine au diu, ' inquiunt,
 Past�res igitur omnesque agricolas ad arma 
 incit� vērunt , et cum exercit� rustico ad urbis 
 portas contendērunt. Rex quoque c�pias contra 
-R�mulum et Remum d�xit, sed rem nōn bene 
+Rōmulum et Remum d�xit, sed rem nōn bene 
 gessit. Super�tus et nec�tus est. Tum adoles- 
 centes avum suum petlvenmt, et in regnum 
 red�xērunt. Maxime gaudēbant oppid�ni, quod 
 iterum Numit�rem, iustum regem, Albae Longae 
 vidēbant. 
 
-Poste� R�mulus urbem sibi aedific�vit, et 
-R�mam, de suo nomine, voc�vit. Rōmāni lupam, 
-quod R�mulum tarn diligenter c�r�verat, semper 
+Poste� Rōmulus urbem sibi aedific�vit, et 
+Rōmam, de suo nomine, voc�vit. Rōmāni lupam, 
+quod Rōmulum tarn diligenter c�r�verat, semper 
 in summo hon�re habēbant. Statuam lupae in 
 Capit�lio posuērunt. 
 
 Haec statua in Capit�lio di� stābat, sed tandem 
-
 fulmine deiecta est. Alia tarnen poste� in Capi- 
 t�lio posita est. Hanc v�s quoque fortasse �lim 
 vidēbitis. Nec statuam s�lum sed lupam vivam 
@@ -1396,10 +1373,10 @@ latus altusque app�ruit. CSves omnes saxa pl�rima
 in hi�tum deiecērunt; hi�tus autem nullo modo 
 expleb�tur, sed indies crescēbat. Tum clves 
 perterriti." Sine dubio," inquiunt." DI Im- 
-mort�les summam calamit�tem R�mae prae- 
+mort�les summam calamit�tem Rōmae prae- 
 dlcunt." Itaque Rōmāni e Libris Sibyillnis 
 �r�culum petlvērunt. E Libris Sibyillnis sacer- 
-d�tes responsum mlrum civibus nunti�vērunt. 
+d�tes responsum mlrum civibus nuntiāvērunt. 
 '* Nunquam," inquiimt." hi�tus in Foro Rōmāno 
 explēbitur, nisi e� omnium rerum preti�sissimam 
 Rōmāni deiecerint. ,, Cives igitur ad Forum aurum, 
@@ -1429,8 +1406,8 @@ narr�bo.
 Primo Bello P�nico di� Rōmāni � Poenis super�- 
 bantur, quia paucas n�ves, nec magnum n�vium 
 �sum habēbant. Sed tandem Rōmāni n�ves 
-optimas aedific�vērunt, et Poenos pl�rimis proeliis 
-super �vērunt. Itaque Regulum consulem ad 
+optimas aedificāvērunt, et Poenos pl�rimis proeliis 
+super āvērunt. Itaque Regulum consulem ad 
 �fricam cum exercit� misērunt . Regulus exer- 
 citum in �fricam terram exposuit. Primo res 
 bene gessit; agros ferro et igni vast�vit, et magn� 
@@ -1450,7 +1427,7 @@ Inter captlvos Regulus ipse Carth�ginem ductus
 est. Tum summo gaudio Poeni." Nunc," in- 
 quiunt." Rōmānos vicimus; Rōmāni igitur p�cem 
 desider�bunt et bonas eondici�nes ferent. Te, 
-Regule, R�man iam mittemus. T� leg�ti mod� 
+Regule, Rōman iam mittemus. T� leg�ti mod� 
 in Senatum intr� � si verbīs tuis animos clvium 
 tu�rum ad p�cem add�xeris, tu vinculis liber�beris, 
 et Uber in liber� urbe tu� habit�bis. Sed si 
@@ -1469,10 +1446,9 @@ v�s praebēbitis, mox v�s viet�res eritis et vestras
 eondici�nes hostibus feretis. Ego Carth�ginem 
 n�vig�bo nec fidem viol�bo. V�s animos ad 
 bellum firm�te et hostes sub pedibus prosternite. 
-
 Ego nec vincula nec mortem rec�so, sed vestro 
 am�re me dignum praebebo." Deinde Regulus 
-fidem nōn viol�vit, sed vult� sereno R�m� 
+fidem nōn viol�vit, sed vult� sereno Rōm� 
 discessit et Carth�ginem revertit. Ibi vinculis 
 mortique se tr�didit. 
 
@@ -1544,18 +1520,11 @@ mortique se tr�didit.
 ### XLVI 
 Inter Tr�i�nos qui tot annos urbem suam contra 
 Graecos defendēbant, erat Hector, omnium regia 
-
 ffli�rum fortissimus, et Priamo patri c�rissimus. 
 Hic � civibus suis maxime am�b�tur et in summo 
 hon�re habeb�tur. Vehementer � Graecis time- 
 b�tur, ubi ex urbis portis ad proelium ruēbat, aut 
 ignibus infestis hostium n�ves vastābat. Cotidie 
-
-
-![Hector And Andromache](./images/hector-andromache-edited.png)
-
-HECTOR AND ANDROMACHE. 
-
 Tr�i�ni ad arma ab Hectore incitābantur; cotidie 
 civium animi ad fortia facta firmābantur. Saepe 
 cum Hectore � proelio vict�res revertērunt. 
@@ -1563,8 +1532,6 @@ Andromache, Hectoris uxor, cum viro fDioloque
 in regia habitābat. Nulla ex omnibus Tr�i�nis 
 mulier magis virum suum amābat, aut virī am�re 
 dignior erat. �lim Hector, ad prodium ora�kuh 
-
-
 e via in regiam venit. Andromache vult� laeto 
 virum sal�t�vit et ancillam voc�vit, quae f�iolum 
 in sin� tenēbat. Deinde Hector bracchia ad 
@@ -1576,6 +1543,10 @@ maximus, fllio risit, et galeam terribilem humi
 deposuit, et bracchia iterum ad fīlium porrexit. 
 Hic nōn iam perterritus est, sed risit, et patris collo 
 bracchia parvula dedit. 
+
+![Hector And Andromache](./images/hector-andromache-edited.png)
+
+HECTOR AND ANDROMACHE. 
 
 
 ### XLVII 
@@ -1592,7 +1563,7 @@ conserv�. Nōn enim sine te Tr�i�ni urbem contra
 Graecos def endent ." Cui Hector respondit , * * Hl 
 omnes, qui nunc Tr�iam defendunt, ad me princi- 
 pem spectant. Propter meam virt�tem cust�des 
-in moenibus stant, milites ad proelia infesta animo 
+in moenibus stant, mīlitēs ad proelia infesta animo 
 fort! excedere audent. Sl ego proelia detrect�bo, 
 nee fortem me praebebo, nōn iam civium am�re 
 ero dignus. Tr�i�ni quoque omnes timidi ērunt 
@@ -1643,19 +1614,13 @@ hinc, De�rum Immort�lium auxilio, discedere.
 Primum autem Minervae n�men d�no pl�c�bimus. 
 Tum illa n�s ventis secundis domum red�cet. ,> 
 Deinde Graeci magno lab�re equum ingentem 
-aedific�vērunt, c�ius latera trabibus validis tex- 
+aedificāvērunt, c�ius latera trabibus validis tex- 
 ērunt. Nocte obsc�r� alii deinceps in cava eius 
 latera furtim ascendērunt, alii ad n�ves proper- 
-
-�vērunt et vela Candida ventis dedērunt. M�ne 
+āvērunt et vela Candida ventis dedērunt. M�ne 
 decepti sunt Tr�i�ni. ' ' Ecce ." inquiunt." d�num 
 illud quo Graeci Minervae n�men pl�c�re con- 
 stituērunt. Dornum revertērunt hostes. N�s 
-
-![The Wooden Horse](./images/wooden-horse-edited.png)
-
-The Wooden Horse. 
-
 intr� moenia monstrum illud d�cemus; tum n�s 
 quoque Dea n�mine secundo se^v�bit. ,, 
 
@@ -1665,15 +1630,19 @@ pueri puellaeque innuptae circum equum salt�re
 et canere gaudēbant et fl�ribus eum orn�re.  "Nunc liberi," inquiunt." in liber� urbe habit�- 
 mus; nōn iam hostes n�s noctes diesque vexant." 
 
+![The Wooden Horse](./images/wooden-horse-edited.png)
+
+The Wooden Horse. 
+
 
 ### XLIX 
 Sed ubi nox umbris profundis terra s tegēbat, 
 Graeci, qui in equo sunt cel�ti, e cavis lateribus 
 furtim desiliēbant, et facem l�cidam comitibus 
-monstr�vērunt. IUI simul �c trans pontum facem 
+monstrāvērunt. IUI simul �c trans pontum facem 
 vidērunt, n�ves rursus ad �ram impulērunt. Nulli 
 per moenia cust�des, nulli in portis vigiles urbem 
-defendēbant. Per t�tam urbem cives animos 
+defendēbant. Per t�tam urbem cīvēs animos 
 fessos somno profundo laxābant. Fl�minis mod� 
 Graeci vict�res in urbem miseram ruērunt. Omnia 
 ferro et ignl vast�ta sunt. Templa dom�sque 
@@ -1725,11 +1694,16 @@ stābant, nec iam aquae f rlgidae ad pontum fluēbant.
 Aves, quae in summis arboribus nidos aedificābant, 
 lab�ris immemores circum Orpheum volābant. 
 Omnia fl�rum genera sub pedibus eius fl�rēbant. 
-Uxor erat ei Eurydice nomine, quam maxime 
 
+Uxor erat ei Eurydice nomine, quam maxime 
 amābat. Cum e� in pr�tis nitidis l�dere gaudēbat. 
 Prope Thr�ciae �ram poeta uxorque eius bene 
 be�teque vivēbant. Mox tarnen Eurydice, misera 
+puella, morbo trist! languescēbat, et ad Inferos 
+adhūc iuvenis descendit. Di� Orpheus per t�tam 
+�ram s�lus cum lyr� m�ne ser�que errābat, et 
+�era cantibus tristibus implēbat; nōn iam agris 
+fecundis, nōn iam laetīs iuvenum choris gaudēbat. 
 
 ![Orpheus playing the Lyre](./images/orpheus-lyre-edited.png)
 
@@ -1739,29 +1713,23 @@ Orpheus is wearing Thracian dress, which is more elaborate
 than Greek, but less so than Persian. The fawn is listening to 
 the music. 
 
-puella, morbo trist! languescēbat, et ad Inferos 
-adhūc iuvenis descendit. Di� Orpheus per t�tam 
-�ram s�lus cum lyr� m�ne ser�que errābat, et 
-�era cantibus tristibus implēbat; nōn iam agris 
-fecundis, nōn iam laetīs iuvenum choris gaudēbat. 
-
 
 ### LI 
 Orpheus tandem ad M�nes descendere constituit, 
 et saevum Pl�t�nis animum cant� dulci mulcere.  "Fortasse," inquit." Pl�t� Persephonēque reglna 
-v�ce lyr�que me� mulcebuntur, et veniam mihi 
+vōce lyr�que me� mulcebuntur, et veniam mihi 
 dabunt; f ortasse Eurydieen ad virum eius re- 
 mittent." Itaque ad M�nes, in regi�nem tene- 
 br�sam descendit, unde nemo ad l�cem caelumque 
 unquam ascenderat. Ibi circum poetam vol- 
-�vērunt tenues umbrae e�rum qul Superos re- 
+āvērunt tenues umbrae e�rum qul Superos re- 
 Hquerant. Multae erant umbrae. M�tres senesque, 
 pueri puellaeque innuptae, qu�s vulnera infesta 
 morbusque tristis ad Inferos mlserant, ad poetam 
-proper �vērunt , et carmine mlro delect�ti sunt. 
+proper āvērunt , et carmine mlro delect�ti sunt. 
 Orpheus per viam tenebr�sam ad regiam venit, 
 ubi Hades cum regin� in lecto sedēbat; tum ver� 
-v�ce arg�t� lyr�que cecinit, et ad genua reglnae 
+vōce arg�t� lyr�que cecinit, et ad genua reglnae 
 se prostr�vit, et multis lacrimis veniam �r�vit. 
 Illa lacrimis eius cant�que comm�ta est, et,  "�n� condici�ne , ' ' inquit." tibi ux�rique tuae h�c 
 d�num dabo. T� ad Superos statim proper�; 
@@ -1779,7 +1747,7 @@ verb�rum rēgīnae immemor, oculos retr� ad puellam
 revertit. Tum ver� ex Imis Inferis fragor ingens 
 audltus est. Eurydice." O Orphe�," inquit,  "iterum f�ta cr�delia retr� me vocant; per art�s 
 ocul�sque meos somnus profundus funditur. Vale, 
-c�rissime vir! iterum in noctem tenebr�sam 
+c�rissime virī iterum in noctem tenebr�sam 
 feror." Dixit, et iam tenuis umbra e manibus virī 
 in tenebras f�git. 
 
@@ -1799,14 +1767,13 @@ in tenebras f�git.
 >
 >Virgil. 
 
-
 Haec et alia multa I�lia e benigno l�di magistro 
 audiēbat. Poste�, iam adolescens, ad longinquas 
 terras n�vig�vit et ipsa res multas mir�sque vidit. 
 V�s quoque fortasse ad Italiam Graeciamque �lim 
 ipsi n�vig�bitis, et illa loca oculis vestris vidēbitis, 
 ubi poetae habitābant, de quibus haec omnia 
-narr�vērunt. 
+narrāvērunt. 
 
 ---
 
@@ -2302,7 +2269,7 @@ VOOABULARY OF NEW WORDS 6�
 
 palla, -ae, /. � cloak. 
 
-R�ma, - ae, /. � Rome. 
+Rōma, - ae, /. � Rome. 
 
 Rōmānus, -i, m. � a Rōmān. 
 
@@ -2757,15 +2724,15 @@ rex, regis, m.
 
 
 
-ac_ I R�mulus, -i, m. � Romulus, the 
+ac_ I Rōmulus, -i, m. � Romulus, the 
 
 founder of Rome. 
 
-Sabinus, -i, m. � a Sabine. The 
-Sabines were neighbours of 
+Sabīnus, -i, m. � a Sabīne. The 
+Sabīnes were neighbours of 
 the Rōmāns. 
 
-Sabinus, -a, -um � Sabine, 
+Sabīnus, -a, -um � Sabīne, 
 sc�tum, -i, n. � shielcL 
 soror, �ris, /. � sister. 
 urbs, urbis, /. 
@@ -7215,12 +7182,12 @@ pogo, 1 � I ask.
 
 rogus, -i, ra. � funeral-pile. 
 
-R�ma, -ae, /. � Rome. 
+Rōma, -ae, /. � Rome. 
 
 Rōmānus, -i, ra. � a Rōmān. 
 Rōmānus, -a, -um � Rōmān. 
 
-R�mulus, -i, m. � Romulus, the 
+Rōmulus, -i, m. � Romulus, the 
 founder of Rome. 
 
 rosa, -ae, /. � rose. 
@@ -7244,11 +7211,11 @@ longing to the country.
 
 S 
 
-S�binus, -i, ra. � a Sabine. The 
-Sabines wereneighbours of the 
+S�binus, -i, ra. � a Sabīne. The 
+Sabīnes wereneighbours of the 
 Rōmāns. 
 
-S�binus, -a, -um � Sabine, 
+S�binus, -a, -um � Sabīne, 
 s�cer, -ra, -rum � sacred. 
 
 s�cerd�s, -�tis, c. � priest, priest- 
