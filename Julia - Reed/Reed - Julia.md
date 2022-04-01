@@ -210,11 +210,11 @@ M. R.
 
 [Cerēs et Persephonē](#cerēs-et-persephonē) - 7
 
-Rōmulus et Sabīnae - 13
+[Rōmulus et Sabīnae](#rōmulus-et-sabīnae) - 13
 
-Mars Rōmulum in Caelum Vocat - 15 
+[Mars Rōmulum in Caelum Vocat](#mars-rōmulum-in-caelum-vocat) - 15 
 
-Horātius Puer - 17 
+[Horātius Puer](#horātius-puer) - 17 
 
 Bacchus et Pīrātae - 19
 
@@ -640,7 +640,7 @@ Rōmānum servābit." Itaque Iūlius Rōmulī
 dicta populō narrāvit, et Quirītes templum rotundum
 aedificāvērunt. In templō rotundō Quirīnī 
 nūmen adōrābant. 
-# end p32
+
 ---
 
 ## HORĀTIUS PUER
@@ -655,44 +655,42 @@ nūmen adōrābant.
 
 
 ### XVII 
-
-F�bulam de Hor�ti�, poet� praecl�r�, nunc v�bis 
-narr�bo. Ap�lia regio est Italiae. Mult�s silv�s, 
-mult�s et amoen�s camp�s habet. In pr�tls 
-herb�sls multi greges, multa equ�rum boumque 
-armenta errant. Hīc �lim Hor�tius habitābat, 
-parvulus adhūc et m�tri patrique c�rus. Forte 
-serv�s, forte patrem m�tremque fefellit, et s�lus 
-per pr�ta amoena errābat. Gr�ti puer� erant 
-fl�res et herba et r�ra dlvina. Mox autem puer, 
-l�d� et err�ribus fessus, in valle herb�s� iacuit et 
-animum somn� profund� lax�vit. Intere� par- 
-entes solliciti puerum dlligenter quaerēbant. Et 
-parentes et servi vehementer timēbant. "Lupi 
-saevi," inquiunt, "et ursl silv�s incolunt. Lupus 
-fortasse puerum etiam nunc cr�deliter necat." 
-Itaque di� et diligenter puerum quaerēbant. 
+Fābulam dē Horātiō, poētā praeclārō, nunc vōbis 
+narrābo. Apūlia regio est Ītaliae. Multās silvās, 
+multōs et amoenōs campōs habet. In pr�ātīs 
+herbōsīs multī gregēs, multa equōrum boumque 
+armenta errant. Hīc ōlim Horātius habitābat, 
+parvulus adhūc et mātrī patrīque cārus. Forte 
+servōs, forte patrem mātremque fefellit, et sōlus 
+per prāta amoena errābat. Grātī puerō erant 
+flōres et herba et rūra dīvīna. Mox autem puer, 
+lūdō et errōribus fessus, in valle herbōsā iacuit et 
+animum somnō profundō laxāvit. Intereā parentēs 
+sollicitī puerum dīligenter quaerēbant. Et 
+parentēs et servī vehementer timēbant. "Lupī 
+saevī," inquiunt, "et ursī silvās incolunt. Lupus 
+fortasse puerum etiam nunc crūdēliter necat." 
+Itaque diū et dīligenter puerum quaerēbant. 
 
 
 ### XVIII 
-Tandem in cael� columb�s alb�s vidēbant. 
+Tandem in caelō columbās albās vidēbant. 
 Columbae per caelum undique volābant et folia ad 
-locum herb�sum portābant. Parentes ad locum 
-contendērunt et ecce! Infans in herb� placidus 
-impavidusque dormitābat; columbae in terra, in 
+locum herbōsum portābant. Parentēs ad locum 
+contendērunt et ecce! Infans in herbā placidus 
+impavidusque dormitābat; columbae in terrā, in 
 arboribus passim sedēbant; columbae per caelum 
-volābant, et parvuli corpus foliis tegēbant. Nec 
-lupl nec ursl infantem nec�verant, quia M�sae 
+volābant, et parvulī corpus foliīs tegēbant. Nec 
+lupī nec ursī infantem necāverant, quia Mūsae 
 poetam etiam infantem semper conservant. 
 
-Post mult�s ann�s Hor�tius, iam adolescens, 
-Rōmam, magnam urbem, inc olēbat. Sed dlvina 
-r�ra et vi tarn rusticam semper laudabat. M�sae 
-per multa pericula poetam conservāvērunt. 
-Hor�t� carmina per t�tum orbem terr�rum etiam 
-nunc n�ta et praecl�ra sunt. V�s quoque Hor�tii 
-carmina mox legetis et in memoriae tabulis scri- 
-betis. 
+Post multōs annōs Horātius, iam adolescens, 
+Rōmam, magnam urbem, incolēbat. Sed dīvīna 
+rūra et vītam rusticam semper laudābat. Mūsae 
+per multa pericula poētam conservāvērunt. 
+Horātiī carmina per tōtum orbem terrārum etiam 
+nunc nōta et praeclāra sunt. Vōs quoque Horātiī 
+carmina mox legētis et in memoriae tabulīs scribētis. 
 
 ---
 
@@ -710,7 +708,7 @@ betis.
 >
 >Keats. 
 
-
+# end p35
 ### XIX 
 Inter de�s Rōmānos agricolae nōn s�lum Cererem 
 sed Bacchum quoque ad�rābant et in summ� hon�re 
@@ -1321,7 +1319,7 @@ de orfgine su� sciēbant.
 
 ### XLII 
 
-Omnes h�s annos Mars fīlios suos diligenter 
+Omnes h�s annos Mars fīlios suos dīligenter 
 conservābat, et tandem geminis, iam adolescentibus 
 omnia monstr�vit. Tum fr�tres, uiopter m�tris 
 avique ini�rias Ir�ti." Sine au diu, ' inquiunt, 
@@ -1338,7 +1336,7 @@ vidēbant.
 
 Poste� Rōmulus urbem sibi aedific�vit, et 
 Rōmam, de suo nomine, voc�vit. Rōmāni lupam, 
-quod Rōmulum tarn diligenter c�r�verat, semper 
+quod Rōmulum tarn dīligenter c�r�verat, semper 
 in summo hon�re habēbant. Statuam lupae in 
 Capit�lio posuērunt. 
 
@@ -1361,7 +1359,7 @@ etiam nunc lupam vivam in Capit�lio habent.
 >
 >*iactat ultōrem.* 
 >
->HORACE.
+>Horace.
 
 ---
 
@@ -1468,7 +1466,7 @@ mortique se tr�didit.
 >
 >*aut Lacedaemonium Tarentum.* 
 >
->HORACE.
+>Horace.
 
 ---
 
@@ -2815,7 +2813,7 @@ vester, -ra, -mm � your (plural).
 XV 
 
 corpus, -oris, n. � body. 
-diligenter � carefully. 
+dīligenter � carefully. 
 exerceo, 2 � I exercise. 
 fessus, -a, -um � tired. 
 firmus, -a, -um � firm, strong. 
@@ -5685,7 +5683,7 @@ dies, -ei, ?n. � day.
 dignus, -a, -um � worthy {goverru 
 
 an abl. ) . 
-diligenter � carefully. 
+dīligenter � carefully. 
 dirus, -a, -um � dreadful. 
 discedo, 3, -cessi, -cessum � I g< 
 
