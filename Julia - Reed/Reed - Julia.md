@@ -17,12 +17,13 @@ tags: [[Latin Language|Latin]]
 - [x] fix the contents page
 - [ ] updated ToC page to link to headers using Github Markdown spec - in progress
 - [x] add all images to appropriate areas
-- [ ] add quote sources for all quotes
+- [ ] add quote sources for all quotes - in progress
 
 # Changelog
 - [[2022-03-25]] - initial commit; reformatted through story II; cleaned up hyphenated words, ToC, page breaks
 - [[2022-03-29]] - added all images; reformatted quotes
 - [[2022-03-30]] - corrected common errors in text (punctuation spacing, 0 for O, some common words with macrons)
+- [[2022-04-01]] - started adding footnotes and sources for quotes
 
 # Book
 
@@ -403,7 +404,7 @@ Lacertīs et cicādis grātum est caelum caeruleum.
 >
 >*To seek her through the world.*
 >
-> Milton.
+> Milton.[^1]
 
 
 ### VII 
@@ -649,9 +650,9 @@ nūmen adōrābant.
 > 
 > *audīta Mūsārum sacerdōs*
 > 
-> *virginibus puerisque canto.[^1]*
+> *virginibus puerisque canto.[^2]*
 > 
->Horace. 
+>Horace.[^3] 
 
 
 ### XVII 
@@ -706,7 +707,7 @@ carmina mox legētis et in memoriae tabulīs scribētis.
 >
 >*To scare thee, Melancholy!* 
 >
->Keats. 
+>Keats.[^4] 
 
 
 ### XIX 
@@ -786,7 +787,7 @@ umbrā Bacchus ad terrās longinquās nāvigāvit.
 >
 >*In the brave days of old.* 
 >
->Macaulay.
+>Macaulay.[^5]
 
 
 ### XXII 
@@ -940,11 +941,11 @@ an earlier day :
 >
 >*septemque ūna sibī mūro circumdedit arces.* 
 >
->Virgil. 
+>Virgil.[^6] 
 
 ---
 
-## ĪPHIGENEIA [^2]
+## ĪPHIGENEIA [^7]
 
 >*sanguine plācastis venios et virgine caesā,* 
 >
@@ -7701,10 +7702,29 @@ vultus, -�s, m. � face, expressio�j
 
 ## FOOTNOTES
 
-[^1]: This is real Latin poetry. It is not necessary to the 
+[^1]: Milton in Paradise Lost Book IV lines 268-272.
+
+[^2]: This is real Latin poetry. It is not necessary to the 
 story. Ask your teacher to read it to you. 
 
-[^2]: From this point onwards the marking of long syllables in 
+[^3]: Horace. Carm. III. 1, 2-5.
+
+[^4]: John Keats Song of the Indian Maid, from Endymion lines 54-58.
+
+[^5]: From 'Horatius at the Bridge' by Thomas Babington Macaulay. Stanza LXVI.
+
+[^6]: Virgil. Georgics. II. 532-535
+
+[^7]: From this point onwards the marking of long syllables in 
 the first and second declensions has in the main been discontinued. 
 The long endings in the third declension will be 
 marked till the end of Chapter XXXV. 
+
+[^8]: Virgil quote p.45 of PDF
+
+
+
+
+
+
+
