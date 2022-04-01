@@ -17,13 +17,13 @@ tags: [[Latin Language|Latin]]
 - [x] fix the contents page
 - [ ] updated ToC page to link to headers using Github Markdown spec - in progress
 - [x] add all images to appropriate areas
-- [ ] add quote sources for all quotes - in progress
+- [x] add quote sources for all quotes
 
 # Changelog
 - [[2022-03-25]] - initial commit; reformatted through story II; cleaned up hyphenated words, ToC, page breaks
 - [[2022-03-29]] - added all images; reformatted quotes
 - [[2022-03-30]] - corrected common errors in text (punctuation spacing, 0 for O, some common words with macrons)
-- [[2022-04-01]] - started adding footnotes and sources for quotes
+- [[2022-04-01]] - added footnotes and sources for quotes; linked all non-vocab sections to ToC
 
 # Book
 
@@ -217,27 +217,27 @@ M. R.
 
 [Horātius Puer](#horātius-puer) - 17 
 
-Bacchus et Pīrātae - 19
+[Bacchus et Pīrātae](#bacchus-et-pīrātae) - 19
 
-Horātius Codes - 22 
+[Horātius Codes](#horātius-codes) - 22 
 
-Īphigeneia - 29 
+[Īphigeneia](#īphigeneia) - 29 
 
-Cȳrus, Croesus, Solōn - 34 
+[Cȳrus, Croesus, Solōn](#cȳrus-croesus-solōn) - 34 
 
-Mūsae et Cicādae - 38 
+[Mūsae et Cicādae](#mūsae-et-cicādae) - 38 
 
-Rōmulus et Remus - 40 
+[Rōmulus et Remus](#rōmulus-et-remus) - 40 
 
-Mettius Curtius - 46 
+[Mettius Curtius](#mettius-curtius) - 46 
 
-Rēgulus - 48 
+[Rēgulus](#rēgulus) - 48 
 
-Hector et Andromachē - 51 
+[Hector et Andromachē](#hector-et-andromachē) - 51 
 
-Equus Trōiānus - 55 
+[Equus Trōiānus](#equus-trōiānus) - 55 
 
-Orpheus et Eurydicē - 58 
+[Orpheus et Eurydicē](#orpheus-et-eurydicē) - 58 
 
 Vocabulary of New Words in each Section - 62 
 
@@ -766,7 +766,7 @@ Iuppiter propter misericordiam hominēs in delphīnās
 convertit. Intereā Neptūnus vēla purpurea 
 ventīs secundīs implēvit, et sōlus sub vītium 
 umbrā Bacchus ad terrās longinquās nāvigāvit. 
-# end p37
+
 ---
 
 ## HORĀTIUS CODES
@@ -791,59 +791,58 @@ umbrā Bacchus ad terrās longinquās nāvigāvit.
 
 
 ### XXII 
-Rōmāni alterum Hor�tium memoria tenēbant et 
-in summ� hon�re habēbant. 
+Rōmānī alterum Horātium memoriā tenēbant et 
+in summō honōre habēbant. 
 
-Post Rōmulum sex reges deinceps in urbe 
-regnābant. Sed Tarquinius, ultimus regum, super- 
-bus et cr�delis erat. Nec i�ra bona popul� dabat, 
-nec civit�tem bene gubernābat. Itaque Rōmāni 
-Tarquinium et Sextum, Tarquin� fflium, cr�delem 
-fer�cemque adolescentem, ex urbe expulērunt.  "Nōn iam, 5 ' inquiunt, "Rōmānls reges ērunt. 
-CSves Rōmāni, nōn reges, urbem civit�temque 
+Post Rōmulum sex rēgēs deinceps in urbe 
+regnābant. Sed Tarquinius, ultimus rēgum, superbus 
+et crūdēlis erat. Nec iūra bona populō dabat, 
+nec cīvitātem bene gubernābat. Itaque Rōmānī 
+Tarquinium et Sextum, Tarquiniī fīlium, crūdēlem 
+ferōcemque adolescentem, ex urbe expulērunt.
+"Nōn iam," inquiunt, "Rōmānīs rēgēs erunt.
+Cīvēs Rōmānī, nōn rēgēs, urbem cīvitātemque 
 regent." 
+
+Intereā Tarquinius ad Porsennam, omnis 
+Etrūriae rēgem, contendit, et omnia narrāvit. 
+Porsenna, "O amīce," inquit, "nōn ferendae sunt 
+iniūriae tuae, nōn ferendae sunt fīliī tuī iniūriae. 
+Multī equitēs, multī peditēs mihi sunt. Equitēs 
+peditēsque meōs omnēs convocābo, et cum multīs 
+mīlitibus tē tuumque fīlium ad urbem scelerātam 
+dūcēmus. Iterum in urbe regnābis." Itaque per 
+tōtam Etrūriam, per clīvōs et agrōs nuntiī contendērunt, 
+et ex omnibus vīcīs Etruscōs ad arma 
+convocāvērunt. Splendida erant arma Etruscōrum; 
+cristae rubrae in galeīs horrēbant; scūta 
+lūce coruscā fulgēbant. Porsenna cum mīlitibus 
+Rōmam contendit. Per omnēs vīcōs agricolae 
+vehementer timēbant. Etruscī frūmentum casāsque 
+incendērunt, arborēs excīdērunt, mulierēs 
+līberōsque necāvērunt, multam praedam raptāvērunt.
 
 ![Italian Warrior](./images/italian-warrior-edited.png)
 
 Italian Warrior
 
-Intere� Tarquinius ad Porsennam, omnis 
-Etr�riae regem, contendit, et omnia narr�vit. 
-Porsenna, "O amlce," inquit, "nōn ferendae sunt 
-ini�riae tuae, nōn ferendae sunt fīlii tui ini�riae. 
-Multi equites, multi pedites mihi sunt. Equites 
-peditesque me�s omnes convoc�bo, et cum multis 
-militibus te tuumque f�ium ad urbem sceler�tam 
-d�cemus. Iterum in urbe regn�bis." Itaque per 
-t�tam Etr�riam, per cllv�s et agr�s nunt� con- 
-tendērunt, et ex omnibus vicis Etrusc�s ad arma 
-convocāvērunt. Splendida erant arma Etrus- 
-c�rum; cristae rubrae in galeis horrēbant; sc�ta 
-l�ce corusc� fulgēbant. Porsenna cum militibus 
-Rōmam contendit. Per omnes vic�s agricolae 
-vehementer timēbant. Etruscl fr�mentum cas- 
-�sque incendērunt, arbores excidērunt, mulieres 
-Kber�sque necāvērunt, multam praedam rap- 
-tāvērunt. 
-
 
 ### XXIII 
-Intere� Porsennae facta Rōmānos nōn f ef ellērunt. 
-Virgines vest�les prope ignem sacrum de�s �rābant; 
-m�tr�nae cum Hberis suis d�na ad templa ferēbant; 
-senes victim�s in �rls mactābant; iuvenes in 
-Camp� Marti� se ad arma proeliumque parābant, 
-et moenia mult� lab�re firmābant; vigiles in 
-moenibus stābant et camp�s cllv�sque spectābant. 
-
-Subito vigiles corusca Etrusc�rum arma procul 
-vidērunt. Mox inter hostes Porsennam, et Por- 
-sennae � dextr� Sextum, vidērunt. Deinde cīvēs 
-odii et terr�ris pleni magna vōce cl�māvērunt et 
-anim�s ad proelium firmāvērunt. Sed consules 
-timēbant, quod pauci erant Rōmāni, multi et 
-validi hostes. 
-
+Intereā Porsennae facta Rōmānōs nōn fefellērunt. 
+Virginēs vestālēs prope ignem sacrum deōs ōrābant; 
+mātrōnae cum līberīs suīs dāna ad templa ferēbant; 
+senēs victimās in ārīs mactābant; iuvenēs in 
+Campō Martiō sē ad arma proeliumque parābant, 
+et moenia multō labōre firmābant; vigilēs in 
+moenibus stābant et campōs clīvōsque spectābant. 
+Subitō vigilēs corusca Etruscōrum arma procul 
+vīdērunt. Mox inter hostēs Porsennam, et Porsennae 
+ā dextrā Sextum, vīdērunt. Deinde cīvēs 
+odiī et terrōris plēnī magnā vōce clāmāvērunt et 
+animōs ad proelium firmāvērunt. Sed consulēs 
+timēbant, quod paucī erant Rōmānī, multī et 
+validī hostēs. 
+# end p40
 
 ### XXIV 
 Hostes ante urbis m�r�s castra posuērunt. 
@@ -930,7 +929,7 @@ praecl�r�s semper memori� tenēbitis. Post pauc�s
 ann�s v�s, iam adolescentes, mult�s ali�s f�bul�s 
 legetis. 
 
-The Poet praises the country life led by the Rōmāns of 
+The Poet praises the country life led by the Romans of 
 an earlier day : 
 
 >*Hanc ōlim veteres vītam coluēre Sabīni,* 
@@ -951,7 +950,7 @@ an earlier day :
 >
 >*cum prīmum Īliacas Danai vēnistis ad ōras:* 
 >
->Virgil. 
+>Virgil.[^8]
 
 
 ### XXVIII 
@@ -1159,7 +1158,7 @@ c�rum amicum habēbat.
 >
 >*But all are divine.* 
 >
->Matthew Arnold. 
+>Matthew Arnold.[^9] 
 
 
 ### XXXVI 
@@ -1229,7 +1228,7 @@ cantant.
 >
 >*The spirit of thy sire."* 
 >
->Macaulay. 
+>Macaulay.[^10] 
 
 
 ### XXXVIII 
@@ -1360,7 +1359,7 @@ etiam nunc lupam vivam in Capit�lio habent.
 >
 >*iactat ultōrem.* 
 >
->Horace.
+>Horace.[^11]
 
 ---
 
@@ -1467,7 +1466,7 @@ mortique se tr�didit.
 >
 >*aut Lacedaemonium Tarentum.* 
 >
->Horace.
+>Horace.[^12]
 
 ---
 
@@ -1513,7 +1512,7 @@ mortique se tr�didit.
 >
 >*In fragrant bosom, smiling through her tears.*
 >
->Charles Kingsley. 
+>Charles Kingsley.[^13] 
 
 
 ### XLVI 
@@ -1584,7 +1583,7 @@ et omnium rerum maxime virī sui mortem timēbat.
 >
 >*dulce rīdeat ad patrem.*
 >
->Catullus.
+>Catullus.[^14]
 
 ---
 
@@ -1598,7 +1597,7 @@ et omnium rerum maxime virī sui mortem timēbat.
 >
 >*Of ashen-speared Priam, perish all.*
 >
->Charles Kingsley. 
+>Charles Kingsley.[^15]
 
 
 ### XLVIII 
@@ -1660,7 +1659,7 @@ terram alienam in servit�tem ductae.
 >
 >*Quidquid id est, timeo Danaos et dōna ferentes.*
 >
->Virgil. 
+>Virgil.[^16]
 
 ---
 
@@ -1678,7 +1677,7 @@ terram alienam in servit�tem ductae.
 >
 >*There had made a lasting spring,*
 >
->Shakespeare (?) 
+>Shakespeare (?)[^17] 
 
 
 ### L 
@@ -1764,7 +1763,7 @@ in tenebras f�git.
 >
 >*inpositīque rogis iuvenes ante ōra parentum.*
 >
->Virgil. 
+>Virgil.[^18]
 
 Haec et alia multa I�lia e benigno l�di magistro 
 audiēbat. Poste�, iam adolescens, ad longinquas 
@@ -7707,7 +7706,7 @@ vultus, -�s, m. � face, expressio�j
 [^2]: This is real Latin poetry. It is not necessary to the 
 story. Ask your teacher to read it to you. 
 
-[^3]: Horace. Carm. III. 1, 2-5.
+[^3]: Horace. Carm. III. 1, lines 2-5.
 
 [^4]: John Keats Song of the Indian Maid, from Endymion lines 54-58.
 
@@ -7720,11 +7719,24 @@ the first and second declensions has in the main been discontinued.
 The long endings in the third declension will be 
 marked till the end of Chapter XXXV. 
 
-[^8]: Virgil quote p.45 of PDF
+[^8]: Virgil. Aeneid. II. 116-117
 
+[^9]: Matthew Arnold. Apollo Musagetes. lines 29-32.
 
+[^10]: The Prophecy of Capys from 'Lays of Ancient Rome' by Thomas Babington Macaulay. Stanza XV.
 
+[^11]: Horace. Carm. I. 2, lines 13-18.
 
+[^12]: Horace. Carm. III. 5, lines 49-56.
 
+[^13]: Charles Kingsley. Hypatia Ch. 8.
 
+[^14]: Catullus Carm. 61, lines 216-220.
 
+[^15]: Charles Kingsley Hypatia Ch. 8.
+
+[^16]: Virgil. Aeneid. II. lines 13-16, 48-49.
+
+[^17]: Shakespeare. Orpheus lines 1-6.
+
+[^18]: Virgil. Georgics. IV. lines 471-477.
