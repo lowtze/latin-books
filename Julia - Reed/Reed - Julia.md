@@ -1715,7 +1715,7 @@ the music.
 
 ### LI 
 Orphēūs tandem ad Mānes descendere constituit, 
-et saevum Plūtōnis animum cantū dulcī mulcēre.  
+et saevum Plūtōnis animum cantū dulcī mulcēre.
 "Fortasse," inquit. "Plūtō Persephonēque rēgīna 
 vōce lyrāque meā mulcēbuntur, et veniam mihi 
 dabunt; fortasse Eurydicēn ad virum ēius remittent." 
