@@ -5,7 +5,7 @@ publisher: The MacMillan Company
 year: 1941
 lang: la
 cover-image: "./images/cover-edited.png"
-version: 0.3
+version: 0.4
 ---
 
 tags: [[Latin Language|Latin]]
@@ -708,64 +708,64 @@ carmina mox legētis et in memoriae tabulīs scribētis.
 >
 >Keats. 
 
-# end p35
+
 ### XIX 
-Inter de�s Rōmānos agricolae nōn s�lum Cererem 
-sed Bacchum quoque ad�rābant et in summ� hon�re 
-habēbant. Bacchus enim vīnum bominibus dedit 
-et mult�s artes docuit. Ad Bacchl �r�s agricolae 
-d�na multa, et in primls �v�s vīnumque i�cundum, 
-ferēbant, et �r�s fl�ribus laetīs pampinisque 
-ornābant. Deus igitur vites Italic�s c�rābat, et � 
-perlcul� defendēbat. Form�sus erat Dens, et, 
-quod vit es amābat, capill�s su�s pampinls saepe 
-ornābat. Nec Ital�s Graec�sque s�lum docēbat, 
-sed ad longinqu�s ten�s n�vigābat, aliisque gentibus 
-vīnum dabat, artesque rustic�s docēbat. 
+Inter deōs Rōmānos agricolae nōn sōlum Cererem 
+sed Bacchum quoque adōrābant et in summō honōre 
+habēbant. Bacchus enim vīnum hominibus dedit 
+et multās artēs docuit. Ad Bacchī ārās agricolae 
+dōna multa, et in primīs ūvās vīnumque iūcundum, 
+ferēbant, et ārās flōribus laetīs pampinīsque 
+ornābant. Deus igitur vītēs Ītalicās cūrābat, et ā 
+perīculō dēfendēbat. Formōsus erat Deus, et, 
+quod vītēs amābat, capillōs suōs pampinīs saepe 
+ornābat. Nec Ītalōs Graecōsque sōlum docēbat, 
+sed ad longinquās tenās nāvigābat, aliīsque gentibus 
+vīnum dabat, artēsque rusticās docēbat. 
 
 
 ###  XX
 Deus, ubi trans mare Aegaeum quondam 
-n�vigābat, ad insulam parvam n�vem gubern�vit, 
-et err�ribus longis fessus, se in �r� maritima 
-prostr�vit et somn� placid� corpus animumque 
-recreābat. Mox autem plr�tae quoque, mali 
-homines, n�vem ad insulam impulērunt. Ubi 
-iuvenem form�sum in �r� vidērunt, tum ver� 
-magno gaudi�, "Ecce! "inquiunt, "nōn sine 
-praed� ad patriam nostram n�vig�bimus. Homi- 
-nem rapt�bimus et in n�vem furtim imp�ne- 
-mus, tum cito cum captiv� ad �fricam n�vem 
-impellemus. �fricae incolae serv�s deslderant, 
-et pec�niam multam n�bis d�bunt, si n�s iuvenem 
-tarn pulchrum tr�diderimus." Tum plr�tae, mali 
-ign�vique ho min es, deum raptāvērunt et in n�vem 
-imposuērunt; nec tarnen iuvenem f essum e 
-somn� excitāvērunt. 
+nāvigābat, ad insulam parvam nāvem gubernāvit, 
+et errōribus longīs fessus, sē in ōrā maritimā 
+prostrāvit et somnō placidō corpus animumque 
+recreābat. Mox autem pīrātae quoque, malī 
+hominēs, nāvem ad insulam impulērunt. Ubi 
+iuvenem formōsum in ōrā vidērunt, tum vērō 
+magnō gaudiō, "Ecce!" inquiunt, "nōn sine 
+praedā ad patriam nostram nāvigābimus. Hominem 
+raptābimus et in nāvem furtim impōnēmus, 
+tum cito cum captīvō ad Āfricam nāvem 
+impellēmus. Āfricae incolae servōs dēsīderant, 
+et pecūniam multam nōbīs dabunt, si nōs iuvenem 
+tam pulchrum trādiderimus." Tum pīrātae, malī 
+ignāvīque hominēs, deum raptāvērunt et in nāvem 
+imposuērunt; nec tamen iuvenem fessum ē 
+somnō excitāvērunt. 
 
 
 ### XXI
-Ubi autem Bacchus e somn� se excit�vit, et und�s 
-caerule�s undique vidit, tum nec ir�tus nec 
-perterritus, <e Nōn ego," inquit, "stult�s ign�- 
-v�sque timeo; mox tarnen plr�tae n�men meum 
-videbunt et vehementer timebunt." Tum e medi� 
-n�ve vitis fl�rēbat et in altum ascendēbat. Ē
-vite r�mi, e r�mis pampini fl�rēbant, et de summ Ts 
-r�mis �vae purpureae pendēbant. Nōn iam Can- 
-dida erant vela, sed l�ce purpure� fulgēbant. 
+Ubi autem Bacchus ē somnō sē excitāvit, et undās 
+caeruleās undique vīdit, tum nec īrātus nec 
+perterritus, "Nōn ego," inquit, "stultōs ignāvōsque 
+timeo; mox tamen pīrātae nūmen meum 
+vidēbunt et vehementer timēbunt." Tum ē mediā 
+nāve vītis flōrēbat et in altum ascendēbat. Ē
+vīte rāmī, ē rāmīs pampinī flōrēbant, et dē summīs 
+rāmīs ūvae purpureae pendēbant. Nōn iam candida 
+erant vēla, sed lūce purpureā fulgēbant. 
 
-Ubi nautae vitem miram in media n�ve vide- 
-runt, tum magno tim�re Deum spectāvērunt; 
-capilli in capitibus horruērunt. Subito ex undis 
-tigres le�nesque saevi in n�vem ascendērunt et in 
-naut�s pertemt�s cucurrērunt. Pir�tae, terr�ris 
-pleni, e n�ve in mare se prostr� vērunt . Deinde 
-luppiter propter misericordiam homines in del- 
-phln�s convertit. Intere� Nept�nus vela purpurea 
-ventis secundls implevit, et s�lus sub Vitium 
-umbr� Bacchus ad terr�s longinqu�s navig�vit. 
-
+Ubi nautae vītem mīram in mediā nāve vīdērunt, 
+tum magnō timōre Deum spectāvērunt; 
+capillī in capitibus horruērunt. Subitō ex undīs 
+tigrēs leōnēsque saevī in nāvem ascendērunt et in 
+nautās perterritōs cucurrērunt. Pīrātae, terrōris 
+plēnī, ē nāve in mare sē prostrāvērunt. Deinde 
+Iuppiter propter misericordiam hominēs in delphīnās 
+convertit. Intereā Neptūnus vēla purpurea 
+ventīs secundīs implēvit, et sōlus sub vītium 
+umbrā Bacchus ad terrās longinquās nāvigāvit. 
+# end p37
 ---
 
 ## HORĀTIUS CODES
@@ -1038,7 +1038,7 @@ patriam conserv�bo. Nōn innupta, non sine
 liberis dulcibus ad Inferos descendam. Hades me 
 in m�trim�nium d�cet; m�ites Graeci et Graecia 
 patria mihi pro liberis ērunt. Ita et Inf eri et Superi 
-me in summo hon�re habebunt, quia libenter pro 
+me in summo hon�re habēbunt, quia libenter pro 
 patri� e vlt� excessero." 
 
 
@@ -1241,7 +1241,7 @@ Tr�i� d�igentissime apport�verat. Omnium Vir-
 ginum Vest�lium n�tissima erat Rhea Silvia, 
 Rōmuli Remlque m�ter. Haec nōn Rōmae sed 
 Albae Longae habitābat, n�ndum enim Roma 
-aedific�ta erat. Aeneas, ubi ad Italiam venit, 
+aedific�ta erat. Aeneas, ubi ad Ītaliam venit, 
 paucos annos in his regi�nibus habitābat, et 
 tandem � Dls Immort�libus ad caelum voc�tus 
 est. Deinde Ascanius, Aeneae fīlius, Albam Lon- 
@@ -1768,7 +1768,7 @@ in tenebras f�git.
 Haec et alia multa I�lia e benigno l�di magistro 
 audiēbat. Poste�, iam adolescens, ad longinquas 
 terras n�vig�vit et ipsa res multas mir�sque vidit. 
-V�s quoque fortasse ad Italiam Graeciamque �lim 
+V�s quoque fortasse ad Ītaliam Graeciamque �lim 
 ipsi n�vig�bitis, et illa loca oculis vestris vidēbitis, 
 ubi poetae habitābant, de quibus haec omnia 
 narrāvērunt. 
