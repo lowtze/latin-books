@@ -7,7 +7,10 @@ There are two versions of the cleaned up copy:
 
 Each version has a Markdown and Epub copy. The Epub is generated in Calibre directly from the Markdown original. You are welcome to make your own Epub copies using the Markdown and converter of your choice (if they are especially pretty, please let me know so I can link them here!).
 
+Both versions currently do not include the vocabulary sections at the end as these are a nightmare to reformat at the moment. For now, use the indispensible Whitaker's Words to query your vocab: https://latin-words.com/
+
 ## To-Do:
 
 - [ ] do a second round of proofing
 - [ ] add Epubs
+- [ ] reformat and add in the vocabulary sections
