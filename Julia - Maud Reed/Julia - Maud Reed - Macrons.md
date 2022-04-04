@@ -241,6 +241,7 @@ Notice their earrings and bracelets.
 ## IŪLIA
 
 ### I 
+
 Iūlia puella parva est. Prope ōram maritimam 
 habitat. Britannia est Iūliae patria. Puellae 
 Britannicae ōram maritimam amant. Nautās 
@@ -259,6 +260,7 @@ portat. Nautae puellam parvam laudant.
 
 
 ### II
+
 Ad Iūliae casam pīrāta vēnit. Rubra est pīrātae 
 tunica, splendidae sunt galea et hasta. Iūlia 
 prope casae portam stat et pīrātam spectat; 
@@ -277,7 +279,8 @@ sunt lacrimae puellae, sed frustrā—pīrāta in extrēmā
 nāviculā stat et nāviculam gubernat. 
 
 
-### III 
+### III
+ 
 Agricola ad casam vēnit. Fīlia parva nōn 
 est in casā. Tum agricola, "Iūlia," exclāmat, 
 "fīlia mea, ubi es?" Iterum Iūliam vocat, sed 
@@ -298,6 +301,7 @@ lūliam ad agricolae nāviculam portant.
 
 
 ### IV 
+
 Laeta est Iūlia quod iterum casam parvam cum 
 agricolā habitat. Sed Iūlia puella duodecim 
 annōrum iam est. Itaque agricola fīliae suae 
@@ -330,6 +334,7 @@ fābulās narro.
 ## ĪTALIA 
 
 ### V 
+
 Caeruleum est Ītaliae caelum. Ītalī caelum 
 caeruleum amant. Britannis quoque caelum 
 caeruleum grātum est, sed nōn saepe Britanniae 
@@ -354,6 +359,7 @@ plaustrīs portant.
 ## RŌMA
 
 ### VI 
+
 Ōlim Rōmānī oppidum parvum habitābant. Nunc 
 magna et splendida est Rōma; magnae et lātae 
 sunt oppidī viae. In angulīs viārum rosae sunt; 
@@ -390,6 +396,7 @@ Lacertīs et cicādis grātum est caelum caeruleum.
 
 
 ### VII 
+
 Nunc ūnum Deum adōrant et Ītalī et Britanni. 
 Sed ōlim Rōmānī multōs deōs, multās deās, adōrābant. 
 De deis Rōmānis fābulās narrābo. Cerēs 
@@ -413,6 +420,7 @@ Inferōs portat."
 
 
 ### VIII 
+
 Cerēs nōn in Siciliā erat, sed iam ad insulam 
 properāvit. Nusquam erat Persephonē. Tum 
 Dea, īrāta et perterrita, passīs capillīs per terrās 
@@ -430,6 +438,7 @@ cibum in plaustrīs magnīs ad oppida portābant.
 
 
 ### IX 
+
 Tandem Cerēs prope parvam agricolae casam in 
 saxō gelidō sedēbat. Dea maesta diū lacrimābat. 
 Tum ē casā puella parva ad Deam vēnit. Puellae 
@@ -454,6 +463,7 @@ Dea manēbat et cotīdiē Triptolemum cūrābat.
 
 
 ### X 
+
 Iam lūna et stellae in caelō fulgēbant. Umbrae 
 terrās et pontum profundum cēlābant. Per 
 terrās virī et fēminae animōs somnō laxābant. 
@@ -476,6 +486,7 @@ et vīnum agricolīs monstrābit."
 
 
 ### XI 
+
 Tum Cerēs ex agricolae casā ambulāvit. Sed 
 flēvērunt familia et flēvit Triptolemus, quod nōn 
 iam in Deae gremiō dormītābat. Māne agricola 
@@ -516,6 +527,7 @@ were used in their worship.
 
 
 ### XII 
+
 Tum Persephonē cum Mercuriō ē regnō Inferōrum 
 properāvit. Mercurius equōs validōs incitāvit, 
 et equī per clīvōs altōs, per campōs lātōs libenter 
@@ -535,6 +547,7 @@ in ārīs victimās mactābant.
 ## RŌMULUS ET SABĪNA
 
 ### XIII 
+
 Rōmulus erat Martis fīlius. Mars erat deus belli 
 et armōrum. Mīlitēs Rōmāni Martem adōrābant 
 et in Martis ārīs victimās mactābant. Rōmulus 
@@ -562,6 +575,7 @@ gladiī nec hastae fuērunt.
 
 
 ### XIV 
+
 Maestī igitur et īrātī Sabīnī ad terram Sabīnam 
 properāvērunt. Per tōtam hiemem ibi manēbant 
 et arma dīligenter parābant. Via est longa inter 
@@ -587,6 +601,7 @@ fīliae vestrae."
 ## MARS RŌMULUM IN CAELUM VOCAT
 
 ### XV 
+
 In angulō Tiberis Campus Martius iacēbat. In 
 Campō Martiō iuvenēs Rōmānī corpora dīligenter 
 exercēbant. Ita firma et valida habēbant corpora. 
@@ -607,6 +622,7 @@ incitāvit. Rōmulus cum patre ad stellās properāvit.
 
 
 ### XVI 
+
 Caelum iterum serēnum erat. Iam Rōmānī in 
 Campō Martiō iterum ambulābant, sed rēgem 
 nusquam vidēbant. Mox autem Iūlius, iuvenis 
@@ -639,6 +655,7 @@ nūmen adōrābant.
 
 
 ### XVII 
+
 Fābulam dē Horātiō, poētā praeclārō, nunc vōbis 
 narrābo. Apūlia regio est Ītaliae. Multās silvās, 
 multōs et amoenōs campōs habet. In pr�ātīs 
@@ -658,6 +675,7 @@ Itaque diū et dīligenter puerum quaerēbant.
 
 
 ### XVIII 
+
 Tandem in caelō columbās albās vidēbant. 
 Columbae per caelum undique volābant et folia ad 
 locum herbōsum portābant. Parentēs ad locum 
@@ -694,6 +712,7 @@ carmina mox legētis et in memoriae tabulīs scribētis.
 
 
 ### XIX 
+
 Inter deōs Rōmānos agricolae nōn sōlum Cererem 
 sed Bacchum quoque adōrābant et in summō honōre 
 habēbant. Bacchus enim vīnum hominibus dedit 
@@ -708,7 +727,8 @@ sed ad longinquās tenās nāvigābat, aliīsque gentibus
 vīnum dabat, artēsque rusticās docēbat. 
 
 
-###  XX
+### XX
+
 Deus, ubi trans mare Aegaeum quondam 
 nāvigābat, ad insulam parvam nāvem gubernāvit, 
 et errōribus longīs fessus, sē in ōrā maritimā 
@@ -729,6 +749,7 @@ somnō excitāvērunt.
 
 
 ### XXI
+
 Ubi autem Bacchus ē somnō sē excitāvit, et undās 
 caeruleās undique vīdit, tum nec īrātus nec 
 perterritus, "Nōn ego," inquit, "stultōs ignāvōsque 
@@ -774,6 +795,7 @@ umbrā Bacchus ad terrās longinquās nāvigāvit.
 
 
 ### XXII 
+
 Rōmānī alterum Horātium memoriā tenēbant et 
 in summō honōre habēbant. 
 
@@ -811,6 +833,7 @@ Italian Warrior
 
 
 ### XXIII 
+
 Intereā Porsennae facta Rōmānōs nōn fefellērunt. 
 Virginēs vestālēs prope ignem sacrum deōs ōrābant; 
 mātrōnae cum līberīs suīs dāna ad templa ferēbant; 
@@ -828,6 +851,7 @@ validī hostēs.
 
 
 ### XXIV 
+
 Hostēs ante urbis mūrōs castra posuērunt. 
 Castra vallō et fossā firmāvērunt. Tum ē castrīs 
 excessērunt et moenia Rōmāna oppugnāvērunt. 
@@ -853,6 +877,7 @@ pontem tēcum conservābo."
 
 
 ### XXV 
+
 Trēs igitur Rōmānī in angustō locō stetērunt. 
 Nec Etruscī pugnam dētrectāvērunt. Trēs principēs 
 contrā Rōmānōs prōcēdunt. Superbī et 
@@ -872,6 +897,7 @@ Rōmānōs, tam dīros hostes, prōcessit.
 
 
 ### XXVI 
+
 Cīvēs Rōmānī intereā pontem summīs vīribus 
 excīdunt. Mox pontem in flūmen prosternent. 
 Tum Lartius et Herminius hastās in hostem 
@@ -887,6 +913,7 @@ ad pontum natābant.
 
 
 ### XXVII
+
 Horātius iam in hostibus sōlus manēbat. Sed 
 adhūc impavidus in flūminis rīpā stābat, et Tiberim 
 ōrāvit: "O Tiberīne pater, tē omnes Rōmānī 
@@ -938,6 +965,7 @@ an earlier day :
 
 
 ### XXVIII 
+
 In Graeciā frātrēs duo, Agamemnōn et Menelāus 
 nōmine, ōlim habitābant. Graeci frātrēs Atrīdās 
 vocābant, quod Atrei fīlii erant. Agamemnōn 
@@ -955,6 +983,7 @@ dedit, et trans mare ad urbem Trōiam properāvit.
 
 
 ### XXIX 
+
 Menelāus, ubi hospitis perfidiam vTdit, ad 
 frātrem contendit et omnia narrāvit. Agamemnōn 
 īrā terribilī exclāmāvit, "Perfidus est Paris; 
@@ -980,6 +1009,7 @@ Deae nūmen plācāverint."
 
 
 ### XXX 
+
 Rex, ubi ōrāculi responsum audīvit, diū sēcum 
 lacrimābat. "Est mihi domi," inquit, "fīlia cāra, 
 Īphigeneia nōmine, sēdecim annōrum puella. Sine 
@@ -999,6 +1029,7 @@ portum mīsit.
 
 
 ### XXXI 
+
 Itaque magnā spē Īphigeneia ad castra Graecōrum 
 vēnit. Simul āc reēgem vīdit, tum cito ad 
 patrem cucurrit, et collo cāro bracchia candida dedit. 
@@ -1028,6 +1059,7 @@ patriā ē vītā excessero."
 
 
 ### XXXII 
+
 Dīxit, et vultū serēno ad āram prōcessit, et vītam 
 cum sanguine fūdit. Ubi Graeci, misericordiae et 
 amōris plēni, virginem fortem vīdērunt, ex omnibus 
@@ -1055,6 +1087,7 @@ patriā libenter dēdidērunt.
 ## CȲRUS, CROESUS, SOLŌN
 
 ### XXXIII 
+
 Ōlim in Lȳdiā regnābat rex, Croesus nōmine, inter 
 omnēs gentēs propter dīvitias nōtus. Lȳdia Asiae 
 regio erat, Persiae finitima. Nec procul, trans 
@@ -1085,6 +1118,7 @@ last offering to Apollo.
 
 
 ### XXXIV 
+
 Post paucos annos Cȳrus, Persārum princeps, 
 cōpias in Mēdōrum agros dūxit, et tōtam regiōnem 
 celeriter vīcit. Itaque et Mēdiae et Persiae, 
@@ -1108,6 +1142,7 @@ tum tē rogumque incendent."
 
 
 ### XXXV 
+
 Māne igitur servi rogum ingentem parāvērunt 
 et Croesum eō imposuērunt. Tum Croesus ubi 
 calamitātem suam sensit, tristī vultū gemitum ab 
@@ -1146,6 +1181,7 @@ cārum amicum habēbat.
 
 
 ### XXXVI 
+
 Inter montes Graecos vallis iacēbat variis flōribus 
 laeta et omnium rērum fēcundissima. Dē montibus 
 aquae frigidae dēsiliēbant, et per campos virides 
@@ -1165,6 +1201,7 @@ sed in prīmis poētae, conservantur et docentur.
 
 
 ### XXXVII 
+
 Mūsae, simul āc in vallem descendērunt, carmina 
 mīra et dīvīna cecinērunt. Argūtae sunt Mūsārum 
 vōces, nec per tōtum orbem terrārum dulcior est 
@@ -1215,6 +1252,7 @@ cantant.
 
 
 ### XXXVIII 
+
 In Foro Rōmāno ruīnae sunt templi Vestae rotundi, 
 nec procul Virginum Vestālium domus. Hae 
 virgines omnium Rōmānārum sacerrimae putābantur, 
@@ -1242,6 +1280,7 @@ Numitor ē regno ā frātre expulsus est.
 
 
 ### XXXIX 
+
 Amūlius igitur urbem iam regēbat. Sed Albae 
 Longae puella erat, Rhēa Silvia nōmine, Numitōris 
 fīlia. Hanc puellam timēbat Amūlius, quod iusti 
@@ -1264,6 +1303,7 @@ The Wolf of the Capitol.
 
 
 ### XL 
+
 Amūlio, ubi in rēgiā sedēbat, cīves hanc rem 
 nuntiāvērunt. Tum vērō rex īrā et timōre vehementer 
 commōtus est. Itaque servis perterritis,
@@ -1287,6 +1327,7 @@ ex urbe expulimus."
 
 
 ### XLI 
+
 Gemini intereā prope flūminis rīpam ā servis 
 relicti erant. Mars autem fīliōrum nōn immemor 
 erat; lupam ad geminos mīsit. Lupa, ubi pueros 
@@ -1301,6 +1342,7 @@ dē orīgine suā sciēbant.
 
 
 ### XLII 
+
 Omnes hōs annos Mars fīlios suos dīligenter 
 conservābat, et tandem geminis, iam adolescentibus 
 omnia monstrāvit. Tum frātres, propter mātris 
@@ -1348,9 +1390,10 @@ etiam nunc lupam vīvam in Capitōlio habent.
 ## METTIUS CURTIUS 
 
 ### XLIII 
+
 Ōlim in Foro Rōmāno terra discessit, et hiātus 
 lātus altusque appāruit. Cīves omnes saxa plūrima 
-in hi�ātum dēiēcērunt; hiātus autem nullo modo 
+in hiātum dēiēcērunt; hiātus autem nullo modo 
 explēbātur, sed indiēs crescēbat. Tum cīves 
 perterriti. "Sine dubio," inquiunt, "Dī Immortāles 
 summam calamitātem Rōmae praedīcunt." 
@@ -1377,6 +1420,7 @@ discessit.
 ## RĒGULUS
 
 ### XLIV 
+
 Nulli per tōtum orbem terrārum cīves libentius 
 quam Rōmāni sē patriae dedērunt. 
 
@@ -1402,6 +1446,7 @@ capti sunt.
 
 
 ### XLV 
+
 Inter captīvos Rēgulus ipse Carthāginem ductus 
 est. Tum summo gaudio Poeni, "Nunc," inquiunt, 
 "Rōmānos vicīmus; Rōmāni igitur pācem 
@@ -1497,6 +1542,7 @@ mortīque sē trādidit.
 
 
 ### XLVI 
+
 Inter Trōiānos quī tot annos urbem suam contrā 
 Graecos dēfendēbant, erat Hector, omnium rēgis 
 fīliōrum fortissimus, et Priamo patri cārissimus. 
@@ -1529,6 +1575,7 @@ HECTOR AND ANDROMACHE.
 
 
 ### XLVII 
+
 Sed Andromachē sollicito animo virum hīs 
 verbīs culpāvit: "O Hector," inquit, "tōtam 
 tuam vītam inter hostes et proelia agis; multi 
@@ -1581,6 +1628,7 @@ et omnium rērum maximē viri sui mortem timēbat.
 
 
 ### XLVIII 
+
 Hōc modo Trōia tandem capta est. Graeci verbis 
 falsis Trōiānos decepērunt. "O Trōiāni," inquiunt, 
 "in hāc terrā indiēs languescimus. Bello 
@@ -1615,6 +1663,7 @@ The Wooden Horse.
 
 
 ### XLIX 
+
 Sed ubi nox umbris profundis terras tegēbat, 
 Graeci, quī in equo sunt cēlāti, ē cavis lateribus 
 furtim dēsiliēbant, et facem lūcidam comitibus 
@@ -1662,6 +1711,7 @@ terram aliēnam in servitūtem ductae.
 
 
 ### L 
+
 Per omnes gentes praeclārum est Orphei nōmen, 
 qui omnium poētārum sūavissimē canēbat. Et 
 vōce argūtā et lyrā canēbat, quō sonitū omnia per 
@@ -1694,6 +1744,7 @@ the music.
 
 
 ### LI 
+
 Orphēūs tandem ad Mānes descendere constituit, 
 et saevum Plūtōnis animum cantū dulcī mulcēre.
 "Fortasse," inquit, "Plūtō Persephonēque rēgīna 
@@ -1721,6 +1772,7 @@ uxōrem tuam tenebrae fundentur."
 
 
 ### LII
+
 Iam Orphēūs magnā spē ad Superos ascendēbat; 
 iam Eurydicē pōst virum ad lūcem properābat, 
 iam ad extreēmas tenebras veniēbat. Orphēūs, 

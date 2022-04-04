@@ -241,6 +241,7 @@ Notice their earrings and bracelets.
 ## IULIA
 
 ### I 
+
 Iulia puella parva est. Prope oram maritimam 
 habitat. Britannia est Iuliae patria. Puellae 
 Britannicae oram maritimam amant. Nautas 
@@ -259,6 +260,7 @@ portat. Nautae puellam parvam laudant.
 
 
 ### II
+
 Ad Iuliae casam pirata venit. Rubra est piratae 
 tunica, splendidae sunt galea et hasta. Iulia 
 prope casae portam stat et piratam spectat; 
@@ -278,6 +280,7 @@ navicula stat et naviculam gubernat.
 
 
 ### III 
+
 Agricola ad casam venit. Filia parva non 
 est in casa. Tum agricola, "Iulia," exclamat, 
 "filia mea, ubi es?" Iterum Iuliam vocat, sed 
@@ -298,6 +301,7 @@ luliam ad agricolae naviculam portant.
 
 
 ### IV 
+
 Laeta est Iulia quod iterum casam parvam cum 
 agricola habitat. Sed Iulia puella duodecim 
 annorum iam est. Itaque agricola filiae suae 
@@ -330,6 +334,7 @@ fabulas narro.
 ## ITALIA 
 
 ### V 
+
 Caeruleum est Italiae caelum. Itali caelum 
 caeruleum amant. Britannis quoque caelum 
 caeruleum gratum est, sed non saepe Britanniae 
@@ -354,6 +359,7 @@ plaustris portant.
 ## ROMA
 
 ### VI 
+
 Olim Romani oppidum parvum habitabant. Nunc 
 magna et splendida est Roma; magnae et latae 
 sunt oppidi viae. In angulis viarum rosae sunt; 
@@ -390,6 +396,7 @@ Lacertis et cicadis gratum est caelum caeruleum.
 
 
 ### VII 
+
 Nunc unum Deum adorant et Itali et Britanni. 
 Sed olim Romani multos deos, multas deas, adorabant. 
 De deis Romanis fabulas narrabo. Ceres 
@@ -413,6 +420,7 @@ Inferos portat."
 
 
 ### VIII 
+
 Ceres non in Sicilia erat, sed iam ad insulam 
 properavit. Nusquam erat Persephone. Tum 
 Dea, irata et perterrita, passis capillis per terras 
@@ -430,6 +438,7 @@ cibum in plaustris magnis ad oppida portabant.
 
 
 ### IX 
+
 Tandem Ceres prope parvam agricolae casam in 
 saxo gelido sedebat. Dea maesta diu lacrimabat. 
 Tum e casa puella parva ad Deam venit. Puellae 
@@ -454,6 +463,7 @@ Dea manebat et cotidie Triptolemum curabat.
 
 
 ### X 
+
 Iam luna et stellae in caelo fulgebant. Umbrae 
 terras et pontum profundum celabant. Per 
 terras viri et feminae animos somno laxabant. 
@@ -476,6 +486,7 @@ et vinum agricolis monstrabit."
 
 
 ### XI 
+
 Tum Ceres ex agricolae casa ambulavit. Sed 
 fleverunt familia et flevit Triptolemus, quod non 
 iam in Deae gremio dormitabat. Mane agricola 
@@ -516,6 +527,7 @@ were used in their worship.
 
 
 ### XII 
+
 Tum Persephone cum Mercurio e regno Inferorum 
 properavit. Mercurius equos validos incitavit, 
 et equi per clivos altos, per campos latos libenter 
@@ -535,6 +547,7 @@ in aris victimas mactabant.
 ## ROMULUS ET SABINA
 
 ### XIII 
+
 Romulus erat Martis filius. Mars erat deus belli 
 et armorum. Milites Romani Martem adorabant 
 et in Martis aris victimas mactabant. Romulus 
@@ -562,6 +575,7 @@ gladii nec hastae fuerunt.
 
 
 ### XIV 
+
 Maesti igitur et irati Sabini ad terram Sabinam 
 properaverunt. Per totam hiemem ibi manebant 
 et arma diligenter parabant. Via est longa inter 
@@ -587,6 +601,7 @@ filiae vestrae."
 ## MARS ROMULUM IN CAELUM VOCAT
 
 ### XV 
+
 In angulo Tiberis Campus Martius iacebat. In 
 Campo Martio iuvenes Romani corpora diligenter 
 exercebant. Ita firma et valida habebant corpora. 
@@ -607,6 +622,7 @@ incitavit. Romulus cum patre ad stellas properavit.
 
 
 ### XVI 
+
 Caelum iterum serenum erat. Iam Romani in 
 Campo Martio iterum ambulabant, sed regem 
 nusquam videbant. Mox autem Iulius, iuvenis 
@@ -639,6 +655,7 @@ numen adorabant.
 
 
 ### XVII 
+
 Fabulam de Horatio, poeta praeclaro, nunc vobis 
 narrabo. Apulia regio est Italiae. Multas silvas, 
 multos et amoenos campos habet. In pr�atis 
@@ -658,6 +675,7 @@ Itaque diu et diligenter puerum quaerebant.
 
 
 ### XVIII 
+
 Tandem in caelo columbas albas videbant. 
 Columbae per caelum undique volabant et folia ad 
 locum herbosum portabant. Parentes ad locum 
@@ -694,6 +712,7 @@ carmina mox legetis et in memoriae tabulis scribetis.
 
 
 ### XIX 
+
 Inter deos Romanos agricolae non solum Cererem 
 sed Bacchum quoque adorabant et in summo honore 
 habebant. Bacchus enim vinum hominibus dedit 
@@ -708,7 +727,8 @@ sed ad longinquas tenas navigabat, aliisque gentibus
 vinum dabat, artesque rusticas docebat. 
 
 
-###  XX
+### XX
+
 Deus, ubi trans mare Aegaeum quondam 
 navigabat, ad insulam parvam navem gubernavit, 
 et erroribus longis fessus, se in ora maritima 
@@ -729,6 +749,7 @@ somno excitaverunt.
 
 
 ### XXI
+
 Ubi autem Bacchus e somno se excitavit, et undas 
 caeruleas undique vidit, tum nec iratus nec 
 perterritus, "Non ego," inquit, "stultos ignavosque 
@@ -774,6 +795,7 @@ umbra Bacchus ad terras longinquas navigavit.
 
 
 ### XXII 
+
 Romani alterum Horatium memoria tenebant et 
 in summo honore habebant. 
 
@@ -811,6 +833,7 @@ Italian Warrior
 
 
 ### XXIII 
+
 Interea Porsennae facta Romanos non fefellerunt. 
 Virgines vestales prope ignem sacrum deos orabant; 
 matronae cum liberis suis dana ad templa ferebant; 
@@ -828,6 +851,7 @@ validi hostes.
 
 
 ### XXIV 
+
 Hostes ante urbis muros castra posuerunt. 
 Castra vallo et fossa firmaverunt. Tum e castris 
 excesserunt et moenia Romana oppugnaverunt. 
@@ -853,6 +877,7 @@ pontem tecum conservabo."
 
 
 ### XXV 
+
 Tres igitur Romani in angusto loco steterunt. 
 Nec Etrusci pugnam detrectaverunt. Tres principes 
 contra Romanos procedunt. Superbi et 
@@ -872,6 +897,7 @@ Romanos, tam diros hostes, processit.
 
 
 ### XXVI 
+
 Cives Romani interea pontem summis viribus 
 excidunt. Mox pontem in flumen prosternent. 
 Tum Lartius et Herminius hastas in hostem 
@@ -887,6 +913,7 @@ ad pontum natabant.
 
 
 ### XXVII
+
 Horatius iam in hostibus solus manebat. Sed 
 adhuc impavidus in fluminis ripa stabat, et Tiberim 
 oravit: "O Tiberine pater, te omnes Romani 
@@ -938,6 +965,7 @@ an earlier day :
 
 
 ### XXVIII 
+
 In Graecia fratres duo, Agamemnon et Menelaus 
 nomine, olim habitabant. Graeci fratres Atridas 
 vocabant, quod Atrei filii erant. Agamemnon 
@@ -955,6 +983,7 @@ dedit, et trans mare ad urbem Troiam properavit.
 
 
 ### XXIX 
+
 Menelaus, ubi hospitis perfidiam vTdit, ad 
 fratrem contendit et omnia narravit. Agamemnon 
 ira terribili exclamavit, "Perfidus est Paris; 
@@ -980,6 +1009,7 @@ Deae numen placaverint."
 
 
 ### XXX 
+
 Rex, ubi oraculi responsum audivit, diu secum 
 lacrimabat. "Est mihi domi," inquit, "filia cara, 
 Iphigeneia nomine, sedecim annorum puella. Sine 
@@ -999,6 +1029,7 @@ portum misit.
 
 
 ### XXXI 
+
 Itaque magna spe Iphigeneia ad castra Graecorum 
 venit. Simul ac reegem vidit, tum cito ad 
 patrem cucurrit, et collo caro bracchia candida dedit. 
@@ -1028,6 +1059,7 @@ patria e vita excessero."
 
 
 ### XXXII 
+
 Dixit, et vultu sereno ad aram processit, et vitam 
 cum sanguine fudit. Ubi Graeci, misericordiae et 
 amoris pleni, virginem fortem viderunt, ex omnibus 
@@ -1055,6 +1087,7 @@ patria libenter dediderunt.
 ## CYRUS, CROESUS, SOLON
 
 ### XXXIII 
+
 Olim in Lydia regnabat rex, Croesus nomine, inter 
 omnes gentes propter divitias notus. Lydia Asiae 
 regio erat, Persiae finitima. Nec procul, trans 
@@ -1085,6 +1118,7 @@ last offering to Apollo.
 
 
 ### XXXIV 
+
 Post paucos annos Cyrus, Persarum princeps, 
 copias in Medorum agros duxit, et totam regionem 
 celeriter vicit. Itaque et Mediae et Persiae, 
@@ -1108,6 +1142,7 @@ tum te rogumque incendent."
 
 
 ### XXXV 
+
 Mane igitur servi rogum ingentem paraverunt 
 et Croesum eo imposuerunt. Tum Croesus ubi 
 calamitatem suam sensit, tristi vultu gemitum ab 
@@ -1146,6 +1181,7 @@ carum amicum habebat.
 
 
 ### XXXVI 
+
 Inter montes Graecos vallis iacebat variis floribus 
 laeta et omnium rerum fecundissima. De montibus 
 aquae frigidae desiliebant, et per campos virides 
@@ -1165,6 +1201,7 @@ sed in primis poetae, conservantur et docentur.
 
 
 ### XXXVII 
+
 Musae, simul ac in vallem descenderunt, carmina 
 mira et divina cecinerunt. Argutae sunt Musarum 
 voces, nec per totum orbem terrarum dulcior est 
@@ -1215,6 +1252,7 @@ cantant.
 
 
 ### XXXVIII 
+
 In Foro Romano ruinae sunt templi Vestae rotundi, 
 nec procul Virginum Vestalium domus. Hae 
 virgines omnium Romanarum sacerrimae putabantur, 
@@ -1242,6 +1280,7 @@ Numitor e regno a fratre expulsus est.
 
 
 ### XXXIX 
+
 Amulius igitur urbem iam regebat. Sed Albae 
 Longae puella erat, Rhea Silvia nomine, Numitoris 
 filia. Hanc puellam timebat Amulius, quod iusti 
@@ -1263,7 +1302,8 @@ Silvia geminos, Martis filios, in gremio tenebat.
 The Wolf of the Capitol.
 
 
-### XL 
+### XL
+ 
 Amulio, ubi in regia sedebat, cives hanc rem 
 nuntiaverunt. Tum vero rex ira et timore vehementer 
 commotus est. Itaque servis perterritis,
@@ -1287,6 +1327,7 @@ ex urbe expulimus."
 
 
 ### XLI 
+
 Gemini interea prope fluminis ripam a servis 
 relicti erant. Mars autem filiorum non immemor 
 erat; lupam ad geminos misit. Lupa, ubi pueros 
@@ -1301,6 +1342,7 @@ de origine sua sciebant.
 
 
 ### XLII 
+
 Omnes hos annos Mars filios suos diligenter 
 conservabat, et tandem geminis, iam adolescentibus 
 omnia monstravit. Tum fratres, propter matris 
@@ -1348,9 +1390,10 @@ etiam nunc lupam vivam in Capitolio habent.
 ## METTIUS CURTIUS 
 
 ### XLIII 
+
 Olim in Foro Romano terra discessit, et hiatus 
 latus altusque apparuit. Cives omnes saxa plurima 
-in hi�atum deiecerunt; hiatus autem nullo modo 
+in hiatum deiecerunt; hiatus autem nullo modo 
 explebatur, sed indies crescebat. Tum cives 
 perterriti. "Sine dubio," inquiunt, "Di Immortales 
 summam calamitatem Romae praedicunt." 
@@ -1377,6 +1420,7 @@ discessit.
 ## REGULUS
 
 ### XLIV 
+
 Nulli per totum orbem terrarum cives libentius 
 quam Romani se patriae dederunt. 
 
@@ -1401,7 +1445,8 @@ cucurrerunt. Maior pars exercitus aut necati aut
 capti sunt. 
 
 
-### XLV 
+### XLV
+ 
 Inter captivos Regulus ipse Carthaginem ductus 
 est. Tum summo gaudio Poeni, "Nunc," inquiunt, 
 "Romanos vicimus; Romani igitur pacem 
@@ -1497,6 +1542,7 @@ mortique se tradidit.
 
 
 ### XLVI 
+
 Inter Troianos qui tot annos urbem suam contra 
 Graecos defendebant, erat Hector, omnium regis 
 filiorum fortissimus, et Priamo patri carissimus. 
@@ -1529,6 +1575,7 @@ HECTOR AND ANDROMACHE.
 
 
 ### XLVII 
+
 Sed Andromache sollicito animo virum his 
 verbis culpavit: "O Hector," inquit, "totam 
 tuam vitam inter hostes et proelia agis; multi 
@@ -1581,6 +1628,7 @@ et omnium rerum maxime viri sui mortem timebat.
 
 
 ### XLVIII 
+
 Hoc modo Troia tandem capta est. Graeci verbis 
 falsis Troianos deceperunt. "O Troiani," inquiunt, 
 "in hac terra indies languescimus. Bello 
@@ -1615,6 +1663,7 @@ The Wooden Horse.
 
 
 ### XLIX 
+
 Sed ubi nox umbris profundis terras tegebat, 
 Graeci, qui in equo sunt celati, e cavis lateribus 
 furtim desiliebant, et facem lucidam comitibus 
@@ -1662,6 +1711,7 @@ terram alienam in servitutem ductae.
 
 
 ### L 
+
 Per omnes gentes praeclarum est Orphei nomen, 
 qui omnium poetarum suavissime canebat. Et 
 voce arguta et lyra canebat, quo sonitu omnia per 
@@ -1694,6 +1744,7 @@ the music.
 
 
 ### LI 
+
 Orpheus tandem ad Manes descendere constituit, 
 et saevum Plutonis animum cantu dulci mulcere.
 "Fortasse," inquit, "Pluto Persephoneque regina 
@@ -1721,6 +1772,7 @@ uxorem tuam tenebrae fundentur."
 
 
 ### LII
+
 Iam Orpheus magna spe ad Superos ascendebat; 
 iam Eurydice post virum ad lucem properabat, 
 iam ad extreemas tenebras veniebat. Orpheus, 
