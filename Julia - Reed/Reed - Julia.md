@@ -5,7 +5,7 @@ publisher: The MacMillan Company
 year: 1941
 lang: la
 cover-image: "./images/cover-edited.png"
-version: 0.5
+version: 0.6
 ---
 
 tags: [[Latin Language|Latin]]
@@ -23,7 +23,8 @@ tags: [[Latin Language|Latin]]
 - [[2022-03-25]] - initial commit; reformatted through story II; cleaned up hyphenated words, ToC, page breaks
 - [[2022-03-29]] - added all images; reformatted quotes
 - [[2022-03-30]] - corrected common errors in text (punctuation spacing, 0 for O, some common words with macrons)
-- [[2022-04-01]] - added footnotes and sources for quotes; linked all non-vocab sections to ToC
+- [[2022-04-01]] - added footnotes and sources for quotes; linked all non-vocab sections to ToC; removed vocab sections for now
+- 
 
 # Book
 
@@ -843,92 +844,93 @@ odiī et terrōris plēnī magnā vōce clāmāvērunt et
 animōs ad proelium firmāvērunt. Sed consulēs 
 timēbant, quod paucī erant Rōmānī, multī et 
 validī hostēs. 
-# end p40
+
 
 ### XXIV 
-Hostes ante urbis m�r�s castra posuērunt. 
-Oastra vall� et foss� firmāvērunt. Tum e castris 
+Hostēs ante urbis mūrōs castra posuērunt. 
+Castra vallō et fossā firmāvērunt. Tum ē castrīs 
 excessērunt et moenia Rōmāna oppugnāvērunt. 
-Fortiter et fer�citer pugnābant Rōmāni, sed 
-Etruscl validi Rōmānos paene vicērunt. Iam e 
-parte urbis Rōmānos fug�verant; iam omnia 
-trans fl�men vlcerant. Terr�ris plenl consules,  "Ecce! "inquiunt, "prope pontem sunt! si 
-pontem tenebunt, t�tam urbem vincent." Tum 
-Hor�tius, vir iortis, "O consules," inquit, "in 
-sxtrem� pontey angustus est locus; multi sunt 
-hostes, sed palici s�lum ibi intr�bunt. V�s 
-pontem cito excidetis, ego cum du�bus amicis 
-contr� hostes in angust� loc� pugn�bo. Ita 
-omnes pro �ris templisque Rōmānis, pro ux�ribus 
-liberisque, pro sacris virginibus pugn�bimus. Ita 
-urbem Rōmam conserv�bimus. Quis mecum in 
-extrem� ponte st�bit et contr� Etrusc�s pugn�bit ? * 
-Tum Lartius, "Ego," inquit, "� dextr� st�bo, et 
-pontem tecum conserv�bo "; et magna vōce 
-Herminius, "Ego," inquit, "� sinistr� st�bo et 
-pontem tecum conserv�bo." 
+Fortiter et ferōciter pugnābant Rōmānī, sed 
+Etruscī validī Rōmānōs paene vīcērunt. Iam ē 
+parte urbis Rōmānōs fugāverant; iam omnia 
+trans flūmen vīcerant. Terrōris plēnī consulēs,
+"Ecce! "inquiunt, "prope pontem sunt! sī 
+pontem tenēbunt, tōtam urbem vincent." Tum 
+Horātius, vir fortis, "O consulēs," inquit, "in 
+extrēmō ponte angustus est locus; multī sunt 
+hostēs, sed paucī sōlum ibi intrābunt. Vōs 
+pontem cito excīdētis, ego cum duōbus amīcīs 
+contrā hostēs in angustō locō pugnābo. Ita 
+omnēs pro ārīs templīsque Rōmānīs, pro uxōribus 
+līberīsque, pro sacrīs virginibus pugnābimus. Ita 
+urbem Rōmam conservābimus. Quis mēcum in 
+extrēmō ponte stābit et contrā Etruscōs pugnābit ? * 
+Tum Lartius, "Ego," inquit, "ā dextrā stābo, et 
+pontem tēcum conservābo"; et magnā vōce 
+Herminius, "Ego," inquit, "ā sinistrā stābo et 
+pontem tēcum conservābo." 
 
 
 ### XXV 
-Tres igitur Rōmāni in angust� loc� stetērunt. 
-Nec Etrusci pugnam detrectāvērunt. Tres prin- 
-cipes contra Rōmānos pr�cedunt. Superbl et 
-splendidl sunt principes; gladiis coruscis in 
-Hor�tium et comites pr�cedunt. Hor�tius autem 
-in hostem fulminis mod� ruit, et princeps Etrus- 
-cus magno frag�re ad terram cecidit. Lartius 
-quoque et Herminius hostes validls hastis vulner- 
-āvērunt et huml prostrāvērunt. Iterum Etrusci 
-mīlitēs fortes fer�cesque in Rōmānos misērunt; 
-iterum Rōmāni Etrusc�s necāvērunt. Di� et 
-�criter pugnābant. Iam multa hostium corpora 
-humi iacēbant. Etrusci timēbant, et Sextum, 
-Tarquinii fllium, incitāvērunt. Sed Sextus quoque 
-Hor�tium timēbat et pugnam detrect�vit, nec in 
-Rōmān�s, tarn diros hostes, pr�cessit. 
-
+Trēs igitur Rōmānī in angustō locō stetērunt. 
+Nec Etruscī pugnam dētrectāvērunt. Trēs principēs 
+contrā Rōmānōs prōcēdunt. Superbī et 
+splendidī sunt principēs; gladiīs coruscīs in 
+Horātium et comitēs prōcēdunt. Horātius autem 
+in hostem fulminis modō ruit, et princeps Etruscus 
+magnō fragōre ad terram cecidit. Lartius 
+quoque et Herminius hostēs validīs hastīs vulnerāvērunt 
+et humī prostrāvērunt. Iterum Etruscī 
+mīlitēs fortēs ferōcēsque in Rōmānōs mīsērunt; 
+iterum Rōmānī Etruscōs necāvērunt. Diū et 
+ācriter pugnābant. Iam multa hostium corpora 
+humī iacēbant. Etruscī timēbant, et Sextum, 
+Tarquiniī fīlium, incitāvērunt. Sed Sextus quoque 
+Horātium timēbat et pugnam dētrectāvit, nec in 
+Rōmānōs, tam dīros hostes, prōcessit. 
 
 
 ### XXVI 
-Qves Rōmāni intere� pontem summis virībus 
-excidunt. Mox pontem in fl�men prosternent. 
-Tum Lartius et Herminius hast�s in hostem 
-iaciunt, et summis virībus per pontem in t�tum 
-locum ruunt. Hor�tius autem adhūc in extrem� 
-ponte stat, et s�lus in Etrusc�s fer�citer pugnat. 
-Rōmāni autem, iam terr�ris pleni, "O Hor�ti, 
-retr�," excl�mant, "retr� � nunc t�ta est via; 
-mox nullus pons trans fl�men erit, et hostes te 
-vincent et nec�bunt." Sed magno frag�re pons 
-in fl�men cecidit, et inter und �s sp�m�s�s omnia 
+Cīvēs Rōmānī intereā pontem summīs vīribus 
+excīdunt. Mox pontem in flūmen prosternent. 
+Tum Lartius et Herminius hastās in hostem 
+iaciunt, et summīs vīribus per pontem in tūtum 
+locum ruunt. Horātius autem adhūc in extremō 
+ponte stat, et sōlus in Etruscōs ferōciter pugnat. 
+Rōmānī autem, iam terrōris plēnī, "O Horātī, 
+retrō," exclāmant, "retrō—nunc tūta est via; 
+mox nullus pons trans flūmen erit, et hostēs tē 
+vincent et necābunt." Sed magnō fragōre pons 
+in flūmen cecidit, et inter undās spūmōsās omnia 
 ad pontum natābant. 
 
-### XXVII
-Hor�tius iam in hostibus s�lus manēbat. Sed 
-adhūc impavidus in fl�minis rip� stābat, et Tiberim 
-�r�vit : "O Tiberine pater, te omnes Rōmāni 
-ad�r�mus; te patrem voc�mus; t� hodie Rōmāni 
-militis vltam conserv�bis, et undis tuis t�tum 
-port�bis." Dixit, et in sp�m�s�s Tiberis und�s 
-desiluit. Multis vulneribus et onere arm�rum 
-fessus, vix in undis sp�m�sis nat�vit, sed Tiberinus 
-pater tarn f ortem Rōmānum ad alteram ripam tulit 
-et t�tum ad cxves sollicit�s port�vit. Magna fuit 
-ira Etrusc�rum, magnum gaudium Rōmān�rum. 
-N�men igitur Hor�tii inter Rōmān�s et per t�tum 
-orbem terr�rum Semper erat n�tum et praecl�rum, 
-quod pro patri� fortiter pugn�verat. Et omnes 
-Rōmāni Tiberim fl�men semper ad�rābant, et ad 
-fl�minis rip�s d�na libenter f erēbant, quia omni um 
-Rōmān�rum est pater, et urbem Rōmam f ortemque 
-Rōmānum e fer�cibus Etruscis conserv�vit. 
 
-Am�tisne Graec�s Rōmān�sque f�bul�s ? Si 
-f�bulae v�s delectant, v�s verba mea in tabulis 
-scribite, et magistr� vestr� recit�te. Ita f�bul�s 
-praecl�r�s semper memori� tenēbitis. Post pauc�s 
-ann�s v�s, iam adolescentes, mult�s ali�s f�bul�s 
-legetis. 
+### XXVII
+Horātius iam in hostibus sōlus manēbat. Sed 
+adhūc impavidus in flūminis rīpā stābat, et Tiberim 
+ōrāvit: "O Tiberīne pater, tē omnes Rōmānī 
+adōrāmus; tē patrem vocāmus; tū hodiē Rōmānī 
+mīlitis vītam conservābis, et undīs tuīs tūtum 
+portābis." Dixit, et in spūmōsās Tiberis undās 
+dēsiluit. Multīs vulneribus et onere armōrum 
+fessus, vix in undīs spūmōsīs natāvit, sed Tiberīnus 
+pater tam fortem Rōmānum ad alteram rīpam tulit 
+et tūtum ad cīvēs sollicitōs portāvit. Magna fuit 
+ira Etruscōrum, magnum gaudium Rōmānōrum. 
+Nōmen igitur Horātiī inter Rōmānōs et per tōtum 
+orbem terrārum semper erat nōtum et praeclārum, 
+quod pro patriā fortiter pugnāverat. Et omnēs 
+Rōmānī Tiberim flūmen semper adōrābant, et ad 
+flūminis rīpās dōna libenter ferēbant, quia omnium 
+Rōmānōrum est pater, et urbem Rōmam fortemque 
+Rōmānum ē ferōcibus Etruscīs conservāvit. 
+
+Amātisne Graecās Rōmānāsque fābulās? Sī 
+fābulae vōs dēlectant, vōs verba mea in tabulīs 
+scrībite, et magistrō vestrō recitāte. Ita fābulās 
+praeclārās semper memoriā tenēbitis. Post paucōs 
+annōs vōs, iam adolescentēs, multās aliās fābulās 
+legētis. 
 
 The Poet praises the country life led by the Romans of 
 an earlier day : 
@@ -955,65 +957,66 @@ an earlier day :
 
 
 ### XXVIII 
-In Graeci� fr�tres duo, Agamemnon et Menel�us 
-nomine, �lim habitābant. Graeci fr�tres Atrid�s 
-vocābant, quod Atrei fīlii erant. Agamemnon 
-omnium Argiv�rum rex erat. Menel�us Lacedae- 
-monios regēbat. Helene, uxor Menel�i, praecl�ra 
-et form�sa reglna, cum viro in regi� multos annos 
-habitābat. Sed tandem Paris, Tr�i�n�rum prin- 
-ceps, ad hospitium Menel�i venit. Perfidus et 
-ign�vus erat hospes, sed pictis vestimentis, nitidis 
-capillis fulgēbat. Diu in regi� manēbat, et gr�tus 
-rēgīnae animo erat hospes form�sus. Tandem 
-nocte obsc�r� Helenam furtim rapt�vit et in 
-n�vem imposuit. Vela Candida ventis secundis 
-dedit, et trans mare ad urbem Tr�iam proper�vit. 
+In Graeciā frātrēs duo, Agamemnōn et Menelāus 
+nōmine, ōlim habitābant. Graeci frātrēs Atrīdās 
+vocābant, quod Atrei fīlii erant. Agamemnōn 
+omnium Argīvōrum rex erat. Menelāus Lacedaemonios 
+regēbat. Helenē, uxor Menelāi, praeclāra 
+et formōsa rēgīna, cum viro in rēgiā multos annos 
+habitābat. Sed tandem Paris, Trōiānōrum princeps, 
+ad hospitium Menelāi venit. Perfidus et 
+ignāvus erat hospes, sed pictis vestīmentis, nitidis 
+capillis fulgēbat. Diū in rēgiā manēbat, et grātus 
+rēgīnae animo erat hospes formōsus. Tandem 
+nocte obscūrā Helenam furtim raptāvit et in 
+nāvem imposuit. Vēla candida ventis secundis 
+dedit, et trans mare ad urbem Trōiam properāvit. 
 
 
 ### XXIX 
-Menel�us, ubi hospitis perfidiam vTdit, ad 
-fr�trem contendit et omnia narr�vit. Agamemnon 
-ir� terribili excl�m�vit, "Perfidus est Paris; 
-perfidum est t�tum Tr�i�n�rum genus, sed perfidiae 
-stultitiaeque poenas d�bunt. T�tum exercitum 
-meum ad �ram maritimam convoc�bo; equites 
-peditesque in n�ves imp�nemus, et terra marique 
-Tr�iam oppugn�bimus. Ita urbem sceler�tam 
-excldemus et genus perfidum ad Inferos mittemus. 
-Praedam quoque multam n�s domum report�bimus. 
-T� quoque Helenam tecum domum ad regiam tuam 
-red�ces." Agamemnon igitur t�tum exercitum ad 
-portum convoc�vit. Multi equites multi pedites 
-aderant; principes quoque omnes e t�t� Graeci� 
-e� convenērunt. Sed venti adversi n�ves in port� 
-diu retinēbant. Itaque Agamemnon nuntium ad 
-�r�culum Delphicum mlsit, et � Deo responsum 
-petlvit. Triste et terribile responsum dedit 
-Apollo; "Propter iram Diana n�ves Graecas in 
-port� retinet, nec ventos secundos dat. Nunquam 
-Graeci ad Asiam n�vig�bunt nisi virginis sanguine 
-Deae n�men pl�c�verint." 
+Menelāus, ubi hospitis perfidiam vTdit, ad 
+frātrem contendit et omnia narrāvit. Agamemnōn 
+īrā terribilī exclāmāvit, "Perfidus est Paris; 
+perfidum est tōtum Trōiānōrum genus, sed perfidiae 
+stultitiaeque poenas dabunt. Tōtum exercitum 
+meum ad ōram maritimam convocābo; equitēs 
+peditēsque in nāvēs impōnēmus, et terrā marīque 
+Trōiam oppugnābimus. Ita urbem scelerātam 
+excīdēmus et genus perfidum ad Inferos mittēmus. 
+Praedam quoque multam nōs domum reportābimus. 
+Tū quoque Helenam tēcum domum ad rēgiam tuam 
+redūcēs." Agamemnōn igitur tōtum exercitum ad 
+portum convocāvit. Multi equitēs multi peditēs 
+aderant; principēs quoque omnēs ē tōtā Graeciā 
+eō convēnērunt. Sed venti adversi nāvēs in portū 
+diū retinēbant. Itaque Agamemnōn nuntium ad 
+ōrāculum Delphicum mīsit, et ā Deo responsum 
+petīvit. Triste et terribile responsum dedit 
+Apollo; "Propter īram Diāna nāvēs Graecas in 
+portū retinet, nec ventos secundos dat. Nunquam 
+Graeci ad Asiam nāvigābunt nisi virginis sanguine 
+Deae nūmen plācāverint." 
 
 
 ### XXX 
-Rex, ubi �r�culi responsum audlvit, di� secum 
-lacrimābat. "Est mihi domi," inquit, "fīlia c�ra, 
-Iphigeneia nomine, sedecim ann�rum puella. Sine 
-dubio Diana Iphigeneiam victimam petit. Dira 
-et cr�delis est Dea; sed nōn sine dis immort�libus 
-ad urbem Tr�iam n�vig�bimus, et Helenam ex 
-urbe perfid� domum report�bimus." Nuntium 
-igitur ad Clytaemnestram, ux�rem suam, misit.  "� Regina," inquit, "fīliam nostram ad nuptias 
-orn�, et cum fidis cust�dibus ad portum mitte. 
-Achilles, vir fortis et praecl�rus, virginem in 
-m�trim�mum d�cet." Clytaemnestra, ubi regis 
-dicta audlvit, magno gaudio f�iam ad nuptias 
-par�vit; gemmis preti�sis, vestlmentis pictis, 
-pueUam orn�vit, et tandem cum fidis cust�dibus ad 
-portum misit. 
+Rex, ubi ōrāculi responsum audīvit, diū sēcum 
+lacrimābat. "Est mihi domi," inquit, "fīlia cāra, 
+Īphigeneia nōmine, sēdecim annōrum puella. Sine 
+dubio Diāna Īphigeneiam victimam petit. Dīra 
+et crūdēlis est Dea; sed nōn sine dīs immortālibus 
+ad urbem Trōiam nāvigābimus, et Helenam ex 
+urbe perfidā domum reportābimus." Nuntium 
+igitur ad Clytaemnestram, uxōrem suam, mīsit.
+"Ō Rēgina," inquit, "fīliam nostram ad nuptias 
+ornā, et cum fīdis custōdibus ad portum mitte. 
+Achillēs, vir fortis et praeclārus, virginem in 
+mātrimōnium dūcet." Clytaemnestra, ubi rēgis 
+dicta audīvit, magno gaudio fīliam ad nuptias 
+parāvit; gemmis pretiōsis, vestīmentis pictis, 
+puellam ornāvit, et tandem cum fīdis custōdibus ad 
+portum mīsit. 
 
-
+# end p47
 ### XXXI 
 Itaque magna spe Iphigeneia ad castra Grae- 
 c�rum venit. Simul �c regem vidit, tum cito ad 
@@ -1021,7 +1024,7 @@ patrem cucurrit,et collo c�ro bracchia Candida dedit.
 Sed ubi maestum regis vultum vidit, "G�r," 
 inquit, "mi pater, vult� maesto, capite demisso 
 fīliam tuam sal�t�s ? Nonne libenter fīliam 
-vides ? "Tum Agamemnon t�tam rem fīliae 
+vides ? "Tum Agamemnōn t�tam rem fīliae 
 narr�vit. Ubi autem Iphigeneia dirum �r�culi 
 responsum audivit, tum ver� gelidus tremor per 
 omnes puellae art�s cucurrit. Humi se prostr�vit, 
@@ -1056,7 +1059,7 @@ dedērunt, et ad Asiae �ram n�vigāvērunt. Ibi
 multos annos Tr�iam vi et armis frustr� oppug- 
 nābant. Tandem, De�rum Immort�lium auxilio, 
 urbem incendērunt et praedam ingentem domum 
-reportāvērunt. Helenam quoque Menel�us Spar- 
+reportāvērunt. Helenam quoque Menelāus Spar- 
 tam ad regiam red�xit. 
 
 Nonne n�bilem praecl�ramque virginem Iphi- 
@@ -1396,11 +1399,11 @@ discessit�
 ## RĒGULUS
 
 ### XLIV 
-Nulli per t�tum orbem terr�rum clves libentius 
-quam Rōmāni se patriae dedērunt. 
+Nulli per tōtum orbem terrārum cīves libentius 
+quam Rōmāni sē patriae dedērunt. 
 
-Alteram f�bulam v�bis de fort! Rōmāno 
-narr�bo. 
+Alteram fābulam vōbīs dē fortī Rōmāno 
+narrābo. 
 
 Primo Bello P�nico di� Rōmāni � Poenis super�- 
 bantur, quia paucas n�ves, nec magnum n�vium 
@@ -1635,20 +1638,20 @@ The Wooden Horse.
 
 
 ### XLIX 
-Sed ubi nox umbris profundis terra s tegēbat, 
-Graeci, qui in equo sunt cel�ti, e cavis lateribus 
-furtim desiliēbant, et facem l�cidam comitibus 
-monstrāvērunt. IUI simul �c trans pontum facem 
-vidērunt, n�ves rursus ad �ram impulērunt. Nulli 
-per moenia cust�des, nulli in portis vigiles urbem 
-defendēbant. Per t�tam urbem cīvēs animos 
-fessos somno profundo laxābant. Fl�minis mod� 
-Graeci vict�res in urbem miseram ruērunt. Omnia 
-ferro et ignl vast�ta sunt. Templa dom�sque 
-humi prostr�ta, iuvenes nec�ti sunt; mulieres ad 
-terram alienam in servit�tem ductae. 
+Sed ubi nox umbris profundis terras tegēbat, 
+Graeci, quī in equo sunt cēlāti, ē cavis lateribus 
+furtim dēsiliēbant, et facem lūcidam comitibus 
+monstrāvērunt. Illī simul āc trans pontum facem 
+vīdērunt, nāves rursus ad ōram impulērunt. Nulli 
+per moenia custōdes, nulli in portis vigiles urbem 
+dēfendēbant. Per tōtam urbem cīves animos 
+fessos somno profundo laxābant. Flūminis modō 
+Graeci victōres in urbem miseram ruērunt. Omnia 
+ferro et ignī vastāta sunt. Templa domūsque 
+humī prostrāta, iuvenes necāti sunt; mulieres ad 
+terram aliēnam in servitūtem ductae. 
 
->*fractī bello fātisque repulsi*
+>*fracti bello fātisque repulsi*
 >
 >*ductōres Danaūm, tot iam lābentibus annis,*
 >
@@ -1658,7 +1661,7 @@ terram alienam in servit�tem ductae.
 >
 >*equo nē crēdite, Teucri.*
 >
->*Quidquid id est, timeo Danaos et dōna ferentes.*
+>*quidquid id est, timeo Danaos et dōna ferentes.*
 >
 >Virgil.[^16]
 
@@ -1715,7 +1718,7 @@ the music.
 
 ### LI 
 Orphēūs tandem ad Mānes descendere constituit, 
-et saevum Plūtōnis animum cantū dulcī mulcēre.  
+et saevum Plūtōnis animum cantū dulcī mulcēre.
 "Fortasse," inquit. "Plūtō Persephonēque rēgīna 
 vōce lyrāque meā mulcēbuntur, et veniam mihi 
 dabunt; fortasse Eurydicēn ad virum ēius remittent." 
