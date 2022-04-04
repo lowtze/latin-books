@@ -633,9 +633,9 @@ numen adorabant.
 > 
 > *audita Musarum sacerdos*
 > 
-> *virginibus puerisque canto.[^2]*
+> *virginibus puerisque canto.*
 > 
->Horace.[^3] 
+>Horace.[^2] 
 
 
 ### XVII 
@@ -690,7 +690,7 @@ carmina mox legetis et in memoriae tabulis scribetis.
 >
 >*To scare thee, Melancholy!* 
 >
->Keats.[^4] 
+>Keats.[^3] 
 
 
 ### XIX 
@@ -770,7 +770,7 @@ umbra Bacchus ad terras longinquas navigavit.
 >
 >*In the brave days of old.* 
 >
->Macaulay.[^5]
+>Macaulay.[^4]
 
 
 ### XXII 
@@ -924,17 +924,17 @@ an earlier day :
 >
 >*septemque una sibi muro circumdedit arces.* 
 >
->Virgil.[^6] 
+>Virgil.[^5] 
 
 ---
 
-## IPHIGENEIA [^7]
+## IPHIGENEIA
 
 >*sanguine placastis venios et virgine caesa,* 
 >
 >*cum primum Iliacas Danai venistis ad oras:* 
 >
->Virgil.[^8]
+>Virgil.[^6]
 
 
 ### XXVIII 
@@ -1142,7 +1142,7 @@ carum amicum habebat.
 >
 >*But all are divine.* 
 >
->Matthew Arnold.[^9] 
+>Matthew Arnold.[^7] 
 
 
 ### XXXVI 
@@ -1211,7 +1211,7 @@ cantant.
 >
 >*The spirit of thy sire."* 
 >
->Macaulay.[^10] 
+>Macaulay.[^8] 
 
 
 ### XXXVIII 
@@ -1341,7 +1341,7 @@ etiam nunc lupam vivam in Capitolio habent.
 >
 >*iactat ultorem.* 
 >
->Horace.[^11]
+>Horace.[^9]
 
 ---
 
@@ -1447,7 +1447,7 @@ mortique se tradidit.
 >
 >*aut Lacedaemonium Tarentum.* 
 >
->Horace.[^12]
+>Horace.[^10]
 
 ---
 
@@ -1493,7 +1493,7 @@ mortique se tradidit.
 >
 >*In fragrant bosom, smiling through her tears.*
 >
->Charles Kingsley.[^13] 
+>Charles Kingsley.[^11] 
 
 
 ### XLVI 
@@ -1563,7 +1563,7 @@ et omnium rerum maxime viri sui mortem timebat.
 >
 >*dulce rideat ad patrem.*
 >
->Catullus.[^14]
+>Catullus.[^12]
 
 ---
 
@@ -1577,7 +1577,7 @@ et omnium rerum maxime viri sui mortem timebat.
 >
 >*Of ashen-speared Priam, perish all.*
 >
->Charles Kingsley.[^15]
+>Charles Kingsley.[^13]
 
 
 ### XLVIII 
@@ -1640,7 +1640,7 @@ terram alienam in servitutem ductae.
 >
 >*quidquid id est, timeo Danaos et dona ferentes.*
 >
->Virgil.[^16]
+>Virgil.[^14]
 
 ---
 
@@ -1658,7 +1658,7 @@ terram alienam in servitutem ductae.
 >
 >*There had made a lasting spring,*
 >
->Shakespeare (?)[^17] 
+>Shakespeare (?)[^15] 
 
 
 ### L 
@@ -1747,7 +1747,7 @@ in tenebras fugit.
 >
 >*inpositique rogis iuvenes ante ora parentum.*
 >
->Virgil.[^18]
+>Virgil.[^16]
 
 Haec et alia multa Iulia e benigno ludi magistro 
 audiebat. Postea, iam adolescens, ad longinquas 
@@ -1783,40 +1783,32 @@ Coming eventually...
 
 [^1]: Milton in Paradise Lost Book IV lines 268-272.
 
-[^2]: This is real Latin poetry. It is not necessary to the 
-story. Ask your teacher to read it to you. 
+[^2]: Horace. Carm. III. 1, lines 2-5.
 
-[^3]: Horace. Carm. III. 1, lines 2-5.
+[^3]: John Keats Song of the Indian Maid, from Endymion lines 54-58.
 
-[^4]: John Keats Song of the Indian Maid, from Endymion lines 54-58.
+[^4]: From 'Horatius at the Bridge' by Thomas Babington Macaulay. Stanza LXVI.
 
-[^5]: From 'Horatius at the Bridge' by Thomas Babington Macaulay. Stanza LXVI.
+[^5]: Virgil. Georgics. II. 532-535
 
-[^6]: Virgil. Georgics. II. 532-535
+[^6]: Virgil. Aeneid. II. 116-117
 
-[^7]: From this point onwards the marking of long syllables in 
-the first and second declensions has in the main been discontinued. 
-The long endings in the third declension will be 
-marked till the end of Chapter XXXV. 
+[^7]: Matthew Arnold. Apollo Musagetes. lines 29-32.
 
-[^8]: Virgil. Aeneid. II. 116-117
+[^8]: The Prophecy of Capys from 'Lays of Ancient Rome' by Thomas Babington Macaulay. Stanza XV.
 
-[^9]: Matthew Arnold. Apollo Musagetes. lines 29-32.
+[^9]: Horace. Carm. I. 2, lines 13-18.
 
-[^10]: The Prophecy of Capys from 'Lays of Ancient Rome' by Thomas Babington Macaulay. Stanza XV.
+[^10]: Horace. Carm. III. 5, lines 49-56.
 
-[^11]: Horace. Carm. I. 2, lines 13-18.
+[^11]: Charles Kingsley. Hypatia Ch. 8.
 
-[^12]: Horace. Carm. III. 5, lines 49-56.
+[^12]: Catullus Carm. 61, lines 216-220.
 
-[^13]: Charles Kingsley. Hypatia Ch. 8.
+[^13]: Charles Kingsley Hypatia Ch. 8.
 
-[^14]: Catullus Carm. 61, lines 216-220.
+[^14]: Virgil. Aeneid. II. lines 13-16, 48-49.
 
-[^15]: Charles Kingsley Hypatia Ch. 8.
+[^15]: Shakespeare. Orpheus lines 1-6.
 
-[^16]: Virgil. Aeneid. II. lines 13-16, 48-49.
-
-[^17]: Shakespeare. Orpheus lines 1-6.
-
-[^18]: Virgil. Georgics. IV. lines 471-477.
+[^16]: Virgil. Georgics. IV. lines 471-477.
