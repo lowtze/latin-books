@@ -5,28 +5,8 @@ publisher: The MacMillan Company
 year: 1941
 lang: la
 cover-image: "./images/cover-edited.png"
-version: 0.8
+version: 1.0
 ---
-
-tags: [[Latin Language|Latin]]
-
-# To-Do
-- [ ] clean up initial dump - in progress
-- [ ] create a macron and non-macron version
-- [x] create a script to replace macrons with non-macrons that i can use for other books
-- [x] fix the contents page
-- [x] updated ToC page to link to headers using Github Markdown spec
-- [x] add all images to appropriate areas
-- [x] add quote sources for all quotes
-
-# Changelog
-- [[2022-03-25]] - initial commit; reformatted through story II; cleaned up hyphenated words, ToC, page breaks
-- [[2022-03-29]] - added all images; reformatted quotes
-- [[2022-03-30]] - corrected common errors in text (punctuation spacing, 0 for O, some common words with macrons)
-- [[2022-04-01]] - added footnotes and sources for quotes; linked all non-vocab sections to ToC; removed vocab sections for now
-- 
-
-# Book
 
 # JULIA: A LATIN READING BOOK 
 ![cover](./images/cover-edited.png)
@@ -311,7 +291,7 @@ Galeam et hastam raptat. Nautae nāviculam
 suam agricolae dant. Nautae quoque galeās et 
 hastās raptant, et cum agricolā ad pīrātārum 
 nāviculam properant. Tum agricola pīrātās vocat;
-"Ubi," inquit, "est fīlia mea? "Pīrātae, "Fīlia 
+"Ubi," inquit, "est fīlia mea?" Pīrātae, "Fīlia 
 tua," inquiunt, "in nāviculā nostrā est." Tum 
 agricola pecūniam multam pīrātīs dat. Pīrātae 
 lūliam ad agricolae nāviculam portant. 
@@ -561,7 +541,8 @@ et in Martis ārīs victimās mactābant. Rōmulus
 igitur mīlitēs et arma vehementer amābat. Urbis 
 Rōmae primus rex erat. Sed virī sōlum urbem 
 habitābant; neque uxōrēs neque sorōrēs habēbant. 
-Itaque Rōmulus tōtum populum convocāvit, et  "O cives," inquit, "nullās fēminās habēmus, sed 
+Itaque Rōmulus tōtum populum convocāvit, et
+"O cives," inquit, "nullās fēminās habēmus, sed 
 Sabīnī cīvitātem finitimam habitant. Sabīnī 
 fēminās multās et formōsās habent. Sabīnōs 
 igitur cum fēminīs ad lūdōs invītābimus, et virginēs 
@@ -1109,7 +1090,7 @@ cōpias in Mēdōrum agros dūxit, et tōtam regiōnem
 celeriter vīcit. Itaque et Mēdiae et Persiae, 
 ingentis regni, rex erat. Croesus, ubi cīvēs Cȳri 
 facta nuntiāvērunt, "Sī Cȳrus," inquit, "adhūc 
-adolescens, tarn celeriter Mēdos superāvit, sine 
+adolescens, tam celeriter Mēdos superāvit, sine 
 dubio ego, rex maximus divitissimusque, Cȳrum 
 superābo." Cōpias igitur cito collēgit et in 
 finitimos agros dūxit. Sed nōn bene rem gessit. 
@@ -1392,7 +1373,7 @@ hiātus expletus est, nec posteā iterum terra
 discessit. 
 
 ---
-# end p64
+
 ## RĒGULUS
 
 ### XLIV 
@@ -1402,53 +1383,53 @@ quam Rōmāni sē patriae dedērunt.
 Alteram fābulam vōbīs dē fortī Rōmāno 
 narrābo. 
 
-Primo Bello P�nico di� Rōmāni � Poenis super�- 
-bantur, quia paucas n�ves, nec magnum n�vium 
-�sum habēbant. Sed tandem Rōmāni n�ves 
-optimas aedificāvērunt, et Poenos pl�rimis proeliis 
-super āvērunt. Itaque Regulum consulem ad 
-�fricam cum exercit� misērunt . Regulus exer- 
-citum in �fricam terram exposuit. Primo res 
-bene gessit; agros ferro et igni vast�vit, et magn� 
-spe Carth�ginem contendit. Intere� Poeni summis 
-virībus c�pias colligēbant, et multa mQia peditum 
-equitumque in Rōmānos d�xērunt. �criter pugn�- 
-bant Rōmāni, sed nōn di� hostium impetum 
-sustinēbant. Perturb�ti et fug�ti sunt. Pauci 
-sal�tem fug� petlvērunt, et ad oppidum amlcum 
-cucurrērunt. M�ior pars exercit�s aut nec�ti aut 
+Prīmo Bello Pūnico diū Rōmāni ā Poenis superābantur, 
+quia paucas nāves, nec magnum nāvium 
+ūsum habēbant. Sed tandem Rōmāni nāves 
+optimas aedificāvērunt, et Poenos plūrimis proeliis 
+superāvērunt. Itaque Regulum consulem ad 
+Āfricam cum exercitū mīsērunt. Regulus exercitum 
+in Āfricam terram exposuit. Prīmo rēs 
+bene gessit; agros ferro et ignī vastāvit, et magnā 
+spē Carthāginem contendit. Intereā Poeni summis 
+vīrībus cōpias colligēbant, et multa mīlia peditum 
+equitumque in Rōmānos dūxērunt. Ācriter pugnābant 
+Rōmāni, sed nōn diū hostium impetum 
+sustinēbant. Perturbāti et fugāti sunt. Pauci 
+salūtem fugā petīvērunt, et ad oppidum amīcum 
+cucurrērunt. Māior pars exercitūs aut necāti aut 
 capti sunt. 
 
 
 ### XLV 
-Inter captlvos Regulus ipse Carth�ginem ductus 
-est. Tum summo gaudio Poeni." Nunc," in- 
-quiunt." Rōmānos vicimus; Rōmāni igitur p�cem 
-desider�bunt et bonas eondici�nes ferent. Te, 
-Regule, Rōman iam mittemus. T� leg�ti mod� 
-in Senatum intr� � si verbīs tuis animos clvium 
-tu�rum ad p�cem add�xeris, tu vinculis liber�beris, 
-et Uber in liber� urbe tu� habit�bis. Sed si 
-Rōmāni nōn ad p�cem amlcitiamque adducti 
-ērunt, sed malas eondici�nes ferent, et Poenos 
-odio ir�que petent, t� nōn in urbe tu� manebis, sed 
-Carth�ginem iterum venies, et vinculis mortique 
-er�deli te tr�des." Regulus igitur Poenis fidem 
+Inter captīvos Rēgulus ipse Carthāginem ductus 
+est. Tum summo gaudio Poeni, "Nunc," inquiunt, 
+"Rōmānos vicīmus; Rōmāni igitur pācem 
+dēsīderābunt et bonas condiciōnes ferent. Tē, 
+Rēgule, Rōman iam mittēmus. Tū lēgāti modō 
+in Senātum intrā—sī verbīs tuis animos cīvium 
+tuōrum ad pācem addūxeris, tu vinculis liberāberis, 
+et līber in līberā urbe tuā habitābis. Sed sī 
+Rōmāni nōn ad pācem amīcitiamque adducti 
+erunt, sed malas condiciōnes ferent, et Poenos 
+odio īrāque petent, tū nōn in urbe tuā manēbis, sed 
+Carthāginem iterum veniēs, et vinculis mortīque 
+crūdēlī tē trādēs." Rēgulus igitur Poenis fidem 
 dedit, et ad patriam celerrime revertit. Sed ubi 
-Sen�tum intr�vit, nōn ad p�cem amlcitiamque 
-elves suos add�xit." Nunc," inquit." super�ti 
-sunt Rōmāni; malas eondici�nes ferent Poeni. 
-V�s autem meli�res forti�resque estis hostibus; 
-si igitur beUum summis virībus geretis, et vires 
-v�s praebēbitis, mox v�s viet�res eritis et vestras 
-eondici�nes hostibus feretis. Ego Carth�ginem 
-n�vig�bo nec fidem viol�bo. V�s animos ad 
-bellum firm�te et hostes sub pedibus prosternite. 
-Ego nec vincula nec mortem rec�so, sed vestro 
-am�re me dignum praebebo." Deinde Regulus 
-fidem nōn viol�vit, sed vult� sereno Rōm� 
-discessit et Carth�ginem revertit. Ibi vinculis 
-mortique se tr�didit. 
+Senātum intrāvit, nōn ad pācem amīcitiamque 
+cīves suos addūxit. "Nunc," inquit, "superāti 
+sunt Rōmāni; malas condiciōnes ferent Poeni. 
+Vōs autem meliōres fortiōrēsque estis hostibus; 
+sī igitur bellum summis vīribus gerētis, et viros 
+vōs praebēbitis, mox vōs victōres eritis et vestras 
+condiciōnes hostibus ferētis. Ego Carthāginem 
+nāvigābo nec fidem violābo. Vōs animos ad 
+bellum firmāte et hostes sub pedibus prosternite. 
+Ego nec vincula nec mortem recūso, sed vestro 
+amōre mē dignum praebēbo." Deinde Rēgulus 
+fidem nōn violāvit, sed vultū serēno Rōmā 
+discessit et Carthāginem revertit. Ibi vinculis 
+mortīque sē trādidit. 
 
 >*atqui sciēbat quae sibi barbarus* 
 >
@@ -1516,30 +1497,30 @@ mortique se tr�didit.
 
 
 ### XLVI 
-Inter Tr�i�nos qui tot annos urbem suam contra 
-Graecos defendēbant, erat Hector, omnium regia 
-ffli�rum fortissimus, et Priamo patri c�rissimus. 
-Hic � civibus suis maxime am�b�tur et in summo 
-hon�re habeb�tur. Vehementer � Graecis time- 
-b�tur, ubi ex urbis portis ad proelium ruēbat, aut 
-ignibus infestis hostium n�ves vastābat. Cotidie 
-Tr�i�ni ad arma ab Hectore incitābantur; cotidie 
-civium animi ad fortia facta firmābantur. Saepe 
-cum Hectore � proelio vict�res revertērunt. 
-Andromache, Hectoris uxor, cum viro fDioloque 
-in regia habitābat. Nulla ex omnibus Tr�i�nis 
-mulier magis virum suum amābat, aut virī am�re 
-dignior erat. �lim Hector, ad prodium ora�kuh 
-e via in regiam venit. Andromache vult� laeto 
-virum sal�t�vit et ancillam voc�vit, quae f�iolum 
-in sin� tenēbat. Deinde Hector bracchia ad 
+Inter Trōiānos quī tot annos urbem suam contrā 
+Graecos dēfendēbant, erat Hector, omnium rēgis 
+fīliōrum fortissimus, et Priamo patri cārissimus. 
+Hic ā cīvibus suis maximē amābātur et in summo 
+honōre habēbātur. Vehementer ā Graecis timēbātur, 
+ubi ex urbis portis ad proelium ruēbat, aut 
+ignibus infestis hostium nāves vastābat. Cotīdiē 
+Trōiāni ad arma ab Hectore incitābantur; cotīdiē 
+cīvium animi ad fortia facta firmābantur. Saepe 
+cum Hectore ā proelio victōres revertērunt. 
+Andromachē, Hectoris uxor, cum viro fīliolōque 
+in rēgiā habitābat. Nulla ex omnibus Trōiānis 
+mulier magis virum suum amābat, aut viri amōre 
+dignior erat. Ōlim Hector, ad proelium ornātus 
+ē viā in rēgiam vēnit. Andromachē vultū laeto 
+virum salūtāvit et ancillam vocāvit, quae fīliolum 
+in sinū tenēbat. Deinde Hector bracchia ad 
 puerum porrexit. Sed puer, ubi cristam rubram 
-vidit, quae ex patris gale� horrēbat, perterritus est, 
-nec ad patrem venire audēbat, sed multis lacrimis 
-in ancillae sin� haerēbat. Tum ver� Hector, vir 
-maximus, fllio risit, et galeam terribilem humi 
-deposuit, et bracchia iterum ad fīlium porrexit. 
-Hic nōn iam perterritus est, sed risit, et patris collo 
+vīdit, quae ex patris galeā horrēbat, perterritus est, 
+nec ad patrem venīre audēbat, sed multis lacrimis 
+in ancillae sinū haerēbat. Tum vērō Hector, vir 
+maximus, fīlio rīsit, et galeam terribilem humī 
+dēposuit, et bracchia iterum ad fīlium porrexit. 
+Hic nōn iam perterritus est, sed rīsit, et patris collo 
 bracchia parvula dedit. 
 
 ![Hector And Andromache](./images/hector-andromache-edited.png)
@@ -1548,31 +1529,31 @@ HECTOR AND ANDROMACHE.
 
 
 ### XLVII 
-Sed Andromache sollicito animo virum his 
-verbīs culpa vit."O Hector/' inquit." t�tam 
-tuam vitam inter hostes et proelia agis; multi 
-sunt hostes, qui te odio ir�que petunt, multi 
-qu�rum amlcos ad Inferos misisti . E Tr�i�nis 
-multi iam vulner�ti, multi nec�ti sunt. Nōn 
-Semper t� ipse vulnera infesta vlt�bis. T� igitur 
-hodie intr� moenia mane, et te tuamque urbem 
-conserv�. Nōn enim sine te Tr�i�ni urbem contra 
-Graecos def endent ." Cui Hector respondit , * * Hl 
-omnes, qui nunc Tr�iam defendunt, ad me princi- 
-pem spectant. Propter meam virt�tem cust�des 
+Sed Andromachē sollicito animo virum hīs 
+verbīs culpāvit: "O Hector," inquit, "tōtam 
+tuam vītam inter hostes et proelia agis; multi 
+sunt hostes, qui tē odio īrāque petunt, multi 
+quōrum amīcos ad Inferos mīsisti. Ē Trōiānis 
+multi iam vulnerāti, multi necāti sunt. Nōn 
+semper tū ipse vulnera infesta vītābis. Tū igitur 
+hodiē intrā moenia manē, et tē tuamque urbem 
+conservā. Nōn enim sine tē Trōiāni urbem contrā 
+Graecos dēfendent." Cui Hector respondit, "Hī 
+omnes, quī nunc Trōiam dēfendunt, ad mē principem 
+spectant. Propter meam virtūtem custōdes 
 in moenibus stant, mīlitēs ad proelia infesta animo 
-fort! excedere audent. Sl ego proelia detrect�bo, 
-nee fortem me praebebo, nōn iam civium am�re 
-ero dignus. Tr�i�ni quoque omnes timidi ērunt 
-et mox ab hoste vincentur. Deinde Tr�ia vast�- 
-bitur, et v�s ad terram alienam in servit�tem 
-d�cemini. Nōn meum est proelia detreet�re, sed 
-potius pro patri� cadere." Dixit, et oscula fīlio 
-ux�rique dedit. Parvulum ancillae tr�didit, et 
-armis orn�tus in viam excessit. Andromache ex 
-imo pectore gemitum dedit, et capite demisso 
-domum intr�vit; nam c�ris sollicitis vex�b�tur, 
-et omnium rerum maxime virī sui mortem timēbat. 
+fortī excēdere audent. Sī ego proelia dētrectābo, 
+nee fortem mē praebēbo, nōn iam cīvium amōre 
+ero dignus. Trōiāni quoque omnes timidi ērunt 
+et mox ab hoste vincentur. Deinde Trōia vastābitur, 
+et vōs ad terram aliēnam in servitūtem 
+dūcēmini. Nōn meum est proelia dētrectāre, sed 
+potius prō patriā cadere." Dixit, et oscula fīlio 
+uxōrīque dedit. Parvulum ancillae trādidit, et 
+armis ornātus in viam excessit. Andromachē ex 
+īmo pectore gemitum dedit, et capite dēmisso 
+domum intrāvit; nam cūris sollicitis vexābātur, 
+et omnium rērum maximē viri sui mortem timēbat. 
 
 >*Torquātus volo parvulus*
 >
@@ -1600,32 +1581,33 @@ et omnium rerum maxime virī sui mortem timēbat.
 
 
 ### XLVIII 
-H�c modo Tr�ia tandem capta est. Graeci verbīs 
-falsis Tr�i�nos decepērunt." O Tr�i�ni," in- 
-quiunt." in h�c terra indies languescimus. Bello 
-vulneri busque fessi patriam c�ram Hber�sque 
-dulces deslder�mus. Nōn hlc in alien� terra, sed 
-dorn! inter amicos vitam reliquam agere constitui- 
-mus. Iam satis di� bella gessimus; tempus est 
-hinc, De�rum Immort�lium auxilio, discedere. 
-Primum autem Minervae n�men d�no pl�c�bimus. 
-Tum illa n�s ventis secundis domum red�cet. ,> 
-Deinde Graeci magno lab�re equum ingentem 
-aedificāvērunt, c�ius latera trabibus validis tex- 
-ērunt. Nocte obsc�r� alii deinceps in cava eius 
-latera furtim ascendērunt, alii ad n�ves proper- 
-āvērunt et vela Candida ventis dedērunt. M�ne 
-decepti sunt Tr�i�ni. ' ' Ecce ." inquiunt." d�num 
-illud quo Graeci Minervae n�men pl�c�re con- 
-stituērunt. Dornum revertērunt hostes. N�s 
-intr� moenia monstrum illud d�cemus; tum n�s 
-quoque Dea n�mine secundo se^v�bit. ,, 
+Hōc modo Trōia tandem capta est. Graeci verbis 
+falsis Trōiānos decepērunt. "O Trōiāni," inquiunt, 
+"in hāc terrā indiēs languescimus. Bello 
+vulneribusque fessi patriam cāram līberōsque 
+dulces dēsīderāmus. Nōn hīc in aliēnā terrā, sed 
+domī inter amīcos vītam reliquam agere constituimus. 
+Iam satis diū bella gessimus; tempus est 
+hinc, Deōrum Immortālium auxilio, discēdere. 
+Prīmum autem Minervae nūmen dōno plācābimus. 
+Tum illa nōs ventis secundis domum redūcet."
+Deinde Graeci magno labōre equum ingentem 
+aedificāvērunt, cūius latera trabibus validis texērunt. 
+Nocte obscūrā alii deinceps in cava ēius 
+latera furtim ascendērunt, alii ad nāves properāvērunt 
+et vēla candida ventis dedērunt. Māne 
+dēcepti sunt Trōiāni. "Ecce!" inquiunt, "dōnum 
+illud quō Graeci Minervae nūmen plācāre constituērunt. 
+Domum revertērunt hostes. Nōs 
+intrā moenia monstrum illud dūcēmus; tum nōs 
+quoque Dea nūmine secundo servābit." 
 
-Cives igitur monstrum infestum in urbem 
+Cīves igitur monstrum infestum in urbem 
 traxērunt. Iuvenum chorus per vias id duxērunt; 
-pueri puellaeque innuptae circum equum salt�re 
-et canere gaudēbant et fl�ribus eum orn�re.  "Nunc liberi," inquiunt." in liber� urbe habit�- 
-mus; nōn iam hostes n�s noctes diesque vexant." 
+pueri puellaeque innuptae circum equum saltāre 
+et canere gaudēbant et flōribus eum ornāre.
+"Nunc līberi," inquiunt, "in līberā urbe habitāmus; 
+nōn iam hostes nōs noctes diēsque vexant." 
 
 ![The Wooden Horse](./images/wooden-horse-edited.png)
 
@@ -1714,7 +1696,7 @@ the music.
 ### LI 
 Orphēūs tandem ad Mānes descendere constituit, 
 et saevum Plūtōnis animum cantū dulcī mulcēre.
-"Fortasse," inquit. "Plūtō Persephonēque rēgīna 
+"Fortasse," inquit, "Plūtō Persephonēque rēgīna 
 vōce lyrāque meā mulcēbuntur, et veniam mihi 
 dabunt; fortasse Eurydicēn ad virum ēius remittent." 
 Itaque ad Mānes, in regiōnem tenebrōsam 
