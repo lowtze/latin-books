@@ -1,4 +1,4 @@
-This is a clean reproduction of Easy Latin Play by M L Newman based on a scanned copy on Archive.org of the 1913 edition. This reproduction intends to keep the spirit of the original and includes cleaned up scans of the original cover included in the book.
+This is a clean reproduction of Easy Latin Plays by M L Newman based on a scanned copy on Archive.org of the 1913 edition. This reproduction intends to keep the spirit of the original and includes cleaned up scans of the original cover included in the book.
 
 There are two versions of the cleaned up copy:
 
