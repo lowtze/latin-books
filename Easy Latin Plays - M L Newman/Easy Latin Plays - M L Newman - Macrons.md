@@ -8,8 +8,6 @@ cover-image: "./images/cover.png"
 version: 1.0
 ---
 
-tags: [[Latin Language|Latin]]
-
 # Easy Latin Plays
 ![cover](Archive/Easy%20Latin%20Plays/images/cover.png)
 
