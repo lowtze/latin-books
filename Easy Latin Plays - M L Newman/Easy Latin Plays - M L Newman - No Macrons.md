@@ -9,7 +9,7 @@ version: 1.0
 ---
 
 # Easy Latin Plays
-![cover](Archive/Easy%20Latin%20Plays/images/cover.png)
+![cover](./images/cover.png)
 
 ---
 
