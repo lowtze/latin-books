@@ -45,7 +45,7 @@ the play.
 ‘Gemini’ was similarly used in a class of younger
 girls during the second term of the first year.
 
-SHEFFIELD HiGH SCHOOL FOR GIRLS.
+SHEFFIELD HIGH SCHOOL FOR GIRLS.
 January, 1912.
 
 ---  
