@@ -135,82 +135,82 @@ present issue, with the exception of the correction of a few misprints and the a
 
 ## Contents
 
-I. [Mensis September.](#i-mensis-september)
+I. [Mensis September.](#i-mensis-september)  
 § 1. Adjectives Of 3rd Declension in *—, is, e*
 
-II. [Britannia Liberata.](#ii-britannia-liberata)
+II. [Britannia Liberata.](#ii-britannia-liberata)  
 § 2. *is, ea, id*—Singular Number
 
-III. [Cunobelinus.](#iii-cunobelinus)
+III. [Cunobelinus.](#iii-cunobelinus)  
 §§ 3, 4. *ei, eae, ea*—Plural Number
 
-IV. [Caractacus.](#iv-caractacus6)
-§ 5. Eius And Swws,.a, Wm Contrasted See Ee N
+IV. [Caractacus.](#iv-caractacus6)  
+§ 5. *eius* and *suus, a, um* contrasted  
 § 6. *ipse, ipsa, ipsum*
 
-V. [Boadicea.](#v-boadicea7)
+V. [Boadicea.](#v-boadicea7)  
 §§ 7—9. *ille, illa, illud*
 
-VI. [Britannia Pacata.](#vi-britannia-pacata)
+VI. [Britannia Pacata.](#vi-britannia-pacata)  
 §§ 10—13. *hic, haec, hoc*
 
-VII. [Pax Romana.](#vii-pax-romana)
-§ 14. Comparatives of Adjectives
-§ 15. Superlatives of Adjectives
+VII. [Pax Romana.](#vii-pax-romana)  
+§ 14. Comparatives of Adjectives  
+§ 15. Superlatives of Adjectives  
 §§ 16, 17. Passive Voice of 1st Conjugation; Present, Past Imperfect and Future Tenses
 
-VIII. [Castellum Rutupinum.](#viii-castellum-rutupinum)
-§ 18. Questions and Exclamations
-§ 19. *qui, quae, quod* and *quis, quid*—in questions
-§§ 20, 21. *qui, quae, quod* in clauses which are not questions
-§ 22. 2nd Conjugation; Present, Past Imperf. and Future, Active
+VIII. [Castellum Rutupinum.](#viii-castellum-rutupinum)  
+§ 18. Questions and Exclamations  
+§ 19. *qui, quae, quod* and *quis, quid*—in questions  
+§§ 20, 21. *qui, quae, quod* in clauses which are not questions  
+§ 22. 2nd Conjugation; Present, Past Imperf. and Future, Active  
 § 23. 4th Declension and Passives of 2nd Conjugation
 
-IX. [Angli et Saxones.](#ix-angli-et-saxones)
-§§ 24—26. 2nd Conjugation; Perfect Stem, Active
-§ 27. Perfect, Pluperfect and Future Perfect Passive—how expressed
+IX. [Angli et Saxones.](#ix-angli-et-saxones)  
+§§ 24—26. 2nd Conjugation; Perfect Stem, Active  
+§ 27. Perfect, Pluperfect and Future Perfect Passive—how expressed  
 §§§ 28—3O. 5th Declension
 
-X. [Res Africanae.](#x-res-africanae)
-§ 31. Recapitulation of Verbs
+X. [Res Africanae.](#x-res-africanae)  
+§ 31. Recapitulation of Verbs  
 § 32. 3rd Conjugation; Present, Active and Passive
 
-XI. [Origo Reipublicae Africanae.](#xi-origo-reipublicae-africanae)
+XI. [Origo Reipublicae Africanae.](#xi-origo-reipublicae-africanae)  
 §§ 33—35. 3rd Conjugation; Past Imperfect, Active and Passive, together with Imperative Active
 
-XII. [Initium Belli.](#xii-initium-belli)
-§ 36. 3rd Conjugation; Future, Active and Passive
-§ 37. 3rd Conj.; Perfect Stems Active formed with *s*
-§ 38. 3rd Conj.; Perfect Stems Active formed without any suffix
+XII. [Initium Belli.](#xii-initium-belli)  
+§ 36. 3rd Conjugation; Future, Active and Passive  
+§ 37. 3rd Conj.; Perfect Stems Active formed with *s*  
+§ 38. 3rd Conj.; Perfect Stems Active formed without any suffix  
 § 39. 3rd Conj.; Perfect, Pluperfect and Fut. Perf. Passive
 
-XIII. [Milites Reginae.](#xiii-milites-reginae)
-§ 40. 4th Conj.; Present, Active and Passive
-§ 41. 4th Conj.; Past Imperfect and Future, Active and Passive
+XIII. [Milites Reginae.](#xiii-milites-reginae)  
+§ 40. 4th Conj.; Present, Active and Passive  
+§ 41. 4th Conj.; Past Imperfect and Future, Active and Passive  
 § 42. 4th Conj.; Perfect Stem Active
 
-XIV. [Tria Oppida Obsessa.](#xiv-tria-oppida-obsessa)
+XIV. [Tria Oppida Obsessa.](#xiv-tria-oppida-obsessa)  
 § 43. Verbs in *io* with Infinitive in *ere*—Present, Past Imperfect and Future, Active And Passive
 
-XV. [Victoriae et Clades Britannicae.](#xv-victoriae-et-clades-britannicae)
+XV. [Victoriae et Clades Britannicae.](#xv-victoriae-et-clades-britannicae)  
 §§ 44—47. Same Verbs Continued, with Perfect Stems Active
 
-XVI. [Foedus Nominis Britannici.](#xvi-foedus-nominis-britannici)
-§ 48. Present Injunctive of *sum*
+XVI. [Foedus Nominis Britannici.](#xvi-foedus-nominis-britannici)  
+§ 48. Present Injunctive of *sum*  
 § 49. Present Injunctive of 1st Conjugation
 
-XVII. [Post Tenebras Lux.](#xvii-post-tenebras-lux)
+XVII. [Post Tenebras Lux.](#xvii-post-tenebras-lux)  
 § 50. Present Subjunctive of *sum* and 1st Conj.
 
-XVIII. [Adamantopolis Obsidione Liberata.](#xviii-adamantopolis-obsidione-liberata)
-§ 51. Pres. Subj. of *sum* and 1st Conj.—continued
+XVIII. [Adamantopolis Obsidione Liberata.](#xviii-adamantopolis-obsidione-liberata)  
+§ 51. Pres. Subj. of *sum* and 1st Conj.—continued  
 § 52. Present Injunctive and Subjunctive of the other Conjugations
 
-XIX. [Dies Maiubensis.](#xix-dies-maiubensis)
-§ 53. Past Imperfect Subjunctive of *sum*
+XIX. [Dies Maiubensis.](#xix-dies-maiubensis)  
+§ 53. Past Imperfect Subjunctive of *sum*  
 §§ 54, 55. Past Imperfect Subj. of the four Conjugations
 
-XX. [Pax Britannica.](#xx-pax-britannica)
+XX. [Pax Britannica.](#xx-pax-britannica)  
 § 56. Recapitulation
 
 [Preparations.](#preparations)
