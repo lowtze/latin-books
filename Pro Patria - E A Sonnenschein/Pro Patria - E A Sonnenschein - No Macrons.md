@@ -15,6 +15,7 @@ tags: [[Latin Language|Latin]]
 ## TO-DO
 
 - [x] clean up ToC
+- [ ] add links to ToC
 - [ ] add all images
 - [ ] add cross character on relevant chapters (as mentioned in preface)
 - [ ] do a search and replace for "" double quotes and double spaces
@@ -96,7 +97,7 @@ even of the simplest kind of Latin or the power of making
 any practical use of the grammatical facts which they have so
 laboriously learned! That is the sort of educational result
 on which the present outcry against Latin in schools is
-largely based. The great mistake seems to be that the elementary stages of learning are turned into a purely grammatical discipline and that the grammar is hurried over before the study of the language proper and the literature are commenced. Declensions and conjugations learned in this fashion find no real lodgment in the mind; or, at best, the outcome of the tedious process is that the pupil 'holds the parts in his hand,' but misses 'the spirit that binds them together.'[^2] It is against this abstract method of teaching that *Ora Maritima* and *Pro Patria* are a protest. It has been my object to write for the use of the beginner a 'real book,' which shall have a literary as well as a linguistic interest of its own, and from which the pupil shall gain something more than a bowing acquaintance with Nouns and Verbs. I have, therefore, not shunned repetitions; and I have deliberately aimed at providing a certain mass of easy Latin from which he may acquire the habit of reading, as distinct from construing, Latin. If, at the end of two[^3] years' work, the pupil has acquired this, together with the fundamentals of Latin grammar, he will have spent his time to some purpose, and will be in a position to begin the study of a classical author and of the more difficult parts of the grammar with some hope of a happy issue. Or if,on the other hand, he drops the study of Latin at this point, he will still have acquired a working knowledge of the language up to a certain level. This is an aspect of the matter on which I desire to lay some stress. There are many schools, or modern sides of schools, in which only a limited amount of time can be devoted to Latin; and the problem is how can that time be spent so as to produce the most profitable result. It is my hope that the present book may contribute to the solution of this problem.
+largely based. The great mistake seems to be that the elementary stages of learning are turned into a purely grammatical discipline and that the grammar is hurried over before the study of the language proper and the literature are commenced. Declensions and conjugations learned in this fashion find no real lodgment in the mind; or, at best, the outcome of the tedious process is that the pupil 'holds the parts in his hand,' but misses 'the spirit that binds them together.'[^2] It is against this abstract method of teaching that *Ora Maritima* and *Pro Patria* are a protest. It has been my object to write for the use of the beginner a 'real book,' which shall have a literary as well as a linguistic interest of its own, and from which the pupil shall gain something more than a bowing acquaintance with Nouns and Verbs. I have, therefore, not shunned repetitions; and I have deliberately aimed at providing a certain mass of easy Latin from which he may acquire the habit of reading, as distinct from construing, Latin. If, at the end of two[^3] years' work, the pupil has acquired this, together with the fundamentals of Latin grammar, he will have spent his time to some purpose, and will be in a position to begin the study of a classical author and of the more difficult parts of the grammar with some hope of a happy issue. Or if, on the other hand, he drops the study of Latin at this point, he will still have acquired a working knowledge of the language up to a certain level. This is an aspect of the matter on which I desire to lay some stress. There are many schools, or modern sides of schools, in which only a limited amount of time can be devoted to Latin; and the problem is how can that time be spent so as to produce the most profitable result. It is my hope that the present book may contribute to the solution of this problem.
 
 It is not my intention that an equal amount of time and
 attention should be bestowed on all the sections of the text.
@@ -144,13 +145,13 @@ present issue, with the exception of the correction of a few misprints and the a
 
 ## Contents
 
-I. Mensis September.
+I. [Mensis September.](#i-mensis-september)
 § 1. Adjectives Of 3rd Declension in *—, is, e*
 
-II. Britannia Liberata.
+II. [Britannia Liberata.](#ii-britannia-liberata)
 § 2. *is, ea, id*—Singular Number
 
-III. Cunobelinus.
+III. [Cunobelinus.](#iii-cunobelinus)
 §§ 3, 4. *ei, eae, ea*—Plural Number
 
 IV. Caractacus.
@@ -209,7 +210,7 @@ XVI. Foedus Nominis Britannici.
 § 49. Present Injunctive of 1st Conjugation
 
 XVII. Post Tenebras Lux.
-§ 5O. Present Subjunctive of *sum* and 1st Conj.
+§ 50. Present Subjunctive of *sum* and 1st Conj.
 
 XVIII. Adamantopolis Obsidione Liberata.
 § 51. Pres. Subj. of *sum* and 1st Conj.—continued
@@ -716,7 +717,7 @@ castello cenabimus. Sic erit!" Et amita mea
 "Quando in viam vos dabitis?" inquit. Et nos
 "Statim sine mora" inquimus.
 
-(*qui, quae, quod and quis, quid—in questions.)
+(*qui, quae, quod and quis, quid—in questions.*)
 
 19. Inter viam Marcus patruum meum de victoria 
 illa a Caledonibus reportata interrogavit.
@@ -762,7 +763,7 @@ fuisse affirmant?
 
 ![vallum hadriani]()
 
-(*qui, quae, quod—in clauses which are not questions.)
+(*qui, quae, quod—in clauses which are not questions.*)
 
 20. Tum Alexander "Caledonia" inquit "ut
 spero, nunquam subiecta fuit Romanis: nam
@@ -961,57 +962,52 @@ Sic Beda, vir venerabilis, narrat."
 
 (*Fifth Declension.*)
 
-## end p43
-
-28. Et amita mea; �Cur non illud in memor-
-iam revocas, quod animum pontificis illius Gregorii
-misericordia Anglorum commoverat ? Nam multis
+28. Et amita mea: "Cur non illud in memoriam revocas,
+quod animum pontificis illius Gregorii
+misericordia Anglorum commoverat? Nam multis
 annis ante in foro Romano quondam fuit; cum
-pu�ros nonnullos facie pulchra, oculis caeruleis,
+pueros nonnullos facie pulchra, oculis caeruleis,
 capilis flavis vidit. Misericordia commotus est:
 nam illi pueri servi erant et venumdabantur. Itaque
 mercatores, quorum in manu pueri erant, sic inter-
-rogavit :. * Quae est patria eorum ? " inquit. Et
-mercatores �Ex Anglia sunt" inquiunt, * cuius
-incolae huius faciei sunt.) Tum Gregorius �Num
-Christiani sunt?� * Non sunt" inquiunt. Et ille
-
-* Heu!?' inquit; quam pulchra est facies eorum .
-
+rogavit: "Quae est patria eorum?" inquit. Et
+mercatores "Ex Anglia sunt" inquiunt, "cuius
+incolae huius faciei sunt." Tum Gregorius "Num
+Christiani sunt?" "Non sunt" inquiunt. Et ille
+"Heu!" inquit; "quam pulchra est facies eorum?"
 quos Rex Tenebrarum ministros habet!" Deinde
-alia interrogavit : �� Quid est nomen gentis eorum ? "
+alia interrogavit: "Quid est nomen gentis eorum?"
 inquit. Responderunt eos esse Anglos. Et ille
-* Recte ! " inquit; � nam angelicam faciem habent :
-
+"Recte!" inquit; "nam angelicam faciem habent:
 non Anglos sed Angelos eos vocari oportet. Sed
-quid est nomen illius partis Angliae in qua habita-
-bant?" �� Deira vocatur, quae pars Northumbriae
-est" inquiunt. Sed ille �Recte!� inquit; "nam
+quid est nomen illius partis Angliae in qua habitabant?"
+"Deira vocatur, quae pars Northumbriae
+est" inquiunt. Sed ille "Recte!" inquit; "nam
 de ira Dei ad fidem revocandi sunt." Postremo
-� Quis est rex illius partis Angliae ? " inquit. � Aella
-vocatur" inquiunt. Tum � Alleluia!� inquit; nam
+"Quis est rex illius partis Angliae?" inquit. "Aella
+vocatur" inquiunt. Tum "Alleluia!" inquit; "nam
 dies adventat cum carmen omnium carminum
-optimum in Anglia cantabitur ! �
+optimum in Anglia cantabitur!"
 
-T 29. Sed finis diei illius belli iam adventabat
-et necesse erat domum properare. Intra semihora
-vehiculum paratum erat, et in viam nos dedimus
-Dum in. vehiculo sedebamus, muros castelli luna
-plena illustratos vidimus. Pulchrum erat specta-
-culum. Mox domi eramus. Nos pueri longo di
-fatigati et semisomni eramus. *' Non pigebit vos "
-inquit amita mea �ad lectum properare? E
-nocte Marcus et Alexander apud nos. manserunt.
+29. Sed finis diei illius belli iam adventabat
+et necesse erat domum properare. Intra semihoram
+vehiculum paratum erat, et in viam nos dedimus.
+Dum in vehiculo sedebamus, muros castelli luna
+plena illustratos vidimus. Pulchrum erat spectaculum. 
+Mox domi eramus. Nos pueri longo di
+fatigati et semisomni eramus. "Non pigebit vos"
+inquit amita mea "ad lectum properare?"" Ea
+nocte Marcus et Alexander apud nos manserunt.
 Postridie Dubras redambulaverunt.
 
-T 30. Hodie iam quinque dies post Idus Sep
-tembres elapsi sunt, et dies ille ater appropinquat
+T 30. Hodie iam quinque dies post Idus Septembres 
+elapsi sunt, et dies ille ater appropinquat
 qui ultimus feriarum erit. Omnium dierum ille
 tristissimus est qui finis est feriarum. Nam triste
-est verbum �vale,� cum scholae instant. Intra
-paucos dies patruum meum et amit�m meam et
+est verbum 'vale,' cum scholae instant. Intra
+paucos dies patruum meum et amitam meam et
 Lydiam valere iubebo. Quam bellae fuerunt feriae
-a mane usque ad vesperum ! Quae mutatio rerum
+a mane usque ad vesperum! Quae mutatio rerum
 instat! Pauci erunt dies feriati, multi profesti.
 
 >Ille profestus erit, per quem tria verba silentur:
@@ -1027,31 +1023,34 @@ COMMENTARII DE VITA MEA
 AD VENTAM BELGARUM
 ANNIS MDCCCXCIX ET MDCCCC.
 
+
 ### X. Res Africanae.
+
 (*Recapitulation of Verbs.*)
 
-T 31. Kalendae sunt hodie Octobres. Apud
+31. Kalendae sunt hodie Octobres. Apud
 magistrum meum iam septem dies sum. Qui, cum
-me vidit, Salve " mquit; �ut vales?  Fueruntne
-tibi feriae prosperae?� Et ego �Satis recte"
-inquam. Et ile � Ubi fuisti per ferias?" �In
-Cantio fui" inquam ' apud patruum meum, qui
-te salvere iubet." �� Num quid novi� inquit � inter
-ferias vidisti ? " � Castellum Rutupinum " inquam
-* vidi: mecum una fuerunt Marcus et Alexander."
-* Recte" inquit; �num ostreas illic natas gusta-
-vistis ?" * Nullas gustavimus" inquam; �sed
-cur interrogas?" ��Quia temporibus antiquis
+me vidit, "Salve" inquit; "ut vales?  Fueruntne
+tibi feriae prosperae?" Et ego "Satis recte"
+inquam. Et ille "Ubi fuisti per ferias?" "In
+Cantio fui" inquam "apud patruum meum, qui
+te salvere iubet." "Num quid novi" inquit "inter
+ferias vidisti?" "Castellum Rutupinum" inquam
+"vidi: mecum una fuerunt Marcus et Alexander."
+"Recte" inquit; "num ostreas illic natas gustavistis?"
+"Nullas gustavimus" inquam; "sed
+cur interrogas?" "Quia temporibus antiquis
 ostreae Rutupinae praeclarae fuerunt" inquit.
-Et ego ridens � Piget me� inquam �quod mihi
-ante hunc diem nihil de re notum fuit.� Tum ille
-* Num pater tuus " inquit � tibi ex Africa Meridiana
-litteras nuper dedit ?" �Non dedit" inquam. Et
-ille ** Magna discordia est " inquit �� inter Ministrum
+Et ego ridens "Piget me" inquam "quod mihi
+ante hunc diem nihil de re notum fuit." Tum ille
+"Num pater tuus" inquit "tibi ex Africa Meridiana
+litteras nuper dedit?" "Non dedit" inquam. Et
+ille "Magna discordia est" inquit "inter Ministrum
 nostrum qui Coloniis praeest et Patruum Paulum,
-ut vocatur, cui cognomen est KrZger: is praefectus
+ut vocatur, cui cognomen est *Krüger*: is praefectus
 est Reipublicae Africanae Batavorum."
 
+![south africa]()
 
 . Third Conjugation�Present, Active and Passive.]
 
@@ -1084,355 +1083,281 @@ que vexant ; ignavos vocant, quibus usus armorum
 denegatus est."
 
 ### XI. Origo Reipublicae Africanae.
-[Third Conjugation�Past Imperfect, Active and Passive.]
+(*Third Conjugation—Past Imperfect, Active and Passive.*)
 
 33. Postridie nos pueri, qui classis quartae
 discipuli sumus, magistrum de origine Reipublicae
-Africanae Batavorum interrogavimus. �Qui sunt
-illi coloni?" inquimus; � quid significat nomen
-ipsum Boer ?" Et ille � Coloni illi Africani � inquit
-" originem suam a Batavis Europaeis ducunt.
-Nomen Boer lingua Batava nihil alind: significat
-quam ' agricolam" vel colonum. Caesar ' insulam
-Batavorum in libro quarto Belli Gallici com-
-memorat. Ea insula inter Rhenum et Vabalem
+Africanae Batavorum interrogavimus. "Qui sunt
+illi coloni?" inquimus; "quid significat nomen
+ipsum Boer?" Et ille "Coloni illi Africani" inquit
+"originem suam a Batavis Europaeis ducunt.
+Nomen Boer lingua Batava nihil aliud significat
+quam 'agricolam' vel 'colonum'. Caesar 'insulam
+Batavorum' in libro quarto Belli Gallici commemorat. 
+Ea insula inter Rhenum et Vahalem
 iacebat: nam Rhenus, ubi in Oceanum influebat,
 in duo flumina dividebatur, sicut nunc quoque
-dividitur, quorum unum  Vahalis nominabatur.
-Insulae quae inter haec flumina iacebant �a nation-
-ibus feris barbarisque� incolebantur, ut Caesar
+dividitur, quorum unum Vahalis nominabatur.
+Insulae quae inter haec flumina iacebant 'a nationibus 
+feris barbarisque' incolebantur, ut Caesar
 dicit. Martialis, poeta Romanus, eos homines
 magnis et robustis membris, capillis flavis vel rufis
 fuisse dicit. Tacitus Batavos omnium nationum
 Germaniae Inferioris fortissimos fuisse dicit; ex
 interioribus partibus Germaniae propter discordiam
-domesticami migraverant. Insula eorum pars im-
-per� Romani erat; sed Batavi acerrimi defensores
+domesticam migraverant. Insula eorum pars imperii 
+Romani erat; sed Batavi acerrimi defensores
 libertatis suae fuerunt. Tributum Romanum non
 tolerabant."
-[Imperative Active of the Third Conjugation.]
 
-34. " Itaque, ut Tacitus dicit, �manebat honor
-et antiquae societatis insigne) Vos pueri capita
+(*Imperative Active of the Third Conjugation.*)
+
+34. "Itaque, ut Tacitus dicit, 'manebat honor
+et antiquae societatis insigne.' Vos pueri capita
 undetricesimum Germaniae et duodecimum libri
 quarti Historiarum legite. In usum proeliorum
 reservabantur, et in exercitibus Romanis militabant.
-Periti-erant natandi. Cohors Batavorum, quae in
+Periti erant natandi. Cohors Batavorum, quae in
 exercitu Agricolae militabat, quondam trans fretum
-in Monum insulam nafavit. |
-PRO PATRIA
+in Monam insulam natavit.
 
-...35
-
-1 Nos Britanni quoque originem nostram prae-
-cipue a populis Germanicis ducimus: nam Angli et
-Saxones, qui quinto saeculo in Britanniam infunde-
-bantur, nationes Germaniae Inferioris erant. Et
+Nos Britanni quoque originem nostram praecipue 
+a populis Germanicis ducimus: nam Angli et
+Saxones, qui quinto saeculo in Britanniam infundebantur, nationes Germaniae Inferioris erant. Et
 iam ante tempora C. Iuli Caesaris multi Germani
 in Britanniam meridianam migraverant: nam
 Belgas Germanica origine fuisse Caesar dicit, et a
 Belgis Venta Belgarum nomen suum ducit. Itaque
 nos Britanni cognati sumus colonorum Batavorum.
-Origine et nos et illi Germani sumus : animo quoque
-
-germanos esse nos oportet.
-
-Nam nomen German-
-
-orum nihil aliud significat quam ' fratres Multum
+Origine et nos et illi Germani sumus: animo quoque
+germanos esse nos oportet. Nam nomen Germanorum 
+nihil aliud significat quam 'fratres.' Multum
 valet communio sanguinis."
 
-T 35. ' Batavi, qui regionem trans Vahalem sitam
+35. "Batavi, qui regionem trans Vahalem sitam
 incolunt, Coloniam nostram Africanam quondam
-Sed abhinc annos quinque et sexaginta
-
-incolebant.
-
-magna discordia erat
-
-et Batavi trans flumen illud
-
+incolebant. Sed abhinc annos quinque et sexaginta
+magna discordia erat; et Batavi trans flumen illud
 Africanum migraverunt, quod ex flumine Europaeo
 Vahalem nominaverunt, et novam rempublicam sub
 principatu et patrocinio Britannico condiderunt,
 cui nomen Reipublicae Africanae dederunt. Ex
 quo tempore multae discordiae fuerunt inter nos et
-
-illos colonos.
-
-Abhinc annos duodeviginti bellum
-
+illos colonos. Abhinc annos duodeviginti bellum
 fuit, in quo Batavi victoriam a parvo exercitu
-Britannico in colle Maidba reportaverunt. Qua
+Britannico in colle Maiuba reportaverunt. Qua
 ex re magnos sibi spiritus in re militari sumunt.
 Dicunt se Britannos bello vincere et in mare pellere
 posse. Haec somnia sunt; sed periculum est belli
-Nam multi ex Batavis qui Coloniam
-
-domestici,
-
-nostram incolunt novis rebus student.
+domestici. Nam multi ex Batavis qui Coloniam
+nostram incolunt novis rebus student. Scoietatem
 quandam condiderunt cui nomen est Societati
 Africanae; cuius consilium est omnes Batavos qui
-
-Africam Meridianam incolunt in unam Rempubli-
-�am Batavar� �onsociare. Nobis Britannis necesse
+Africam Meridianam incolunt in unam Rempublicam 
+Batavaram consociare. Nobis Britannis necesse
 est principatum. nostrum totius Africae Meridianae
-
-�btinere, et imperium Britannicum, tantis
+obtinere, et imperium Britannicum, tantis laboribus
 conditum, defendere."
 
 ---
 
 ### XII. Initium Belli.
 
-laboribus
-
-[Third Conjugation-�Future, Active and Passive.]
+(*Third Conjugation—Future, Active and Passive.*)
 
 36. Magnum periculum belli esse magister noster
-dicit. * In litteris" inquit **quas praefectus Britan-
-nicus nuper ex Teira Natali dedit, Batavi magnas
-
-copias conscribere nuntiantur. Nos duod
-
-ecim tan-
-
-tum milia militum in Terra Natali habemus; in
-exercitu. Batavorum multo plures sunt. Copias
+dicit. "In litteris" inquit "quas praefectus Britannicus 
+nuper ex Terra Natali dedit, Batavi magnas
+copias conscribere nuntiantur. Nos duodecim tantum 
+milia militum in Terra Natali habemus; in
+exercitu Batavorum multo plures sunt. Copias
 maiores mox  mittemus, coloniae defendendae
 causa; sed si Batavi exercitum suum in Terram
 Natalem ducent, quid prohibebit eos totam coloniam
 percurrere, dum copiae nostrae in mari erunt?
-
-Magnum exercitum in India habemus;
-
-sed is ad
-
-hoc bellum non mittetur.' Sic dicit magister noster.
-
-Sed nos pueri bellum non. formidamus.
-nostras 'robur et aes triplex� navium
-
-Colonias
-longarum
-
-Britannicarum defendet. �Etiam atque etiam
-pugnabimus et vincemus ut est in carmine nostro
+Magnum exercitum in India habemus; sed is ad
+hoc bellum non mittetur." Sic dicit magister noster.
+Sed nos pueri bellum non formidamus. Colonias
+nostras 'robur et aes triplex' navium longarum
+Britannicarum defendet. 'Etiam atque etiam
+pugnabimus et vincemus' ut est in carmine nostro
 Anglico. Britannia est domina undarum. Si
-
-bellum erit, pater meus ex Colonia litter
-
-as ad me
-
+bellum erit, pater meus ex Colonia litteras ad me
 mox mittet, ut spero. Litteras quas scribet ad
 patruum meum mittam; nam eas libenter leget.
-Postea has et alias litteras colligam et in commen-
+Postea has et alias litteras colligam et in commentarios 
+meos exscribam. En litterarum ipsarum
+exemplum!
 
-tarios meos exscribam. En litterarum
-exemplum !
+(*Third Conjugation—Perfect Stems Active, formed with s.*)
 
-ipsarum
-PRO PATRIA |.87
-
-[Third Conjugation� Perfect. Stems Active, formed with s.]
 37. PATRUUS ANTONIO SUO SALUTEM DICIT.
-
- 
-
-Si vales, bene est ; ego valeo. Ex Africa semper.
-
+Si vales, bene est; ego valeo. Ex Africa semper
 aliquid novi! Sic dicebant Graeci, et hodie quoque
 verum est. Nam Batavi summa audacia ad nos
-litter�s ultimas miserunt, in quibus bellum nobis
-indixerunt, nisi copias .nostras, quae in coloniis
+litteras ultimas miserunt, in quibus bellum nobis
+indixerunt, nisi copias nostras, quae in coloniis
 nostris Africanis quaeque adhuc in mari sunt, intra
-di�m deduxerimus. O audaciam singularem Ste-
-phani Joannis Pauli, qui praefectus Reipublicae
+diem deduxerimus. O audaciam singularem Stephani 
+Joannis Pauli, qui praefectus Reipublicae
 Africanae est! Nos nihil respondebimus; nullas
-copias deducemus ; immo maiores mittemus. Quae
-est causa tantae audaciae, tantae stultitiae ? Sed
+copias deducemus; immo maiores mittemus. Quae
+est causa tantae audaciae, tantae stultitiae? Sed
 bellum non parvum erit. Batavi sexaginta milia
 virorum habebunt. Nam Orangia, cui nomen est
-Liberae Civitati, se cum Republica Africana con-
-sociavit, et magnam multitudinem virorum ad
+Liberae Civitati, se cum Republica Africana consociavit, 
+et magnam multitudinem virorum ad
 bellum promisit. Mirum est quod haec civitas
 nobis bellum indixit. Nam nulla causa discordiae
 est inter nos et Orangiam. Amita tua tibi multam
 salutem dicit. Cura te diligenter. Vale. Die
 quinto ante Idus Octobres scripsi.
 
-[Third Conjugation�Perfect Stems Active, formed without any
-suffix.]
+(*Third Conjugation—Perfect Stems Active, formed without any
+suffix.*)
 
-38. PATER FILIO SUO SALUTEM PLURIMAM DICIT. *
+38. PATER FILIO SUO SALUTEM PLURIMAM DICIT.[^8]
 Si vales, bene est; ego et mater tua valemus.
-' Africa terribili tremit horrida terra tumultu.'
-Num versum illum poetae antiquilegisti ? Hodie
-quoque dici potest. Duobus in proeliis hostes vic-
 
- 
+> 'Africa terribili tremit horrida terra tumultu.'
 
-* Hae litterae Idibus Novembribus in Angliam redditae sunt.
-����� S X11
-
-
-
-�S �
-im�s, et Terram Natalem, ut poteramus, defendimus.
+Num versum illum poetae antiqui legisti? Hodie
+quoque dici potest. Duobus in proeliis hostes vicimus, 
+et Terram Natalem, ut poteramus, defendimus.
 Primam victoriam die tertio decimo ante Kalendas
 Novembres ad Collem Talanam reportavimus, qui
 in angulo Terrae Natalis situs est. Hostes copias
-suas in collem collegerant ; sed duae cohortes Hi-
-bernicae et una Anglica impigre procucurrerunt et
-hostes ex colle pepulerunt. Sed legatus Britanni-
-cus, graviter vulneratus, post proelium exspiravit.
+suas in collem collegerant; sed duae cohortes Hibernicae 
+et una Anglica impigre procucurrerunt et
+hostes ex colle pepulerunt. Sed legatus Britannicus, 
+graviter vulneratus, post proelium exspiravit.
 Postridie alter exercitus Britannicus hostes ad
 Saltum Cervinum, inter Collem Talanam et Castra
-Mariana situm, vicit. Batavi tum quoque in monti-
-busstabant; per totum diem et nostri et hostes for-
-tissime pugnaverunt ; sub vesperum tres cohortes
+Mariana situm, vicit. Batavi tum quoque in montibus
+stabant; per totum diem et nostri et hostes fortissime 
+pugnaverunt; sub vesperum tres cohortes
 Anglorum et Scotorum una cum manu equitum
 Africanorum levis armaturae montes ascenderunt et
 hostes in fugam dederunt. Batavi duo tormenta
-amiserunt una cum vexillo in quo erat insigne Rei-
-
-"publicae Batavae Consociatae. Vale, mi carissime,
-
+amiserunt una cum vexillo in quo erat insigne Reipublicae
+Batavae Consociatae. Vale, mi carissime,
 et scribe mox ad nos. Haec ex Colonia die
 septimo ante Kalendas Novembres scripsi.
 
-[Third Conjugation� Perfect, Pluperfect, Fut. Perf., Passive.]
-39. PATER FiLi10 suo SALUTEM.*
+(*Third Conjugation—Perfect, Pluperfect, Fut. Perf., Passive.*)
 
+39. PATER FILIO SUO SALUTEM.[^9]
 S.V.B.E.E.V. Has litteras, mi fili, non libenter
 leges. Nam de fortuna mutata dicam. Nostri
 post victorias illas, de quibus in prioribus litteris
-scripsi, loca obtinere non poterant. ^ Itaque
-copiae .nostrae reductae sunt et circum Castra
-Mariaua collectae; ubi die tricesimo mensis Octobris
+scripsi, loca obtinere non poterant. Itaque
+copiae nostrae reductae sunt et circum Castra
+Mariana collectae; ubi die tricesimo mensis Octobris
 proelium ante oppidum commissum est. Quo in
 proelio nostri laboraverunt. Sed opportune accidit
-
- 
-
-* Jitterae die tertio et vicesimo mensis Novembris redditae.
-PRO PATRIA B 30
-
 quod nonnulla tormenta navalia, quae classiarii
-nostri in ipso tempore apportaverant, nostris 1�
-auxilio fuerunt. Post proelium autem magnum in- 14
-commodum nuntiatum est. Nam proxima nocte
-duae cohortes nostrorum in collem, qui.ad sep-. 3
-tentriones situs est, missae erant, loci occupandi �
+nostri in ipso tempore apportaverant, nostris
+auxilio fuerunt. Post proelium autem magnum incommodum
+nuntiatum est. Nam proxima nocte
+duae cohortes nostrorum in collem, qui ad septentriones 
+situs est, missae erant, loci occupandi
 causa. Sed in itinere mulis, qui tormenta nostra
-trahebant, terror subito incidit, et omnes velut .
-furore acti in fugam se dederunt, arma virosque in 17
+trahebant, terror subito incidit, et omnes velut
+furore acti in fugam se dederunt, arma virosque in
 tenebris praecipitantes. Postridie mane nostri se
-in loco iniquo esse viderunt: ab hostibus undique :?
-circumdati erant. Fortiter sed frustra se de- s
-fenderunt, et tandem coacti sunt se dedere. Haec 2
-
-Nonis Novembribus scripsi. 22
-MEM
+in loco iniquo esse viderunt: ab hostibus undique
+circumdati erant. Fortiter sed frustra se defenderunt, 
+et tandem coacti sunt se dedere. Haec
+Nonis Novembribus scripsi.
 
 ---
 
 ### XIII. Milites Reginae.
-{Fourth Conjugation� Present, Active and Passive.]
+(*Fourth Conjugation—Present, Active and Passive.*)
 
 40. Hodie dies est tertius mensis Novembris.
-Nos pueri multa de bello audimus. Veniunt fere 2
+Nos pueri multa de bello audimus. Veniunt fere
 cotidie litterae ab amicis nostris, quae magno
-studio leguntur et custodiuntur. Magnopere nos 4
-delectat de � Militibus Reginae audire et cantare. s
-Hodie magister noster, postquam in scholam venit e
-* Audite, pueri, inquit �quod in actis diurnis
+studio leguntur et custodiuntur. Magnopere nos
+delectat de 'Militibus Reginae' audire et cantare.
+Hodie magister noster, postquam in scholam venit
+"Audite, pueri," inquit "quod in actis diurnis
 legi. Batavi copias nostras circumdederunt.
-Castra Mariana duodecim milia nostrorum cus-
-todiunt. Sed non facile erit oppidum munire. In
+Castra Mariana duodecim milia nostrorum custodiunt. 
+Sed non facile erit oppidum munire. In
 campo iacet, quem colles undique circumdant.
-In collibus B�tavi tormenta sua magna posuerunt, 12
+In collibus Batavi tormenta sua magna posuerunt,
 unde missilia omnis generis in oppidum effundere
-poterunt." Numero nostros multum superant.
-Sed quinquaginta milia virorum in� Africam
+poterunt. Numero nostros multum superant.
+Sed quinquaginta milia virorum in Africam
 Meridianam nuper emisimus."
 
+(*Fourth Conjugation—Past Imperfect and Future, Active and
+Passive.*)
 
-[Fourth Conjugation�Past Imperfect and Future, Active and
-Passive. ]
-
-41. �Sed cur non multo ante" inquit � bellum
-paravimus ? Nam proverbium est �in pace
-bellum para. Crebri nuntii de periculo belli venie-
-bant. Batavos enim bellum per multos aunos
-parare audiebamus : urbes suas muniebant, milites
+41. "Sed cur non multo ante" inquit "bellum
+paravimus? Nam proverbium est 'in pace
+bellum para.'' Crebri nuntii de periculo belli veniebant.
+Batavos enim bellum per multos annos
+parare audiebamus: urbes suas muniebant, milites
 ex omnibus partibus Europae conscribebant. Sed
 nos nihil paravimus. Nesciebamus enim periculum
-verum esse. Nunc scimus: sed num sero scimus ?
+verum esse. Nunc scimus: sed num sero scimus?
 Magnum exercitum nuper emisimus: sed quando
-in Africam Meridianam adveniet ? Num ante ad-
-ventum exercitus nostri de aliis victoriis Batavorum
-audiem�s ? Quis Terram Natalem a Batavis
+in Africam Meridianam adveniet ? Num ante adventum 
+exercitus nostri de aliis victoriis Batavorum
+audiemus? Quis Terram Natalem a Batavis
 custodiet, dum exercitus noster in mari erit? Nam
-sex milia milium passuum sunt inter nos et Pro-
-munturium Spei Bonae. Hostibus autem tota
-regio ubi pugnabitur, omnia vada omnium flu-
-minum nota sunt."
+sex milia milium passuum sunt inter nos et Promunturium 
+Spei Bonae. Hostibus autem tota
+regio ubi pugnabitur, omnia vada omnium fluminum 
+nota sunt."
 
-,�
+(*Fourth Conjugation—Perfect Stem Active.*)
 
-[Fourth Conjugation�Perfect Stem Active.]
-
-. 42. Hodie, qui est dies decimus mensis Novern-
-bris, de adventu in Africam Meridianam unius ex
-magnis illis navibus, quae � Castella� nominantur,
-audivimus. A portu nostro Anglico ad Promun-
-turium Spei Bonae intra viginti dies navigaverat.
+42. Hodie, qui est dies decimus mensis Novembris, 
+de adventu in Africam Meridianam unius ex
+magnis illis navibus, quae 'Castella' nominantur,
+audivimus. A portu nostro Anglico ad Promunturium 
+Spei Bonae intra viginti dies navigaverat.
 Heri advenit, et statim ad Portum Natalem missa
 est, quo intra paucos dies perveniet. Sed Castra
 Mariana ducenta fere milia passuum a Portu
 Natali distant. In illa autem navi est una cohors
 eorum qui patriam vocantem audiverunt. Imperator
-noster, cui cognomen est Buller, pridie Kalendas
-PRO PATRIA I
-] (4
-
-Novembres advenerat. ^ Interea nostri Castra
-Mariana fortiter custodiverunt. Ea loca quae muniri 13
-poterant muniverunt. Opportune vero accidit quod 1
+noster, cui cognomen est *Buller*, pridie Kalendas
+Novembres advenerat. Interea nostri Castra
+Mariana fortiter custodiverunt. Ea loca quae muniri
+poterant muniverunt. Opportune vero accidit quod
 tormenta illa navalia, quae ad proelium ante
-oppidum commissum in ipso tempore advenerunt, 16
+oppidum commissum in ipso tempore advenerunt,
 nunc in oppido sunt.
  
 ---
 
 ### XIV. Tria Oppida Obsessa.
 
-� [Verbs in �o with Infinitive in ere�Present, Past Imperfect
-and Future, Active and Passive.]
+(*Verbs in io with Infinitive in ere—Present, Past Imperfect
+and Future, Active and Passive.])
+
 43. MATER FILIO SUO SALUTEM PLURIMAM.
 S.V.B.E. Nos valemus. Has litteras, quas
 Nonis Decembribus scribebam, tu, mi Antoni, non
-ante ferias Natales accipies : et omnia quae scribere
-DN �����
-p
-42 PRO PATRIA
-
-poteram, lam. ante adventum litterarum mearum
+ante ferias Natales accipies: et omnia quae scribere
+poteram, iam. ante adventum litterarum mearum
 audiveris. Sed pauca verba ad te mittere cupiebam.
-Cur tam diu nihil litterarum ate? Ut vales ? Quid
+Cur tam diu nihil litterarum a te? Ut vales? Quid
 tu et condiscipuli tui, Marcus et Alexander, inter
-ferias facietis ? Mox a te litteras accipiemus, ut
+ferias facietis =? Mox a te litteras accipiemus, ut
 spero. Nos magnum dolorem ex bello capimus.
 Batavi Castra Mariana iam plus quam triginta dies
-obsident. Oppidum capere magnopere cupi�nt,
+obsident. Oppidum capere magnopere cupiunt,
 et fortasse capient. Noctes diesque missilia omnis
 generis in oppidum iaciunt, et impetus in nostros
 faciunt. Nostri autem quid facere possunt? Deficit
 cibus, deficit aqua. Vix somnum capere possunt.
 Necesse est eis cuniculos et puteos in terra fodere.
-Eo se recipiunt si tormenta Batavorum audiuntur ;
+Eo se recipiunt si tormenta Batavorum audiuntur;
 sed pauci tormentis interficiuntur. Sic litterae,
 quae per columbas mittuntur, nuntiant. Et duo
 alia oppida Britannica, Adamantopolis et Statio
@@ -1442,99 +1367,90 @@ mox rescribe. Etiam atque etiam vale.
 ---
 
 ### XV. Victoriae et Clades Britannicae.
-[Verbs in do with Infinitive in eve�Perfect Stems.]
 
-44. Idibus Decembribus � scriptum. Intra hos
+(*Verbs in io with Infinitive in ere—Perfect Stems.*)
+
+44. *Idibus Decembribus scriptum*. Intra hos
 viginti dies de tribus victoriis atque duabus
-cladibus Britannicis nuntium accepimus. Exer-
-citus Britannicus, in quo octo milia virorum erant,
+cladibus Britannicis nuntium accepimus. Exercitus 
+Britannicus, in quo octo milia virorum erant,
 per fines Orangiae iter faciebat, Adamantopolim
 obsidione liberandi causa. Via per campos latos
 et apertos ducebat; sed nonnullis in locis tumuli
 erant, quos necesse erat superare. Hos Batavi,
 velut aquilae nidos suos, insederant, et viam
 custodiebant. Sed nostri impetus in eos fortissime
-PRO PATRIA 43
-E mE
-
-fecerunt, tumulos ceperunt, hostes in fugam con-
-iecerunt. Quibus in proeliis, ad Montem Bellum et
+fecerunt, tumulos ceperunt, hostes in fugam coniecerunt. 
+Quibus in proeliis, ad Montem Bellum et
 Lacum Gramineum pugnatis, Custodes Regales et
 classiarii nostri praecipuam laudem reportaverunt.
 Inde iter ad Flumen Turbulentum inceperunt.
-Dux autem Batavus, cui nomen est Cronje, in ripis
+Dux autem Batavus, cui nomen est *Cronje*, in ripis
 fluminis magnas fossas puteosque foderat, in
 quibus copias suas et tormenta occultaverat. Ibi
 per totum diem acerrime pugnatum est. Batavi
 circiter quingentos ex nostris interfecerunt vel
-vulneraverunt. Tandem nostri impetum in sinis-
-tram partem fluminis fecerunt, et se traiecerunt.
-Tum Batavi se �x proelio receperunt. �
+vulneraverunt. Tandem nostri impetum in sinistram 
+partem fluminis fecerunt, et se traiecerunt.
+Tum Batavi se ex proelio receperunt.
 
-T 45. Haec victoria die duodetricesimo mensis | No-
-vembris reportata est. De qua patruus meus anihi
-haec scripsit :��� Victoria nostris non magno usui
+45. Haec victoria die duodetricesimo mensis Novembris 
+reportata est. De qua patruus meus mihi
+haec scripsit:—"Victoria nostris non magno usui
 erat, quia hostibus instare non poterant. Nam
-legatus Britannicus nullos equites habebat. ^ Pedi-
-tes nostri ad huiusmodi bellum minus apti sunt.
+legatus Britannicus nullos equites habebat. Pedites 
+nostri ad huiusmodi bellum minus apti sunt.
 Batavis, sicut Britannis antiquis, non mos est iusto
-proelio pugnare. Equites.eorum arma peditum por-
-tant et pedibus pugnare possunt. Itaque mobili-
-tatem equitum, stabilitatem peditum in proeliis prae-
-stant."�Exercitus noster iam viginti tantum milia
+proelio pugnare. Equites eorum arma peditum portant 
+et pedibus pugnare possunt. Itaque mobilitatem 
+equitum, stabilitatem peditum in proeliis praestant."—Exercitus noster iam viginti tantum milia
 passuum ab oppido obsesso aberat. Sed inter castra
 nostra et Adamantopolim mons erat, Macrifontium
-nomine, quem necesse erat superare. Legatus nos-
-ter quattuor cohortes Caledonum praemisit, loci
+nomine, quem necesse erat superare. Legatus noster 
+quattuor cohortes Caledonum praemisit, loci
 occupandi causa. Sed Batavus suos in fossis, quas
 ante montem foderat, in insidiis posuerat. De magna
 clade Britannica accepta in actis diurnis haec legi.
 
-MEM CM ���E
-
-
-+ 46. "Silentio noctis per tenebras et SEE]
+46. "Silentio noctis per tenebras et imbrem
 Caledones agmine quadrato ad locum iter faciunt.
-Subito a�r ignibus tonitruque tremit; hostis autem
+Subito aer ignibus tonitruque tremit; hostis autem
 nusquam conspicitur. Sed ex omnibus fossis imber
-mortifer missilium in ordines nostros. effunditur,
+mortifer missilium in ordines nostros effunditur,
 et puncto temporis ducenti vel trecenti ex viris
 illis fortissimis una cum legato mortui vel vulnerati
-iacuerunt. Nostriininsidias inciderant. In tenebris
-autem nullus erat usus oculorum ; nec imperia in
+iacuerunt. Nostri in insidias inciderant. In tenebris
+autem nullus erat usus oculorum; nec imperia in
 tanto tumultu audiri vel accipi poterant. Ordines
 igitur nostri perturbati et confusi sunt; arma virique,
 alius super altum, praecipitabantur: non proelium
 sed trucidatio fuit. Nostri ex loco mortifero, ut
 poterant, se receperunt, vel viam per medios hostes
 facere contenderunt. Plus quam septingentos viros
-ex -quattuor illis cohortibus amisimus." Haec
+ex quattuor illis cohortibus amisimus." Haec
 clades mane diei undecimi mensis Decembris
 accepta est. Pridie alia clades Britannica ex Colonia
 nuntiata erat. Alius exercitus Britannicus ad
 Montem Procellarum in insidias inciderat, et victus
-erat. Nihil eorum quae apud nos agebantur hosti-
-bus ignotum erat. Nam exploratores omnia
+erat. Nihil eorum quae apud nos agebantur hostibus 
+ignotum erat. Nam exploratores omnia
 indicaverant.
 
+47. Feriae Natales adventant. Intra tres dies
 apud patruum meum ero. Dulce domum! Sed feriae
 non hilarae erunt. Nam de tertia clade, in Terra
-Natali accepta, acta diurna haec nuntiant :��� Mag-
-nus ille exercitus Britannicus, cui imperator noster
+Natali accepta, acta diurna haec nuntiant:—"Magnus 
+ille exercitus Britannicus, cui imperator noster
 praeest, plus quam viginti milia virorum numero,
 Castra Mariana obsidioneliberare contendebat. Inter
-nostros et oppidum fluebat Tugela, quem Batavi oc-
-
-f47. Feriae Natales adventant. �Intra tres Ae
-PRO PATRIA (465
-
-cupaverant et in ripis fossas suas mortiferas foderant.
+nostros et oppidum fluebat Tugela, quem Batavi occupaverant 
+et in ripis fossas suas mortiferas foderant.
 Mane diei quinti decimi mensis Decembris imperator
 noster quattuor legiones suas ad proelium eduxit.
-Caelum caeruleum et serenum erat ; magnus calor
+Caelum caeruleum et serenum erat; magnus calor
 solis. Legio Hibernica, quae in sinistro cornu erat, ad
-ripas fluminis fortissime appropinquavit ; sed post-
-quam quingentos vel sescentos viros amiserunt, se
+ripas fluminis fortissime appropinquavit; sed postquam
+quingentos vel sescentos viros amiserunt, se
 recipere coacti sunt. In dextro cornu tormenta
 nostra defensoribus nudata sunt; quorum decem
 ab hostibus capta sunt, postquam ei qui tormentis
@@ -1542,84 +1458,86 @@ ministrabant paene omnes interfecti sunt. Sed
 duo ex tormentis parva manus nostrorum e loco
 mortifero recepit. Facinus pulcherrimum fuit. In
 ea manu fuit adulescens egregiae spei, nomine
-Roberts.� Fuit: nam is quoque, graviter vulneratus,
-postero die exspiravit. In eo proelio mille ducen-
-tos viros amisimus.
+*Roberts*." Fuit: nam is quoque, graviter vulneratus,
+postero die exspiravit. In eo proelio mille ducentos 
+viros amisimus.
+
+![fossa batavorum]()
 
 ---
 
 ### XVI. Foedus Nominis Britannici.
 
-[Present Injunctive of sum.]
+(*Present Injunctive of sum.*)
 
 48. Hodie Dies Natalis est Christi. Ante paucos
-dies. novus imperator Britannicus ad Promunturium
+dies novus imperator Britannicus ad Promunturium
 Spei Bonae navigavit. De quo patruus meus haec
-dixit :���In hoc viro summa est scientia belli,
+dixit:—"In hoc viro summa est scientia belli,
 clarissima virtus, egregia fortuna. Magnum sibi
 quondam nomen in India fecit; nunc senex est,
 septem et sexaginta annos natus. Et pater est
 illius adulescentis qui ad Tugelam cecidit dum
 facinus pulchrum et periculosum facit. Pater
-mortem filii sui deplorat; sed patriam ipsam vo-
-cantem audivit. Sit ei iter prosperum! Sit i
+mortem filii sui deplorat; sed patriam ipsam vocantem 
+audivit. Sit ei iter prosperum! Sit in
 illo nomine Spei Bonae omen rerum prosperarum!
 Nam nomen est omen, ut poeta Romanus dixit.
 Quondam Promunturium Procellarum vocabatur.
 Exercitui maximo ducentorum milium virorum
 praeerit. Numquam post hominum memoriam
-tantus exercitus trans mare transportatus =
+tantus exercitus trans mare transportatus est
 quantum nunc emisimus. Quod reipublicae nostra
-prosit ! �
+prosit!"
 
-    
- 
+(*Present Injunctive of First Conjugation.*)
 
-[Present Injunctive of First Conjugation.]
 49. Postridie patruus meus haec ex actis diurni
-recitavit : �� Ex Africa Meridiana nihil novi. Se
-magnitudo populi Britannici prope admirabilior i
+recitavit:—"Ex Africa Meridiana nihil novi. Se
+magnitudo populi Britannici prope admirabilior in
 rebus adversis quam in prosperis fuit. Opus magni
 laboris erit, tot atque tam validos hostes vincere.
 Sed etiam atque etiam pugnemus, donec vicerimus.
 Deus nobis fortunam det! Ne desperemus!
 Festinemus lente, sicut Fabius ille Maximus fecit,
-de quo poeta Romanus haec scripsit :
-PRO PATRIA 47
+de quo poeta Romanus haec scripsit:
 
-Unus homo nobis cunctando restituit rem.
+> Unus homo nobis cunctando restituit rem.
+
 Hoc bellum Britanniam, matrem tot filiarum
 egregiarum, cum coloniis suis in unius et maioris
 Et corpus consociavit.
 
-Una dum Regina nostra est, nnus in Reginam amor,
-Unum foedus omnis esto nominis Britannici !
+> Una dum Regina nostra est, unus in Reginam amor,
+> 
+> Unum foedus omnis esto nominis Britannici!
 
 Sic una voce exclamat Maior illa Britannia,
 cui sol numquam occidit. Coloniae autem nostrae
 liberae maximam sibi laudem esse iudicant, dicere
-posse :
+posse:
 
-Filia matris in domo,
-Domina sum tamen domi,
-Tu, Canada, duo milia filiorum tuorum m�sisti.
+> Filia matris in domo,
+> 
+> Domina sum tamen domi.
+
+Tu, Canada, duo milia filiorum tuorum misisti.
 Vos, Coloniae Australienses, cum Nova Zelanda et
 Tasmania octo milia misistis. Tu, Terra Natalis,
-
-quae filia Britanniae natu minima es, quinque >
-
+quae filia Britanniae natu minima es, quinque
 milia dedisti. Quam vera sunt verba Horatii!
-Caelum non animum mutant qui trans mare currunt.
 
-Et in Britannia ipsa magna multitudo voluntari-
-orum nomina sua dederunt. Deus salvam praestet
-Reginam 1 "*
+> Caelum non animum mutant qui trans mare currunt.
+
+Et in Britannia ipsa magna multitudo voluntariorum 
+nomina sua dederunt. Deus salvam praestet
+Reginam!"
 
 ---
 
 ### XVII. Post Tenebras Lux.
-
-[Present Subjunctive of sum and First Conjugation.]
+## end p62
+(*Present Subjunctive of sum and First Conjugation.*)
 
 50. Initium est novi anni. Batavos piget
 Castra Mariana iam duos menses obsidere ; nostros
@@ -1627,12 +1545,9 @@ quoque obsideri piget. Hostes igitur operam dant
 ut oppidum vi expugnent, et diem constituunt quo
 impetum in Caesaris Castra dent, quae ad meridiei
 oppidi iacent. De qua re patruus meus haec
-
-
-
 recitavit :�'' Silentio ^ noctis pedibusque nudis
 collem ascendere incipiunt. Sed Mancunienses
-nostri ad arma volant. _Ad decimam horam diei
+nostri ad arma volant. Ad decimam horam diei
 pugnatur, quo tempore tantus imber cadit, ut sol
 nebulis obscuretur. Tum impetum tam acrem in
 Batavos faciunt ut eos propulsent et castra salva
@@ -1646,25 +1561,20 @@ deest. Gallinae denarii s viginti constant, duo-
 decim ova triginta denariis, cetera grandi pretio.
 Navis a�ria nonnumquam ex oppido emittitur, ut
 quae apud hostes aguntur explorentur. Ex qua
-
-
-
 nostri feminas Batavas cum festo ornatu nonnum-
 quam vident, quae via ferrata apportantur, ut
-
-obsidionem spectent."
-
-Navis a�ria ita facta est
-
+obsidionem spectent." Navis a�ria ita facta est
 ut ad terram applicetur, si necesse sit. Nam cum
 a�re plena est, in caelum ascendit ; cum a�r emit-
 titur, descendit.
+
+![navis aeria]()
 
 ---
 
 ### XVIII. Adamantopolis Obsidione Liberata.
 
-T 51. Die seplimo decimo mensis Februari scriptum.
+51. Die seplimo decimo mensis Februari scriptum.
 Magnum hodie gaudium per totam  Britan-
 Nam Adamantopolis obsidione liberata
 
@@ -1710,6 +1620,7 @@ emus
 
 
 [Present Injunctive and Subjunctive of other Conjugations.
+
 52. AmiTA ANTONIO SUO MULTAM SALUTEM DICIT.
 
 S.V.B.E.E.V. Litterae tuae me magnopere
@@ -1794,7 +1705,7 @@ contenderant, ut hostes ex illis montibus pellerent,
 tamen audacia vere Britannica constituerunt ut
 etiam atque etiam pugnarent, donec vincerent."
 
-155. Et vicerunt. Nam postquam die altero
+55. Et vicerunt. Nam postquam die altero
 et vicesimo mensis Februarii legio Hibernica flumen
 ab oriente traiecit, ut collem Petreium, in quo
 Batavi stabant, caperet, die septimo et vicesimo
@@ -1821,8 +1732,7 @@ et Castrorum Marianorum fabricata gerebant.
 ---
 
 ### XX. Pax Britannica.
-f 56. PaTER FiLio suo CanissiMO SALUTEM.
-
+56. PaTER FiLio suo CanissiMO SALUTEM.
 Hodie, mi fili, tibi longas litteras scribere in
 animo habeo. Plus quam tres menses sunt ex quo
 exercitus Batavus ad Montem Equinum captus est,
@@ -1838,8 +1748,6 @@ Britanni, qui Praetoriae habitabant, vexillum
 Britannicum velut mortuum humaverunt. In
 monumento inscriptum est �In memoriam vexilli
 Britannici carissimi, quod anno mill-simo octin-
-
-
 gentesimo octogesimo primo vita decessit, quat-
 tuor annos natum.  Resurgam. Resurrexit,
 Hodie omnia plena sunt laetitiae. Statio illa
@@ -1867,7 +1775,6 @@ PROPTER QUOD CRUCIS VICTORIANAE DECUS MERUIT,
 m :
 
 Vita eius brevis sed non imperfecta fuit. Nam
-
 s� quid pulchrius est quam pro patria pugnantem
 vitam exspirare? Tu, mi fili, exemplum tantae
 virtutis memoria tene. Ab his et huiusmodi viris
@@ -1904,27 +1811,33 @@ Fecisti patriam diversis gentibus unam 1
 
 Nam quae Claudianus, poeta Romanus, de urbe
 Roma scripsit, ea etiam verius de Britannia dicere
-licet ;�
+licet;—
 
+> Haec est, in gremium victos quae sola recepit,
+> 
+> Humanumque genus communi nomine fovit,
+> 
+> Matris non dominae ritu; civesque vocavit
+> 
+> Quos domuit, nexuque pio longinqua revinxit.
+> 
+> Huius pacificis debemus moribus omnes
+> 
+> Quod cuncti gens una sumus.
 
-TO Haec est, in gremium victos quae sola recepit,
-Humanumque genus communi nomine fovit,
-Matris non dominae ritu; civesque vocavit
-
-?8 Quos domuit, nexuque pio longinqua revinxit.
-"4 Huius pacificis debemus moribus omues
-7 76 Quod cuncti gens una sumus.
-76 Nos, igitur, hodie, sicut olim Camillus ille
-
+Nos, igitur, hodie, sicut olim Camillus ille
 Romanus, templum Concordiae consecremus, in
-78 quo haec verba inscribantur: PACI ET LIBERTATI >
+quo haec verba inscribantur: PACI ET LIBERTATI
 RESTITUTAE.
 
-80 Bellavimus; esto.
-Sed cecidere odia, et tristes mors obruit iras. �
+> Bellavimus; esto.
+> 
+> Sed cecidere odia, et tristes mors obruit iras.
 
 Tu vero, fili mi carissime, bene vale, et me
-ama. Scripsi Nonis Iuniis, Anno Salutis mpcccc..
+ama. Scripsi Nonis Iuniis, Anno Salutis MDCCCC.
+
+![vexillum britannicum]()
 
 ---
 
@@ -2005,10 +1918,14 @@ The metre of this Latin version is the same as that of the original: and its qua
 
 [^3]: It is intended that *Ora Maritima* and *Pro Patria* shall occupy one year each.
 
-[^4]:
+[^4]: See Preparations §§ 48, 49, 50.
 
-[^5]:
+[^5]: These are acknowledged in their places in the "Preparations."
 
 [^6]: Tacitus ducem Silurum *Caratacum* (non *Caractacum*) vocat.
 
 [^7]: Tacitus reginam Icenorum *Boudiccam* (non *Boadiceam*) vocat.
+
+[^8]: Hae litterae Idibus Novembribus in Angliam redditae sunt.
+
+[^9]: Litterae die tertio et vicesimo mensis Novembris redditae.
