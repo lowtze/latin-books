@@ -14,3 +14,4 @@ Both versions currently do not include the vocabulary sections at the end as the
 - [ ] do a second round of proofing
 - [ ] add Epubs
 - [ ] reformat and add in the vocabulary sections
+- [ ] remove extra spaces in quotes
