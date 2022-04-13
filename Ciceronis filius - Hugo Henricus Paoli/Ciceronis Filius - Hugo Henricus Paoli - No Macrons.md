@@ -5,12 +5,11 @@ publisher:
 year: 1964
 lang: la
 cover-image: "./images/cover.png"
-version: 0.1
+version: 0.2
 ---
 
-tags: [[Latin Language|Latin]]
-
 # Ciceronis Filius
+
 ---
 
 HUGO HENRICUS PAOLI
@@ -336,811 +335,190 @@ quae mala omnia domo averteret. Eam vim enim in lupi barba inesse putabant.
 
 ### Posticum.
 
-## end  
-
-  
-
-Differt ab ianua posticum; ostioülum id erat per quod
-
-ab angiportu in aedium latere sito, accessus alter in inte-
-
-riores aedium partes dabatur. Domestici famuli, institorum
-
+Differt ab ianua posticum; ostiolum id erat per quod
+ab angiportu in aedium latere sito, accessus alter in interiores aedium partes dabatur. Domestici famuli, institorum
 ministri, omnis baiulorum turba hoc ostiolo solebant intrare,
-
 ne transitus per atrium nimius fieret, aptiusque illi ad
-
 culinam pervenirent, quae in omnibus fere aedibus prope
-
 posticum sita erat. Dominus ipse interdum postico exire
-
 properabat, si quando fastidiosi alicuius hominis molestiam
-
 vel contumacem clientium pertinaciam effugere vellet.
 
-  
 
-  
+### Tablinum, cenaculum.
 
-  
-
-Tablinum, cenaculum.
-
-  
-
-In atrü extremitate spatiosum quoddam patebat con.
-
-clave, quod fablimum vocabant; fauces et ianuam ex adversa
-
+In atrii extremitate spatiosum quoddam patebat conclave, quod *tablinum* vocabant; fauces et ianuam ex adversa
 parte id prospectabat, ex aversa peristylium. Tablini pars
-
 superior, ubi veteres Romani interdum solebant cenare,
+*cenaculi* nomen etiam tum servabat, cum more Graeco triclinia aedificari coepta sunt. Posterius cenacula ea quoque
+loca dicta sunt quae in insulis sub tegulis habitabantur.
 
-cenacul nomen etiam tum servabat, cum more Graeco tri-
 
-clinia aedificari coepta sunt. Posterius cenacula ea quoque
+### Andron, peristylium, triclinium, oecus.
 
-loca dieta sunt quae in insulis sub tegulis habitabantur.
+![cenaculum]()
 
-  
-
-  
-
-  
-
-Ándron, peristylium, triclinium, oecus.
-
-  
-
-  
-
-Brevis et angustus andron transitum dabat ex atrio ad
-
-peristyliwum. Hortus is erat amoenissimus arbusculis consi-
-
-tus, areolis distinctus, marmoreis ornamentis decoratus. Buxi
-
-vel lauri saepes areolas cireumdabant; parvae sed nitidae
-
-  
-
-Cenaculum.
-
-  
-
+Brevis et angustus *andron* transitum dabat ex atrio ad
+*peristylium*. Hortus is erat amoenissimus arbusculis consitus, areolis distinctus, marmoreis ornamentis decoratus. Buxi
+vel lauri saepes areolas circumdabant; parvae sed nitidae
 gestationes, inter areolas currentes, iter dabant ad porticus,
+quae interiores peristylii partes exornabant, vel ad amplissima conclavia. Haec, si ad cenandum apta erant, *triclinia*
+dicebantur, si ad amicos accipiendos, *oeci* vel *exhedrae*. Ditiorum hominum in peristylis magna etiam fontana inveniebatur, loco clauso exstructa, ubi marmoreum labrum
+aquam ex alto redundantem excipiebat. In medio vero peristylio saepe fonticulus situs erat, vel marmoreum triclinium.
 
-quae interiores peristylii partes exornabant, vel ad amplis-
-
-sima conclavia. Haee, si ad cenand um apta erant, triclinia
-
-dicebantur, si ad amicos accipiendos, oec? vel exhedrae. Di-
-
-tiorum hominum in peristylis magna etiam fontana inve-
-
-niebatur, loco elauso exstructa, ubi marmoreum labrum
-
-aquam ex alto redundantem excipiebat. In medio vero pe-
-
-ristylio saepe fonticulus situs erat, vel marmoreum tricli-
-
-nium.
-
-  
+![peristylium]()
 
 Aestivis caloribus patri familias gratum erat cum uxore
-
 et liberis in aperto cenare. Ciceronis temporibus ampla
-
 erant peristylia et venusta; sed antequam apud Romanos
-
-Graeci mores invaluerunt, quo tempore vetus adhuc disci-
-
-plina vigebat vivendique ratio simplicior erat et durior,
-
+Graeci mores invaluerunt, quo tempore vetus adhuc disciplina vigebat vivendique ratio simplicior erat et durior,
 nondum post tablinum peristylia aedificabantur. Priscis illis
-
-
-
-  
-
-Peristylium.
-
-  
-
 viris satis erat quod postremae domus parti parvus tantum
-
 hortus adiacebat, quem pater familias manibus ipse suis
-
 colebat, ne herbae atque olera mensae deessent. Ad harum
+exemplum recentioribus etiam temporibus, quamquam perraro, aliquot domus vetusto more aedificatae sunt.
 
-exemplum recentioribus etiam temporibus, quamquam per-
 
-raro, aliquot domus vetusto more aedificatae sunt.
-
-  
-
-  
-
-Suspensurae et parietes tubulati.
-
-  
+### Suspensurae et parietes tubulati.
 
 Vere, cum caeli serenitas esset, atque aestate plerumque,
-
 infantis Ciceronis cunae in peristylii horto ponebantur. Mite
-
-est enim caelum in urbe Roma et aer saluberrimus. Dor-
-
-miebat ille in ipsis cunis fasceolis involutus, vel adsidenti ma-
-
-tri pueriliter ridebat, vel papiliones passim volitantes oculis
-
-sequebatur. Cur enim non id faceret, quod pueri omnes fa-
-
-ciunt? At hieme in cubiculo magnam diei partem detineba.-
-
-tur; neque vero timendum erat, vel si tempus anni asperius
-
-  
-
-  
-
-— 13 —
-
-  
-
-esset, ne ille, frigore laesus, in morbum incideret, ac pituitis
-
-aut distillatione laboraret; nam hieme quoque aedes modico
-
+est enim caelum in urbe Roma et aer saluberrimus. Dormiebat ille in ipsis cunis fasceolis involutus, vel adsidenti matri pueriliter ridebat, vel papiliones passim volitantes oculis
+sequebatur. Cur enim non id faceret, quod pueri omnes faciunt? At hieme in cubiculo magnam diei partem detinebatur; neque vero timendum erat, vel si tempus anni asperius esset, ne ille, frigore laesus, in morbum incideret, ac pituitis aut distillatione laboraret; nam hieme quoque aedes modico
 calore tepebant. Ea enim ratione aedificabantur, ut vacua
+spatia, *suspensurae* dictae, sub pavimento relinquerentur. Ex fornace in imis aedibus exstructa, cuius ignibus aqua calida ad balneum calefaciendum atque ad ceteros domesticos usus parabatur, vapor per suspensuras diffundebatur parietesque pervadebat; qui, cum in interiore parte in longitudinem perforati essent, *parietes tubulati* dicebantur.
 
-spatia, suwspenswrae dic-
+![in ipsis cunis]()
 
-tae, sub pavimento re-
 
-linquerentur. Ex fornace
+### Vir dicax Ciceronem oratorem adit.
 
-in imis aedibus exstruc-
-
-ta, cuius ignibus aqua
-
-calida ad balneum cale-
-
-faciendum atque ad ce-
-
-teros domesticos usus «in ipsis cunis ».
-
-  
-
-parabatur, vapor per su-
-
-  
-
-spensuras diffundebatur parietesque pervadebat; qui, cum
-
-in interiore parte in longitudinem perforati essent, parietes
-
-tubulati dicebantur.
-
-  
-
-  
-
-Vir dicax Ciceronem oratorem adit.
-
-  
-
-Erat, ut supra diximus, in M. Ciceronis clientibus vir qui-
-
-dam dicax ae maledicus. Hic, quamquam aliquot beneficiis
-
+Erat, ut supra diximus, in M. Ciceronis clientibus vir quidam dicax ac maledicus. Hic, quamquam aliquot beneficiis
 ab illo erat adfectus, si quid tamen improbi dicendum erat,
-
 linguae temperare nequibat. Accidit autem ut quadam die,
-
 cum praeter solitum hiems imbri maximo ac vento saeviret,
-
-vir ille, in M. Ciceronis conclavia admissus, litteras illi tra-
-
-deret à quodam amico missas. Eo tempore M. Cicero sum-
-
-mopere nitebatur ut ad consulatum perveniret; plurimae
-
+vir ille, in M. Ciceronis conclavia admissus, litteras illi traderet a quodam amico missas. Eo tempore M. Cicero summopere nitebatur ut ad consulatum perveniret; plurimae
 igitur epistulae a fautoribus adferebantur. Accepit Cicero
-
-clientem suum, ut illius mos erat, humanissime; grates epit
-
+clientem suum, ut illius mos erat, humanissime; grates egit
 propter epistulam sibi adlatam; nummos aliquot adiecit.
 
-  
 
-  
-
-  
-
-  
-
-De insulis inquilinis locandis.
-
-  
+### De insulis inquilinis locandis.
 
 Cum vero ille domum redire coepisset, haec secum in
-
-itinere meditabatur: « Longe aliter divites vivunt ac pau-
-
-peres. Domos amplas ae magnificas illi possident; at nos
-
-in insulis nostris minore spatio utimur quam apes in alvea-
-
-ribus, in stabulis pecus ».
-
-— 14 —
-
-  
+itinere meditabatur: «Longe aliter divites vivunt ac pauperes. Domos amplas ac magnificas illi possident; at nos
+in insulis nostris minore spatio utimur quam apes in alvearibus, in stabulis pecus».
 
 Insulae dicebantur lata quaedam et excelsa aedificia
+quorum muros via publica continuo circuitu cingebat. Singulae insulae complures privatas aedes continebant, vix
+ad domicilii commoditates praebendas idoneas. Pauperiores cives illas modica pensione conducebant atque habitabant cum familiis suis. Harum aedium exemplum exhibent veteres illae insulae quae nuper Ostiae effossa terra ad lucem restitutae sunt.
 
-quorum muros via publiea continuo circuitu cingebat. Sin-
 
-gulae insulae complures privatas aedes continebant, vix
+### De insularum incommodis.
 
-ad domicilii commoditates praebendas idoneas. Pauperio-
-
-res cives illas modica pensione eonducebant atque habita-
-
-bant cum familus suis. Harum aedium exemplum exhibent
-
-veteres illae insulae quae nuper Ostiae effossa terra ad
-
-lucem restitutae sunt.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-De insularum incommodis.
-
-  
-
-  
+![suem apud lanium esse mactatam]()  
 
 «Divitum conclavia plano pede aedificantur; turres, si
-
 quae sunt, a servis et ancillis habitantur. Nos vero sescentas
+scalas ascendamus necesse est, ut in aedes nostras perveniamus. ipse summum tabulatum habito, unde, si de fenestra praetereuntium turbam despexi, formicae illi, ut ita dicam, mihi videntur, non homines. Satis esse aiunt, si nos habitandam domum habemus, cum plebs infima in tabernis vivat. At quam domum! Divites omnia habent in aedibus suis: lucem, aerem, aquarum fonticulos; in urbe viventes rus habent intus et nemus. Nostrae aedes ex fenestris in viam prospicientibus lucem capiunt; quibus obseratis, lumine carere necesse est: tenebrae intus sunt, vel die medio». (Nondum enim usus vitreorum obicum fenestras claudentium satis vulgatus erat. Rara erant specularia neque illa, ut nostra, perspicua).
 
-scalas ascendamus necesse est, ut in aedes nostras perve-
-
-niamus. lpse summum tabula.
-
-tum habito, unde, si de fenestra
-
-praetereuntium turbam despexi,
-
-formicae illi, ut ita dicam, mihi
-
-videntur, non homines. Satis esse
-
-aiunt, si nos habitandam domum
-
-Eus foo | habemus, cum plebs infima in ta-
-
-  
-
-"GEB USE: —— bernis vivat. At quam domum!
-
-e Divites omnia habent in aedibus
-
-suis: lucem, aerem, aquarum fon-
-
-ticulos; in urbe viventes rus ha-
-
-bent intus et nemus. Nostrae
-
-aedes ex fenestris in viam pro-
-
-spiclentibus lucem capiunt; qui-
-
-bus obseratis, lumine carere ne-
-
-cesse est: tenebrae intus sunt,
-
-vel die medio ». (Nondum enim
-
-usus vitreorum obicum fenestras
-
-claudentium satis vulgatus erat.
-
-Hara erant specularia neque illa,
-
-ut nostra, perspicua).
-
-  
-
-«Quid de quiete illa dicam
-
-qua divites soli domi fruuntur?
-
-Aedium muri nullas fere fene-
-
-  
+«Quid de quiete illa dicam qua divites soli domi fruuntur?Aedium muri nullas fere fenestras habent; solidi sunt et spissi, strepitus omnes arcent. Viarum clamor non laedit aures, somnum non aufert. Nec nares odor ille taeter offendit, quem compita exhalant et nos perpetuo per fenestras angustum cubiculum invadentem naribus excipimus. Suavis odor apud illos e peristylii rosariis per domum totam effunditur; at me, quamvis cenaculum habitantem, nares meae cotidie certiorem faciunt caprarum gregem sub fenestris transisse, suem apud lanium esse mactitam, mortuam felem in via putrescere».
 
 
+### De insularum conclavibus.
 
-«suem apud lanium esse mac-
-
-tatam ».
-
-  
-
-— 15 —
-
-  
-
-stras habent; solidi sunt et spissi, strepitus omnes arcent.
-
-Viarum clamor non laedit aures, somnum non aufert. Nec
-
-  
-
-nares odor ille taeter offendit, quem compita exhalant et nos
-
-perpetuo per fenestras angustum cubiculum invadentem na-
-
-ribus excipimus. Suavis odor apud illos e peristylii rosariis
-
-per domum totam effunditur; at me, quamvis cenaculum
-
-habitantem, nares meae cotidie certiorem faciunt caprarum
-
-gregem sub fenestris transisse, suem apud lanium esse mac-
-
-titam, mortuam felem in via putrescere ».
-
-  
-
-  
-
-  
-
-De insularum conclavibus.
-
-  
-
-« Divites, quo commodius habitent, aedes ita aedificari
-
-Ilubent, ut singula conclavia ad usum suum respondeant,
-
+«Divites, quo commodius habitent, aedes ita aedificari
+iubent, ut singula conclavia ad usum suum respondeant,
 ut alia apta sint ad cenandum, alia ad clientes audiendos,
-
 alia ad dormiendum. Quin etiam in illorum cubiculis ipsa
-
 pavimenti ornamenta ac paries apte incavatus indicant quo
-
 loco lectus collocandus sit. Apud nos contra conclavia omnia
-
 similia sunt, ut capsula capsulae: inquilinus, qui superius
-
 domum meam habitavit, liberos docebat ubi ego dormio;
-
 qui post me eandem domum habitaturus est, ibi fortasse
+cenabit, post illum alius, si forte sutor erit, sutrinam faciet. Haec tamen ferenda sunt, nam, si pecunia deest, non licet esse delicatis. At quid quod semper ruina impendet? Parietes rimas agunt; externus murus iam corruisset, nisi obliquo tigno fultus esset. E tecto avolaverunt tegulae; cenaculum perpluit; ventus nobiscum gratis habitat, nulla pensione soluta».
 
-cenabit, post illum alius, si forte sutor erit, sutrinam faciet.
 
-Haee tamen ferenda sunt, nam, si pecunia deest, non licet
+### Tulliolae nuptiae parantur.
 
-esse delicatis. ÀÁt quid quod semper ruina impendet? Parie-
-
-tes rimas agunt; externus murus iam corruisset, nisi obliquo
-
-tigno fultus esset. E tecto avolaverunt tegulae; cenaculum
-
-perpluit; ventus nobiscum gratis habitat, nulla pensione
-
-  
-
-soluta ».
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Tulliodlae nuptiae parantur.
-
-  
+![pupa]()
 
 Tertium annum Cicero agebat, cum animadvertere coepit
-
 complures iam dies domum suam praeter solitum virorum
-
-eb matronarum multitudine frequentari; matrem interdum
-
-laetiore esse vultu, interdum anxiam videri; sororem T'ul-
-
-liam pupas diligenter exornare easque, quasi discessuram, la-
-
-crimantem adloqui: « Valete, pupae! Valete pueritiae et adu-
-
-lescentiae meae sociae dulcissimae! ». Interáum ancillae mu-
-
-— 16 —
-
-  
-
-liebrem Tulliodlae mundum diligenter expo-
-
-liebant. Mundum Romani adparatum illum
-
-  
-
-vocabant, quo mulieres ad cultum corporis
-
-formaeque curam utebantur: acus crinales,
-
-pectines, specula, pyxides varias unguenta
-
-continentes, scrinia ad aurea ornamenta
-
-servanda. Parvus erat Cicero, nec satis
-
-acuti ingenii; intellegebat tamen novi ali-
-
-quid in aedibus fieri. Nuptiae enim T'ullio-
-
-lae parabantur.
-
-  
-
-De Tulliolae sponsalibus.
-
-  
-
-  
-
-M. Cicero, antequam filiolus ille natus
-
-est, filiam Tulliam duodecimum annum
-
-agentem C. Calpurnio Pisoni Frugi spopon-
-
-derat. Ea res tum inter sponsae patrem et
-
-sponsum agebatur. Aiebat hic: « Spondesne
-
-te filiam tuam mihi uxorem daturum ? »;
-
-cul ille: «Spondeo». Ea sponsalia diceban-
-
-tur. Ante sponsalium diem T'ulliola ignora-
-
-verat quem sibi sponsum pater destina-
-
-  
-
-turus esset; nam apud veteres Romanos
-
-mos ille vigebat, ut filiae patris auctoritati in omnibus
-
-rebus essent obnoxiae, nec ipsae sponsum sibi eligerent, sed
-
-a patre datum acciperent. Sponsalibus peractis, Piso Tul.
+et matronarum multitudine frequentari; matrem interdum
+laetiore esse vultu, interdum anxiam videri; sororem Tulliam pupas diligenter exornare easque, quasi discessuram, lacrimantem adloqui: «Valete, pupae! Valete pueritiae et adulescentiae meae sociae dulcissimae!». Interdum ancillae muliebrem Tulliolae mundum diligenter expoliebant. *Mundum* Romani adparatum illum vocabant, quo mulieres ad cultum corporis formaeque curam utebantur: acus crinales, pectines, specula, pyxides varias unguenta continentes, scrinia ad aurea ornamenta servanda. Parvus erat Cicero, nec satis acuti ingenii; intellegebat tamen novi aliquid in aedibus fieri. Nuptiae enim Tulliolae parabantur.
 
 
+### De Tulliolae sponsalibus.
 
-  
+![muliebris mundus]()
 
-Holae aureum anulum tradidit, medio sinistrae manus di-
+M. Cicero, antequam filiolus ille natus est, filiam Tulliam duodecimum annum agentem C. Calpurnio Pisoni Frugi spoponderat. Ea res tum inter sponsae patrem et sponsum agebatur. Aiebat hic: «Spondesne te filiam tuam mihi uxorem daturum?»; cui ille: «Spondeo». Ea sponsalia dicebantur. Ante sponsalium diem Tulliola ignoraverat quem sibi sponsum pater destinaturus esset; nam apud veteres Romanos mos ille vigebat, ut filiae patris auctoritati in omnibus rebus essent obnoxiae, nec ipsae sponsum sibi eligerent, sed a patre datum acciperent. Sponsalibus peractis, Piso Tulliolae aureum anulum tradidit, medio sinistrae manus digito usque ad nuptias gestandum.
 
-gito usque ad nuptias gestandum.
 
-  
+### De die nuptiali.
 
-De die nuptiali.
+Tulliolae nuptiae eodem anno celebratae sunt quo M. Cicero ad consulatum pervenerat, magna civium frequentia ac multitudine. Quo mense Tullia Pisoni nupserit non satis constat; credendum tamen non est in mensem Maium nuptias illas esse constitutas, qui mensis infaustus habebatur. In die nuptiali eligendo Romani adeo superstitionibus obligati erant, ut et Maium mensem totum, et priorem Martii et Iunii partem vitarent, et Kalendas insuper, et Nonas, et Idus, ne de omnibus diebus dicamus qui religiosi putabantur.
 
-  
 
-Tulliodlae nuptiae eodem anno celebratae sunt quo M. Ci-
-
-cero ad consulatum pervenerat, magna civium frequentia
-
-ac multitudine. Quo mense Tullia Pisoni nupserit non satis
-
-constat; credendum tamen non est in mensem Maium nup-
-
-tias illas esse constitutas, qui mensis infaustus habebatur.
-
-In die nuptiali eligendo Romani adeo superstitionibus obli-
-
-gati erant, ub et Maium mensem totum, et priorem Martii
-
-et Iunii partem vitarent, et Kalendas insuper, et Nonas,
-
-et Idus, ne de omnibus diebus dicamus qui religiosi puta-
-
-  
-
-bantur.
-
-  
-
-  
-
-  
-
-Tulliolae vestis nuptialis.
-
-  
+### Tulliolae vestis nuptialis.
 
 Pridie nuptiarum diem Tulliola togam praetextam, quam
-
-  
-
-Romanorum virgines induere solebant, cum pupis suis Lari-
-
-bus dicavit. Albam vestem nuptialem deinde induit, quae
-
-lunica, recta, vel regilla, vocabatur. Sic ornata in cubiculum
-
-suum discessit suoque in lectulo tota nocte iacuit.
+Romanorum virgines induere solebant, cum pupis suis Laribus dicavit. Albam vestem nuptialem deinde induit, quae
+*tunica recta*, vel *regilla*, vocabatur. Sic ornata in cubiculum suum discessit suoque in lectulo tota nocte iacuit.
 
 Die nuptiali Tulliolae ancillae singulari quadam arte illius
-
 comas compserunt, ut in sex tutulos colligerentur atque sex
+illos *crines* efficerent, in quos novae nuptae capilli, ut mos
+erat, deducebantur. Ad id officium ferrum recurvum adhibuerunt, cui nomen erat *hasta coelibaris*.
+ 
 
-illos crines efticerent, in quos novae nuptae capilli, ut mos
-
-erat, deducebantur. Ad id officium ferrum reeurvum adhi-
-
-buerunt, cui nomen erat asta coelibaris.
-
-  
-
-  
-
-Tulliolae nuptiae celebrantur.
-
-  
-
-  
+### Tulliolae nuptiae celebrantur.
 
 Initium nuptialis ritus auspices dederunt, quibus auspicia
-
 capientibus Cicero pater adfuit; rettulerunt illi favere deos
-
 novo conubio; faustum id fortunatumque futurum. Atrium
-
 deinde Tulliola est ingressa, flammeo velata, vultu demisso
-
 levique rubore suffuso. Illam pronuba comitabatur, mulier
+aetate et spectatis moribus venerabilis, quam Tulliolae parentes ad id officium inter *univiras* delegerant. Apud Romanos quae mulier uni tantum viro nupsisset, *univira* dicebatur: morum integritatem id testabatur, omenque adferebat stabile ac felix conubium fore.
 
-aetate et spectatis moribus venerabilis, quam Tulholae pa-
+### Dextrarum iunctio.
 
-rentes ad id officium inter wniras delegerant. Apud Roma-
-
-  
-
-  
-
-  
-
-2. - PAOLI. C'ceronis filzus.
-
-— 18 —
-
-  
-
-  
-
-nos quae mulier uni tantum viro nupsisset, wnivira dice-
-
-batur: morum integritatem id testabatur, omenque ad-
-
-  
-
-ferebat stabile ac felix conubium fore.
-
-  
-
-  
-
-Dextrarum . iunctio.
-
-  
-
-  
+![pronuba dexteram in dexteram iniecit]()
 
 Dum ceteri novae nuptae gratulantur, dum matronae
-
 illam spectant, laudant, amplexantur, Cicero ac Piso coram
+decem testibus *tabulas nuptiales* signaverunt, iamdudum,
+inde a sponsalium die, exaratas. *Dextrarum iunctio* secuta
+est, quo ritu nihil sanctius in celebrandis nuptiis erat, nihil
+sollemnius. Pronuba Tulliolae dexteram in dexteram Pisonis iniecit; manu invicem adprehensa, uxor marito, maritus uxori polliciti sunt velle se vitae consortes esse amore perpetuo ac fide bona. Plausu ac clamore omnes qui aderant dextrarum iunctionem prosecuti sunt. Triclinium deinde intraverunt ubi lautum convivium apparatum erat.
 
-decem testibus (abulas mwpliales signaverunt, iamdudum,
 
-inde a sponsalium die, exaratas. Dextrarum unctio secuta
+### Quanti M. Tullius Cicero artem coquinariam fecerit.
 
-est, quo ritu nihil sanctius in
-
-celebrandis nuptiis erat, nihil
-
-sollemnius. Pronuba T'ulliolae
-
-dexteram in dexteram Piso-
-
-nis iniecit ; manu invicem ad-
-
-prehensa, uxor marito, mari-
-
-tus uxori polliciti sunt velle
-
-Se vitae consortes esse amore
-
-perpetuo ac fide bona. Plausu
-
-ac clamore omnes qui ade-
-
-rant dextrarum iunctionem
-
-prosecuti sunt. Trielinium
-
-deinde intraverunt ubi lau-
-
-tum convivium apparatum
-
-erat.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Quanti M. Tullius Cicero ar-
-
-temry coquinariam fecerit.
-
-  
-
-  
-
-  
-
-Laute convivari Romani
-
-' pronuba dexteram in dexteram — solebant, cum certis quibus.
-
-  
-
-md dam temporibus, tum maxi-
-
-me in nuptiis. Cicero, qui consul eius anni esset filiamque
-
-unicam apud nobilem iuvenem in matrimonio collocaret,
-
-nec curis eo die pepercit, nee pecuniae. Hominem in foro
-
-insignem, summum rei publicae magistratum obtinentem
-
-non puduit, id quod mirum videri potest, coquis 1imperitare
-
-eosque consilio regere, ne quid in arte coquinaria delin-
-
-  
-
-  
-
-  
-
-  
-
-— 19 —
-
-  
-
-querent. Vehementer errat, si quis putat artem illam Cice-
-
-ronis temporibus vilem habitam esse et despectam. Quam
-
+Laute convivari Romani solebant, cum certis quibusdam temporibus, tum maxime in nuptiis. Cicero, qui consul eius anni esset filiamque unicam apud nobilem iuvenem in matrimonio collocaret, nec curis eo die pepercit, nec pecuniae. Hominem in foro insignem, summum rei publicae magistratum obtinentem
+non puduit, id quod mirum videri potest, coquis imperitare
+eosque consilio regere, ne quid in arte coquinaria delinquerent. Vehementer errat, si quis putat artem illam Ciceronis temporibus vilem habitam esse et despectam. Quam
 multos nominare possum qui, summi imperatores in bello,
-
-summa auctoritate in re publica praediti, domi tamen dili-
-
-genter culinam suam curaverunt, ac cenandi magistri habiti
-
-sunt: ut Dolabellam, ut A. Hirtium illum qui Caesaris lega-
-
-tus fuit mortemque in proelio Mutinensi obiit, ut alios com-
-
-plures. Cicero ipse in epi-
-
-stulis, quae exstant, se
-
-fatetur in arte coquina-
-
-ria non mediocriter esse
-
-versatum.
-
-  
-
-  
-
-  
-
-De Romanorum conzii-
-
-viis. Cena, prandium,
-
-ientaculum.
-
-  
-
-Quam Romani cenam
-
-vocabant, semel in die
-
-sed copiose apparaba-
-
-tur; cena vero, quae quo-
-
-tidianam consuetudinem
-
-cibi capiendi excederet,
-
-convivium etiam dice- « vel à pistore emptum ».
-
-batur, aut, si publice ce-
-
-lebraretur, epulum. At simplex prand$win erat, simplicius
-
-ventaculum ; alterum sub meridiem comedebatur, primo mane
-
-alterum. Cena non ante incipiebat quam sol occidisset; in-
-
-temperantiae indicium putabatur, si qui ante solis occasum
-
-in convivio discubuissent: eae cenae tempestiva conva, dice-
-
-bantur. In prandio parcus cibus capiebatur, nulla mensa
-
-adhibita. Pueri in litterarum ludum itantes ientaculum se-
-
-cum ferebant, vel domi paratum, vel à pistore emptum.
+summa auctoritate in re publica praediti, domi tamen diligenter culinam suam curaverunt, ac cenandi magistri habiti
+sunt: ut Dolabellam, ut A. Hirtium illum qui Caesaris legatus fuit mortemque in proelio Mutinensi obiit, ut alios complures. Cicero ipse in epistulis, quae exstant, se fatetur in arte coquinaria non mediocriter esse versatum.
 
 
+### De Romanorum conviviis. Cena, prandium, ientaculum.
 
-  
+![vel a pistore emptum]()
 
-De tricliniis.
+Quam Romani *cenam* vocabant, semel in die sed copiose apparabatur; cena vero, quae quotidianam consuetudinem
+cibi capiendi excederet, convivium etiam dicebatur, aut, si publice celebraretur, epulum. At simplex *prandium* erat, simplicius *ientaculum*; alterum sub meridiem comedebatur, primo mane alterum. Cena non ante incipiebat quam sol occidisset; intemperantiae indicium putabatur, si qui ante solis occasum in convivio discubuissent: eae cenae *tempestiva convivia*, dicebantur. In prandio parcus cibus capiebatur, nulla mensa adhibita. Pueri in litterarum ludum itantes ientaculum secum ferebant, vel domi paratum, vel a pistore emptum.
 
-  
 
-  
+### De tricliniis.
+
+## end p27  
 
 Romani stantes prandebant, discumbentes cenabant.
 
 Consuetudo illa, ut convivae discumbentes cenarent, bel-
-
-— 90 —
-
-  
 
 lorum Punicorum aetate invaluit, cum Romani Graeco
 
