@@ -9,7 +9,6 @@ version: 0.2
 ---
 
 # Ciceronis Filius
-
 ---
 
 HUGO HENRICUS PAOLI
@@ -514,688 +513,138 @@ cibi capiendi excederet, convivium etiam dicebatur, aut, si publice celebraretur
 
 ### De tricliniis.
 
-## end p27  
+![triclinium]()
 
 Romani stantes prandebant, discumbentes cenabant.
+Consuetudo illa, ut convivae discumbentes cenarent, bellorum Punicorum aetate invaluit, cum Romani Graeco
+more vivere coeperunt. Feminae tamen Ciceronis temporibus cum viris discumbentibus sedentes cenabant. In triclinio tres lecti
+strati erant, eo ordine dispositi ut imago ostendit: *lectus summus*, *medius*, *imus*. Summus dicebatur qui a sinistro latere medii lecti situs erat; qui a dextro, imus. Eodem nomine in singulis lectis tres loci distinguebantur: *locus summus*, *medius*, *imus*. Qui inter convivas dignitate excelleret, imum locum in lecto medio occupabat, *locum consularem* ob id dictum. Iuxta eum, loco summo in lecto imo, dominus plerumque discumbebat. Hac vero aetate etiam lunati lecti
+in convivio adhiberi coepti sunt; *sigmata* vel *stibadia* vocabantur.
 
-Consuetudo illa, ut convivae discumbentes cenarent, bel-
+![feminae cum viris discumbentibus sedentes cenabant]()
 
-lorum Punicorum aetate invaluit, cum Romani Graeco
 
-more vivere coeperunt. Feminae tamen Ciceronis tempo-
+### Cenatoria supellex.
 
-ribus cum viris
+Mensa 1uxta convivas posita rotunda erat; in mensa ligneum *repositorium* patinas cibis oneratas sustinebat. Ibi et *salinum*, et *acetabulum*, et *lagoena* praesto erant. Facultas erat convivis ut quantum quisque cuperet inde ipse sumeret. Famuli, vacuis lagoenis ablatis, quas convivae exsiccaverant, plenas alias reponebant.
 
-discumbentibus
+![miliarium]()
 
-sedentes cena-
+Mos erat Romanorum ut raro vinum merum potarent,
+sed potius diluerent aqua calida vino immixta, quam quidem vas aeneum continebat ob similitudinem formae *miliarium* dictum. Ad hauriendum vinum concavum quoddam vasculum aptum erat, longo capulo praeditum: *cyathus* vocabatur. Cum vero Romanorum vina turbida plerumque ac faeculenta essent, vinum *colo* vel
+*sacculo* liquatum in convivarum scyphos a ministris infundebatur ; nix etiam in sacculum inici solebat, si quis forte potionem refrigerare cuperet.
 
-bant. In tricli-
+![cyathus]()
 
-nio tres lecti
+Ciceronis temporibus nondum Romani consueverant tricliniares mensas albo linteo obtegere: ignotum adhue *mantele* erat, quo illi uti non ante Imperatorem Domitianum coeperunt. Convivae cibos digitis arreptos ad os ferebant; nullas enim
+apud antiquos furculas fuisse satis constat: saepius igitur manus lavandae erant. Ad hoc formosiores servi semel atque catillos circumferentes aquam convivis porrigebant. Cibos iam ante famulus quidam, huius artis peritus, in singula pulmenta minuerat: *scissor* is, vel *carptor*, dicebatur.
 
-strati erant, eo
+![colum]()
 
-ordine dispositi
+Ad sorbitiones vel madefactos cibos hauriendos *ligulae*
+adhibebantur; ligulis similes *cochlearia* erant, ad id idonea,
+ut ostrearum valvae facile dehiscere possent. Ligulae oblongae et concavae erant, cenatoriis instrumentis prorsus similes, quae nos «cucchiai» vocamus; at contra cochlearia rotunda erant ac plana.
 
-ut imago osten-
-
-dit: lectus sum-
-
-mus, medaus,
-
-mus. summus
-
-dicebatur qui a
-
-  
-
-«feminae cum viris discumbentibus sedentes cenabant». S1nistro latere
-
-medii lecti situs
-
-  
-
-erat; qui à dextro, imus. Eodem nomine in singulis lectis
-
-tres loci distinguebantur: /ocus sum.
-
-  
-
-mus, medvus, mus. Qui inter convivas
-
-  
-
-dignitate excelleret, imum locum in lec- | (C) D
-
-  
-
-to medio occupabat, locum consularem |
-
-  
-
-ob id dictum. Iuxta eum, loco summo in
-
-  
-
-lecto imo, dominus plerumque diseumbe- mm
-
-  
-
-bat. Hac vero aetate etiam lunati lecti ,, SEPUCHRUMTS a
-
-  
-
-in convivio adhiberi coepti sunt; 3s$g- 0 Limus-D. Mensa.
-
-mata vel stibadia voca-
-
-  
-
-bantur.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Cenatoria supellex.
-
-  
-
-Mensa 1uxta convivas
-
-posita rotunda erat; in
-
-mensa ligneum reposi-
-
-foriwm patinas cibis
-
-oneratas sustinebat. Ibi et salmum, et acetabulum, et [la-
-
-goena praesto erant. Facultas erat convivis ut quantum
-
-quisque cuperet inde ipse sumeret. Famuli, vacuis lagoe-
-
-  
-
-  
-
-S4gma (vel stibadium).
-
-  
-
-— 9] —
-
-  
-
-nis ablatis, quas convivae exsiccaverant, plenas alias repo-
-
-  
-
-nebant.
-
-Mos erat Homanorum ut raro vinum merum potarent,
-
-  
-
-sed potius diluerent aqua calida vino immixta, quam qui-
-
-dem vas aeneum continebat ob simili-
-
-tudinem formae mltarium dictum. Ad
-
-hauriendum vinum concávum quod.
-
-dam vasculum aptum erat, longo ca-
-
-pulo praeditum: cyathus vocabatur.
-
-Cum vero Romanorum vina turbida
-
-  
-
-plerumque ac faeculenta
-
-  
-
-WC
-
-  
-
-  
-
-essent, vinum colo vel
-
-sacculo liquatum in con-
-
-vivarum sceyphos a mi-
-
-nistris infundebatur ; nix
-
-etiam in sacculum inici
-
-solebat, si quis forte po-
-
-tionem refrigerare cu-
-
-peret.
-
-  
-
-Ciceronis temporibus nondum Romani con-
-
-sueverant tricliniares mensas albo linteo obte-
-
-gere: ignotum adhue mantiele erat, quo illi
-
-uti non ante Imperatorem Domitianum coe-
-
-perunt. Convivae cibos digitis arreptos ad
-
-  
-
-Cyathus. os ferebant;
-
-  
-
-nullas enim
-
-  
-
-apud antiquos furculas
-
-fuisse satis constat: sae-
-
-pius igitur manus lavan-
-
-dae erant. Ad hoc for-
-
-mosiores servi semel atque Colum.
-
-iterum catillos circumfe-
-
-rentes aquam convivis porrigebant. Cibos iam ante famulus
-
-quidam, huius artis peritus, in singula pulmenta minuerat:
-
-scissor is, vel carptor, dicebatur.
-
-  
-
-Ad sorbitiones vel madefactos cibos hauriendos gulae
-
-adhibebantur; ligulis similes cochlear?a erant, ad id idonea,
-
-  
-
-  
-
-  
-
-Milharium.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-ut ostrearum valvae facile dehiscere possent. Ligulae oblon-
-
-  
-
-gae et concávae erant, cenatoriis instrumentis prorsus Ssi-
-
-miles, quae nos « cucchiai »
-
-  
-
-vocamus; at contra cochlea-
-
-ria rotunda erant ac plana.
-
-  
-
-  
-
-  
-
-  
-
-Quaedam parum decens Ho.
-
-manorum consuetudo.
-
-  
-
-Incredibile dictu: in. Ko-
-
-manorum cenis convivae, sl
-
-quid aspernabantur, vel den-
-
-tibus mandere atque exte-
-
-nuare nequibant, pavimen-
-
-  
-
-Ligulae, cochlearia. tum in medium proiciebant:
-
-  
-
-semesos pisces, ossa, adrosa
-
-  
-
-carnis frustula; ne tamen hae ciborum reliquiae conviva-
-
-  
-
-rum oculos offenderent, interdum servuli, scopar dicti, pa-
-
-vimentum verrentes sordibus illis purgabant.
-
-  
-
-  
-
-  
-
-iul gilet d eon
-
-a minui uu
-
-  
-
-* s " ^
-
-e m im
-
-  
-
-- ipm --üj x aam on- --m - F -.
-
-d.v€- 2.7 Ab ' ^r 0
-
-! "a s. Pu "od; .U .
-
-"a " "sl . 25s ET
-
-a tit te b. | - -
-
-f ' . - a B* s o* l.. a . o -
-
-i (tudo, 4 . . DOSELL. ' . "a || . "a à ga ] hel
-
-*» rt '-"asg "A. ot T? » | 1 tl 9a. 3.4; V Ut. "e " b.
-
-DOesz'i^ 8 : -- T , DU a » an so à MEM VETE S.
-
-eit * 2] - 15" P ; "A 4 "LL "a * ^ . . * »»
-
-  
-
-a. m
-
-  
-
-. -
-
-V.
-
-MV y
-
-  
-
-.
-
-dba y »
-
-. "|
-
-  
-
-—— — UuM— € GEM GM EEEP CP GAMEELuD Ub GN
-
-ac * auatmirnit agnos
-
-"ur À' ^. J''SCT ARES
-
-eec aemrsueeued
-
-  
-
-$5, T , entastpttsscde
-
-  
-
-d "| a » ; ".a ' V. r!
-
+![lingulae, cochlearia]()
   
 
-  
+### Quaedam parum decens Romanorum consuetudo.
 
-«Ssemesos pisces, ossa, adrosa carnis frustula ».
+Incredibile dictu: in. Romanorum cenis convivae, si quid aspernabantur, vel dentibus mandere atque extenuare nequibant, pavimentum in medium proiciebant: semesos pisces, ossa, adrosa
+carnis frustula; ne tamen hae ciborum reliquiae convivarum oculos offenderent, interdum servuli, *scoparii* dicti, pavimentum verrentes sordibus illis purgabant.
 
-  
+![semesos pisces, ossa, adrose carnis frustula]()
 
-De mappa.
 
-  
+### De mappa.
 
 Linteam mappam vel convivae domo secum portabant,
-
 vel dominus suppeditabat. Duplex mappae usus erat: non
-
 enim ad id tantum adhibebatur, ut os abstergeret, sed si
-
 quis, inops ac despectus cliens, ad divitum cenam esset
-
 invitatus, licebat illi non comesos cibos mappa involvere
+domumque secum adferre. Qui mos, rarior ante, tum increbruit postquam libera res publica periit, populusque Romanus unius dominatum ferre coactus est. Tum vero, una cum libertate amissa, etiam singulorum dignitas est imminuta.
 
-domumque secum adferre. Qui mos, rarior ante, tum incre-
 
-bruit postquam libera res publica periit, populusque Roma-
+### De tribus cenae temporibus.
 
-nus unius dominatum ferre coactus est. Tum vero, una cum
+*Cena*, quae proprie dicebatur, post *gustationem* initium
+habebat; cenam *secundae mensae* sequebantur. Convivii igitur haec tria tempora erant: *gustato* (vel *gustus*), *cena*, *secundae mensae*. Si forte secundae mensae usque ad multam
+noctem producerentur, *comissationis* nomen accipiebant. In
+cena non unum ferculum adponebatur, sed complura. Fercula Romani scriptores interdum *cenas* vocant, ut *prima*,
+*altera*, *tertia cena*, idem sit ac *primum*, *alterum*, *tertium ferculum*. Cena igitur tribus modis dicitur, nam et ipsum convivium significat, et medium convivii tempus, et ferculum.
 
-libertate amissa, etiam singulorum dignitas est imminuta.
 
-  
-
-  
-
-De tribus cenae temporibus.
-
-  
-
-Cena, quae proprie dicebatur, post gustationem initium
-
-habebat; cenam secundae mensae sequebantur. Convivii igi-
-
-tur haee tria tempora erant: gustato (vel gustus), cena, se-
-
-cundae mensae. Si forte secundae mensae usque ad multam
-
-noctem producerentur, com4ssat(onts nomen accipiebant. In
-
-cena non unum fereulum adponebatur, sed complura. Fer-
-
-cula Lomani seriptores interdum cenas vocant, ut prwma,
-
-altera, terlva, cena, idem sit ac primum, alterum, terlvwm fer-
-
-culum. Cena igitur tribus modis dicitur, nam et ipsum con-
-
-vivium significat, e& medium convivii tempus, et ferculum.
-
-  
-
-  
-
-  
-
-De gustatione.
-
-  
+### De gustatione.
 
 In gustatione, quamquam et lactucis et porris locus erat,
-
 ii potissimum cibi adponebantur, qui, ut crudae ostreae
-
 vel thynni frustula in sale adservata, gulam pervellerent
+edendique cupiditatem excitarent. Neque ovum unquam deerat, unde saepe illud usurpatum «ab ovo incipere» in proverbii consuetudinem venit. Mulsum in gustu potare mos erat, non vinum; ea potio ex melle conficiebatur leni vino
+immixto. Gustatio igitur et *promulsis* dicebatur.
 
-edendique cupiditatem excitarent. Neque ovum unquam dee-
 
-rat, unde saepe illud usurpatum «ab ovo incipere » in pro-
+### De cena ipsa.
 
-verbii consuetudinem venit. Mulsum in gustu potare mos
-
-erat, non vinum; ea potio ex melle conficiebatur leni vino
-
-immixto. Gustatio igitur et promulsis dicebatur.
-
-  
-
-  
-
-  
-
-De cena ipsa.
-
-  
-
-In cena robustiores cibi comedebantur. Nec solum vitu-
-
-lina et suilla caro adponebatur, avesque vel assae vel elixae
-
-— 94 —
-
-  
-
-vel in iure suo natantes, omnia insuper genera piscium bo-
-
-letique illi qui inter fungos suavissimi habebantur, sed et
-
-  
-
+In cena robustiores cibi comedebantur. Nec solum vitulina et suilla caro adponebatur, avesque vel assae vel elixae
+vel in iure suo natantes, omnia insuper genera piscium boletique illi qui inter fungos suavissimi habebantur, sed et
 glires cibo erant et onagri, et psittacorum linguae. Quin
-
-etiam glires in glirarüs saginabantur, ut in cortibus capo-
-
-nes; nee splendor plumarum pavoni proderat, cum Romani
-
+etiam glires in glirariis saginabantur, ut in cortibus capones; nec splendor plumarum pavoni proderat, cum Romani
 tam formosam avem necarent ut carnibus eius vescerentur.
-
 M. Ciceronis epistulae docent quanti ille pavonis carnes
-
-  
-
 fecerit.
 
-  
 
-  
+### De Romanorum culina.
 
-  
-
-  
-
-  
-
-  
-
-De Romanorum culina.
-
-  
+![Vasa coquinaria: ahena caldaria (a), ollae (b,g,h,l), situlae (e,d,), truae (e,m), caccabi (f), craticulae (i,t), hydriae (k), ligulae (n,v), clibani (o,p,r), cyathi (q,u)]
+()
 
 Multa igitur et varia vasa coquinaria erant: ahena
-
 caldaria, ollae, situlae, truae, caccabi, craticulae, hydriae,
+ligulae, clibani, cyathi.  
 
-ligulae, clibani, cyathi.
-
-  
+![Romanorum culina]()
 
 Neque vero simpliciter aut parva cura cibi in culina
-
 parabantur; magnum quiddam esse coquorum artificium
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-| ^ EE L P x : 3 ou 2n - f EN "e M - - : "iS ^ ] x . , A 2p
-
-- 2 - x . TT -— " () i - —* E" ———— 7 -
-
-RUIT TITTEN PT: UNITIES: TURTTCRUIBRAOBNPY VUL
-
-Kd | ; C — id
-
-  
-
-  
-
-Vasa coquinaria : ahena caldaria (a), ollae (b,g,h,l), setulae (e,d,), truae (e,m),
-
-caccabs (f£), craticulae (1,t), hydr2ae (k), gulae (n,v), clibam (0,p,r), cyath4 (q,u).
-
-— 95 —
-
-  
-
 putabatur. Quo magis quisque in arte coquinaria eminuerat,
-
-eo pluris emebatur. Coquorum dux, archimagirus vocabatur,
-
+eo pluris emebatur. Coquorum dux, *archimagirus* vocabatur,
 superbo supercilio ministris suis praeerat, insigni sapientia
-
-coquus, impensa pecunia a domino paratus. At varios illos
-
-  
-
-  
-
-  
-
-  
-
-Romanorum culna.
-
-  
-
-cibos, quibus in conficiendis Romanorum ars coquinaria ex-
-
-cellebat, quisnam hodie nostrorum hominum ferat? Quis non
-
-  
-
+coquus, impensa pecunia a domino paratus. At varios illos  
+cibos, quibus in conficiendis Romanorum ars coquinaria excellebat, quisnam hodie nostrorum hominum ferat? Quis non
 stomacho laboret, si fungos melle confectos comederit, vel
+pisces mali Armeniaci suco madidos, vel salsamentis condita
+poma, vel carnes acri illo iure conditas quod *garum* dicebatur?
 
-pisces mali Ármeniaci suco madidos, vel salsamentis condita
 
-  
+### De iure quod «garum» dicebatur.
 
-poma, vel carnes acri illo iure conditas quod garum dice-
-
-batur?
-
-  
-
-  
-
-  
-
-De iure quod « garum » dicebatur.
-
-  
-
-Garum ius quoddam erat ex piscibus confectum, quos
-
-minutatim scissos cum ipsis extis ad solem putrescere sine-
-
-— 96 —
-
-  
-
-  
-
-bant. Cum tempus et solis calor mixturam illam fermentas-
-
-sent, liquamen inde fiebat. Calatho deinde in liquamen im-
-
-merso, exspectabant dum liquaminis pars purior in cala-
-
-thum sensim permanaret ac, sic liquata, a faece secerneretur;
-
-id garum erat; faex illa residua allec dicebatur, et ipsum ad
-
-culinae usum idoneum. Garum, in amphoris conditum, in
-
+*Garum* ius quoddam erat ex piscibus confectum, quos
+minutatim scissos cum ipsis extis ad solem putrescere sinebant. Cum tempus et solis calor mixturam illam fermentassent,
+*liquamen* inde fiebat. Calatho deinde in liquamen immerso, exspectabant dum liquaminis pars purior in calathum sensim permanaret ac, sic liquata, a faece secerneretur;
+id *garum* erat; faex illa residua *allec* dicebatur, et ipsum ad culinae usum idoneum. Garum, in amphoris conditum, in
 aedium cellis servabatur; illud coqui ad complures usus
-
 adhibebant. Ex omnibus piscibus ad garum conficiendum
-
 maxime idoneus scomber erat; sapore scomber ille excellebat
-
 quem Hispani in aquis suis piscabantur. Garum optimum
-
-igitur ex Hispania importabatur magnoque pretio Eomae
-
-  
-
+igitur ex Hispania importabatur magnoque pretio Romae
 emebatur.
 
-  
 
-  
-
-  
-
-  
-
-De secundis mensis.
-
-  
+### De secundis mensis.
 
 Perfecta cena, non ante secundarum mensarum initium
-
-fiebat, quam dominus Laribus, vino mero in mensam ef-
-
-fuso, libasset. Larium parva signa in mensa ad id statue-
-
-bantur; omnes bona omina proferebant. In secundis mensis
-
-placentae adponebantur melle vel caseo confectae, variis
-
-cum pomis, atque ad irritandam gulam, quo libentius con-
-
-vivae potarent, sicca bellaria, uva passa, arida ficus. Tempus
-
+fiebat, quam dominus Laribus, vino mero in mensam effuso, libasset. Larium parva signa in mensa ad id statuebantur; omnes bona omina proferebant. In secundis mensis placentae adponebantur melle vel caseo confectae, variis
+cum pomis, atque ad irritandam gulam, quo libentius convivae potarent, sicca bellaria, uva passa, arida ficus. Tempus
 enim potandi erat, nec ulla iam edendi cupiditate satur
-
-  
-
 conviva tenebatur.
 
-  
 
-  
+### Quos cibos Romani ignoraverint.
 
-  
 
-Quos cibos Romani ignoraverint.
-
-  
-
+## end p34
 Quicquid vel Italiae agri ferebant, vel in villarum corti-
 
 bus, piscinis, leporariis, glirariis, aviariis alebatur, quiequid ex
