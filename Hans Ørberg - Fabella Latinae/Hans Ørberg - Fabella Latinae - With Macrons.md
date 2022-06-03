@@ -35,64 +35,64 @@ Ex hīs fābulīs aliās (11, 12, 17, 18, 23) prīmum exarāvit vel adumbrāvit
 ## Contents
 
 PERSONAE
-1.	Prōvinciae Rōmānae (cap. I)	3
-2.	Līberī et librī (cap. I–II)	4
-3.	Pater dormit (cap. I–III)	5
-4.	Nummus Dāvī (cap. I–IV)	6
-5.	Liber novus (cap. I–V)	7
-6.	Puella in hortō (cap. I–V)	8
-7.	Mēdus et Cornēlius (cap. I–VI)	9
-8.	Speculum Aemiliae (cap. IVII)	10
-9.	Ōrnāmenta dominae (cap. I–VIII)	11
-10.	Dominī et equī (cap. I–IX)	12
-11.	Tabernae Iūliī (I–X)	13
-12.	Pater abest, adest māter (cap. I–X)	14
-13.	Servī dormiunt (cap. I–XI)	15
-14.	Puer armātus (I–XII)	16
-15.	Kalendārium Rōmānum (I–XIII)	17
-16.	Asinus currēns (cap. I–XIV)	18
-17.	Puer aeger et medicus (cap. I–XV)	19
-18.	Canis ululāns (cap. I–XV)	20
-19.	Via Ōstiēnsis (cap. I–XVI)	21
-20.	Medicus doctus (cap. I–XVII)	22
-21.	Numerī et litterae (cap. I–XVIII)	23
-22.	Amor adulēscentium (cap. I–XIX)	24
-23.	Dē novō īnfante (cap. I–XX)	25
-24.	Fīlius mercātōris (cap. I–XX)	26
-25.	Gubernātor optimus (cap. I–XX)	27
-26.	Magister numerōs dictat (cap. I–XXI)	28
-27.	Iānitor probus (cap. I–XXII)	29
-28.	Neuter recēdere vult (cap. I–XXIII)	30
-29.	Redit Sextus (cap. I–XXIV)	31
-30.	Puer barbarus (cap. I–XXV)	32
+1.	Prōvinciae Rōmānae (cap. I)	3  
+2.	Līberī et librī (cap. I–II)	4  
+3.	Pater dormit (cap. I–III)	5  
+4.	Nummus Dāvī (cap. I–IV)	6  
+5.	Liber novus (cap. I–V)	7  
+6.	Puella in hortō (cap. I–V)	8  
+7.	Mēdus et Cornēlius (cap. I–VI)	9  
+8.	Speculum Aemiliae (cap. IVII)	10  
+9.	Ōrnāmenta dominae (cap. I–VIII)	11  
+10.	Dominī et equī (cap. I–IX)	12  
+11.	Tabernae Iūliī (I–X)	13  
+12.	Pater abest, adest māter (cap. I–X)	14  
+13.	Servī dormiunt (cap. I–XI)	15  
+14.	Puer armātus (I–XII)	16  
+15.	Kalendārium Rōmānum (I–XIII)	17  
+16.	Asinus currēns (cap. I–XIV)	18  
+17.	Puer aeger et medicus (cap. I–XV)	19  
+18.	Canis ululāns (cap. I–XV)	20  
+19.	Via Ōstiēnsis (cap. I–XVI)	21  
+20.	Medicus doctus (cap. I–XVII)	22  
+21.	Numerī et litterae (cap. I–XVIII)	23  
+22.	Amor adulēscentium (cap. I–XIX)	24  
+23.	Dē novō īnfante (cap. I–XX)	25  
+24.	Fīlius mercātōris (cap. I–XX)	26  
+25.	Gubernātor optimus (cap. I–XX)	27  
+26.	Magister numerōs dictat (cap. I–XXI)	28  
+27.	Iānitor probus (cap. I–XXII)	29  
+28.	Neuter recēdere vult (cap. I–XXIII)	30  
+29.	Redit Sextus (cap. I–XXIV)	31  
+30.	Puer barbarus (cap. I–XXV)	32  
 
 
 ## Personae
 
-*Aemilia*, domina, māter Mārcī, Quīntī, Iūliae
-*Aemilius*, mīles, frāter Aemiliae
-*Cornēlia*, puella, fīlia Cornēliī et Fabiae 
-*Cornēlius* dominus, pater Sextī et Cornēliae 
-*Dāvus*, servus Iūliī
-*Dēlia*, ancilla Aemiliae 
-*Diodōrus*, magister 
-*Dōrippa*, amīca Lÿdiae 
-*Fabia*, uxor Cornēliī 
-*Grūmiō*, tabernārius
-*Iūlia*, puella, fīlia Iūliī et Aemiliae
-*Iūlius*, dominus, pater Mārcī, Quīntī, Iūliae
-*Lēander*, servus Iūliī 
-*Lepidus*, adulēscēns 
-*Libanus*, servus Cornēliī 
-*Lÿdia*, amīca Mēdī
-*Mārcus*, puer, fīlius Iūliī et Aemiliae 
-*Marīnus*, adulēscēns, fīlius Mīciōnis 
-*Medicus* Tūsculānus
-*Mīciō*, mercātor, pater Marīnī
-*Mopsus*, tabernārius
-*Sanniō*, iānitor
-*Sextus*, puer, fīlius Cornēliī et Fabiae
-*Syra*, ancilla Aemiliae
+*Aemilia*, domina, māter Mārcī, Quīntī, Iūliae  
+*Aemilius*, mīles, frāter Aemiliae  
+*Cornēlia*, puella, fīlia Cornēliī et Fabiae   
+*Cornēlius* dominus, pater Sextī et Cornēliae   
+*Dāvus*, servus Iūliī  
+*Dēlia*, ancilla Aemiliae   
+*Diodōrus*, magister   
+*Dōrippa*, amīca Lÿdiae   
+*Fabia*, uxor Cornēliī   
+*Grūmiō*, tabernārius  
+*Iūlia*, puella, fīlia Iūliī et Aemiliae  
+*Iūlius*, dominus, pater Mārcī, Quīntī, Iūliae  
+*Lēander*, servus Iūliī   
+*Lepidus*, adulēscēns   
+*Libanus*, servus Cornēliī   
+*Lÿdia*, amīca Mēdī  
+*Mārcus*, puer, fīlius Iūliī et Aemiliae   
+*Marīnus*, adulēscēns, fīlius Mīciōnis   
+*Medicus* Tūsculānus  
+*Mīciō*, mercātor, pater Marīnī  
+*Mopsus*, tabernārius  
+*Sanniō*, iānitor  
+*Sextus*, puer, fīlius Cornēliī et Fabiae  
+*Syra*, ancilla Aemiliae  
 
 
 ## 1.Prōvinciae Rōmānae (cap. I)
@@ -231,7 +231,7 @@ Cornēlia litterās numerat: “Ūna, duae, trēs, quattuor, quīnque, sex. In v
 
 Sextus: “Et quot syllabae?”
 
-Co rnēlia: “Trēs: syllaba prīma <font style="font-variant: small-caps">la</font>, secunda <font style="font-variant: small-caps">ti</font>, tertia <font style="font-variant: small-caps">na</font>.”
+Cornēlia: “Trēs: syllaba prīma <font style="font-variant: small-caps">la</font>, secunda <font style="font-variant: small-caps">ti</font>, tertia <font style="font-variant: small-caps">na</font>.”
 
 Sextus rūrsus eam interrogat: “Vocābulum <font style="font-variant: small-caps">grammatica</font> quot litterās habet?” 
 
