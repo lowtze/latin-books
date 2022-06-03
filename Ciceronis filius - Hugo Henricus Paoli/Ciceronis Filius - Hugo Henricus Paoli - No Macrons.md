@@ -5,7 +5,7 @@ publisher:
 year: 1964
 lang: la
 cover-image: "./images/cover.png"
-version: 0.2
+version: 0.3
 ---
 
 # Ciceronis Filius
@@ -597,8 +597,7 @@ fecerit.
 
 ### De Romanorum culina.
 
-![Vasa coquinaria: ahena caldaria (a), ollae (b,g,h,l), situlae (e,d,), truae (e,m), caccabi (f), craticulae (i,t), hydriae (k), ligulae (n,v), clibani (o,p,r), cyathi (q,u)]
-()
+![Vasa coquinaria: ahena caldaria (a), ollae (b,g,h,l), situlae (e,d,), truae (e,m), caccabi (f), craticulae (i,t), hydriae (k), ligulae (n,v), clibani (o,p,r), cyathi (q,u)]()
 
 Multa igitur et varia vasa coquinaria erant: ahena
 caldaria, ollae, situlae, truae, caccabi, craticulae, hydriae,
@@ -611,7 +610,7 @@ parabantur; magnum quiddam esse coquorum artificium
 putabatur. Quo magis quisque in arte coquinaria eminuerat,
 eo pluris emebatur. Coquorum dux, *archimagirus* vocabatur,
 superbo supercilio ministris suis praeerat, insigni sapientia
-coquus, impensa pecunia a domino paratus. At varios illos  
+coquus, impensa pecunia a domino paratus. At varios illos
 cibos, quibus in conficiendis Romanorum ars coquinaria excellebat, quisnam hodie nostrorum hominum ferat? Quis non
 stomacho laboret, si fungos melle confectos comederit, vel
 pisces mali Armeniaci suco madidos, vel salsamentis condita
@@ -643,755 +642,131 @@ conviva tenebatur.
 
 ### Quos cibos Romani ignoraverint.
 
-
-## end p34
-Quicquid vel Italiae agri ferebant, vel in villarum corti-
-
-bus, piscinis, leporariis, glirariis, aviariis alebatur, quiequid ex
-
+Quicquid vel Italiae agri ferebant, vel in villarum cortibus, piscinis, leporariis, glirariis, aviariis alebatur, quicquid ex
 externis vel maxime remotis terris mari vehebatur, ea omnia
+Romae divitum mensas ornabant. At quam multa Romanis
+deerant, quae nunc subtilioris palati homines mensarum delicias putant! Nec minor erat potionum paucitas quam ciborum: «theam» quam dicimus, post meridiem ducere Romanorum matronis mos non erat: nemo enim iis rebus uti potest quae nullae sunt. Nulla apud Romanos lycopersica («pomodori») erant, nulla solana tubera («patate»); nondum vulgatus erat phaselorum («fagioli») usus, parum cognita odorata illa tubera («tartufi») quibus nihil est in mensis nostris exquisitius. Rarissima et ex orientis solis partibus advecta poma citria, suco vel acri («limoni») vel dulci («aranci») quae quidem primum post Diocletiani aetatem in Italia crescere coeperunt.
+Saccharon («zucchero») ipsum ad medicinae tantum
+usum adhibebatur; farina melle et musto subacta puerorum crustula parabantur; cetera bellaria item.
 
-Romae divitum mensas ornabant. At quam multa lHomanis
-
-deerant, quae nunc subtilioris palati homines mensarum de-
-
-licias putant! Nec minor erat potionum paucitas quam cibo-
-
-rum: «theam » quam dicimus, post meridiem ducere Ho-
-
-manorum matronis mos non erat: nemo enim iis rebus uti
-
-potest quae nullae sunt. Nulla apud Romanos lycopersica
-
-(« pomodori ») erant, nulla solana tubera (« patate»); non-
-
-dum vulgatus erat phaselorum («fagioli») usus, parum co-
-
-  
-
-— 97 —
-
-  
-
-gnita odorata illa tubera («tartufi») quibus nihil est in men-
-
-sis nostris exquisitius. Rarissima et ex orientis solis partibus
-
-advecta poma citria, suco vel acri («limoni ») vel dulci (« aran-
-
-ci») quae quidem primum post Diocletiani aetatem in Italia
-
-crescere coeperunt.
-
-Saccharon (« zuc-
-
-chero ») ipsum ad
-
-medicinae tantum
-
-usum adhibebatur;
-
-farina melle et mu-
-
-sto subacta puero-
-
-rum crustula para-
-
-bantur; cetera bel. «quiequid in villarum cortibus alebatur ».
-
-laria item.
-
-  
+![«quicquid in villarum cortibus alebatur»]()
 
 Quae apud nos conviviorum iucunditatem potissimum
+augent, adeo antiquitas ignoravit, ut ne nomen quidem quo
+illa significari possint inveniatur. Quisnam igitur scire potest quo nomine Cicero, puta, vel Caesar fabam illam Arabicam, quam nos «caffè» vocamus fuerint, si nossent, dicturi? Potiones etiam, vino validiores, quas nos «liquori» dicimus, penitus ignorabant. Ne tamen credideris tabernas potorias («bar» recentiores homines dicunt) apud antiquos Romanos nullas fuisse. Thermopolia vocabantur; nec rariores erant quam apud nos.
 
-augent, adeo antiquitas ignoravit, ub ne nomen quidem quo
+![«ea omnia Romae divitum mensas ornabant»]()
 
-illa significari possint inveniatur. Quisnam igitur scire po-
 
-test quo nomine Cicero, puta, vel Caesar fabam illam Ara-
+### De pane.
+![thermopolium]()
 
-bicam, quam nos «caffé» vocamus fuerint, si nossent, dicturi ?
+Quin etiam pane vesci sero Romani coeperunt, cum ante Punica bella una *puls* in honore fuisset: panis optimus *candidus* vel *mundus* dicebatur; qui rudius confectus esset, *secundarius*; infimi vero generis, *plebeius* vel *rusticus*. Sed panis multifariam fiebat, nec e frumento solum sed ex hordeo, vel etiam ex milio aut panico. Inter varia frumenti genera nobilissimum illud erat quod *triticum* vocabatur. Frumenti semina agricola in aratis agris ligone condebat; postquam vero messis maturuerat, ex spicis decussa grana molis in pistrino frangebantur. Tum pistor ex comminutis granis farinam a furfure secernebat, eaque diu ac diligenter subacta ita confectum panem in furno coquebat. Eandem igitur panificii operam apud veteres constat fuisse ac nostra aetate; idem iter, ut ita dicam, tritico conficiendum erat ut de agrorum solo ad hominum mensam, tamquam divinum quoddam donum perveniret. At duplex panis usus apud Romanos erat, nam et cibo erat et remedio; multi enim morbi pane curabantur; quam medendi rationem iamdudum ars medica repudiavit.
 
-  
+![«panificii opera»]()
 
-  
 
-  
+### Tulliolae cena nuptialis.
 
-  
+![faces]()
 
-  
+Dum nos de Romanorum conviviis disserimus, in M. Ciceronis domo magnifice convivae epulantur. Cena nuptiali multas horas
+producta est, cum ab hora nona diei discumbere coepissent. Cursitantes per triclinium famuli magnasque lances capitibus sustinentes, operam suam convivis summa cum alacritate
+navabant. Altilia adponebantur, muraenae, sumen; complures insuper botelli quos coqui suilla carne farserant, variis condimentis immixtis. Qui ad nuptias invitati eo undique convenerant, integram famem ad convivium adtulerant, neque adhuc ad saturitatem comedisse nec satis potasse videbantur. Timidula Tullia pronubae adsidens comedebat et ipsa; parce tamen, quamquam, septimum et decimum annum cum ageret, puerili voracitate impulsa, suavissimis illis cibis adliciebatur. At summopere cavebat ne gestus edendi alienus esset a matronarum decore; nec manu tota illa sed summis digitis lepide pulmenta carpebat.
 
-  
 
-  
-
-  
-
-«ea omnia Romae divitum mensas ornabant ».
-
-  
-
-Potiones etiam, vino validiores, quas nos «liquori» dicimus,
-
-penitus ignorabant. Ne tamen credideris tabernas potorias
-
-(«bar» recentiores homines dicunt) apud antiquos Homanos
-
-nullas fuisse. Thermopolia vocabantur; nec rariores erant
-
-  
-
-quam apud nos.
-
-  
-
-  
-
-De pane.
-
-  
-
-  
-
-Quin etiam pane
-
-vesci sero Romani
-
-coeperunt, cum an-
-
-te Punica bella una
-
-puls in honore fuis-
-
-». set: panis optimus
-
-m" candidus vel mun-
-
-  
-
-dil L/ ^—- dus dicebatur; qui
-
-rudius confectus es-
-
-set, secundarqus ; in-
-
-fimi vero generis,
-
-plebevus vel rust-
-
-  
-
-Thermopolium. cus. Sed panis mul.
-
-  
-
-tifariam fiebat, nec
-
-  
-
-e frumento solum sed ex hordeo, vel etiam ex milio aut
-
-panico. Inter varia frumenti genera nobilissimum illud erat
-
-quod £riticum vocabatur. Frumenti semina agricola in aratis
-
-agris ligone condebat; postquam vero messis maturuerat,
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-« panifieill opera ».
-
-— 99 —
-
-  
-
-ex spicis decussa grana molis in pistrino frangebantur. Tum
-
-pistor ex comminutis granis farinam a furfure secernebat,
-
-eaque diu ae diligenter subacta ita confectum panem in
-
-furno eoquebat. Eandem igitur panificiüi operam apud ve-
-
-teres constat fuisse ac nostra aetate; idem iter, ut ita di-
-
-cam, tritico conficiendum erat ut de agrorum solo ad homi.
-
-num mensam, tamquam divinum quoddam donum perveniret.
-
-At duplex panis usus apud Romanos erat,
-
-nam et cibo erat et remedio; multi enim morbi
-
-  
-
-pane eurabantur; quam medendi rationem
-
-iamdudum ars medica repudiavit. /
-
-MEA
-
-$9 E/
-
-  
-
-Tulliolae cena nuptialis.
-
-  
-
-  
-
-  
-
-  
-
-Dum nos de Romanorum conviviis disse-
-
-rimus, in M. Ciceronis domo magnifice convi-
-
-vae epulantur. Cena nuptiali multas horas
-
-producta est, cum ab hora nona diei discum-
-
-bere coepissent. Cursitantes per triclinium fa-
-
-muli magnasque lances capitibus sustinentes,
-
-operam suam convivis summa cum alacritate
-
-navabant. Altilia adponebantur, muraenae, Faces.
-
-sumen; eomplures insuper botelli quos coqui
-
-suillaà carne farserant, varüs condimentis immixtis. Qui ad
-
-nuptias invitati eo undique convenerant, integram famem ad
-
-convivium adtulerant, neque adhuc ad saturitatem comedisse
-
-nee satis potasse videbantur. Timidula Tullia pronubae ad-
-
-sidens comedebat et ipsa; parce tamen, quamquam, septi-
-
-mum et decimum annum cum ageret, puerili voracitate
-
-impulsa, suavissimis illis cibis adliciebatur. At summopere
-
-cavebat ne gestus edendi alienus esset à matronarum de-
-
-core; nee manu tota illa sed summis digitis lepide pulmenta
-
-  
-
-carpebat.
-
-  
-
-  
-
-  
-
-Piso Tulliolam rapere conatur.
-
-  
+### Piso Tulliolam rapere conatur.
 
 Dum convivae comedunt, potant, variisque sermonibus
+et clamore triclinium implent, paulatim advesperascit, iamque servuli *faces* adferunt et accensos *lychnos* ad *lychnuchos* suspendunt. At quid fit? Ex improviso Tulliolae maritus ex lecto tricliniari surgit, magnum quiddam ausurus; ipsam adprehendit, clamitantem trahit, matre frustra obnitente. Spectant ceteri, hortantur, plaudunt; nemo timet ne quid gravius accidat: haec omnia per iocum fiunt.
 
-et clamore triclinium implent, paulatim advesperascit, iam-
+![lychnus]()
 
+![lychnuchos]()
+
+Ea enim consuetudine Sabinarum raptus memoria perpetuo renovabatur.
   
 
-— 30 —
+### Incipit Tulliolae deductio.
 
-  
+![taedae]()
 
-  
-
-que servuli faces adferunt et accensos lychnos ad lychnuchos
-
-suspendunt. At quid fit? Ex improviso Tulliolae maritus ex
-
-lecto tricliniari surgit, magnum quid-
-
-dam ausurus; ipsam adprehendit,
-
-clamitantem trahit, matre frustra
-
-obnitente. Spectant ceteri, hortan-
-
-tur, plaudunt; nemo timet ne quid
-
-gravius accidat: haec omnia per io-
-
-cum fiunt.
-
-  
-
-Ea enim consuetudine Sabinarum
-
-raptus memoria perpetuo renova-
-
-  
-
-batur.
-
-  
-
-  
-
-  
-
-Incipit Tulliolae deductio.
-
-  
-
-At brevis 10ocus ille fuit; non diu
-
+At brevis ioocus ille fuit; non diu
 Piso conatus est uxorem rapere, sed,
-
 Tulliola dimissa, discessit domumque
-
 suam redire coepit. Dum procedit,
-
-nuces et bellaria pueris comitanti-
-
-bus effuse 1acit. Illum ceteri sunt
-
-secuti. Hinc
-
-deduciio 1nl-
-
-tium cepit.
-
-Hoc nomi-
-
-ne nuptialis
-
-pompa Si-
-
-enificabatur
-
-qua nova
-
-nupta ve-
-
-  
-
-Spere a pa- T'aedae.
-
-iris aedibus
-
-  
-
-in mariti domum deducebatur. Iam
-
+nuces et bellaria pueris comitantibus effuse iacit. 
+Illum ceteri sunt secuti. Hinc
+*deductio* initium cepit. Hoc nomine nuptialis
+pompa significabatur qua nova nupta vespere a patris aedibus in mariti domum deducebatur. Iam
 in via faces agitabantur, atque inter
-
-populi clamores, « T'alassio! Talassio! »
-
+populi clamores, «Talassio! Talassio!»
 iterantis, tibiarum sonus audiebatur.
+Lychnuchus. Nuptiales faces *taedae* vocabantur.
 
-Lychnuchus. Nuptiales faces (aedae vocabantur.
 
-  
+### Nuptialis pompa.
 
-  
-
-  
-
-  
-
-Nuptialis pompa.
-
-  
-
-  
-
-Tum demum Tulliodla in viam prodiit, quam utrimque
-
+Tum demum Tulliola in viam prodiit, quam utrimque
 pueri duo manu tenebant; puer alius praecedebat, facem
-
-praeferens ex spina alba, in ipso M. Ciceronis Larario ac-
-
-censam. Huius ardentis spinae aliquid omnes rapere cona-
-
-bantur, cum putarent illum ad extremam aetatem perventu-
-
-rum, si quis vel minima illius spinae particula esset potitus.
-
-Nuptialis pompa subsequebatur; novum maritum omnes
-
-convicio ae maledictis insectabantur, ut Romanorum in
-
-nuptiis mos erat. Prisca haec consuetudo PFescennina li-
-
-centia dicebatur. Dum vero nuptialis pompa domui Pisonis
-
-appropinquat, « Talassio! Talassio!» illud frequentius clamari
-
-coeptum est. Id verbum quid significet non satis constat.
-
-Ad Pisonis aedes tandem perventum est.
+praeferens ex spina alba, in ipso M. Ciceronis Larario accensam. Huius ardentis spinae aliquid omnes rapere conabantur, cum putarent illum ad extremam aetatem perventurum, si quis vel minima illius spinae particula esset potitus. Nuptialis pompa subsequebatur; novum maritum omnes convicio ac maledictis insectabantur, ut Romanorum in
+nuptiis mos erat. Prisca haec consuetudo Fescennina licentia dicebatur. Dum vero nuptialis pompa domui Pisonis
+appropinquat, «Talassio! Talassio!» illud frequentius clamari coeptum est. Id verbum quid significet non satis constat. Ad Pisonis aedes tandem perventum est.
 
   
-
-  
-
-  
-
-  
-
-« Ubi tu Gaius, ego Gaia ».
-
-  
-
-  
+### «Ubi tu Gaius, ego Gaia».
 
 Ubi primum Tullia ad Pisonis ianuam accessit, postes
-
-laneis vittis ornavit, limen adipe suillo inunxit, quod bo-
-
-num opulentiae futurae auspicium putabatur. Dum in eo
-
-ofüicio detinetur, Piso, qui jam intus erat, e patefactis fo-
-
-ribus caput protulit, rogavitque: «Quisnam es, mulier?
-
-Quaenam vocaris? »; cui illa: « Ubi tu Gaius, ego Gaia ».
-
-lum virorum circumstantium qui validioribus viribus erant,
-
-sublatam Tulliam, ne limen tangeret, in ipsas aedes intro-
-
-duxerunt. Introeuntem uxorem Piso ?gn atque aqua accepit;
-
-obtulit enim illi aquam domi haustam ignemque in Larario
-
-accensum. Quo ritu illa mariti sacrorum consors facta est.
-
-In atrium deinde est deducta; quo postquam venit, iussit
-
-illam pronuba ad lectum genialem accedere ibique novae
-
-familiae deos orare ut propitii essent. Quibus rebus peractis,
-
-discesserunt omnes. Át cum parvus Cicero semel atque
-
-iterum sororem osculatus digrederetur, neuter lacrimas con-
-
-tinuit.
-
-  
+laneis vittis ornavit, limen adipe suillo inunxit, quod bonum opulentiae futurae auspicium putabatur. Dum in eo
+officio detinetur, Piso, qui iam intus erat, e patefactis foribus caput protulit, rogavitque: «Quisnam es, mulier?
+Quaenam vocaris?»; cui illa: «Ubi tu Gaius, ego Gaia».
+Tum virorum circumstantium qui validioribus viribus erant,
+sublatam Tulliam, ne limen tangeret, in ipsas aedes introduxerunt. Introeuntem uxorem Piso *igni atque aqua* accepit; obtulit enim illi aquam domi haustam ignemque in Larario accensum. Quo ritu illa mariti sacrorum consors facta est. In atrium deinde est deducta; quo postquam venit, iussit illam pronuba ad lectum genialem accedere ibique novae familiae deos orare ut propitii essent. Quibus rebus peractis, discesserunt omnes. At cum parvus Cicero semel atque iterum sororem osculatus digrederetur, neuter lacrimas continuit.
 
 Postridie eius diei, Tullia, matronali stola induta, in
-
 Pisonis atrio Laribus sacrificavit.
 
-  
 
-  
-
-  
-
-  
-
-— 39 -——
-
-  
-
-De primis Ciceronis ludis.
-
-  
-
-  
+### De primis Ciceronis ludis.
 
 Tulliola, quamdiu apud patrem fuit, parvum Ciceronem
+tantopere dilexerat, ut et saepe cum illo pueriliter luderet,saepius vero in fratre curando matris vices sustineret; erat enim quattuordecim annis maior natu. Tristior igitur puer post sororis discessum factus est, multumque temporis in peristylio terebat, casulas, ut pueri solent, areolarum humo aedificando, vel in harundine equitando; nec tamen amissae sororis maeror minuebatur. Id M. Ciceronem patrem non fugit; qui ut illam aegritudinem a filioli animo abduceret, iussit domum suam cotidie aequales pueros vocari, summo loco ortos. Quod illi facillimum fuit, consul cum esset.
 
-tantopere dilexerat, ut et saepe cum illo pueriliter luderet,
 
-saepius vero in fratre curando matris vices sustineret; erat
+### De quibusdam puerorum Romanorum ludis.
 
-enim quattuordecim annis maior natu. 'ristior igitur puer
+Pueri illi, cum simul essent, saepe certatim *pila* ludebant, saepe *tubrinem* vel *orbem* agebant. Orbis (Graeco nomine *trochus* vocabatur), cum tintinnabulis ornatus esset, crebrum acutumque sonum currens emittebat. Turbo flagello agebatur, orbis vero exili quadam ac recurva rude cui *clavis* nomen erat. Magnam delectationem omnes ex ludis illis percipiebant. Neque eos pudebat, qui natu paulo maiores essent, equorum munere fungi, aetateque minores humeris vectare; illi, ut equi adsolent, calcitrabant, hinniebant, capitibus perpetuo innuentes; hi voce, pedibus, verberibus etiam equos suos incitabant.
 
-post sororis discessum factus est, multumque temporis in
 
-peristylio terebat, casulas, ut pueri solent, areolarum humo
-
-aedificando, vel in harundine equitando; nec tamen amis-
-
-sae sororis maeror minuebatur. Id M. Ciceronem patrem
-
-non fugit; qui ut illam aegritudinem a filioli animo abdu-
-
-ceret, iussit domum suam ootidie aequales pueros vocari,
-
-summo loco ortos. Quod ill facillimum fuit, consul cum
-
-  
-
-esset.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-De quibusdam puerorum Romanorum ludis.
-
-  
-
-  
-
-Pueri illi, cum simul essent, saepe certatim pla ludebant,
-
-saepe (urbem vel orbem agebant. Orbis (Graeco nomine
-
-irochus vocabatur), cum tintinnabulis ornatus esset, crebrum
-
-acutumque sonum currens emittebat. Turbo flagello ageba-
-
-tur, orbis vero exili quadam ac recurva rude cui clavis no-
-
-men erat. Magnam delectationem omnes ex ludis illis per-
-
-ciplebant. Neque eos pudebat, qui natu paulo maiores es-
-
-sent, equorum munere fungi, aetateque minores humeris
-
-vectare; illi, ut equi adsolent, calcitrabant, hinniebant, ca-
-
-pitibus perpetuo innuentes; hi voce, pedibus, verberibus
-
-etiam equos suos incitabant.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-« Par impar »; « capita et navia ».
-
-  
+### «Par impar»; «capita et navia».
 
 Saepe etiam vel par impar ludebant, vel capita et navia.
-
-Par impar ludere id erat: quaerebat alter utrum lapilli ali-
-
-quot, quos ipse manu clausos tenebat, pari numero essent
-
-an impari. Victor erat qui sie respondisset ut res se habe-
-
-bat. Capita et navia hoe modo ludebatur: nummulo in
-
+Par impar ludere id erat: quaerebat alter utrum lapilli aliquot, quos ipse manu clausos tenebat, pari numero essent
+an impari. Victor erat qui sie respondisset ut res se habebat. Capita et navia hoc modo ludebatur: nummulo in
 altum iactato, cuius in adversa parte caput insculptum
+erat, navis in aversa, providendum erat utrum caput ostendens nummulus ille casurus esset, an navem.
 
-erat, navis in aversa, providendum erat utrum caput osten-
 
-dens nummulus ille casurus esset, an navem.
+### De «musca aenea».
 
-  
+![«neque eos pudebat equorum munere fungi»]()
 
-  
-
-De « musca aenea ».
-
-  
-
-  
-
-Magnus puerorum clamor erat et risus, cum illi id lude-
-
-rent, quod Graeco nomine muscam aeneam vocabant. Unus
-
-ex illis, capite ante oculos fasceola obligato, vacuum aerem
-
-  
-
-- -"
-
-ens LR S. a P » N
-
-  
-
-"»
-
-sod
-
-  
-
-. "s **
-
-  
-
-yn
-
-T
-
-  
-
-wu
-
-  
-
-ero e
-
-  
-
-9 d qidp 4D END PUn qx 3: ha n m wd
-
-* aun a. e e c - » a.
-
-  
-
-Y- MP. f ** F—F',. M. . 7 "". se WO -
-
-- " "dn h .U ^f c SefC * *4 $--*. - e" dn P "7^
-
-  
-
-Pas ZEN PLACE RD »* 3. 24«* 4
-
-- " -"as., * D *.* "eL. T. d B e i
-
-- * * aa "9." ^J
-
-  
-
-C —C€KNIL . AAT i EP LS AT d^
-
-  
-
-- e * - e? 1 »
-
-  
-
-Ph E seem
-
-GuD-— 9
-
-  
-
-Planes
-
-  
-
-e ü " a *
-
-' oua" arbe. dan
-
-  
-
-M GAMME:
-
-  
-
-. TUER ^ «I 2- s - PM
-
-v4 d^*
-
-N
-
-  
-
-y 4l»
-
-et
-
-  
-
-"a ^ os
-
-"n n
-
-  
-
-  
-
-«neque eos pudebat equorum munere fungi ».
-
-  
-
-praetemptans aliquem deprehendere conabatur. « Captabo
-
-aeneam muscam », cantitabat; at ceteri: « Captabis tu qui-
-
-dem, sed non deprehendes » Quam vocem cum iterarent,
-
+Magnus puerorum clamor erat et risus, cum illi id luderent, quod Graeco nomine *muscam aeneam* vocabant. Unus
+ex illis, capite ante oculos fasceola obligato, vacuum aerem praetemptans aliquem deprehendere conabatur. «Captabo
+aeneam muscam», cantitabat; at ceteri: «Captabis tu quidem, sed non deprehendes» Quam vocem cum iterarent,
 caecam illam museam parvula virga verberabant, caute
-
 tamen appropinquantes, ne ipsi caperentur. Deprehensus
-
 musea aenea invicem fiebat.
 
-  
 
-  
-
-Pueri maiores natu imitantur.
-
-  
-
-  
+### Pueri maiores natu imitantur.
 
 Mos est ille puerorum, ut maiores natu ludis suis imitari
-
 velint; neque aliter Romae fiebat. Interdum enim parvi
+illius Ciceronis socii se «iudices» vel «magistratus» esse
+simulabant. Consul aliquis creatus, consulis partes sustinebat, lictoribusque stipatus per peristyli ambulationes vel sub porticibus gravi supercilio incedebat. Ficta etiam bella gerebant, acriter proeliantes. Alteri saepe latrones erant, alteri milites, magnoque clamore alius alium verberabant,dum suum quisque adversarium superare conatur; nec raro fiebat, ut simulatae illae pugnae in veras pueriles rixas evaderent.
 
-illius Ciceronis socii se «iudices» vel « magistratus » esse
-
-  
-
-  
-
-3. - PAOLI. Ciceronis filius.
-
-— 34 —
-
-  
-
-simulabant. Consul aliquis creatus, consulis partes sustine-
-
-bat, lictoribusque stipatus per peristyli ambulationes vel
-
-sub porticibus gravi supercilio incedebat. Ficta etiam bella
-
-gerebant, acriter proeliantes. Alteri saepe latrones erant,
-
-alteri milites, magnoque clamore alius alium verberabant,
-
-dum suum quisque adversarium superare conatur; nec raro
-
-fiebat, ut simulatae illae pugnae in veras pueriles rixas
-
-evaderent.
-
-  
+# end p34
 
 Dexteritatis praemia.
 
@@ -1402,15 +777,6 @@ At nucibus plerumque pueri illi ludebant. Vicissim ni-
 tebantur omnes ut, magna nuce iacta, parvum aliquod ca-
 
   
-
-S (a Qa) 79 nm oc. o - 4 EP 8 9. aeu pl oA a " " -"
-
-"m
-
-  
-
-  
-
 «nucibus plerumque ludebant ».
 
   
@@ -1523,7 +889,7 @@ ire& vel inde sub vesperum rediret, custos illum comitaba-
 
   
 
-tur. Servus erat hie natione Graecus, homo severus et di-
+tur. Servus erat hic natione Graecus, homo severus et di-
 
 ligens nec plane indoctus, quem M. Cicero filio praefecerat
 
@@ -1533,55 +899,6 @@ Graecam linguam colloquendo doceret. Nemo enim apud
 
 Romanos erat quin, si in studiis paulo provectior esset,
 
-  
-
-; 7. Pe * *e "esu
-
-4 » ep (rt p 2: tte. eue etr. pora FN 2r» d
-
-t rt Sex S. tht uhr ^o 68 L6, fv v. 4
-
-  
-
-Lt. qi d^ PR
-
-  
-
-: L1 P" "a
-
-Ar L]
-
-ABUTE 4 .
-
-HN 7
-
-  
-
-XE UR.
-
-  
-
-TT RPTNIO
-
-3U*
-
-  
-
--- —
-
-PRE LE NEL
-
-  
-
-Z7»
-
-  
-
-  
-
-«in htterarum ludum itare coepit ».
-
-  
 
 Graeco sermone tam bene uteretur quam suo. Capsarium
 
@@ -1595,7 +912,7 @@ ceronis uxor, Graeco nomine paedagogum, nobilius quiddam
 
 significare cupiens, non sine putida quadam doctrinae osten-
 
-tatione; nam Homanorum matronae peregrinis verbis li-
+tatione; nam Romanorum matronae peregrinis verbis li-
 
 bentissime utebantur; qui mos usque ad nostram aetatem
 
@@ -1945,7 +1262,7 @@ curantur quam si asphodeli folia imponas? Dentes putre-
 
 scere coeperunt: cotidie mane salem sub lingua contine,
 
-donee liquescat; non iam putrefient. Dentium dolore 1la-
+donec liquescat; non iam putrefient. Dentium dolore 1la-
 
 boras? Cucurbitae carnes, absinthü suco ac salis micis im-
 
@@ -2029,13 +1346,13 @@ bene habitanti quis tum non invidit? Neque immerito;
 
 nihil enim hic desideratur. In Palatino colle haec domus
 
-aedificata est, ubi omnes fere Homanorum principes, rei
+aedificata est, ubi omnes fere Romanorum principes, rei
 
 publieae regendae periti, domicilium habent. Hinc forum
 
 adiacet, ex altera parte Circus. Medium Romae locum habi-
 
-tamus, nee quiequam, si Capitolium exceperis, in hae urbe
+tamus, nec quiequam, si Capitolium exceperis, in hae urbe
 
 nobilius habetur. Permagno, fateor, has aedes emi; tanti
 
@@ -2157,7 +1474,7 @@ De Romanorum lectis.
 
 In domestiea M. Ciceronis supellectile nihil pretiosius
 
-erat quam lecti et mensae. Lectorum apud Homanos multa
+erat quam lecti et mensae. Lectorum apud Romanos multa
 
 genera erant. Lectus cubicularis is dicebatur qui in cubiculir
 
@@ -4830,7 +4147,7 @@ bat, quam hodie quoque in Romanorum statuis admiramur.
 
 x« toga domestica ae pro-
 
-pria Homanorum vestis
+pria Romanorum vestis
 
 erat ».
 
@@ -4976,7 +4293,7 @@ De ceteris virilibus vestimentis.
 
 Multis et varus vestimentis praeter togam et tunicam
 
-Homani utebantur, vel togae superinduendis, vel togae loco
+Romani utebantur, vel togae superinduendis, vel togae loco
 
 induendis. Palltwm spissus quidam amictus vocabatur, togae
 
@@ -5100,7 +4417,7 @@ De Romanorum calceamentis.
 
   
 
-Quoniam de Homanorum vestitu tam
+Quoniam de Romanorum vestitu tam
 
   
 
@@ -5224,7 +4541,7 @@ mentis calceus, quod in z
 
 vestibus toga; nam ge- Calceus. Calceus patricius.
 
-nus hoc ornatus Homani
+nus hoc ornatus Romani
 
 sibi proprium ae domesticum putabant. Sed calceis in pu-
 
@@ -7109,7 +6426,7 @@ Cicero filius Se cito vestem puram induturum sperat . .
 
   
 
-De Homanorum vestitu
+De Romanorum vestitu
 
   
 
@@ -7131,7 +6448,7 @@ De muliebribus vestimentis. Quae vestis ecaracalla fuerit .
 
   
 
-De Homanorum ealeeamentis . . .. .. .. ... 4...
+De Romanorum ealeeamentis . . .. .. .. ... 4...
 
     
 
