@@ -35,64 +35,64 @@ Ex his fabulis alias (11, 12, 17, 18, 23) primum exaravit vel adumbravit
 ## Contents
 
 PERSONAE
-1.	Provinciae Romanae (cap. I)	3
-2.	Liberi et libri (cap. I–II)	4
-3.	Pater dormit (cap. I–III)	5
-4.	Nummus Davi (cap. I–IV)	6
-5.	Liber novus (cap. I–V)	7
-6.	Puella in horto (cap. I–V)	8
-7.	Medus et Cornelius (cap. I–VI)	9
-8.	Speculum Aemiliae (cap. IVII)	10
-9.	Ornamenta dominae (cap. I–VIII)	11
-10.	Domini et equi (cap. I–IX)	12
-11.	Tabernae Iulii (I–X)	13
-12.	Pater abest, adest mater (cap. I–X)	14
-13.	Servi dormiunt (cap. I–XI)	15
-14.	Puer armatus (I–XII)	16
-15.	Kalendarium Romanum (I–XIII)	17
-16.	Asinus currens (cap. I–XIV)	18
-17.	Puer aeger et medicus (cap. I–XV)	19
-18.	Canis ululans (cap. I–XV)	20
-19.	Via Ostiensis (cap. I–XVI)	21
-20.	Medicus doctus (cap. I–XVII)	22
-21.	Numeri et litterae (cap. I–XVIII)	23
-22.	Amor adulescentium (cap. I–XIX)	24
-23.	De novo infante (cap. I–XX)	25
-24.	Filius mercatoris (cap. I–XX)	26
-25.	Gubernator optimus (cap. I–XX)	27
-26.	Magister numeros dictat (cap. I–XXI)	28
-27.	Ianitor probus (cap. I–XXII)	29
-28.	Neuter recedere vult (cap. I–XXIII)	30
-29.	Redit Sextus (cap. I–XXIV)	31
-30.	Puer barbarus (cap. I–XXV)	32
+1.	Provinciae Romanae (cap. I)	3  
+2.	Liberi et libri (cap. I–II)	4  
+3.	Pater dormit (cap. I–III)	5  
+4.	Nummus Davi (cap. I–IV)	6  
+5.	Liber novus (cap. I–V)	7  
+6.	Puella in horto (cap. I–V)	8  
+7.	Medus et Cornelius (cap. I–VI)	9  
+8.	Speculum Aemiliae (cap. IVII)	10  
+9.	Ornamenta dominae (cap. I–VIII)	11  
+10.	Domini et equi (cap. I–IX)	12  
+11.	Tabernae Iulii (I–X)	13  
+12.	Pater abest, adest mater (cap. I–X)	14  
+13.	Servi dormiunt (cap. I–XI)	15  
+14.	Puer armatus (I–XII)	16  
+15.	Kalendarium Romanum (I–XIII)	17  
+16.	Asinus currens (cap. I–XIV)	18  
+17.	Puer aeger et medicus (cap. I–XV)	19  
+18.	Canis ululans (cap. I–XV)	20  
+19.	Via Ostiensis (cap. I–XVI)	21  
+20.	Medicus doctus (cap. I–XVII)	22  
+21.	Numeri et litterae (cap. I–XVIII)	23  
+22.	Amor adulescentium (cap. I–XIX)	24  
+23.	De novo infante (cap. I–XX)	25  
+24.	Filius mercatoris (cap. I–XX)	26  
+25.	Gubernator optimus (cap. I–XX)	27  
+26.	Magister numeros dictat (cap. I–XXI)	28 
+27.	Ianitor probus (cap. I–XXII)	29  
+28.	Neuter recedere vult (cap. I–XXIII)	30  
+29.	Redit Sextus (cap. I–XXIV)	31  
+30.	Puer barbarus (cap. I–XXV)	32  
 
 
 ## Personae
 
-*Aemilia*, domina, mater Marci, Quinti, Iuliae
-*Aemilius*, miles, frater Aemiliae
-*Cornelia*, puella, filia Cornelii et Fabiae 
-*Cornelius* dominus, pater Sexti et Corneliae 
-*Davus*, servus Iulii
-*Delia*, ancilla Aemiliae 
-*Diodorus*, magister 
-*Dorippa*, amica Lÿdiae 
-*Fabia*, uxor Cornelii 
-*Grumio*, tabernarius
-*Iulia*, puella, filia Iulii et Aemiliae
-*Iulius*, dominus, pater Marci, Quinti, Iuliae
-*Leander*, servus Iulii 
-*Lepidus*, adulescens 
-*Libanus*, servus Cornelii 
-*Lÿdia*, amica Medi
-*Marcus*, puer, filius Iulii et Aemiliae 
-*Marinus*, adulescens, filius Micionis 
-*Medicus* Tusculanus
-*Micio*, mercator, pater Marini
-*Mopsus*, tabernarius
-*Sannio*, ianitor
-*Sextus*, puer, filius Cornelii et Fabiae
-*Syra*, ancilla Aemiliae
+*Aemilia*, domina, mater Marci, Quinti, Iuliae  
+*Aemilius*, miles, frater Aemiliae  
+*Cornelia*, puella, filia Cornelii et Fabiae   
+*Cornelius* dominus, pater Sexti et Corneliae   
+*Davus*, servus Iulii  
+*Delia*, ancilla Aemiliae   
+*Diodorus*, magister   
+*Dorippa*, amica Lÿdiae   
+*Fabia*, uxor Cornelii   
+*Grumio*, tabernarius  
+*Iulia*, puella, filia Iulii et Aemiliae  
+*Iulius*, dominus, pater Marci, Quinti, Iuliae  
+*Leander*, servus Iulii   
+*Lepidus*, adulescens   
+*Libanus*, servus Cornelii   
+*Lÿdia*, amica Medi  
+*Marcus*, puer, filius Iulii et Aemiliae   
+*Marinus*, adulescens, filius Micionis   
+*Medicus* Tusculanus  
+*Micio*, mercator, pater Marini  
+*Mopsus*, tabernarius  
+*Sannio*, ianitor  
+*Sextus*, puer, filius Cornelii et Fabiae  
+*Syra*, ancilla Aemiliae  
 
 
 ## 1.Provinciae Romanae (cap. I)
@@ -231,7 +231,7 @@ Cornelia litteras numerat: “Una, duae, tres, quattuor, quinque, sex. In vocabu
 
 Sextus: “Et quot syllabae?”
 
-Co rnelia: “Tres: syllaba prima <font style="font-variant: small-caps">la</font>, secunda <font style="font-variant: small-caps">ti</font>, tertia <font style="font-variant: small-caps">na</font>.”
+Cornelia: “Tres: syllaba prima <font style="font-variant: small-caps">la</font>, secunda <font style="font-variant: small-caps">ti</font>, tertia <font style="font-variant: small-caps">na</font>.”
 
 Sextus rursus eam interrogat: “Vocabulum <font style="font-variant: small-caps">grammatica</font> quot litteras habet?” 
 
