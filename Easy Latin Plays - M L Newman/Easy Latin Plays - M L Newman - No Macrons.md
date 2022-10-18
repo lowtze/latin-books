@@ -168,7 +168,7 @@ ecce! inde venit ipse.
 *(intrat Ti. Gracchus cum filio)*
 
 *Ti.* cives! amici! mihi si cras erit ultimus dies,
-excipite hune, filium meum carissimum. hodie
+excipite hunc, filium meum carissimum. hodie
 vobis hunc trado; cras animam meam fortasse pro
 vobis deponam.
 
@@ -271,9 +271,7 @@ DRAMATIS PERSONAE
 
 Numitor.
 
-Romulus
-			*gemini.*
-Remus
+Romulus et Remus *gemini.*
 
 Faustulus, *pastor.*
   
