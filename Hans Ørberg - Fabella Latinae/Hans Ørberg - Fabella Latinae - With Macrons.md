@@ -35,36 +35,36 @@ Ex hīs fābulīs aliās (11, 12, 17, 18, 23) prīmum exarāvit vel adumbrāvit
 ## Contents
 
 PERSONAE
-1.	Prōvinciae Rōmānae (cap. I)	3  
-2.	Līberī et librī (cap. I–II)	4  
-3.	Pater dormit (cap. I–III)	5  
-4.	Nummus Dāvī (cap. I–IV)	6  
-5.	Liber novus (cap. I–V)	7  
-6.	Puella in hortō (cap. I–V)	8  
-7.	Mēdus et Cornēlius (cap. I–VI)	9  
-8.	Speculum Aemiliae (cap. IVII)	10  
-9.	Ōrnāmenta dominae (cap. I–VIII)	11  
-10.	Dominī et equī (cap. I–IX)	12  
-11.	Tabernae Iūliī (I–X)	13  
-12.	Pater abest, adest māter (cap. I–X)	14  
-13.	Servī dormiunt (cap. I–XI)	15  
-14.	Puer armātus (I–XII)	16  
-15.	Kalendārium Rōmānum (I–XIII)	17  
-16.	Asinus currēns (cap. I–XIV)	18  
-17.	Puer aeger et medicus (cap. I–XV)	19  
-18.	Canis ululāns (cap. I–XV)	20  
-19.	Via Ōstiēnsis (cap. I–XVI)	21  
-20.	Medicus doctus (cap. I–XVII)	22  
-21.	Numerī et litterae (cap. I–XVIII)	23  
-22.	Amor adulēscentium (cap. I–XIX)	24  
-23.	Dē novō īnfante (cap. I–XX)	25  
-24.	Fīlius mercātōris (cap. I–XX)	26  
-25.	Gubernātor optimus (cap. I–XX)	27  
-26.	Magister numerōs dictat (cap. I–XXI)	28  
-27.	Iānitor probus (cap. I–XXII)	29  
-28.	Neuter recēdere vult (cap. I–XXIII)	30  
-29.	Redit Sextus (cap. I–XXIV)	31  
-30.	Puer barbarus (cap. I–XXV)	32  
+1.	Prōvinciae Rōmānae (cap. I)  
+2.	Līberī et librī (cap. I–II)  
+3.	Pater dormit (cap. I–III)  
+4.	Nummus Dāvī (cap. I–IV)  
+5.	Liber novus (cap. I–V)  
+6.	Puella in hortō (cap. I–V)  
+7.	Mēdus et Cornēlius (cap. I–VI)  
+8.	Speculum Aemiliae (cap. I-VII)  
+9.	Ōrnāmenta dominae (cap. I–VIII)  
+10.	Dominī et equī (cap. I–IX)  
+11.	Tabernae Iūliī (I–X)  
+12.	Pater abest, adest māter (cap. I–X)  
+13.	Servī dormiunt (cap. I–XI)  
+14.	Puer armātus (I–XII)  
+15.	Kalendārium Rōmānum (I–XIII)  
+16.	Asinus currēns (cap. I–XIV)  
+17.	Puer aeger et medicus (cap. I–XV)  
+18.	Canis ululāns (cap. I–XV)  
+19.	Via Ōstiēnsis (cap. I–XVI)  
+20.	Medicus doctus (cap. I–XVII)  
+21.	Numerī et litterae (cap. I–XVIII)  
+22.	Amor adulēscentium (cap. I–XIX)  
+23.	Dē novō īnfante (cap. I–XX)  
+24.	Fīlius mercātōris (cap. I–XX)  
+25.	Gubernātor optimus (cap. I–XX)  
+26.	Magister numerōs dictat (cap. I–XXI)  
+27.	Iānitor probus (cap. I–XXII)  
+28.	Neuter recēdere vult (cap. I–XXIII)  
+29.	Redit Sextus (cap. I–XXIV)  
+30.	Puer barbarus (cap. I–XXV)  
 
 
 ## Personae
@@ -95,7 +95,7 @@ PERSONAE
 *Syra*, ancilla Aemiliae  
 
 
-## 1.Prōvinciae Rōmānae (cap. I)
+## 1. Prōvinciae Rōmānae (cap. I)
 
 In imperiō Rōmānō multae sunt prōvinciae. Hispānia et Gallia sunt prōvinciae Rōmānae. Britannia quoque prōvincia Rōmāna est. Hispānia et Gallia et Britannia trēs prōvinciae in Eurōpā sunt.
 Ubi sunt prōvinciae Syria et Aegyptus? Syria in Asiā est, Aegyptus est in Āfricā. Britannia īnsula est. Num īnsulae sunt Gallia et Hispānia? Nōn sunt īnsulae; sed Corsica, Sardinia, Sicilia īnsulae sunt. Magna īnsula est Britannia. Sicilia quoque et Sardinia et Corsica magnae sunt īnsulae. Melita īnsula parva est.
@@ -538,7 +538,7 @@ Iam nōn stertit Dāvus. Is atque cēterī servī bene dormiunt.
 
 
 ## 14. Puer armātus (I–XII)
-Avunculus Mārcī, cui nōmen est Aemilius, in Germāniā mīlitat. Illīc exercitus Rōmānus fīnēs imperiī Rōmānī ā Germānīs dēfendit. Castra exercitūs mīlle passūs ā ﬂūmine Rhēnō sunt in magnā silvā, ubi hostēs sē occultant. Mīlitēs Rōmānī impetum Germānōrum ex- spectant, neque hostēs barbarōs timent. Rōmānī enim bona arma habent atque circum castra fossa et vāllum altum est. Germānī castra Rōmāna expugnāre nōn possunt.
+Avunculus Mārcī, cui nōmen est Aemilius, in Germāniā mīlitat. Illīc exercitus Rōmānus fīnēs imperiī Rōmānī ā Germānīs dēfendit. Castra exercitūs mīlle passūs ā ﬂūmine Rhēnō sunt in magnā silvā, ubi hostēs sē occultant. Mīlitēs Rōmānī impetum Germānōrum exspectant, neque hostēs barbarōs timent. Rōmānī enim bona arma habent atque circum castra fossa et vāllum altum est. Germānī castra Rōmāna expugnāre nōn possunt.
 
 Mārcus Aemilium mīlitem fortem esse putat. Puer ipse mīlitāre vult ut avunculus suus, neque arma habet Mārcus, et Iūlius dīcit ‘nūllōs puerōs mīlitāre aut arma ferre posse.’
 
@@ -697,8 +697,7 @@ Lÿdia surgit. Mēdus ipse amīcam suam asinum ascendentem manū sustinet.
 
 Super asinum sedēns Lÿdia “Ambulā, asine!” inquit, sed asinus in viā stat neque ē locō sē movet. Tum Mēdus herbam carpit et ante asinum tenet. Asinus herbam ēsse vult atque ambulāre incipit. Lÿdia laeta asinō vehitur.
 
-Mēdus: “Bonus es vir quod asinō tuō amīcam meam vehis. Nōs Rōmā venīmus et Ōstiam īmus.
-Tūne quoque Ōstiam īs? Quod nōmen tibi est?”
+Mēdus: “Bonus es vir quod asinō tuō amīcam meam vehis. Nōs Rōmā venīmus et Ōstiam īmus. Tūne quoque Ōstiam īs? Quod nōmen tibi est?”
 
 “Mihi nōmen est Mopsus” inquit ille, “Ōstiam eō, nam illīc habitō. Cūr vōs Ōstiam ītis?”
 
