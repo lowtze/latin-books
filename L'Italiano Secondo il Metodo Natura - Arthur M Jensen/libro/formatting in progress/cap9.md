@@ -18,7 +18,7 @@ Mentre i bambini danno i loro regali alla signora Rossi, il signor Rossi, che i 
 
 Un'ora dopo, i Rossi hanno fatto colazione e vanno in città. In via Veneto i Rossi incontrano i Benelli: i genitori, Emma e Gino, e i due bambini, Giovanni e Lucia, cugino e cugina dei bambini Rossi. «Teresa! buon giorno!», dice Emma Benelli alla signora Rossi.
 
-![](../images/c9.1.png)
+![](c9.1.png)
 
 «Buon giorno, Carlo!», dice poi al fratello. Suo marito pure dice buon giorno ai Rossi, e i Rossi rispondono: «Buon giorno!». Quando tutti hanno detto buon giorno a tutti, Carlo Rossi domanda dove vanno i Benelli: «Dove andate voi?». Emma: «Noi andiamo dove andate voi.». Carlo Rossi: «Allora andiamo tutti al Corso». (Il Corso è una delle più belle vie di Roma). Pietro domanda a suo cugino, Giovanni Benelli: «Quanti siamo adesso?». Giovanni risponde: «Voi siete in sei e noi siamo in quattro». Pia: «Allora siamo in dieci!». Mentre le due famiglie vanno al Corso, Maria e Pia raccontano ai loro cugini ciò che hanno fatto prima della colazione. «Oggi è il compleanno della mamma», dice Pia. Lucia: «L'ha detto il papà ieri sera». Poi, a Teresa Rossi: «Molti auguri, zia Teresa!». Teresa Rossi: «Grazie, Lucia!». Lucia, a Pia: «Che cosa le hai dato, alla zia Teresa?». Pia: «Le ho dato un bel fazzolettino bianco per la borsetta che le ha dato il papà». Lucia: «E tu, Maria, che cosa hai regalato alla zia Teresa?». Maria: «Io le ho regalato dei bei fiori e un ricamo che ho fatto io, da sola». Pia: «Ed è molto, molto bello!». Giovanni: «E tu, Pietro, che cosa le hai regalato?». Pietro: «Io? Le ho regalato un libro». Bruno: «Io pure. Le abbiamo dato un libro tutti e due». Poi, Maria racconta a sua cugina che lei e gli altri erano già sveglia alle sei e mezzo: «E voi?». Lucia: «Noi? Non prima delle sette e un quarto, come le altre mattine». Poi Lucia domanda: «Maria, com'è la borsetta che lo zio Carlo ha dato alla zia Teresa?». Maria: «È una borsetta di Firenze: bianca e nera». Lucia: «Bianca e nera? È bella, no?». Maria: «Sì, molto bella». E fino al Corso, Maria racconta a sua cugina com'è la borsetta della mamma.
 
@@ -105,19 +105,19 @@ Chi sono Giovanni e Lucia Benelli?
 Footnotes
 -->
 
-![](../images/9sub1.png)
+![](9sub1.png)
 
-![](../images/9sub2.png)
+![](9sub2.png)
 
-![](../images/9sub3.png)
+![](9sub3.png)
 
-![](../images/9sub4.png)
+![](9sub4.png)
 
-![](../images/9sub5.png)
+![](9sub5.png)
 
-![](../images/9sub6.png)
+![](9sub6.png)
 
-![](../images/9sub7.png)
+![](9sub7.png)
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:

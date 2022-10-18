@@ -6,7 +6,7 @@ Il cognome del padre è Rossi. Anche il cognome della madre è Rossi: Teresa Ros
 
 Teresa Rossi chiama il signor Rossi «Carlo», e Carlo Rossi chiama la signora Rossi «Teresa». Ma i bambini non chiamano[^3.8] i signori Rossi «Carlo» e «Teresa». I bambini chiamano il signor Rossi «papà»[^3.9] e la signora Rossi «mamma».[^3.10]
 
-![](../images/c3.1.png)
+![](c3.1.png)
 
 Il primo figlio di Carlo Rossi si chiama «Bruno».[^3.11] La prima figlia di Carlo Rossi si chiama «Maria». Come si chiama la seconda figlia di Carlo Rossi?[^3.12] Si chiama Pia. Come si chiama il padre di Bruno? Suo padre si chiama Carlo Rossi.[^3.13] Come si chiama sua madre? Sua madre si chiama Teresa Rossi.[^3.14] Chi è il fratello di Bruno? Suo fratello è Pietro.[^3.15] E chi è la sorella di Maria? Sua sorella è Pia.[^3.16] Chi sono i genitori di Pietro? I suoi genitori sono il signor Rossi e la signora Rossi.[^3.17]
 
@@ -16,7 +16,7 @@ Il signor Rossi chiama sua moglie «Teresa» e la signora Rossia chiama suo mari
 
 Qual è il nome del signor Rossi? Il suo nome è Carlo. E qual è il nome della signora Rossi? Il suo nome è Teresa. Il signor Rossi è un italiano: l'Italia è la sua patria.[^3.27] Qual è la patria della signora Rossi? Anche la sua patria è l'Italia. I sei Rossi hanno la stessa patria. L'Italia è la patria degli italiani.[^3.28] La Francia è la patria dei francesi.
 
-![](../images/c3.2.png)
+![](c3.2.png)
 
 Il signor Rossi ha un fratello che si chiama Alberto. Alberto Rossi è lo zio dei bambini Rossi.[^3.29] I fratelli del padre e della madre sono gli zii dei bambini.[^3.30] Il signor Rossi ha anche una sorella che si chiama Emilia. Emilia Rossi è la zia dei bambini.[^3.31] Le sorelle del padre o della madre sono le zie dei bambini. Il signor Rossi ha due fratelli. L'uno si chiama Alberto. L'altro si chiama Rodolfo, ed è[^3.32] anche lui[^3.33] zio dei bambini. Il signor Rossi ha due sorelle. L'una si chiama Emilia Rossi. L'altra si chiama Emma Benelli, ed è anche lei[^3.34] zia dei bambini.[^3.35] Emma Benelli è sposata, Emilia Rossi no.[^3.36] Teresa Rossi ha una sorella. Sono sposati i due fratelli del signor Rossi? Alberto Rossi sì, è sposato, ma Rodolfo no.[^3.37] E le sorelle del signor Rossi, sono sposate? Emilia no, ma Emma sì.[^3.38] Anche la sorella della signora Rossi è sposata. Emilia Rossi non si chiama «signora», ma «signorina» Rossi. Una donna non sposata si chiama signorina. Emilia Rossi è «la signorina Rossi». La moglie di Alberto Rossi non è sorella del papà né della mamma dei bambini,[^3.39] ma anche lei è zia dei bambini. Alberto Rossi è sposato. E Rudolfo ed Emma, sono sposati? Lei sì, ma lui no. Quanti fratelli e quante sorelle hanno Carlo e Teresa Rossi? Lui ha due fratelli e due sorelle, lei ha una sorella. Il marito di Emma Benelli, che è la seconda sorella del padre dei bambini, non è fratello né di Carlo né di Teresa Rossi,[^3.40] ma anche lui è zio dei bambini.
 

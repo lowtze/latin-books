@@ -4,11 +4,11 @@ author: Arthur M. Jensen
 date: 1962
 lang: it
 cover-image: "../images/cover.png"
-...
+---
 
 ## Capitolo uno (1): LA FAMIGLIA ROSSI
 
-![](../images/c1.1.png)
+![](c1.1.png)
 
 Carlo Rossi è un uomo. Teresa Rossi è una donna.[^1.1] Bruno è un bambino. Pietro è un bambino. Maria è una bambina. Anche Pia è una bambina.[^1.2] Bruno e Pietro sono due bambini.[^1.3] Maria e Pia sono due bambine.[^1.4]
 
@@ -16,7 +16,7 @@ Carlo Rossi è un uomo. Teresa Rossi è una donna.[^1.1] Bruno è un bambino. Pi
 
 Un bambino e una bambina sono due bambini. Due bambini e una bambina sono tre bambini.[^1.7] Anche un bambino e due bambine sono tre bambini.[^1.8] Bruno, Pietro, Maria e Pia sono quattro bambini.[^1.9] Carlo e Teresa Rossi,[^1.10] Bruno, Pietro, Maria e Pia sono una famiglia: la famiglia Rossi. Carlo Rossi è il padre. Teresa Rossi è la madre. Bruno è il primo figlio, Pietro è il secondo figlio.[^1.12] I due figli sono Bruno e Pietro. Maria è la prima figlia, Pia è la seconda[^1.14] figlia.[^1.11] Le due figlie sono Maria e Pia.[^1.13]
 
-![](../images/c1.2.png)
+![](c1.2.png)
 
 Bruno Rossi è figlio di Carlo Rossi. Anche Pietro Rossi è figlio di Carlo Rossi. I due bambini, Bruno e Pietro, sono figli di Carlo Rossi. Il primo figlio di Carlo Rossi è Bruno, il  secondo figlio è Pietro. Bruno e Pietro sono figli anche di Teresa Rossi: i due bambini sono figli di Carlo e Teresa Rossi.
 

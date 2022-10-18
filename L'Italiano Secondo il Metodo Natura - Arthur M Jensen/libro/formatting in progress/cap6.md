@@ -1,6 +1,6 @@
 ## Capitolo sei (6): GIORNO E NOTTE
 
-![](../images/c6.1.png)
+![](c6.1.png)
 
 Il giorno e la notte durano ventiquattr'ore. D'inverno, la notte dura più di dodici ore, d'estate dura meno di dodici ore. Il giorno dura più di dodici ore d'estate e meno di dodici ore d'inverno. Due volte all'anno, il giorno non è né più lungo né più corto della notte: la prima volta è il ventun marzo e la seconda volta è il ventitré settembre. Il ventun marzo e il ventitré settembre il giorno dura quanto la notte, né più né meno.
 
@@ -12,7 +12,7 @@ Il giorno più lungo dell'anno è il ventun giugno. Il ventun giugno il giorno �
 
 Quanti minuti dura una mezz'ora? Una mezz'ora dura trenta minuti. Quanti quarti d'ora ci sono in un'ora? Quattro. Un quarto d'ora dura quindici minuti, e un'ora dura sessanta minuti. Un minuto è la sessantesima parte di un'ora, la trentesima parte di una mezz'ora e la quindicesima parte di un quarto d'ora.
 
-![](../images/c6.2.png)
+![](c6.2.png)
 
 La prima parte del giorno si chiama «mattina». L'ultima parte del giorno si chiama «sera». La mattina, il sole spunta, e la sera, tramonta. La mattina comincia quando spunta il sole e dura fino a mezzogiorno. La seconda parte del giorno è il pomeriggio. Il pomeriggio comincia a mezzogiorno e dura fino alla sera, che è l'ultima parte del giorno. La sera comincia quando finisce il pomeriggio e finisce quando comincia la notte, cioè: dura dalla fine del pomeriggio al principio della notte. E la notte comincia quando finisce la sera e finisce quando comincia la mattina, cioè: dura dalla fine della sera al principio della mattina.
 

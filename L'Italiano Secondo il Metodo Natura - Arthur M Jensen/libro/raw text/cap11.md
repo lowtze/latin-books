@@ -1,7 +1,5 @@
 ## Capitolo undici (11): IL PRANZO
 
-![](../images/11.1.png)
-
 I Rossi hanno un grande appartamento. È un appartamento di otto stanze, una cucina e un corridoio. Le otto stanze dell'appartamento dei Rossi sono: le tre stanze da letto dei genitori e dei bambini, la sala da pranzo, il salotto --- dove va la famiglia dopo i pasti ---, il bagno, l'entrata, la camera di Amelia. Chi è Amelia? È la donna di servizio dei Rossi. Cosa fa Amelia? Essa prepara i pasti della famiglia e lava i piatti. Però non fa solo quello. Essa fa pure molte altre cose. Per entrare in camera sua, Amelia deve prima entrare in cucina.
 
 La cucina non è un stanza, e neppure il corridoio è una stanza. Si entra nel corridoio dell'entrata e da tutte le altre stanze fuorché da quella della donna di servizio. Se si vuole andare dalla stanza dei genitori in quella dei figli o dalla cucina in sala da pranzo, si deve prima andare nel corridoio, e dal corridoio poi si va nell'altra stanza. Però per passare dalla sala da pranzo in salotto non si deve prima andare nel corridoio, perché fra la sala da pranzo e il salotto c'è una porta. C'è una porta anche fra le stanze dei bambini, e ce n'è una fra la camera della donna e la cucina.
@@ -27,53 +25,3 @@ All'una meno cinque, Amelia apre la porta fra il salotto e la sala da pranzo e d
 Mentre Pia e Maria vanno nel bagno per lavarsi le mani, Teresa Rossi dice a Pietro: «E ora, mostrami le mani anche tu!». Pietro mostra le mani a sua madre, che dice: «Ma Pietro!Hai le mani ancora più sporche della Pia! Perché non ti lavi le mani, Pietro?». Pietro: «Ma mamma, io ma le lavo ogni giorno!». Teresa Rossi: «Quante volte al giorno te le lavi?». Pietro: «Mi lavo le mani due o tre volte al giorno!». Teresa Rossi: «Ma Pietro! È troppo poco! Maria se le lava più di cinque o sei volte al giorno, e papà ed io ce le laviamo pure molte volte al giorno!». Pietro: «Maria è una bambina! E voi ve le lavate tutto il giorno, le mani!». Teresa Rossi: «Pietro! Anche tu devi lavarti le mani molte volte al giorno! Va in bagno e lavati le mani anche tu! E Bruno pure: lavatevi le mani tutti e due, e poi andate in sala da pranzo!». E i due fratelli vanno insieme in bagno e si lavano le mani anche loro, come le bambine. (Ora i due fratelli sono grandi, e non è la mamma che lava loro le mani, ma prima sì, era lei. Oggi Pietro si lava sempre le mani da solo, e non gliele lavano più né Maria né la mamma, ma Pia è ancora piccola e non sempre si lava le mani da sola; molte volte, come oggi, gliele lavae Maria). Quando i due fratelli si sono lavati, vanno anche loro in sala da pranzo.
 
 Dopo i bambini, sono i genitori che si lavano le mani: prima la madre, poi il padre. Dopo che Teresa Rossi si è lavata le mani, essa se le asciuga. Se le asciuga coll'asciugamano. (Nella stanza da bagno ci sono tre asciugamani). Poi esce dal bagno, e prima di andare in sala da pranzo va in cucina, mentre il padre, dopo che si è lavato e asciugato le mani ed è uscito dal bagno, va in sala da pranzo, dove sono i bambini. Cinque minuti dopo, tutta la famiglia è in sala da pranzo e si mette a tavola.
-
-
-
-
-
-
-<!---
-Footnotes
--->
-
-
-![](../images/11sub1.png)
-
-![](../images/11sub2.png)
-
-![](../images/11sub3.png)
-
-![](../images/11sub4.png)
-
-![](../images/11sub5.png)
-
-![](../images/11sub6.png)
-
-![](../images/11sub7.png)
-
-![](../images/11sub8.png)
-
-![](../images/11sub9.png)
-
-![](../images/11sub10.png)
-
-![](../images/11sub11.png)
-
-![](../images/11sub12.png)
-
-![](../images/11sub13.png)
-
-![](../images/11sub14.png)
-
-![](../images/11sub15.png)
-
-![](../images/11sub16.png)
-
-<p style="page-break-after: always;"> </p>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjI1MjY1MiwyMDk1MDY3NDk2LC04OD
-YzMzc2NzMsMTE3MzI5MjQyMiwtMjA1NjMyNzI4MSwtNjk3Njc1
-MDM5LDY2MDM1MDU5LDE0NjUxMDA0MzQsLTk1MTQxNzc0NywtMT
-Y5Mzc4MjQyNiwxMjYwMzc1MjIzXX0=
--->

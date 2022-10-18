@@ -1,6 +1,6 @@
 ## Capitolo cinque (5): LE STAGIONI
 
-![](../images/c5.1.png)
+![](c5.1.png)
 
 A Roma, i Rossi stanno in una casa grande, ma ad Ostia la famiglia Rossi ha una casa piccola in un gran giardino. I Rossi non stanno nella loro casa di Ostia tutti i mesi dell'anno, ma solo in luglio, agosto e settembre. Nel gran giardino dei Rossi ci sono molti alberi. Non tutti gli alberi sono alti: alcuni alberi sono alti, altri sono bassi. E la casa, è alta o bassa? La casa è alta, ma meno alta degli alberi più grandi. Tutti gli alberi del giardino sono più alti del signor Rossi, e alcuni sono anche più alti della casa.
 

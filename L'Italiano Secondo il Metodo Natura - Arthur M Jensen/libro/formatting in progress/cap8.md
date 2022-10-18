@@ -96,7 +96,7 @@ In che mano si ha il coltello quando si mangia?
 Footnotes
 -->
 
-[^8.1]: ![](../images/8sub1.png)
+[^8.1]: ![](8sub1.png)
 
 [^8.2]: mangi**a**
 	mangi**ano**
@@ -125,21 +125,21 @@ Footnotes
 
 [^8.11]: sempre : tutte le volte
 
-[^8.12]: ![](../images/8sub2.png)
+[^8.12]: ![](8sub2.png)
 
-[^8.13]: ![](../images/8sub2andahalf.png)
+[^8.13]: ![](8sub2andahalf.png)
 
-[^8.14]: ![](../images/8sub3.png)
+[^8.14]: ![](8sub3.png)
 
 [^8.15]: che cosa? = cosa?
 
-[^8.16]: ![](../images/8sub4.png)
+[^8.16]: ![](8sub4.png)
 
-[^8.17]: ![](../images/8sub5.png)
+[^8.17]: ![](8sub5.png)
 
 [^8.18]: ce **n'**è mezzo litro : c'è mezzo litro **di latte**
 
-[^8.19]: ![](../images/8sub6.png)
+[^8.19]: ![](8sub6.png)
 
 [^8.20]: **ne** beve un bicchiere : beve un bicchiere **di latte**
 
@@ -155,7 +155,7 @@ Footnotes
 
 [^8.25]: il caffè si beve : la gente beve il caffè
 
-[^8.26]: ![](../images/8sub6andahalf.png)
+[^8.26]: ![](8sub6andahalf.png)
 
 [^8.27]: sopra ↔ sotto
 
@@ -167,7 +167,7 @@ Footnotes
 
 [^8.29]: nero ↔ bianco 
 
-[^8.30]: ![](../images/8sub7.png)
+[^8.30]: ![](8sub7.png)
 
 [^8.31]: senza ↔ con
 
@@ -175,7 +175,7 @@ Footnotes
 
 [^8.33]: si mangia poco burro = la gente mangia poco burro
 
-[^8.34]: ![](../images/8sub8.png)
+[^8.34]: ![](8sub8.png)
 
 [^8.35]: il formaggio si mangia = la gente mangia il formaggio
 
@@ -187,19 +187,19 @@ Footnotes
 
 [^8.39]: poca gente = poche persone
 
-[^8.40]: ![](../images/8sub9.png)
+[^8.40]: ![](8sub9.png)
 
-[^8.41]: ![](../images/8sub10.png)
+[^8.41]: ![](8sub10.png)
 
 [^8.42]: si mangia = la gente mangia
 
-[^8.43]: ![](../images/8sub11.png)
+[^8.43]: ![](8sub11.png)
 
 [^8.44]: forchetta
 
 	forchett**ina**
 
-[^8.45]: ![](../images/8sub12.png)
+[^8.45]: ![](8sub12.png)
 
 [^8.46]: **ce ne** sono due : **ci** sono due **litri di vino**
 

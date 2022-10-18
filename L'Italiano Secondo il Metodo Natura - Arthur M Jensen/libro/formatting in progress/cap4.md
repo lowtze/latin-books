@@ -1,6 +1,6 @@
 ## Capitolo quattro (4): L'ANNO
 
-![](../images/c4.1.png)
+![](c4.1.png)
 
 Gennaio è un mese. Anche dicembre è un mese. Dodici mesi si chiamano un anno. Gennaio è il primo mese dell'anno. Dicembre è l'ultimo mese dell'anno. I dodici mesi dell'anno sono: gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre.
 
@@ -18,7 +18,7 @@ L'anno dura trecentosessantacinque o trecentosessantasei giorni: dal primo genna
 
 I Rossi non stanno a Roma tutto l'anno: in luglio, agosto e settembre non stanno a Roma, ma ad Ostia. I Rossi stanno a Roma in autunno, in primavera e d'inverno. Ma d'estate stanno a Ostia. I Rossi stanno ad Ostia dai primi giorni di luglio agli ultimi di settembre o ai primi di ottobre. Anche i Benelli stanno a Ostia d'estate. I Rossi vanno da Roma ad Ostia il primo o il due luglio e stanno ad Ostia tutta l'estate. Anche la famiglia Benelli va ad Ostia il primo o il due luglio e sta ad Ostia tutta l'estate. E gli altri mesi dell'anno, dove stanno i Benelli e i Rossi? Gli altri mesi dell'anno stanno a Roma. La signorina Emilia Rossi va ad Ostia anche lei il primo luglio? No; lei non va ad Ostia.
 
-![](../images/c4.2.png)
+![](c4.2.png)
 
 Il padre del signor Rossi, il signor Giuseppe Rossi, ha ottantadue anni. Ottantadue anni sono molti: il signor Giuseppe Rossi è vecchio. Un uomo che ha molti anni è vecchio. Una donna che ha molti anni è vecchia. La signora Teresa Rossi non è vecchia. Teresa Rossi ha solo trentacinque anni: è una donna giovane, non vecchia. Una donna che non ha molti anni è giovane. Anche Carlo Rossi è giovane, ma meno giovane di sua moglie: Carlo Rossi ha quarantadue anni. Il padre di Teresa Rossi, il signor Gherardo Brunotti, è vecchio anche lui, ma meno vecchio del signor Giuseppe Rossi. Giuseppe Rossi ha ottantadue anni, Gherardo Brunotti ha solo settantatré anni. Carlo e Teresa Rossi sono giovani, ma Teresa Rossi è più giovane di suo marito. Lui ha quarantadue anni, lei solo trentacinque. I padri dei genitori sono vecchi, ma Giuseppe Rossi è più vecchio di Gherardo Brunotti. Il primo ha ottantadue anni, l'altro ha settantatré.
 

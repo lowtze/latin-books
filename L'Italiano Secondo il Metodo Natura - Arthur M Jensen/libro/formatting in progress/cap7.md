@@ -1,12 +1,12 @@
 ## Capitolo sette (7): LA MATTINA
 
-![](../images/c7.1.png)
+![](c7.1.png)
 
 Che ore sono? Sono le sette di mattina. I bambini sono nei loro letti. I bambini dormono. Però non dormono tutti. Bruno e Pietro dormono ancora, Maria dorme anche lei, ma Pia non dorme più.[^7.1] Pia dorme dalle otto di sera alle sei o alle sei e mezzo di mattina. Quanto dorme Pia? Dorme dieci ore. Pietro, che ha cinque anni più di Pia, non dorme che nove ore:[^7.2] dalle dieci alle sette. Bruno e Maria non dormono che otte ore e mezzo. Vanno a letto alle dieci e mezzo di sera e dormono fino alle sette di mattina. La madre dei bambini, la signora Rossi, non dorme che sette ore: insieme con suo marito va a letto alle undici e dorme solo fino alle sei. Suo marito dorme fino alle sette, come Maria, Bruno e Pietro.
 
 Dove sono i letti dei bambini? Quelli di[^7.3] Bruno e di Pietro sono nella stanza dei due fratelli, quelli di Maria e di Pia sono nella stanza delle due sorelle. Le stanze dove stanno[^7.4] i letti si chiamano stanze da letto. I rossi hanno tre stanze da letto: una per i genitori e due per i bambini. Nella stanza dei genitori non c'è che un letto, però è molto grande. Nelle stanze dei bambini ci sono dei letti motlo più piccoli di quello dei genitori. Ma il letto di bruno è più grande di quello di Pia, perché Bruno è più grande di Pia. Il letto dei genitori è molto grande perché ci[^7.5] dormono e il padre e la madre.[^7.6] I Rossi hanno un letto molto grande per i genitori e quattro letti più piccoli per i bambini.
 
-![](../images/c7.2.png)
+![](c7.2.png)
 
 Nella stanza da letto dei genitori c'è un orologio che alle sei di mattina suona: «DRRRIIIN!». Perché suona l'orologio? Suona perché sono le sei. Alle sei meno dieci la signora Rossi dorme ancora, ma alle sei l'orologio suona e sveglia la signora Rossi. Un orologio che suona la mattina e sveglia le persone che[^7.7] dormono si chiama una «sveglia».
 
@@ -100,13 +100,13 @@ Footnotes
 
 [^7.8]: quando suona la sveglia = quando la sveglia suona
 
-[^7.9]: ![](../images/7sub1.png)
+[^7.9]: ![](7sub1.png)
 
 [^7.10]: non si alza che alle 7 = si alza alle 7, ma non prima delle 7
 
 [^7.11]: non hanno sveglia = non hanno una sveglia
 
-[^7.12]: ![](../images/7sub2.png)
+[^7.12]: ![](7sub2.png)
 
 [^7.13]: Maria però = però Maria
 
@@ -146,9 +146,9 @@ Footnotes
 
 	tutt**e** e due (le bambine)
 
-[^7.27]: ![](../images/7sub3.png)
+[^7.27]: ![](7sub3.png)
 
-[^7.28]: ![](../images/7sub4.png)
+[^7.28]: ![](7sub4.png)
 
 [^7.29]: **li** lava
 	
@@ -166,7 +166,7 @@ Footnotes
 
 	**non la** lava
 
-[^7.30]: ![](../images/7sub5.png)
+[^7.30]: ![](7sub5.png)
 
 [^7.31]: da sol**o**
 

@@ -83,21 +83,21 @@ Cosa fa il signor Rossi quando ha pagato i guanti?
 Footnotes
 -->
 
-![](../images/10sub1.png)
+![](10sub1.png)
 
-![](../images/10sub2.png)
+![](10sub2.png)
 
-![](../images/10sub3.png)
+![](10sub3.png)
 
-![](../images/10sub4.png)
+![](10sub4.png)
 
-![](../images/10sub5.png)
+![](10sub5.png)
 
-![](../images/10sub6.png)
+![](10sub6.png)
 
-![](../images/10sub7.png)
+![](10sub7.png)
 
-![](../images/10sub8.png)
+![](10sub8.png)
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:

@@ -1,0 +1,88 @@
+## Capitolo uno (1): LA FAMIGLIA ROSSI
+
+Carlo Rossi è un uomo. Teresa Rossi è una donna. Bruno è un bambino.
+Pietro è un bambino. Maria è una bambina. Anche Pia è una bambina.
+Bruno e Pietro sono due bambini.
+
+È un bambino Pietro? Sì, Pietro è un bambino. Anche Bruno è un bambino.
+È una bambina Maria? Sì, Maria è una bambina. Sono bambini Bruno e
+Pietro? Sì, Bruno e Pietro sono bambini. Sono bambine Maria e Pia? Sì,
+Maria e Pia sono bambine. È un bambino Carlo Rossi? No, Carlo Rossi non
+è un bambino; è un uomo. È una bambina Teresa Rossi? No, Teresa
+Rossi non è una bambina; è una donna.
+
+Un bambino e una bambina sono due bambini. Due bambini e una bambina
+sono tre bambini. Anche un bambino e due bambine sono tre
+bambini. Carlo e Teresa Rossi, Bruno, Pietro, Maria e Pia sono una famiglia: la
+famiglia Rossi. Carlo Rossi è il padre. Teresa Rossi è la madre. Bruno è
+il primo figlio, Pietro è il secondo figlio. I due figli sono Bruno
+e Pietro. Maria è la prima figlia, Pia è la seconda Le
+due figlie sono Maria e Pia.
+
+Bruno Rossi è figlio di Carlo Rossi. Anche Pietro Rossi è figlio di
+Carlo Rossi. I due bambini, Bruno e Pietro, sono figli di Carlo Rossi.
+Il primo figlio di Carlo Rossi è Bruno, il secondo figlio è Pietro.
+Bruno e Pietro sono figli anche di Teresa Rossi: i due bambini sono
+figli di Carlo e Teresa Rossi.
+
+Maria è figlia di Carlo Rossi. Anche Pia è figlia di Carlos Rossi. Le
+due bambine, Maria e Pia, sono figlie di Carlo Rossi. La prima figlia di
+Carlo Rossi è Maria, la seconda figlia è Pia. Maria e Pia sono figlie
+anche di Teresa Rossi: le due bambine sono figlie di Carlo e Teresa
+Rossi.
+
+Quanti sono i figli di Carlo Rossi? I figli di Carlo Rossi sono due.
+Quante sono le figlie? Anche le figlie sono due. Carlo Rossi ha due
+figli e due figlie. Due figli e due figlie sono quattro figli.
+Quanti figli ha Carlo Rossi? Carlo Rossi ha quattro figli: Bruno,
+Pietro, Maria e Pia. Quanti figli e quante figlie? Due figli e due
+figlie. Quanti figli hanno Carlo e Teresa Rossi? Carlo e Teresa Rossi
+hanno quattro figli. I quattro bambini, Bruno, Pietro, Maria e Pia,
+sono figli di Carlo e Teresa Rossi.
+
+Carlo Rossi è il padre di Bruno, di Pietro, di Maria e di Pia. Teresa
+Rossi è la madre di Bruno, di Pietro, di Maria e di Pia. Chi sono i due
+figli di Carlo e Teresa Rossi? Sono Bruno e Pietro. Chi sono le due
+figlie di Carlo e Teresa Rossi? Sono Maria e Pia. Chi è il primo
+figlio, Bruno o Pietro? È Bruno. Chi è la seconda figlia, Maria o
+Pia? È Pia. Chi è il padre di Bruno? È Carlo Rossi. E chi è la
+madre di Bruno? È Teresa Rossi.
+
+Bruno è il fratello di Pietro. Pietro è il fratello di Bruno. Bruno e
+Pietro sono fratelli. Maria è la sorella di Pia. Pia è la sorella di
+Maria. Maria e Pia sono sorelle. Maria e Pia sono le sorelle di Bruno e
+Pietro. Bruno e Pietro sono i fratelli di Maria e Pia.
+
+Quanti fratelli ha Maria? Ha due fratelli. Quanti fratelli ha
+Bruno, uno o due? Bruno ha un fratello. Chi è il fratello di Bruno? Il
+fratello di Bruno è Pietro. Quante sorelle ha Pia, una o due? Pia
+ha una sorella. Chi è la sorella di Pia? La sorella di Pia è Maria.
+Quante sorelle ha Pietro, due o tre? Ha due sorelle. Pietro e Maria
+sono fratello e sorella. Quanti fratelli hanno Maria e Pia? Hanno due
+fratelli. Chi sono i due fratelli di Maria e Pia? Sono Bruno e
+Pietro. Bruno è fratello di Maria e Pia. Anche Pietro è fratello di
+Maria e Pia. Quante sorelle hanno Bruno e Pietro? Bruno e Pietro hanno
+due sorelle. Chi sono le due sorelle di Bruno e Pietro? Sono Maria e
+Pia. Maria è sorella di Bruno e Pietro. Anche Pia è sorella di Bruno e
+Pietro. I quattro bambini sono fratelli e sorelle.
+
+Carlo Rossi è il marito di Teresa Rossi. Teresa Rossi è la moglie di
+Carlo Rossi. Carlo e Teresa Rossi sono marito e moglie. Quanti figli e
+quante figlie hanno Carlo e Teresa Rossi? Hanno due figli e due
+figlie. Carlo e Teresa Rossi sono i genitori di Bruno, Pietro,
+Maria e Pia. I genitori sono il padre e la madre. Chi è il marito
+di Teresa Rossi? È Carlo Rossi. Chi è la moglie di Carlo Rossi? È Teresa
+Rossi.
+
+Chi sono Bruno e Pietro? Sono i figli di Carlo e Teresa Rossi. Chi sono
+Maria e Pia? Sono le figlie di Carlo e Teresa Rossi. Carlo e Teresa
+Rossi sono i gentiori di Bruno e di Pietro. Carlo e Teresa Rossi sono
+anche i genitori di Maria e di Pia. Il padre, la madre, i due figli e le
+due figlie sono una famiglia.
+
+Chi è Carlo Rossi? È il marito di Teresa Rossi e il padre di Bruno,
+Pietro, Maria e Pia. Chi è Teresa Rossi? È la moglie di Carlo Rossi e la
+madre di Bruno, Pietro, Maria e Pia. Ha un fratello Bruno? Sì, Bruno ha
+un fratello. Ha fratelli Maria? Sì, Maria ha due fratelli. Ha due
+sorelle Maria? No, Maria non ha due sorelle; ha una sorella e due
+fratelli.

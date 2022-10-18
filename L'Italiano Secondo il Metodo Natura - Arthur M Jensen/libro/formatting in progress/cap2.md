@@ -1,6 +1,6 @@
 ## Capitolo due (2): CITTÀ E PAESI
 
-![l'Europa](../images/c2.1.png)
+![l'Europa](c2.1.png)
 
 Roma è una città. Anche Milano e Parigi sono città.[^2.1] Parigi è una città di Francia. Milano e Roma sono città d'Italia.[^2.2] La Francia è un paese. Anche l'Italia[^2.3] è un paese. La Francia e l'Italia sono due paesi[^2.4] d'Europa. Anche la Germania e l'Inghilterra sono paesi d'Europa.
 
@@ -10,7 +10,7 @@ L'Italia, che ha cinquanta[^2.15] milioni di abitanti, è un paese grande. La Sv
 
 La famiglia Rossi sta in Italia: è una famiglia italiana. Carlo Rossi è un italiano, Teresa Rossi è un'italiana.[^2.21] Anche Bruno e Pietro sono italiani. Bruno e Pietro sono bambini italiani. Maria e Pia sono bambine italiane. I Rossi sono italiani.[^2.22] Dove sta la famiglia Rossi? La famiglia Rossi sta in Italia. E in che città d'Italia stanno i Rossi? I Rossi stanno a Roma.
 
-![l'Italia](../images/c2.2.png)
+![l'Italia](c2.2.png)
 
 Gli abitanti di Roma sono romani. Carlo Rossi è un abitante di Roma: è un romano. Teresa Rossi è una romana. Bruno e Pietro sono bambini romani, Maria e Pia sono bambine romane. I romani sono italiani. Anche gli abitanti di Firenze, di Milano, di Napoli sono italiani. Ma gli abitanti di Parigi non sono italiani. Parigi è una città francese, e gli abitanti di Parigi sono francesi. Dove stanno gli italiani? Gli italiani stanno in Italia. Dove stanno i francesi? I francesi stanno in Francia. Gli abitanti di Londra sono inglesi. In che paese è Londra? Londra è in Inghilterra. Gli inglesi stanno in Inghilterra.
 
