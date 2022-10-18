@@ -35,36 +35,36 @@ Ex his fabulis alias (11, 12, 17, 18, 23) primum exaravit vel adumbravit
 ## Contents
 
 PERSONAE
-1.	Provinciae Romanae (cap. I)	3  
-2.	Liberi et libri (cap. I–II)	4  
-3.	Pater dormit (cap. I–III)	5  
-4.	Nummus Davi (cap. I–IV)	6  
-5.	Liber novus (cap. I–V)	7  
-6.	Puella in horto (cap. I–V)	8  
-7.	Medus et Cornelius (cap. I–VI)	9  
-8.	Speculum Aemiliae (cap. IVII)	10  
-9.	Ornamenta dominae (cap. I–VIII)	11  
-10.	Domini et equi (cap. I–IX)	12  
-11.	Tabernae Iulii (I–X)	13  
-12.	Pater abest, adest mater (cap. I–X)	14  
-13.	Servi dormiunt (cap. I–XI)	15  
-14.	Puer armatus (I–XII)	16  
-15.	Kalendarium Romanum (I–XIII)	17  
-16.	Asinus currens (cap. I–XIV)	18  
-17.	Puer aeger et medicus (cap. I–XV)	19  
-18.	Canis ululans (cap. I–XV)	20  
-19.	Via Ostiensis (cap. I–XVI)	21  
-20.	Medicus doctus (cap. I–XVII)	22  
-21.	Numeri et litterae (cap. I–XVIII)	23  
-22.	Amor adulescentium (cap. I–XIX)	24  
-23.	De novo infante (cap. I–XX)	25  
-24.	Filius mercatoris (cap. I–XX)	26  
-25.	Gubernator optimus (cap. I–XX)	27  
-26.	Magister numeros dictat (cap. I–XXI)	28 
-27.	Ianitor probus (cap. I–XXII)	29  
-28.	Neuter recedere vult (cap. I–XXIII)	30  
-29.	Redit Sextus (cap. I–XXIV)	31  
-30.	Puer barbarus (cap. I–XXV)	32  
+1.	Provinciae Romanae (cap. I)  
+2.	Liberi et libri (cap. I–II)  
+3.	Pater dormit (cap. I–III)  
+4.	Nummus Davi (cap. I–IV)  
+5.	Liber novus (cap. I–V)  
+6.	Puella in horto (cap. I–V)  
+7.	Medus et Cornelius (cap. I–VI)  
+8.	Speculum Aemiliae (cap. I-VII)  
+9.	Ornamenta dominae (cap. I–VIII)  
+10.	Domini et equi (cap. I–IX)  
+11.	Tabernae Iulii (I–X)  
+12.	Pater abest, adest mater (cap. I–X)  
+13.	Servi dormiunt (cap. I–XI)  
+14.	Puer armatus (I–XII)  
+15.	Kalendarium Romanum (I–XIII)  
+16.	Asinus currens (cap. I–XIV)  
+17.	Puer aeger et medicus (cap. I–XV)  
+18.	Canis ululans (cap. I–XV)  
+19.	Via Ostiensis (cap. I–XVI)  
+20.	Medicus doctus (cap. I–XVII)  
+21.	Numeri et litterae (cap. I–XVIII)  
+22.	Amor adulescentium (cap. I–XIX)  
+23.	De novo infante (cap. I–XX)  
+24.	Filius mercatoris (cap. I–XX)  
+25.	Gubernator optimus (cap. I–XX)  
+26.	Magister numeros dictat (cap. I–XXI)  
+27.	Ianitor probus (cap. I–XXII)  
+28.	Neuter recedere vult (cap. I–XXIII)  
+29.	Redit Sextus (cap. I–XXIV)  
+30.	Puer barbarus (cap. I–XXV)  
 
 
 ## Personae
@@ -76,7 +76,7 @@ PERSONAE
 *Davus*, servus Iulii  
 *Delia*, ancilla Aemiliae   
 *Diodorus*, magister   
-*Dorippa*, amica Lÿdiae   
+*Dorippa*, amica Lydiae   
 *Fabia*, uxor Cornelii   
 *Grumio*, tabernarius  
 *Iulia*, puella, filia Iulii et Aemiliae  
@@ -84,7 +84,7 @@ PERSONAE
 *Leander*, servus Iulii   
 *Lepidus*, adulescens   
 *Libanus*, servus Cornelii   
-*Lÿdia*, amica Medi  
+*Lydia*, amica Medi  
 *Marcus*, puer, filius Iulii et Aemiliae   
 *Marinus*, adulescens, filius Micionis   
 *Medicus* Tusculanus  
@@ -95,7 +95,7 @@ PERSONAE
 *Syra*, ancilla Aemiliae  
 
 
-## 1.Provinciae Romanae (cap. I)
+## 1. Provinciae Romanae (cap. I)
 
 In imperio Romano multae sunt provinciae. Hispania et Gallia sunt provinciae Romanae. Britannia quoque provincia Romana est. Hispania et Gallia et Britannia tres provinciae in Europa sunt.
 Ubi sunt provinciae Syria et Aegyptus? Syria in Asia est, Aegyptus est in Africa. Britannia insula est. Num insulae sunt Gallia et Hispania? Non sunt insulae; sed Corsica, Sardinia, Sicilia insulae sunt. Magna insula est Britannia. Sicilia quoque et Sardinia et Corsica magnae sunt insulae. Melita insula parva est.
@@ -253,13 +253,13 @@ Iam Cornelius ridet neque iratus est. Pater, quem libri et litterae delectant, l
 
 
 ## 6. Puella in horto (cap. I–V)
-Iulius, qui magnam pecuniam habet, in magna et pulchra villa habitat cum familia sua. Villa eius habet atrium et peristÿlum et multa cubicula. Iulius et Aemilia tres liberos habent: duos filios, Marcum et Quintum, et unam filiam, Iuliam. Iulia parva puella est.
+Iulius, qui magnam pecuniam habet, in magna et pulchra villa habitat cum familia sua. Villa eius habet atrium et peristylum et multa cubicula. Iulius et Aemilia tres liberos habent: duos filios, Marcum et Quintum, et unam filiam, Iuliam. Iulia parva puella est.
 
 Ubi est filia Iulii et Aemiliae? Iulia est in horto villae. Puella laeta ridet et rosas carpit. Quot rosas carpit Iulia? Quinque rosas magnas et pulchras carpit. Rosae Iuliam delectant.
 
 Iulia, quae sola est in horto, pueros vocat: “Venite, Marce et Quinte!” 
 
-Pueri ex peristÿlo veniunt et Iuliam in horto vident.
+Pueri ex peristylo veniunt et Iuliam in horto vident.
 
 Iulia: “Ecce quinque rosae. Videte rosas meas!”
 
@@ -295,7 +295,7 @@ Iulius rursus Medum vocat: “Mede! Me-e-de!” sed Medus, qui nummos domini hab
 
 
 ## 7. Medus et Cornelius (cap. I–VI)
-Lÿdia est femina pulchra quae Romae habitat. Estne femina Romana? Non Romana est, sed Graeca. Lÿdia autem procul a Graecia habitat. Estne sola? Lÿdia sola habitat, neque sola est Romae, nam multas amicas Romanas et Graecas habet. Etiam amicum habet Lÿdia, neque is Romanus est, sed Graecus, neque Romae habitat, sed prope oppidum Tusculum. Amicus Lÿdiae est Medus, servus Iulii. Lÿdia Medum amat et ab eo amatur.
+Lydia est femina pulchra quae Romae habitat. Estne femina Romana? Non Romana est, sed Graeca. Lydia autem procul a Graecia habitat. Estne sola? Lydia sola habitat, neque sola est Romae, nam multas amicas Romanas et Graecas habet. Etiam amicum habet Lydia, neque is Romanus est, sed Graecus, neque Romae habitat, sed prope oppidum Tusculum. Amicus Lydiae est Medus, servus Iulii. Lydia Medum amat et ab eo amatur.
 
 Estne Medus apud dominum suum? Non est in villa apud dominum, neque Tusculi est, sed in via Latina inter Romam et Tusculum. Quo it Medus sine domino suo? Romam it. Post eum est Tusculum, Roma ante eum est.
 
@@ -309,9 +309,9 @@ Iam Cornelius post Medum est neque eum rursus interrogat. Cornelius, qui solus e
 
 Equus verba domini audit neque verbum respondet, sed tantum “Hihihi!” —nam equus verba non habet!
 
-Ecce Medus per portam Capenam Romam intrat et laetus ad ostium Lÿdiae ambulat. Medus ostium pulsat et intrat.
+Ecce Medus per portam Capenam Romam intrat et laetus ad ostium Lydiae ambulat. Medus ostium pulsat et intrat.
 
-Lÿdia laeta amicum suum salutat et ab amico suo salutatur.
+Lydia laeta amicum suum salutat et ab amico suo salutatur.
 
 
 ## 8. Speculum Aemiliae (cap. I—VII)
@@ -538,7 +538,7 @@ Iam non stertit Davus. Is atque ceteri servi bene dormiunt.
 
 
 ## 14. Puer armatus (I–XII)
-Avunculus Marci, cui nomen est Aemilius, in Germania militat. Illic exercitus Romanus fines imperii Romani a Germanis defendit. Castra exercitus mille passus a ﬂumine Rheno sunt in magna silva, ubi hostes se occultant. Milites Romani impetum Germanorum ex- spectant, neque hostes barbaros timent. Romani enim bona arma habent atque circum castra fossa et vallum altum est. Germani castra Romana expugnare non possunt.
+Avunculus Marci, cui nomen est Aemilius, in Germania militat. Illic exercitus Romanus fines imperii Romani a Germanis defendit. Castra exercitus mille passus a ﬂumine Rheno sunt in magna silva, ubi hostes se occultant. Milites Romani impetum Germanorum exspectant, neque hostes barbaros timent. Romani enim bona arma habent atque circum castra fossa et vallum altum est. Germani castra Romana expugnare non possunt.
 
 Marcus Aemilium militem fortem esse putat. Puer ipse militare vult ut avunculus suus, neque arma habet Marcus, et Iulius dicit ‘nullos pueros militare aut arma ferre posse.’
 
@@ -681,24 +681,23 @@ Medus cum amica sua in patriam suam Graeciam ire vult.
 
 Medus: “In portu Ostiensi bona navis nos opperitur. Necesse est nos ambulare Ostiam, neque enim equum aut asinum habemus.”
 
-Lÿdia: “Ostiam ambulare non possumus. Nimis longa est via.”
+Lydia: “Ostiam ambulare non possumus. Nimis longa est via.”
 
 Medus: “Via Ostiensis paulo longior est quam via Latina Tusculo Romam. Si fessa es, ego te portare possum!” Hoc dicens Medus amicam suam complectitur eique osculum dat.
 
-Lÿdia: “Tu me portare non potes. At si necesse est, tecum Ostiam ambulo. Fessa non sum ac paucas res mecum fero.”
+Lydia: “Tu me portare non potes. At si necesse est, tecum Ostiam ambulo. Fessa non sum ac paucas res mecum fero.”
 
-Ergo Medus et Lÿdia Roma egrediuntur et Ostiam ambulare incipiunt. Medus saccum portat cum rebus Lÿdiae et suis. Post tres horas Lÿdia consistit ac fessa apud viam considit. Medus quoque consistit et tristis viam longam ante se intuetur. Tum viam post se spectat. Illic venit vir crassus cum asino qui duos saccos graves vehit.
+Ergo Medus et Lydia Roma egrediuntur et Ostiam ambulare incipiunt. Medus saccum portat cum rebus Lydiae et suis. Post tres horas Lydia consistit ac fessa apud viam considit. Medus quoque consistit et tristis viam longam ante se intuetur. Tum viam post se spectat. Illic venit vir crassus cum asino qui duos saccos graves vehit.
 
 Medus illum virum salutat: “Salve, bone vir!” et “Ecce amica mea fessa” inquit, “iam non potest ambulare. Potestne eam portare asinus tuus?”
 
 “Asinus meus iam duos saccos graves portat” inquit vir crassus; “me portare non potest aut non vult, quia ego nimis crassus sum. Sed amica tua tenuis et levis est. Asinum meum ascende, formosa! Da mihi manum!”
 
-Lÿdia surgit. Medus ipse amicam suam asinum ascendentem manu sustinet.
+Lydia surgit. Medus ipse amicam suam asinum ascendentem manu sustinet.
 
-Super asinum sedens Lÿdia “Ambula, asine!” inquit, sed asinus in via stat neque e loco se movet. Tum Medus herbam carpit et ante asinum tenet. Asinus herbam esse vult atque ambulare incipit. Lÿdia laeta asino vehitur.
+Super asinum sedens Lydia “Ambula, asine!” inquit, sed asinus in via stat neque e loco se movet. Tum Medus herbam carpit et ante asinum tenet. Asinus herbam esse vult atque ambulare incipit. Lydia laeta asino vehitur.
 
-Medus: “Bonus es vir quod asino tuo amicam meam vehis. Nos Roma venimus et Ostiam imus.
-Tune quoque Ostiam is? Quod nomen tibi est?”
+Medus: “Bonus es vir quod asino tuo amicam meam vehis. Nos Roma venimus et Ostiam imus. Tune quoque Ostiam is? Quod nomen tibi est?”
 
 “Mihi nomen est Mopsus” inquit ille, “Ostiam eo, nam illic habito. Cur vos Ostiam itis?”
 
@@ -718,11 +717,11 @@ Medus: “Vale, Mopse, bone amice!”
 
 Mopsus: “Etiam vos valete, amici mei! Bene navigate!”
 
-Item Lÿdia “Vale, amice!” inquit, “Nihil habeo quod tibi dare possum –praeter osculum” et Mopso osculum dat. Ille osculo tam pulchrae feminae laetatur.
+Item Lydia “Vale, amice!” inquit, “Nihil habeo quod tibi dare possum –praeter osculum” et Mopso osculum dat. Ille osculo tam pulchrae feminae laetatur.
 
-Medus id spectans non laetatur. “Veni mecum, Lÿdia!” inquit, et statim ad portum ire incipit. 
+Medus id spectans non laetatur. “Veni mecum, Lydia!” inquit, et statim ad portum ire incipit. 
 
-Lÿdia Mopsum tristem relinquit et amicum suum sequitur.
+Lydia Mopsum tristem relinquit et amicum suum sequitur.
 
 
 ## 20. Medicus doctus (cap. I–XVII)
@@ -793,7 +792,7 @@ Magister: “Recte dicis. At nunc additur parva linea quae litteram G, non C, es
 
 
 ## 22. Amor adulescentium (cap. I–XIX)
-Iulius in peristÿlo suo magnifico, quod columnis et signis deorum ornatur, cum amico suo Cornelio loquitur.
+Iulius in peristylo suo magnifico, quod columnis et signis deorum ornatur, cum amico suo Cornelio loquitur.
 
 “Certe tu vir beatus es, Iuli”, inquit Cornelius, “nam villam magnificam possides cum magna familia atque uxore pulcherrima.”
 
@@ -914,7 +913,7 @@ Marcus: “Ego scripsi ut antiqui Romani scribebant. Num tu antiquos Romanos pra
 
 
 ## 27. Ianitor probus (cap. I–XXII)
-Dorippa, amica Lÿdiae, sola habitat Romae in domo apud Tiberim ﬂumen. Fores domus custodit ianitor, cui nomen est Sannio.
+Dorippa, amica Lydiae, sola habitat Romae in domo apud Tiberim ﬂumen. Fores domus custodit ianitor, cui nomen est Sannio.
 
 Dorippa Lepidum amicum habebat, sed iam eum e domo sua pepulit, quia eum falsum amicum esse arbitratur.
 
