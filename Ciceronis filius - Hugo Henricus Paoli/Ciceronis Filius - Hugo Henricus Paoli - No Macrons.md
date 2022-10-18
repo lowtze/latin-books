@@ -5,7 +5,7 @@ publisher:
 year: 1964
 lang: la
 cover-image: "./images/cover.png"
-version: 0.3
+version: 0.4
 ---
 
 # Ciceronis Filius
@@ -766,325 +766,141 @@ velint; neque aliter Romae fiebat. Interdum enim parvi
 illius Ciceronis socii se «iudices» vel «magistratus» esse
 simulabant. Consul aliquis creatus, consulis partes sustinebat, lictoribusque stipatus per peristyli ambulationes vel sub porticibus gravi supercilio incedebat. Ficta etiam bella gerebant, acriter proeliantes. Alteri saepe latrones erant, alteri milites, magnoque clamore alius alium verberabant,dum suum quisque adversarium superare conatur; nec raro fiebat, ut simulatae illae pugnae in veras pueriles rixas evaderent.
 
-# end p34
 
-Dexteritatis praemia.
+### Dexteritatis praemia.
 
-  
+![«nucibus plerumque ludebant ».]()
 
-At nucibus plerumque pueri illi ludebant. Vicissim ni-
-
-tebantur omnes ut, magna nuce iacta, parvum aliquod ca-
-
-  
-«nucibus plerumque ludebant ».
-
-  
-
-stellum ferirent, sic ex quattuor nucibus exstructum, ut
-
+At nucibus plerumque pueri illi ludebant. Vicissim nitebantur 
+omnes ut, magna nuce iacta, parvum aliquod castellum ferirent, 
+sic ex quattuor nucibus exstructum, ut
 tres nuces humi infixae superpositam nucem sustinerent.
-
 Si castellum illud, nuce ictum, corruisset, disiectae nuces
-
-praemium victoris erant. Multa etiam alia dexteritatis cer-
-
-  
-
-— 35 —
-
-  
-
-tamina fiebant; qui primus in illis fuisset, rex creabatur.
-
-Ludentes igitur cantitare solebant: « Rex eris, si recte fa-
-
-cies »; quae vox apud Romanos in proverbii consuetudinem
-
-  
-
+praemium victoris erant. Multa etiam alia dexteritatis certamina 
+fiebant; qui primus in illis fuisset, rex creabatur.
+Ludentes igitur cantitare solebant: «Rex eris, si recte facies»; 
+quae vox apud Romanos in proverbii consuetudinem
 venit.
 
-  
 
-  
-
-De primis Ciceronis studiis.
-
-  
+### De primis Ciceronis studiis.
 
 Septimum annum Cicero agebat, cum pater eius statuit
-
-ut ille prima litterarum elementa disceret. 'Traditus est igitur
-
-ltteratori, qui puerum blandis verbis oblatisque crustulis
-
+ut ille prima litterarum elementa disceret. Traditus est igitur
+*litteratori*, qui puerum blandis verbis oblatisque crustulis
 excepit, dubium illum quidem et haesitantem, sed non
-
 admodum rudem, cum iam ante ab ipso patre institutus,
-
-O litteram ab / littera discernere posset, quod altera ro-
-
-tunda esset, altera recta. Postquam litterator illum eru-
-
-diendum suscepit, elementa omnia dignoscere atque in cera
-
-exarare didicit. Mox litteratori est additus calculator, quo
-
-magistro rationes subducere coepit. Ostendebat ille qua ra-
-
-tione as unus in partes multas diduci posset, quomodo calculi
-
+*O* litteram ab *I* littera discernere posset, quod altera rotunda 
+esset, altera recta. Postquam litterator illum erudiendum 
+suscepit, elementa omnia dignoscere atque in cera
+exarare didicit. Mox litteratori est additus *calculator*, quo
+magistro rationes subducere coepit. Ostendebat ille qua ratione 
+as unus in partes multas diduci posset, quomodo calculi
 ponerentur, cetera huius generis. Parum esse aiebat, si quis
-
 id tantum nosset bis bina quattuor fieri.
 
-  
 
-  
+### De notariis.
 
-  
-
-De notariis.
-
-  
-
-Eo tempore nondum pueri aoíario tradebantur, ut ar-
-
-tem illam discerent, quam nos Graeco verbo «stenogra-
-
-phíam » dicimus. Hane artem qui novit, idoneus fit, notis
-
+Eo tempore nondum pueri *notario* tradebantur, ut artem 
+illam discerent, quam nos Graeco verbo «stenographiam»
+dicimus. Hane artem qui novit, idoneus fit, notis
 quibusdam adhibitis, ad verba celeriter chartis mandanda.
-
-serius tamen, cum populus Romanus iamdudum sub prin-
-
-cipatu viveret, ars notaria vulgata est; tam adsidue illam
-
+serius tamen, cum populus Romanus iamdudum sub principatu
+viveret, ars notaria vulgata est; tam adsidue illam
 discipuli sub notario discebant, ut litteras sub litteratore,
-
 rationes sub calculatore. Notas igitur parvus ille Cicero non
-
 didicit, quamquam in ipsis patris aedibus servus Tiro vivebat,
-
 qui primus putatur notas invenisse.
+ 
 
-  
+### Parvus Cicero in ludum itare incipit.
 
-  
+![«in litterarum ludum itare coepit»]()
 
-Parvus Cicero in ludum itare incipit.
-
-  
-
-Primos magistros Cicero domi habuit; deinde in litte-
-
-rarum ludum itare coepit. Cum vel in ludum primo mane
-
-ire& vel inde sub vesperum rediret, custos illum comitaba-
-
-  
-
-— 36 —
-
-  
-
-tur. Servus erat hic natione Graecus, homo severus et di-
-
-ligens nec plane indoctus, quem M. Cicero filio praefecerat
-
+Primos magistros Cicero domi habuit; deinde in litterarum
+ludum itare coepit. Cum vel in ludum primo mane
+iret vel inde sub vesperum rediret, custos illum comitabatur. 
+Servus erat hic natione Graecus, homo severus et diligens
+nec plane indoctus, quem M. Cicero filio praefecerat
 ut illum, absente patre, si opus esset, corrigeret, simulque
-
 Graecam linguam colloquendo doceret. Nemo enim apud
-
 Romanos erat quin, si in studiis paulo provectior esset,
+Graeco sermone tam bene uteretur quam suo. *Capsarium*
+conservi custodem illum vocabant, servile officium exprobrantes, 
+quod, cum Cicero ludum peteret, capsam ille gestaret 
+scriptorios calamos continentem; Terentia vero, M. Ciceronis 
+uxor, Graeco nomine *paedagogum*, nobilius quiddam
+significare cupiens, non sine putida quadam doctrinae ostentatione; 
+nam Romanorum matronae peregrinis verbis libentissime 
+utebantur; qui mos usque ad nostram aetatem permansit.
 
 
-Graeco sermone tam bene uteretur quam suo. Capsarium
+### De Ciceronis scholastico instrumento.
 
-conservi custodem illum vocabant, servile officium expro-
-
-brantes, quod, cum Cicero ludum peteret, capsam ille ge-
-
-staret scriptorios calamos continentem; Terentia vero, M. Ci-
-
-ceronis uxor, Graeco nomine paedagogum, nobilius quiddam
-
-significare cupiens, non sine putida quadam doctrinae osten-
-
-tatione; nam Romanorum matronae peregrinis verbis li-
-
-bentissime utebantur; qui mos usque ad nostram aetatem
-
-permansit.
-
-  
-
-  
-
-— 37 —
-
-  
-
-De Ciceronis scholastico instrumento.
-
-  
+![Scholasticum instrumentum.]()
 
 Id erat parvo Ciceroni ingenium, ut a pueritia non tanti
-
-litterarum studia faceret, quanti vitae elegantiam externa-
-
-rumque rerum faciem. Specie capiebatur, nec, procedenti-
-
-bus annis, illius indolem aetas mutavit. In ipso scholastico
-
+litterarum studia faceret, quanti vitae elegantiam externarumque 
+rerum faciem. Specie capiebatur, nec, procedentibus 
+annis, illius indolem aetas mutavit. In ipso scholastico
 instrumento comparando maximae ei curae fuit, ne quid
-
 vile in illo inveniretur, ne quid sordidum: ut recti calami
-
-  
-
-  
-
-  
-
-  
-
-Scholasticum 1nstrumentum.
-
-  
-
-essent ae politi, ut scalprum in argentea custodia adserva-
-
-retur, ut cerarum tabellae eburneis ornamentis splenderent,
-
-  
-
+essent ac politi, ut scalprum in argentea custodia adservaretur,
+ut cerarum tabellae eburneis ornamentis splenderent,
 capsamque in ipsam, ex citro confectam, invidi ceterorum
-
 discipulorum oculi converterentur.
 
-  
 
-Calamus, scalprum, atramentum, cerae, stilus.
+### Calamus, scalprum, atramentum, cerae, stilus.
 
-  
-
-Scriptorius calamus parva brevisque harundo erat, cuius
-
-pars extrema sie scalpro acuebatur ut in cuspidem exiret.
-
-Atramentum solidum erat, colore, ut. verbum ipsum signi-
-
-  
-
-ficat, plerumque nigro; ex fuligine fiebat, pice vel resina
-
-— 38 —
-
-  
-
+*Scriptorius calamus* parva brevisque harundo erat, cuius
+pars extrema sie *scalpro* acuebatur ut in cuspidem exiret.
+*Atramentum* solidum erat, colore, ut. verbum ipsum significat, 
+plerumque nigro; ex fuligine fiebat, pice vel resina
 exustis. Nec minii usus in litteris exarandis incognitus erat,
+sed ruber ille color in librorum indicibus adhibebatur. Discipuli
+in ludis id tantum atramenti aqua solvebant quod cotidianus
+usus posceret. Membranas vel chartas atramento illinebant,
+at *ceras* stilo exarabant. *Stili* caput alterum acutum
+erat, alterum quadrata lamina terminabatur: illud ad exarandam
+ceram utile erat, hoc ad ceram exaequandam scripturamque
+delendam.
 
-sed ruber ille color in librorum indicibus adhibebatur. Disci-
 
-puli in ludis id tantum atramenti aqua solvebant quod ocoti-
-
-dianus usus posceret. Membranas vel chartas atramento illi-
-
-nebant, at ceras stilo exarabant. St?li caput alterum acutum
-
-erat, alterum quadrata lamina terminabatur: illud ad exa-
-
-randam ceram utile erat, hoc ad ceram exaequandam scriptu-
-
-ramque delendam.
-
-  
-
-  
-
-Cicero in morbum incidit.
-
-  
+### Cicero in morbum incidit.
 
 M. Ciceroni Terentia uxor nuntiavit aliquot iam dies
-
 filiolum non bene valere. sollicitam de illo se esse fatebatur.
-
-« Cibum aspernatur », aiebat; « noctu raro quiescit; difficilis
-
+«Cibum aspernatur», aiebat; «noctu raro quiescit; difficilis
 et anxius est illi somnus. Interdiu dormitat vel lento collo
-
-braechioque pendente sedet. Animadverti etiam vespere il-
-
-lum febricula laborare » Quibus rebus auditis, M. Cicero,
-
+braechioque pendente sedet. Animadverti etiam vespere illum 
+febricula laborare». Quibus rebus auditis, M. Cicero,
 magna et ipse sollicitudine adfectus, familiarem medicum,
-
-quem, ut Iomanorum mos erat, in servorum numero habe-
-
-bat, statim arcessivit, eiusque consilio est usus; deinde, cum
-
+quem, ut Iomanorum mos erat, in servorum numero habebat,
+statim arcessivit, eiusque consilio est usus; deinde, cum
 Ciceronis morbus ingravesceret, medicos alios advocavit.
 
-  
 
-  
+### De Romanorum medicis.
 
-  
-
-  
-
-De Romanorum medicis.
-
-  
-
-  
-
-Eo tempore magna erat homae medicorum peregrino-
-
-rum multitudo; nam ab aetate belli Punici secundi coepe-
-
-rant ex orientis solis partibus Graeci medici Romam fre-
-
-quentes convenire. Adliciebat eos et splendor urbis et quae-
-
-stus cupiditas; nulla enim ars erat fructuosior, cum prae-
-
-sertim illi non omnibus aegrotis se subvenire posse profite-
-
-rentur, sed certos tantum morbos, certas tantum corporis
-
+Eo tempore magna erat homae medicorum peregrinorum
+multitudo; nam ab aetate belli Punici secundi coeperant
+ex orientis solis partibus Graeci medici Romam frequentes
+convenire. Adliciebat eos et splendor urbis et quaestus
+cupiditas; nulla enim ars erat fructuosior, cum praesertim
+illi non omnibus aegrotis se subvenire posse profiterentur,
+sed certos tantum morbos, certas tantum corporis
 partes singuli medici curarent. Hic febrim levabat, laterum
-
-dolorem ille; alius cuti medebatur, alius dentibus, alius gut-
-
-turi, alius oculis; nec qui chirurgus fracta ossa componebat,
-
+dolorem ille; alius cuti medebatur, alius dentibus, alius gutturi,
+alius oculis; nec qui chirurgus fracta ossa componebat,
 vulneribus idem medebatur aut ventris deformitates manu
-
 corrigebat. Neque vero medicae deerant quae aegrotantes
-
 mulieres curarent.
 
-  
+# end of p 46
 
-  
-
-  
-
-  
-
-— 39 —
-
-  
-
-Quomodo Romanorum medici artem suam exercuerint.
-
-  
-
-  
+### Quomodo Romanorum medici artem suam exercuerint.
 
 Medicorum alii operam suam apud privatos praebebant,
 
@@ -1116,7 +932,7 @@ populorum cultum atque humanitatem manifestius indicet.
 
   
 
-Cicero a peregrinis medicis curatur.
+### Cicero a peregrinis medicis curatur.
 
   
 
@@ -1156,7 +972,7 @@ cium erit hunc morbum mortiferum fuisse ».
 
   
 
-Ciceronis ancillae maledico sermone de Graecis medicis
+### Ciceronis ancillae maledico sermone de Graecis medicis
 
 iudicium faciunt.
 
@@ -1232,7 +1048,7 @@ purgatoria medicamenta aegrotis sorbenda porrigebat ».
 
   
 
-Veteres morborum curationes.
+### Veteres morborum curationes.
 
   
 
@@ -1286,7 +1102,7 @@ sanitatem revertit, ut ne haedi quidem adeo sint alacres».
 
   
 
-Cicero convalescit.
+### Cicero convalescit.
 
   
 
@@ -1328,7 +1144,7 @@ illum ad sanitatem redegerunt, non medici.
 
   
 
-De M. Ciceronis domo in colle Palatino.
+### De M. Ciceronis domo in colle Palatino.
 
   
 
@@ -1368,7 +1184,7 @@ quam paenitebit ».
 
   
 
-Parietes, camerae, pavimenta.
+### Parietes, camerae, pavimenta.
 
   
 
@@ -1394,19 +1210,7 @@ flores exhiberent, illic aves vel pisces vel arbores cum ipsis
 
 fructibus vel humanas facies. lessellae plerumque ex secto
 
-  
 
-  
-
-  
-
-  
-
-  
-
-— 43 —
-
-  
 
 marmore factae erant, interdum ex vitro vel ex onyce vel
 
@@ -1416,7 +1220,7 @@ rabatur, iam inde à puero luxuriae et elegantiae cupidus.
 
   
 
-« Nosce te ipsum ».
+### « Nosce te ipsum ».
 
   
 
@@ -1466,11 +1270,8 @@ stomacho conviviis adesse ».
 
   
 
-De Romanorum lectis.
+### De Romanorum lectis.
 
-  
-
-  
 
 In domestiea M. Ciceronis supellectile nihil pretiosius
 
@@ -1498,13 +1299,8 @@ culcitas sustinebant.
 
   
 
-  
 
-  
-
-  
-
-De lectorum partibus.
+### De lectorum partibus.
 
   
 
@@ -1546,20 +1342,6 @@ Lectus cubcularas.
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-— 45 —
-
-  
-
 etiam ut tricliniaria loca distinguerent. Pulvini quadratis
 
 stragulis fiebant, tomento repletis. Pulvinus dormientis ca-
@@ -1568,9 +1350,8 @@ put sustinens cervical dicebatur.
 
   
 
-  
 
-De Romanorum mensis.
+### De Romanorum mensis.
 
   
 
@@ -1608,13 +1389,9 @@ ut repositoriwm et vini lagoe-
 
 nas sustinerent.
 
-  
 
-  
 
-  
-
-De varia mensarum forma.
+### De varia mensarum forma.
 
   
 
@@ -1646,12 +1423,6 @@ pedem írapezophorum vocabant. Mensa tripes ex vilissimo
 
   
 
-  
-
-— 46 —
-
-  
-
 ligno plerumque conficiebatur, eiusque locus in pauperum
 
 supellectile erat. At mensae trinis pedibus praeditae, Del.
@@ -1664,7 +1435,7 @@ dictae, inter sumptuosas habebantur.
 
   
 
-Cicero in Campum Martium ducitur.
+### Cicero in Campum Martium ducitur.
 
   
 
@@ -1720,17 +1491,10 @@ movisset; illum contra alteri criminabantur quod Catilinae
 
 socios indemnatos interfici 1ussisset.
 
-  
 
   
 
-  
-
-  
-
-  
-
-Quid de Cicerone patre audierit.
+### Quid de Cicerone patre audierit.
 
   
 
@@ -1741,10 +1505,6 @@ Martio ac puerili modo de unoquoque oceurrentiun civium
 ex illo sciscitatur, ille vero, quasi aliud agens, lente ac negle-
 
 genter ad interrogata respondet, in suspectos quosdam ac
-
-  
-
-— 47 —
 
   
 
@@ -1848,7 +1608,7 @@ evasit.
 
   
 
-Lex in M. Ciceronem lata.
+### Lex in M. Ciceronem lata.
 
   
 
@@ -1902,17 +1662,8 @@ interdiceretur. M. Cieero sensit se hac lege peti, atque ex
 
 Italia discedere sponte properavit.
 
-  
 
-  
-
-— 49 —
-
-  
-
-  
-
-M. Cicero in exsilium proficiscitur.
+### M. Cicero in exsilium proficiscitur.
 
   
 
@@ -1980,23 +1731,8 @@ Quo nuntio accepto, Cicero vix se tenere potuit quin
 
 magnam vim lacrimarum profunderet.
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Pater abest.
+### Pater abest.
 
   
 
@@ -2010,11 +1746,6 @@ quod erebrae epistulae a viro missae saepissime Terentiae
 
   
 
-  
-
-4. - PAOLI. Ciceronis filius.
-
-— B0 —
 
   
 
@@ -2045,7 +1776,7 @@ sularem.
 
   
 
-De re vehiculari apud Romanos.
+### De re vehiculari apud Romanos.
 
   
 
@@ -2107,27 +1838,8 @@ vallis per militares vias vehicula disponi, quo facilius co-
 
 gnosci posset quid in provincia quaque gereretur.
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-— 51 —
-
-  
-
-Cursus publicus ab Augusto ad Constantinum.
+### Cursus publicus ab Augusto ad Constantinum.
 
   
 
@@ -2153,7 +1865,7 @@ quidam erat praepositus.
 
   
 
-De epistularum commercio inter privatos.
+### De epistularum commercio inter privatos.
 
   
 
@@ -2186,26 +1898,10 @@ nemo erat cuilitterarum fasciculus traderetur, litterae ali-
 quot dies in manibus illius qui scripserat inertes manebant.
 
   
-
   
 
-  
+### M. Cicero ab exsilio revocatur.
 
-  
-
-  
-
-  
-
-  
-
-M. Cicero ab exsilio revocatur.
-
-  
-
-  
-
-  
 
 M. Ciceronis exsilium non diuturnum fuit. Anno enim
 
@@ -2241,7 +1937,7 @@ ut si redeuntem maritum brevi esset acceptura.
 
   
 
-Nuntius tristis de Pisone adfertur.
+### Nuntius tristis de Pisone adfertur.
 
   
 
@@ -2285,7 +1981,7 @@ primum conveniam ».
 
   
 
-Piso moritur.
+### Piso moritur.
 
   
 
@@ -2333,7 +2029,7 @@ spondit: « Gaius decessit » Nec verbum ullum adiecit.
 
   
 
-Pisonis funus indicitur.
+### Pisonis funus indicitur.
 
   
 
@@ -2389,7 +2085,7 @@ Romanus civis (Qwuiris) decessit (leto datus est) »
 
   
 
-Parvi Ciceronis dolor.
+### Parvi Ciceronis dolor.
 
   
 
@@ -2431,7 +2127,7 @@ Puer solito neglegentius adservabatur.
 
   
 
-Pisonis funus paratur.
+### Pisonis funus paratur.
 
   
 
@@ -2457,7 +2153,7 @@ funus pararent.
 
   
 
-De libitinariis.
+### De libitinariis.
 
   
 
@@ -2507,7 +2203,7 @@ latio fuit.
 
   
 
-Mortui Pisonis expositio.
+### Mortui Pisonis expositio.
 
   
 
@@ -2551,7 +2247,9 @@ mariolo adservaretur.
 
   
 
-Piso effertur. 21 rper , 3
+### Piso effertur. 
+
+21 rper , 3
 
 Octavo die post-
 
@@ -2619,7 +2317,7 @@ naenia exstincti viri, qui efferebatur, laudes canebat.
 
   
 
-Pisonis feretrum.
+### Pisonis feretrum.
 
   
 
@@ -2659,7 +2357,7 @@ bilium virorum, clientium.
 
   
 
-Tulliae dolor.
+### Tulliae dolor.
 
   
 
@@ -2693,7 +2391,7 @@ omnia leniora facere solet.
 
   
 
-Pisonis laudatio funebris.
+### Pisonis laudatio funebris.
 
   
 
@@ -2731,7 +2429,7 @@ audirent, sollemni ritui religionem addebant.
 
   
 
-Pisonis corpus crematur.
+### Pisonis corpus crematur.
 
   
 
@@ -2783,7 +2481,7 @@ humati sunt.
 
   
 
-De M. Ciceronis reditu.
+### De M. Ciceronis reditu.
 
   
 
@@ -2831,7 +2529,7 @@ concitatae funditus everterat.
 
   
 
-M. Cicero aedificat.
+### M. Cicero aedificat.
 
   
 
@@ -2865,7 +2563,7 @@ cum de improviso magnus clamor exauditur.
 
   
 
-Plebs Romana tumultuaetur.
+### Plebs Romana tumultuatur.
 
   
 
@@ -2921,7 +2619,7 @@ fortasse acceptam ignominiam ulcisci conatur ».
 
   
 
-Cicero apud patrem in Tusculano commoratur.
+### Cicero apud patrem in Tusculano commoratur.
 
   
 IamCicero, undecimum annum agens, prima studia in
@@ -2954,7 +2652,7 @@ atque opulentiae indicium erat.
 
   
 
-De Tusculano.
+### De Tusculano.
 
   
 
@@ -2978,7 +2676,7 @@ T. Pomponii Attici, qui eo tempore in arte libraria excellebat.
 
   
 
-De Romanorum villa urbana.
+### De Romanorum villa urbana.
 
   
 
@@ -3032,7 +2730,7 @@ poterat legendo vel meditando vel quiescendo.
 
   
 
-De villa rustica: cortes et piscinae.
+### De villa rustica: cortes et piscinae.
 
   
 
@@ -3056,7 +2754,7 @@ bantur, et quicquid diu aqua molliri oportebat.
 
   
 
-De villae rusticae parte interiore.
+### De villae rusticae parte interiore.
 
   
 
@@ -3094,7 +2792,7 @@ perficere.
 
   
 
-De reliquis villae rusticae aedificiis.
+### De reliquis villae rusticae aedificiis.
 
   
 
@@ -3144,7 +2842,7 @@ rerent.
 
   
 
-M. Cicero in Ciliciam proficiscitur.
+### M. Cicero in Ciliciam proficiscitur.
 
   
 
@@ -3186,7 +2884,7 @@ mis insequentis mensis diebus Athenas pervenit.
 
   
 
-Cicero filius patrem iter facientem comitatur.
+### Cicero filius patrem iter facientem comitatur.
 
   
 
@@ -3228,7 +2926,7 @@ tuerat.
 
   
 
-De Romanorum raedis et carrucis.
+### De Romanorum raedis et carrucis.
 
   
 
@@ -3416,7 +3114,7 @@ viam fuisse dixerit, non ille, opinor, errabit.
 
   
 
-De ceteris Romanorum vehiculis. (Plaustrum, arcera, pe-
+### De ceteris Romanorum vehiculis. (Plaustrum, arcera, pe-
 
 torritum ).
 
@@ -3502,7 +3200,7 @@ in triumphis.
 
   
 
-De ceteris Romanorum
+### De ceteris Romanorum
 
 vehiculis. (Cisium, es-
 
@@ -3592,7 +3290,7 @@ caverunt.
 
   
 
-Athenis relictis, M. Cicero Delum adpellit.
+### Athenis relictis, M. Cicero Delum adpellit.
 
   
 
@@ -3664,7 +3362,7 @@ se diutius committere nollet.
 
   
 
-Pater nauseat, filius iucunde navigat.
+### Pater nauseat, filius iucunde navigat.
 
   
 
@@ -3712,7 +3410,7 @@ et longe à nave in altum revertebantur.
 
   
 
-Cicero cum Marco patre patruelique fratre in Asia moratur.
+### Cicero cum Marco patre patruelique fratre in Asia moratur.
 
   
 
@@ -3778,21 +3476,11 @@ essent, antequam M. Cicero cum proconsulari imperio in
 
 Ciliciam venisset, neminem in Asia audivisse.
 
-  
+
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-Quomodo M. Cicero curn Pindenissitis bellum gesserit.
+### Quomodo M. Cicero curn Pindenissitis bellum gesserit.
 
   
 
@@ -3870,7 +3558,7 @@ rator appellatus est.
 
   
 
-Cicero cum patre in
+### Cicero cum patre in
 
 Italiam redit.
 
@@ -3924,14 +3612,6 @@ et de se et de patre et de iucunda patruelis societate narra-
 
   
 
-  
-
-  
-
-— 70 —
-
-  
-
 vit: quiequid acciderat non sine quadam puerili vanitate
 
 referebat. Locorum armioenitatem, aedificiorum splendorem,
@@ -3942,7 +3622,7 @@ lescentuli solent, in maius augens.
 
   
 
-M. Ciceronem, Romam reversum, bellum civile imminens
+### M. Ciceronem, Romam reversum, bellum civile imminens
 
 maerore adficit.
 
@@ -3992,21 +3672,9 @@ belli exitus comprobavit.
 
   
 
-  
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-Cicero filius se cito vestem purarr, induturum sperat.
+### Cicero filius se cito vestem purarr, induturum sperat.
 
   
 
@@ -4028,13 +3696,8 @@ puerile vestimentum erat; nec quisquam lomanus civis pu-
 
 tabatur, nisi toga pura indutus ambularet.
 
-—T1—
 
-  
-
-  
-
-De Romanorum vestitu.
+### De Romanorum vestitu.
 
   
 
@@ -4062,25 +3725,6 @@ comae ratione: ut brevi praecidam,
 
 toto corporis cultu. ^g
 
-  
-
-i
-
-  
-
-3»
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
   
 
@@ -4097,7 +3741,7 @@ Iam7r?cinio vel palla, tegebant.
 
   
 
-De Romanorum toga.
+### De Romanorum toga.
 
   
 
@@ -4151,21 +3795,9 @@ pria Romanorum vestis
 
 erat ».
 
-  
 
-  
 
-  
-
-  
-
-  
-
-— 79 —
-
-  
-
-De togarum varietate.
+### De togarum varietate.
 
   
 
@@ -4227,7 +3859,7 @@ ratio togae induendae cinctus Gabinius vocabatur.
 
   
 
-De tunicis.
+### De tunicis.
 
   
 
@@ -4285,7 +3917,7 @@ vestes, vel colobia vocabantur.
 
   
 
-De ceteris virilibus vestimentis.
+### De ceteris virilibus vestimentis.
 
   
 
@@ -4351,7 +3983,7 @@ quam in conviviis comissantes induebant.
 
   
 
-De muliebribus vestimentis. Quae vestis caracalla fuerit.
+### De muliebribus vestimentis. Quae vestis caracalla fuerit.
 
   
 
@@ -4411,7 +4043,7 @@ Antonino, Caracallam vocare.
 
   
 
-De Romanorum calceamentis.
+### De Romanorum calceamentis.
 
   
 
@@ -4531,7 +4163,7 @@ labant.
 
   
 
-De calceis.
+### De calceis.
 
   
 
@@ -4585,7 +4217,7 @@ suris adligabatur, eburneis lunulis ornabatur.
 
   
 
-Quomodo Romani caput operire consuerint.
+### Quomodo Romani caput operire consuerint.
 
   
 
@@ -4665,7 +4297,7 @@ gebant.
 
   
 
-Cicero vestem mutat.
+### Cicero vestem mutat.
 
   
 
@@ -4707,7 +4339,7 @@ ruerat, tum pariter cum rei publicae libertate perisse.
 
   
 
-Cicero de toga pura praeter modum gloriatur.
+### Cicero de toga pura praeter modum gloriatur.
 
   
 
@@ -4747,7 +4379,7 @@ Tum magnifice domo exibat: togatam pupulam diceres.
 
   
 
-Quantum incommoditatis toga adferat.
+### Quantum incommoditatis toga adferat.
 
   
 
@@ -4921,7 +4553,7 @@ dit. At fertur ex illo die minore togae studio flagrasse.
 
   
 
-Mutata veste Cicero liberiorem vitam degit.
+### Mutata veste Cicero liberiorem vitam degit.
 
   
 
@@ -4965,7 +4597,7 @@ rumores et captabat et diffundebat.
 
   
 
-Inter Pornpeianos equites Cicero apud Pharsalum pugnat.
+### Inter Pormpeianos equites Cicero apud Pharsalum pugnat.
 
   
 
@@ -5017,7 +4649,7 @@ gientibus omnibus, et ipse in fugam se dedit.
 
   
 
-Pater maeret, filius otiatur.
+### Pater maeret, filius otiatur.
 
   
 
@@ -5081,7 +4713,7 @@ nante die vel sapientibus ac severis viris otiosis licebat esse.
 
   
 
-De Romanorum balineis.
+### De Romanorum balineis.
 
   
 
@@ -5143,7 +4775,7 @@ aedificari coeptae sunt.
 
   
 
-De variis thermarum locis.
+### De variis thermarum locis.
 
   
 
@@ -5162,14 +4794,6 @@ A podyterium vocabatur ea thermarum pars, ubi, nudato
 corpore, lavantes vestimenta deponuebant. Ad quae acci-
 
   
-
-  
-
-  
-
-6. - PAOLI. Ciceronis filius.
-
-— 89 —
 
   
 
@@ -5233,7 +4857,7 @@ solis calorem cute excipere, quod quidem apricari dicebatur.
 
   
 
-Cicero circenses ludos spectat.
+### Cicero circenses ludos spectat.
 
   
 
@@ -5389,7 +5013,7 @@ men ista displicent ».
 
   
 
-Cicero Athenas proficiscitur.
+### Cicero Athenas proficiscitur.
 
   
 
@@ -5473,7 +5097,7 @@ rui. Nulla iam est omnino res publica; nullus ego ».
 
   
 
-Nihil sine nummis fieri se Cicero probe didicisse ostendit.
+### Nihil sine nummis fieri se Cicero probe didicisse ostendit.
 
   
 
@@ -5517,7 +5141,7 @@ Post aliquot menses Cicero Athenas profectus est.
 
   
 
-Cicero Athenis philosophos atque rhetores audit.
+### Cicero Athenis philosophos atque rhetores audit.
 
   
 
@@ -5567,7 +5191,7 @@ futurum.
 
   
 
-Nuntius de caede Caesaris Athenas adfertur.
+### Nuntius de caede Caesaris Athenas adfertur.
 
   
 
@@ -5607,7 +5231,7 @@ petuum esse sublatum.
 
   
 
-Octavianus societatem init cum Antonio et Lepido.
+### Octavianus societatem init cum Antonio et Lepido.
 
   
 
@@ -5679,21 +5303,8 @@ statem redegerat ingentique exercitui praeerat.
 
   
 
-  
 
-  
-
-  
-
-  
-
-  
-
-— 88 —
-
-  
-
-Cicero iter ad Homam inceptum intermittit.
+### Cicero iter ad Homam inceptum intermittit.
 
   
 
@@ -5731,7 +5342,7 @@ frangi possent.
 
   
 
-Nuntium de morte patris Cicero accipit.
+### Nuntium de morte patris Cicero accipit.
 
   
 
@@ -5867,7 +5478,7 @@ servavit".
 
   
 
-Quomodo M. Cicero iugulatus sit.
+### Quomodo M. Cicero iugulatus sit.
 
   
 
@@ -5935,15 +5546,8 @@ etiam illi praeciderunt, ut ea spolia Antonio deferrent, prae-
 
   
 
-mium pro scelere laturl ».
-
-  
-
-  
-
-Q1?
-
-  
+mium pro scelere laturi ».
+ 
 
   
 
@@ -5951,571 +5555,39 @@ Q1?
 
   
 
-  
+### Ciceronis somnium.
 
-Ciceronis somnium.
 
-  
-
-Insequenti nocte Cicero sub tentorio iacens somnum cape-
-
-re non poterat. Obversabatur enim illius oculis patris imago,
-
+Insequenti nocte Cicero sub tentorio iacens somnum capere
+non poterat. Obversabatur enim illius oculis patris imago,
 quae, prout illam fingebat, tempora nunc laeta nunc tristia
-
 in mentem revocabat. Cum vero primo mane gravis atque
-
 solito aretior somnus illum corripuisset, visum est illi patris
-
 simulacrum iuxta castrensem lectulum adstitisse seque his
-
 verbis compellasse:
 
-  
-
 «Ne nimis doleas, Marce fii, quod a sicario iugulatus
-
-eum vitae exitum habui, quem boni cives numquam mise-
-
-rari desinent. Vitam amisi, servitutem etffugi; potentiorum
-
+eum vitae exitum habui, quem boni cives numquam miserari
+desinent. Vitam amisi, servitutem etffugi; potentiorum
 iram expertus sum, contumeliosam victorum superbiam non
-
 pertuli. Octavianum ipsum aliquando paenitebit insontem
-
 me et inermem, ut Antonio gratificaretur, prodidisse; tu vero
-
 cave ne civium facinora in odium patriae vertas.
 
-  
-
 Quicquid acciderit, patriae inserviendum est. Patriam ego
-
-quondam ut mortuam eluxi; sed moriuntur homines, pa-
-
-tria non moritur. Qui acceptorum beneficiorum immemor
-
+quondam ut mortuam eluxi; sed moriuntur homines, patria
+non moritur. Qui acceptorum beneficiorum immemor
 fuit, qui perfide sicariis me obiecit, pacem idem paucis post
-
-annis inter homines reducet, maria tutissima reddet, im-
-
-perii Romani fines ampliores factos firmabit. In orbe pacato
-
-mitissimus regnabit; nec tibi, quod arma in ipsum sumpse-
-
-ris, inimicus erit. Quin etiam honoribus te augebit; eo fa-
-
-vente consul fies. Quae munera, sic iubeo, ne respuas; nam
-
+annis inter homines reducet, maria tutissima reddet, imperii
+Romani fines ampliores factos firmabit. In orbe pacato
+mitissimus regnabit; nec tibi, quod arma in ipsum sumpseris,
+inimicus erit. Quin etiam honoribus te augebit; eo favente
+consul fies. Quae munera, sic iubeo, ne respuas; nam
 quod tibi ille dederit, Manibus meis oblatum putabit, quos
-
-numquam se placaturum sperat, nisi cum filio meo in ami-
-
-citiam redierit. Illud unum te admoneo, ne casus vitae meae
-
+numquam se placaturum sperat, nisi cum filio meo in amicitiam
+redierit. Illud unum te admoneo, ne casus vitae meae
 unquam obliviscaris: magno documento erunt quo animo
-
 civilia officia exsequenda sint, vel si non omnia prospere
-
 sint casura. Saepe enim opinio me fefellit, saepe, fateor,
-
 erravi: sed error culpa caret, si quis patriam ante omnia
-
-  
-
-dilexerit ».
-
-  
-
-## INDEX
-
-  
-
-Cicero, M. Tulli Ciceronis filius, omae nascitur. . .
-
-Filioli ortus patri nuntiatur
-
-  
-
-Primae infantis eurae . .
-
-  
-
-Dies lustricus . .
-
-  
-
-De Romanorum nominibus. .
-
-  
-
-Ciceronis dies lustricus celebratur. .
-
-  
-
-Romana domus. Atrium, compluvium, impluvium . .
-
-  
-
-Cubicula et alae
-
-  
-
-Tabernae. .
-
-  
-
-De atrü usu
-
-  
-
-Maiorum imagines, cerae dictae
-
-Cicero, homo novus . .
-
-  
-
-Fauces, vestibulum
-
-  
-
-«Cave canem!». .
-
-  
-
-Ianua
-
-De quibusdam Romanorum superstitionibus . . . . . . . . . . .. 10
-
-Postieum . . . . . . 20... e on on n n s. n. n s. s. s. s. s... J1lO
-
-Tablinum, cenaculum . . . . . . . . .. .......25.»5.5.5.2. ]0
-
-Andron, peristylium, trielinium, oecus. . . . . . . . . . . . .... 10
-
-Suspensurae et parietes tubulati . . . . . . . . . .. .. .... 12
-
-Vir dicax Ciceronem oratorem adit . . . . . . . . . . . . . . . . 13
-
-De insulis inquilinis locandis . . . . . . . .. .. .. ...... 13
-
-De insularum incommodis . . . . . . . . . . .. ........ 14
-
-De insularum conclavibus . . . . . . . . .. . . ........ 15
-
-Tulliodlae nuptiae parantup . . . . .. .. .....-..2.2.^..
-
-De Tulliolae sponsalibus . . . . . . . . . . . .......... 16
-
-De die nuptiah . . . . . .. .. ........2...2.2.2.2.,. 17
-
-Tulliodlae vestis nuptialis. . . . . . . . . .. .. . ....... 117
-
-Tulliolae nuptiae celebrantur . . . . .. .. .. ........ 17
-
-Dextrarum iunctio . . . . . . . . . .. .....-.^.25.5.5.2542. 18
-
-Quanti M. Tullius Cieero artem coquinariam fecerit . . . . . . . . 18
-
-De Romanorum conviviis. Cena, prandium, ientaculum . . . . . . . 19
-
-De trichlnüss . .. .................2^.2^.52.2^5.2.».,2. 19
-
-Cenatoria supellex. . . . . . . . . . . .. ........... 20
-
-Quaedam parum decens Romanorum consuetudo. . . . . . . . .. 22
-
-De mappa . . . . . 4... c c rr or on on n n n n n n n nr n n s. 2
-
-
-
-De tribus cenae temporibus . . . . . . . . . . . «. .
-
-  
-
-De gustatione
-
-  
-
-De cena ipsa . .
-
-De Romanorum culina
-
-  
-
-De iure quod « garum » dicebatur. .
-
-  
-
-De secundis mensis . .
-
-  
-
-Quos cibos Romani ignoraverint
-
-  
-
-De pane . .
-
-  
-
-Tulliolae cena nuptialis
-
-  
-
-Piso Tulliolam rapere conatur
-
-  
-
-Incipit Tulliolae deductio
-
-  
-
-Nuptialis pompa
-
-  
-
-« Ubi tu Gaius, ego Gaia». .
-
-  
-
-De primis Ciceronis ludis
-
-  
-
-De quibusdam puerorum Romanorum ludis . .
-
-  
-
-«Par impar»; «capita et navia» . .
-
-  
-
-De « musca aenea» . .
-
-  
-
-Pueri maiores natu imutantur
-
-  
-
-Dexteritatis praemia
-
-  
-
-De primis Ciceronis studs. .
-
-  
-
-De notarüs. .
-
-  
-
-Parvus Cicero in ludum itare incipit
-
-  
-
-De Ciceronis scholastico instrumento
-
-  
-
-Calamus, sealprum, atramentum, cerae, stilus
-
-  
-
-Cicero in morbum incidit
-
-  
-
-De Romanorum medicis . .
-
-  
-
-Quomodo Romanorum medici artem suam exercuerint .
-
-Cicero & peregrinis medicis curatur . .
-
-  
-
-Ciceronis ancillae maledico sermone de Graecis medicis iudicium faciunt
-
-Veteres morborum curationes |
-
-  
-
-Cicero convalescit . .
-
-  
-
-De M. Ciceronis domo in colle Palatino. .
-
-  
-
-Parietes, camerae, pavimenta
-
-«Nosce te ipsum »
-
-De Romanorum lectis . .
-
-  
-
-De lectorum partibus .
-
-  
-
-De Romanorum mensis
-
-  
-
-De varia mensarum forma . . . . . . . . . «4.4.4. eon on ong
-
-Cicero in Campum Martium ducitur
-
-  
-
-Quid de Cicerone patre audierit
-
-  
-
-Lex in M. Ciceronem lata . .
-
-  
-
-M. Cicero in exsilium proficiscitur
-
-  
-
-Pater &best. .
-
-  
-
-De re vehieulai apud Romanos .. .. .. ...........
-
-
-Cursus publicus ab Augusto ad Constantinum . . . . . . . . Pag.
-
-De epistularum commercio inter privatos .
-
-  
-
-M. Cicero &b exsilio revocatur . . . . . &
-
-  
-
-Nuntius tristis de Pisone adfertur . . .
-
-  
-
-Piso moritur .
-
-  
-
-Pisonis funus indicitur. . . . . . . . .
-
-  
-
-Parvi Ciceronis dolor
-
-  
-
-Pisonis funus paratur . .
-
-  
-
-De libitinariüs. .
-
-  
-
-Mortui Pisonis expositio . . . . . . . . . .
-
-  
-
-Piso effertur
-
-  
-
-Pisonis feretrum
-
-  
-
-Tulliae dolor . .
-
-  
-
-Pisonis laudatio funebris. .
-
-  
-
-Pisonis corpus cerematur . .
-
-  
-
-De M. Ciceronis reditu
-
-  
-
-M. Cicero aedificat
-
-  
-
-Plebs Romana tumultuatur
-
-Cicero apud patrem in Tusculano commoratur .
-
-  
-
-De Tusculano. .
-
-  
-
-De Romanorum villa urbana .
-
-  
-
-De villa rustica: cortes et piscinae . .
-
-  
-
-De villae rusticae parte interiore . .
-
-  
-
-De reliquis villae rusticae aedificiis . .
-
-  
-
-M. Cicero in Ciliciam proficiscitur
-
-  
-
-Cicero filius patrem iter facientem comitatur
-
-  
-
-De Romanorum raedis et carrucis
-
-  
-
-De ceteris Romanorum vehiculis. (Plaustrum, arcera, petorritum) . .
-
-  
-
-De ceteris Romanorum vehiculis. (Cisium, essédum, covinus, carpen-
-
-tum, pilentum)
-
-  
-
-Athenis relictis, M. Cicero "Delum adpellit ee o9 om o9 omo os o9 n n9 n n
-
-Pater nauseat, fius iucunde navigat . . . . ...
-
-Cicero cum Marco patre patruelique fratre in Ásia moratur. .
-
-Quomodo M. Cicero cum Pindenissitis bellum gesserit
-
-  
-
-Cicero eum patre in Italiam redit
-
-  
-
-M. Ciceronem, Homam reversum, bellum civile imminens maerore adficit
-
-Cicero filius Se cito vestem puram induturum sperat . .
-
-  
-
-De Romanorum vestitu
-
-  
-
-De Romanorum toga . . .. .
-
-  
-
-De togarum varietate . . . . .
-
-  
-
-De tunicis
-
-De ceteris viribus vestimentis . .
-
-  
-
-De muliebribus vestimentis. Quae vestis ecaracalla fuerit .
-
-  
-
-De Romanorum ealeeamentis . . .. .. .. ... 4...
-
-    
-
-  
-
-De calceis
-
-Quomodo Romani eaput operire consuerint . . . . . . ..
-
-  
-
-Cicero vestem mutat
-
-Cicero de toga pura praeter modum gloratur . . . . . .
-
-  
-
-Quantum incommoditatis toga adferat . . . . . . . . . . .
-
-Mutata veste Cicero liberiorem vitam degit .
-
-  
-
-Inter Pompeianos equites Cicero apud Pharsalum pugnat. . .
-
-Pater maeret, filius otiatur
-
-  
-
-De Romanorum balineis .
-
-  
-
-De varus thermarum locis . .
-
-  
-
-Cicero circenses ludos spectat
-
-  
-
-Cicero Athenas proficiscitur
-
-  
-
-Nihil sine nummis fieri se Cicero probe didicisse ostendit .
-
-Cicero Athenis philosophos atque rhetores audit . .
-
-  
-
-Nuntius de caede Caesaris Athenas adfertur. .
-
-  
-
-Octavianus societatem init cum Antonio et Lepido. .
-
-  
-
-Cicero iter ad Romam inceptum intermittit . .
-
-  
-
-Nuntium de morte patris Cicero accipit.
-
-  
-
-Quomodo M. Cieero iugulatus 8i. . . . . . . . . . . .
-
-Ciceronis somnium
+dilexerit».
