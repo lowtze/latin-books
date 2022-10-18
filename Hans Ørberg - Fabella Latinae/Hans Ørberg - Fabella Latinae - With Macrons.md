@@ -5,7 +5,7 @@ publisher:
 year: 2006
 lang: la
 cover-image:
-version: 1.0
+version: 1.1
 ---
 tags: [[Latin Language|Latin]]
 
