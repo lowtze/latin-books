@@ -36,7 +36,7 @@ Latin at Bangor. The play was written to serve
 as a reading-book for an Upper Third Form during
 the second and third terms of the year in which
 Latin was begun. A year’s course of lessons in
-Rōmān History had preceded the learning of Latin.
+Roman History had preceded the learning of Latin.
 All the work of the class (frequent drill in grammar,
 oral work by question and answer, and simple
 sentence construction) was based upon the text of
@@ -168,7 +168,7 @@ ecce! inde venit ipse.
 *(intrat Ti. Gracchus cum fīliō)*
 
 *Ti.* cīvēs! amīcī! mihi sī crās erit ultimus diēs,
-excipite hune, fīlium meum cārissimum. hodiē
+excipite hunc, fīlium meum cārissimum. hodiē
 vōbīs hunc trādō; crās animam meam fortasse prō
 vōbīs dēpōnam.
 
@@ -271,9 +271,7 @@ DRAMATIS PERSONAE
 
 Numitor.
 
-Romulus
-			*gemini.*
-Remus
+Romulus et Remus *gemini.*
 
 Faustulus, *pastor.*
   
