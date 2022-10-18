@@ -658,7 +658,7 @@ nūmen adōrābant.
 
 Fābulam dē Horātiō, poētā praeclārō, nunc vōbis 
 narrābo. Apūlia regio est Ītaliae. Multās silvās, 
-multōs et amoenōs campōs habet. In pr�ātīs 
+multōs et amoenōs campōs habet. In prātīs 
 herbōsīs multī gregēs, multa equōrum boumque 
 armenta errant. Hīc ōlim Horātius habitābat, 
 parvulus adhūc et mātrī patrīque cārus. Forte 
@@ -869,7 +869,7 @@ contrā hostēs in angustō locō pugnābo. Ita
 omnēs pro ārīs templīsque Rōmānīs, pro uxōribus 
 līberīsque, pro sacrīs virginibus pugnābimus. Ita 
 urbem Rōmam conservābimus. Quis mēcum in 
-extrēmō ponte stābit et contrā Etruscōs pugnābit ? * 
+extrēmō ponte stābit et contrā Etruscōs pugnābit?" 
 Tum Lartius, "Ego," inquit, "ā dextrā stābo, et 
 pontem tēcum conservābo"; et magnā vōce 
 Herminius, "Ego," inquit, "ā sinistrā stābo et 

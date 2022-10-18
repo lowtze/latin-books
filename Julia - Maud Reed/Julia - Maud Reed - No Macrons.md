@@ -658,7 +658,7 @@ numen adorabant.
 
 Fabulam de Horatio, poeta praeclaro, nunc vobis 
 narrabo. Apulia regio est Italiae. Multas silvas, 
-multos et amoenos campos habet. In pr�atis 
+multos et amoenos campos habet. In pratis 
 herbosis multi greges, multa equorum boumque 
 armenta errant. Hic olim Horatius habitabat, 
 parvulus adhuc et matri patrique carus. Forte 
@@ -869,7 +869,7 @@ contra hostes in angusto loco pugnabo. Ita
 omnes pro aris templisque Romanis, pro uxoribus 
 liberisque, pro sacris virginibus pugnabimus. Ita 
 urbem Romam conservabimus. Quis mecum in 
-extremo ponte stabit et contra Etruscos pugnabit ? * 
+extremo ponte stabit et contra Etruscos pugnabit?"
 Tum Lartius, "Ego," inquit, "a dextra stabo, et 
 pontem tecum conservabo"; et magna voce 
 Herminius, "Ego," inquit, "a sinistra stabo et 
