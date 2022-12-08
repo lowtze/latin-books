@@ -1121,61 +1121,32 @@ dictae, inter sumptuosas habebantur.
 
 ### Cicero in Campum Martium ducitur.
 
-
-
 Sextum annum Cicero agebat, cum casus quidam incidit,
-
-cuius recordatio ex illius memoria numquam excessit. Duxe-
-
-rat illum paedagogus in Campum Martium hora fere quinta.
-
-Cum mense lunio exeunte aestatis calor Romae iam ingra-
-
-vesceret, magna et varia multitudo eo convenerat, ut ni.
-
-miam Fori frequentiam fugeret. Ali otiose ambulabant;
-
+cuius recordatio ex illius memoria numquam excessit. Duxerat illum
+paedagogus in Campum Martium hora fere quinta.
+Cum mense Iunio exeunte aestatis calor Romae iam ingravesceret, magna
+et varia multitudo eo convenerat, ut nimiam
+Fori frequentiam fugeret. Ali otiose ambulabant;
 alii equitando vel luctando corpora exercebant; alii cum
-
 amicis colloquendo tempus terebant vel, ut fieri solet, de
-
 praetereuntibus iudicium et censuram faciebant. Constat
-
 enim nullam civitatem Romana maledicentiorem fuisse.
 
-
-
 Cicero animadvertit multorum ora in se esse conversa.
-
-«Heus tu!», aiebant invicem, «vidistine parvum illum pue-
-
-rum ? Ciceronis illius filius est qui ante hos paucos annos
-
+«Heus tu!», aiebant invicem, «vidistine parvum illum puerum?
+Ciceronis illius filius est qui ante hos paucos annos
 consul fuit».
 
-
-
 Anno enim sexagesimo tertio a. Chr. n. M. Cicero ad
-
-consulatum pervenerat atque, Catilinae coniuratione oppres-
-
-sa, magnam se gloriam adeptum esse arbitrabatur. Sed
-
+consulatum pervenerat atque, Catilinae coniuratione oppressa, magnam
+se gloriam adeptum esse arbitrabatur. Sed
 quamquam vir inanissimus optime se de re publica meruisse
-
-perpetuo praedicabat, neque ulla alia de re libentius loque-
-
-batur, de illius consulatu non idem iudicium omnes facie-
-
-bant. Laudi alteri illi dabant quod gravissimum periculum
-
-rei publicae Romanae impendens impigre et strenue re-
-
-movisset; illum contra alteri criminabantur quod Catilinae
-
-socios indemnatos interfici 1ussisset.
-
-
+perpetuo praedicabat, neque ulla alia de re libentius loquebatur, de
+illius consulatu non idem iudicium omnes faciebant. Laudi alteri illi
+dabant quod gravissimum periculum
+rei publicae Romanae impendens impigre et strenue removisset; illum
+contra alteri criminabantur quod Catilinae
+socios indemnatos interfici iussisset.
 
 
 ### Quid de Cicerone patre audierit.
