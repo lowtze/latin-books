@@ -1031,78 +1031,35 @@ etiam ex auro. Haec omnia parvulus ille Cicero laetus mirabatur, iam inde a puer
 
 ### «Nosce te ipsum».
 
+![«corpus rogo impositum»]()
+
 Unam tantum figuram in triclinii pavimento aequo animo
 
-spectare non poterat oculosque ab illa pavescens aver-
-
-tebat; nam tessellarii corpus ibi nudis ossibus cohaerens
-
-effinxerant rogo impositum, nigris quibusdam uncisque li-
-
-neis pyrae flammas simulantibus, nigrum ipsum ac mem.
-
-bra horrendum in modum distorquens. Subter id Graecis
-
-
-
-D
-
-
-
-
-
-[ NCOO|CAY TON
-
-
-
-«corpus rogo impositum»
-
-
-
-
-
+spectare non poterat oculosque ab illa pavescens avertebat; nam
+tessellarii corpus ibi nudis ossibus cohaerens
+effinxerant rogo impositum, nigris quibusdam uncisque lineis pyrae
+flammas simulantibus, nigrum ipsum ac membra horrendum in modum
+distorquens. Subter id Graecis
 litteris inscriptum erat: «Nosce te ipsum». Sapientis enim
-
 esse Romani putabant in ipsa conviviorum laetitia moriendi
-
 necessitatem non oblivisci. At Ciceronis filius ubi primum
-
 Graecum sermonem discere coepit et Graecum illum titulum
-
 Latine vertere potuit: «Cibi fastidium», inquit, «iniciunt
-
-isa; memetipsum equidem ignorare malo, quam languenti
-
+ista; memetipsum equidem ignorare malo, quam languenti
 stomacho conviviis adesse».
-
 
 
 ### De Romanorum lectis.
 
-
-In domestiea M. Ciceronis supellectile nihil pretiosius
-
+In domestica M. Ciceronis supellectile nihil pretiosius
 erat quam lecti et mensae. Lectorum apud Romanos multa
-
-genera erant. Lectus cubicularis is dicebatur qui in cubiculir
-
-— 44 —
-
-
-
-esset, dormientibus vel ecubantibus aptus; qui in tricliniis
-
-lricliniaris; ali alio nomine indicabantur. 5i quis littera-
-
-rum studiis deditus erat, lecto lucubratorio utebatur, ubi
-
+genera erant. *Lectus cubicularis* is dicebatur qui in cubiculia
+esset, dormientibus vel cubantibus aptus; qui in tricliniis
+*tricliniaris*; alii alio nomine indicabantur. Si quis litterarum studiis deditus erat, *lecto lucubratorio* utebatur, ubi
 per multas horas quiescendo meditari posset vel legere vel
-
 aliquid in tabellis adnotare. Id omnibus lectis commune
-
-erat quod pedes spondam, fasciae vel lora (énstWtae dictae)
-
-culcitas sustinebant.
+erat quod pedes *spondam*, fasciae vel lora (*institae* dictae)
+*culcitas* sustinebant.
 
 
 
