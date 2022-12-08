@@ -1062,97 +1062,42 @@ erat quod pedes *spondam*, fasciae vel lora (*institae* dictae)
 *culcitas* sustinebant.
 
 
-
-
 ### De lectorum partibus.
 
+![Lectus cubicularis]()
 
-
-Sponda ligneum quoddam firmamentum erat, quattuor
-
+*Sponda* ligneum quoddam firmamentum erat, quattuor
 vel sex pedibus fultum, obtentis institis toros et culcitas
-
 sustinens. Bina adminicula singulis spondis adnitebantur,
+quorum alterum, super iacentis caput eminens, *fulcrum* dicebatur,
+alterum, parietem obtegens, *pluteus*. In divitum
+aedibus lectorum plutei et fulcra, ex pretiosis lignis confecta,
+aureis et eburneis laminis ornabantur. Toris et culcitis
+*stragula vestis* insternebatur. Instrato lecto lintea vestis
+circumducebatur, cui nomen *toral* erat. Pauperum lecti, *grabati* dicti,
+fulero et pluteo carebant.
 
-
-
-TAL TTE DII
-
-
-
-quorum alterum, super iacentis caput eminens, fulcrum di-
-
-cebatur, alterum, parietem obtegens, pluteus. In divitum
-
-aedibus lectorum plutei et fulcra, ex pretiosis lignis con-
-
-fecta, aureis et eburneis laminis ornabantur. Toris et cul.
-
-citis stragula, vestis insternebatur. Instrato lecto lintea vestis
-
-cireumducebatur, cui nomen íoral erat. Pauperum lecti, gra-
-
-bati dicti, fulero et pluteo carebant.
-
-
-
-Pulwnis quoque Romani utebantur, nec solum in lectis,
-
+*Pulvinis* quoque Romani utebantur, nec solum in lectis,
 sed etiam in sedilibus, nec solum ad caput fulciendum, sed
-
-
-
-Lectus cubcularas.
-
-
-
 etiam ut tricliniaria loca distinguerent. Pulvini quadratis
-
-stragulis fiebant, tomento repletis. Pulvinus dormientis ca-
-
-put sustinens cervical dicebatur.
-
-
+stragulis fiebant, tomento repletis. Pulvinus dormientis caput
+sustinens *cervical* dicebatur.
 
 
 ### De Romanorum mensis.
 
-
-
 Varius apud Romanos mensarum usus erat; mensis enim
-
 et argentarii et institores utebantur, privati etiam homines
-
 in aedibus suis: hi ad domesticos usus, argentarii vero ut
-
 nummos in parvos acervos congestos haberent, si quis
-
-nummos nummis commutare vellet (idem fere apud anti-
-
-quos erat mensa, quod apud nos «banca»), institores ut quae
-
+nummos nummis commutare vellet (idem fere apud antiquos erat *mensa*,
+quod apud nos «banca»), institores ut quae
 venalia haberent praetereuntibus proponerent. Ditiores vero
-
 homines complures magni preti mensas possidebant, ut
-
-apte et magnifice cenae 1n tri-
-
-clinio instrul possent; quarum
-
-alias, ad divitiarum ostenta-
-
-tionem adhibitas, argento esca-
-
-r?o et potorio onerabant (abaci
-
-hae mensae dicebantur), alias
-
-iuxta convivas poni iubebant,
-
-ut repositoriwm et vini lagoe-
-
-nas sustinerent.
-
+apte et magnifice cenae in triclinio instrui possent; quarum
+alias, ad divitiarum ostentationem adhibitas, *argento escario* et
+*potorio* onerabant (*abaci* hae mensae dicebantur), alias
+iuxta convivas poni iubebant, ut *repositorium* et vini lagoenas sustinerent.
 
 
 ### De varia mensarum forma.
@@ -1386,13 +1331,12 @@ Romanae esset, cum praesertim P. Cledius, quem M. Ci-
 
 cero inimicissimum habebat, C. Iulio Caesare favente, po-
 
-pularem invidiam 1n illum, quocumque modo poterat, con-
+pularem invidiam in illum, quocumqueimodo poterat, con-
 
-citaret. Ad id res est adducta, ut, si quando parvus Cicero
-
-cum paedagogo vel remotioribus urbis locis ambulatum
-
-exisset, infimae plebeculae pueri, ubi primum illum agno-
+c*itaret. Ad idir*es est adducta, ut, si quando parvus Cicero
+*
+ um pa*edagogo vel remotioribus urbis locis ambu*latum*
+ exi*sset, infiua*e plebeculae pueri, ubi primum illum agno-
 
 vissent, statim clamare inciperent: «M. Ciceronis filius adest;
 
@@ -2183,7 +2127,7 @@ suit, virtutes laudavit, de summa illius in absentem socerum
 
 fide praedicavit. Maiorum imagines proavorum simulacra
 
-reddentes, cireum feretrum dispositae, quasi laudantis verba
+reddentes, circum feretrum dispositae, quasi laudantis verba
 
 audirent, sollemni ritui religionem addebant.
 
@@ -2377,16 +2321,15 @@ M. Cicero! '».
 
 Tum paedagogus: «Clodius ille, qui tantopere nisus est
 
-ut pater tuus 1n exsilium pelleretur, cum se victum putet, sic
+ut pater tuus in exsilium pellereiur, cum se victum putet, sic
 
-fortasse acceptam ignominiam ulcisci conatur».
-
-
-
-### Cicero apud patrem in Tusculano commoratur.
+f*ortasse accepia*m ignominiam ulcisci conatur».
+*
 
 
-IamCicero, undecimum annum agens, prima studia in
+ ## *Cicero apud patrem in Tusculano commor*atur.*
+ 
+Ia*mCicero, uud*ecimum annum agens, prima studia in
 
 ludo perfecerat, cum pater illum Graeco cuidam servo tra-
 
@@ -3778,7 +3721,7 @@ dem totum tegebat cruribusque, quo aptius adhaereret, lo-
 
 ris quibusdam adligabatur. At socc? leviores erant lorisque
 
-omnino carebant. Soleae autem, quae sie cireumcisae erant,
+omnino carebant. Soleae autem, quae sie circumcisae erant,
 
 ut pedis formam referrent, digito pollici subtilibus habenis
 
