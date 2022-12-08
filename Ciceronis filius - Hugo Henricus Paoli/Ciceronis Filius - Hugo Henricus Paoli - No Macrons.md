@@ -1102,46 +1102,21 @@ iuxta convivas poni iubebant, ut *repositorium* et vini lagoenas sustinerent.
 
 ### De varia mensarum forma.
 
-
-
-
+![Mensa.]()
 
 Forma quoque mensarum
-
 varia erat, cum aliae quattuor
-
 pedibus, aliae tribus, aliae,
-
-pede uno niterentur. Haec Ho-
-
-mani monopoda4a vocabant, ac
-
-tune primum in Italiam inve-
-
-xerunt, cum Asia devicta est. :
-
-Ingenti pretio emebantur ; sin- Mensa.
-
-gulari enim artificio perfecta
-
+pede uno niterentur. Haec Romani *monopodia* vocabant, ac
+tunc primum in Italiam invexerunt, cum Asia devicta est.
+Ingenti pretio emebantur; singulari enim artificio perfecta
 erant, cum pes affabre excultum orbem sustineret, vel ebore
-
 confectum vel ex pretiosissimo ligno excisum. Huius mensae
-
-pedem írapezophorum vocabant. Mensa tripes ex vilissimo
-
-
-
+pedem *trapezophorum* vocabant. Mensa tripes ex vilissimo
 ligno plerumque conficiebatur, eiusque locus in pauperum
-
-supellectile erat. At mensae trinis pedibus praeditae, Del.
-
-phicae cortinae formam referentes, atque ob id Delphicae
-
+supellectile erat. At mensae trinis pedibus praeditae, Delphicae
+cortinae formam referentes, atque ob id Delphicae
 dictae, inter sumptuosas habebantur.
-
-
-
 
 
 ### Cicero in Campum Martium ducitur.
@@ -2575,17 +2550,12 @@ fidem suam adstringere, ut nulla via ad alterum confugiendi,
 
 
 
-incertus haereret, peropportune accidit ut in Ciliciam pro-
-
-consulari potestate mitteretur. Profectus est igitur anno
-
-septingentesimo tertio ab U.c. (— 51 a. Chr. n.), mense
-
-Maio; atque, cum Benevento ac Venusia Brundisium venis-
-
-set, navem ibi conscendit paulumque Actii commoratus pri-
-
-mis insequentis mensis diebus Athenas pervenit.
+incertus haereret, peropportunc accidit ut in Ciliciam proconsulari
+potestate mitteretur. Profectus est igitur anno
+septitgentesimo tertio ab U.c. (— 51 a. Chr. n.), mense
+Maio; atque, cum Benevento ac Venusia Brundisium venis
+set, navem ibi conscendit paulumque Actii commoratus primis
+insequentis mensis diebus Athenas pervenit.
 
 
 
