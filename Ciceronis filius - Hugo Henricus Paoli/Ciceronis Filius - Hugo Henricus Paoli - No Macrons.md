@@ -5,7 +5,7 @@ publisher:
 year: 1964
 lang: la
 cover-image: "./images/cover.png"
-version: 0.4
+version: 0.5
 ---
 
 # Ciceronis Filius
