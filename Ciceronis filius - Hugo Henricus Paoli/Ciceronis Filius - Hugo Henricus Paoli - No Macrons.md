@@ -769,7 +769,7 @@ simulabant. Consul aliquis creatus, consulis partes sustinebat, lictoribusque st
 
 ### Dexteritatis praemia.
 
-![«nucibus plerumque ludebant ».]()
+![«nucibus plerumque ludebant».]()
 
 At nucibus plerumque pueri illi ludebant. Vicissim nitebantur 
 omnes ut, magna nuce iacta, parvum aliquod castellum ferirent, 
@@ -898,153 +898,70 @@ vulneribus idem medebatur aut ventris deformitates manu
 corrigebat. Neque vero medicae deerant quae aegrotantes
 mulieres curarent.
 
-# end of p 46
 
 ### Quomodo Romanorum medici artem suam exercuerint.
 
 Medicorum alii operam suam apud privatos praebebant,
-
 uni familiae, ut qui servi essent, addicti, aut milites apud
-
 exercitum curabant vel in ludis gladiatoriis gladiatores;
-
-mercede alii artem suam exercebant, si quis illorum otficium
-
-posceret. Illi qui clinic? dicebantur cubantes aegrotos adi-
-
-bant; ceteri in tabernis quibusdam, sic ornatis et instructis
-
+mercede alii artem suam exercebant, si quis illorum officium
+posceret. Illi qui *clinici* dicebantur cubantes aegrotos adibant;ceteri in tabernis quibusdam, sic ornatis et instructis
 ut ad medicinam exercendam idoneae essent, vel consulentes
-
-audiebant vel aegrotos curabant. Eae tabernae medicinae
-
-dicebantur. Sero apud Romanos archiairi exstiterunt, qui mer-
-
-cedem de publico ideo acciperent, ut cives omnes, vel pauper-
-
-rimos, diligenter curarent. Haeo consuetudo, e Graecis pro-
-
-vinciis translata, aetate nostra ita est vulgata, ut nihil aliud
-
+audiebant vel aegrotos curabant. Eae tabernae *medicinae*
+dicebantur. Sero apud Romanos *archiatri* exstiterunt, qui mercedem
+de publico ideo acciperent, ut cives omnes, vel pauperrimos,diligenter curarent. Haec consuetudo, e Graecis provinciis
+translata, aetate nostra ita est vulgata, ut nihil aliud
 populorum cultum atque humanitatem manifestius indicet.
-
-
-
 
 
 ### Cicero a peregrinis medicis curatur.
 
-
-
-Frequentes igitur Ciceronis domum peregrini medici ve-
-
-nerunt, quibus omnibus maiorem inanitatem inesse patuit
-
-quam doctrinam. Parvum illi Ciceronem stantem ausculta-
-
-verunt, lacentem perspexerunt, ventre semel atque iterum
-
+Frequentes igitur Ciceronis domum peregrini medici venerunt,
+quibus omnibus maiorem inanitatem inesse patuit
+quam doctrinam. Parvum illi Ciceronem stantem auscultaverunt,
+lacentem perspexerunt, ventre semel atque iterum
 compresso. Notaverunt etiam quomodo venae moverentur,
-
 qui calor cutis esset; ex ipsa exserta lingua signa habuerunt.
-
 Ut brevi praecidam, ea omnia fecerunt quae nostra quoque
-
-aetate medici adsolent. Decreverunt denique non ante fe-
-
-brim esse discessuram, quam Cicero febri caruisset, neque
-
+aetate medici adsolent. Decreverunt denique non ante febrim esse
+discessuram, quam Cicero febri caruisset, neque
 fore ut ille convalesceret, nisi prius morbo evasisset. Oraculo
-
-edito magnaque mercede accepta exierunt. Cum domo egres-
-
-surl essent, unus ex illis, omnibus consentientibus, adiecit:
-
-«S1 forte, quod di avertant, ille decesserit, certum id indi-
-
-cium erit hunc morbum mortiferum fuisse ».
+edito magnaque mercede accepta exierunt. Cum domo egressuri essent,
+unus ex illis, omnibus consentientibus, adiecit:
+«Si forte, quod di avertant, ille decesserit, certum id indicium erit
+hunc morbum mortiferum fuisse».
 
 
+### Ciceronis ancillae maledico sermone de Graecis medicis iudicium faciunt.
 
-
-
-
-
-
-
-### Ciceronis ancillae maledico sermone de Graecis medicis
-
-iudicium faciunt.
-
-
+![«stantem auscultaverunt».]()
 
 Graeci medici tandem discesserunt; quos vetus quaedam
-
 ancilla, cui Phrygia nomen erat, vultu non benevolo ac
-
 velut irridens abeuntes est prosecuta. Creverat illa Arpini
-
-
-
-«stantem auscultaverunt ».
-
-
-
 Ciceronis in aedibus, ac domini familiae amantissima erat;
-
 sed natura morosior, quod vitium aetas provecta auxerat,
-
 ac lingua tam garrula, ut omnium aures anili loquacitate
-
-obtunderet. lum vero conservam quandam adlocuta:
-
-
+obtunderet. Tum vero conservam quandam adlocuta:
 
 «Et opera et oleum», inquit, «domino nostro peribit, si
-
-in filiolo suo curando suadentibus medicis aures praebebit ».
-
-
+in filiolo suo curando suadentibus medicis aures praebebit».
 
 Cui illa:
 
-
-
 «Et pecuniam magnam, opinor, est effusurus. Novi
+enim Graeculos istos: medicinam profitentur, lucrum ligurriunt. Nummos illi concupiscunt, nec quicquam aliud:
+ut mel muscae, ut pueri nuces».
 
-enim Graeculos istos: medicinam profitentur, lucrum li-
-
-gurriunt. Nummos illi concupiscunt, nec quiequam aliud:
-
-ut mel muscae, ut pueri nuces ».
-
-
-
-Tum Phrygia: « Recte, hercle, id dicis. Num antequam
-
-medici isti ex Graecia venerunt plures homines Komae morie-
-
-bantur? Num mala valetudine Romani perpetuo laborabant?
-
+Tum Phrygia: «Recte, hercle, id dicis. Num antequam
+medici isti ex Graecia venerunt plures homines Komae moriebantur?
+Num mala valetudine Romani perpetuo laborabant?
 At Cato ille sapiens, quem memorant Graecos medicos odisse,
-
-integris viribus, ut saepe dominum nostrum commemoran-
-
-
-
-
-
-— 4] —
-
-
-
-tem audivi, ad extremam senectutem pervenit. Quin etiam,
-
+integris viribus, ut saepe dominum nostrum commemorantem
+audivi, ad extremam senectutem pervenit. Quin etiam,
 si quis forte ex familiaribus suis in morbum inciderat, ipse
-
 medendi rationem inveniebat, ipse parabat emplastra, vel
-
-purgatoria medicamenta aegrotis sorbenda porrigebat ».
+purgatoria medicamenta aegrotis sorbenda porrigebat».
 
 
 
@@ -1110,7 +1027,7 @@ Per aliquot continuos dies Cicero graviter aegrotavit;
 
 nec interdiu nec noctu febris remittebatur. solliciti parentes
 
-illum absurda verba edentem audiebant: « Lamia adest »,
+illum absurda verba edentem audiebant: « Lamia adest»,
 
 delirans clamitabat, « apage illam, mater! Canem domesti-
 
@@ -1118,7 +1035,7 @@ cum, pater, copula vincito: ingentes illius ex humeris alae
 
 proveniunt. En advolat, me miserum: omnes peristylii pas-
 
-serculos in ipso aere voravit ».
+serculos in ipso aere voravit».
 
 
 
@@ -1168,7 +1085,7 @@ publieae regendae periti, domicilium habent. Hinc forum
 
 adiacet, ex altera parte Circus. Medium Romae locum habi-
 
-tamus, nec quiequam, si Capitolium exceperis, in hae urbe
+tamus, nec quicquam, si Capitolium exceperis, in hae urbe
 
 nobilius habetur. Permagno, fateor, has aedes emi; tanti
 
@@ -1176,7 +1093,7 @@ mihi constiterunt, ut nulla suburbana villa, sit licet ampla
 
 et sumptuosa, carior sit. Me tamen has aedes emisse nun-
 
-quam paenitebit ».
+quam paenitebit».
 
 
 
@@ -1220,7 +1137,7 @@ rabatur, iam inde à puero luxuriae et elegantiae cupidus.
 
 
 
-### « Nosce te ipsum ».
+### « Nosce te ipsum».
 
 
 
@@ -1248,13 +1165,13 @@ D
 
 
 
-«corpus rogo impositum »
+«corpus rogo impositum»
 
 
 
 
 
-litteris inscriptum erat: « Nosce te ipsum ». Sapientis enim
+litteris inscriptum erat: « Nosce te ipsum». Sapientis enim
 
 esse Romani putabant in ipsa conviviorum laetitia moriendi
 
@@ -1262,11 +1179,11 @@ necessitatem non oblivisci. At Ciceronis filius ubi primum
 
 Graecum sermonem discere coepit et Graecum illum titulum
 
-Latine vertere potuit: « Cibi fastidium », inquit, « iniciunt
+Latine vertere potuit: « Cibi fastidium», inquit, « iniciunt
 
 isa; memetipsum equidem ignorare malo, quam languenti
 
-stomacho conviviis adesse ».
+stomacho conviviis adesse».
 
 
 
@@ -1365,7 +1282,7 @@ nummos in parvos acervos congestos haberent, si quis
 
 nummos nummis commutare vellet (idem fere apud anti-
 
-quos erat mensa, quod apud nos « banca »), institores ut quae
+quos erat mensa, quod apud nos « banca»), institores ut quae
 
 venalia haberent praetereuntibus proponerent. Ditiores vero
 
@@ -1467,7 +1384,7 @@ Cicero animadvertit multorum ora in se esse conversa.
 
 rum ? Ciceronis illius filius est qui ante hos paucos annos
 
-consul fuit ».
+consul fuit».
 
 
 
@@ -1520,7 +1437,7 @@ exercentes spectarent.
 
 
 
-runt, pauperes fame pereunt ».
+runt, pauperes fame pereunt».
 
 
 
@@ -1538,7 +1455,7 @@ rone appropinquante, murmurare coepit:
 
 gloriatur, quantum mali ipsius capiti impendeat, prorsus
 
-non videt ».
+non videt».
 
 
 
@@ -1552,7 +1469,7 @@ Atque elatiore voce:
 
 triae' plebs Romana vocat, sed *sicarium ', qui nulla iudicum
 
-sententia liberos cives ad supplicium duci iusserit ».
+sententia liberos cives ad supplicium duci iusserit».
 
 
 
@@ -1564,7 +1481,7 @@ trahebat, metu captum ac semel atque iterum rogantem:
 
 virum numquam apud patrem meum vidi; nos tamen ille
 
-probe videtur nosse ». |
+probe videtur nosse». |
 
 
 
@@ -1574,7 +1491,7 @@ tuus vivet, male peribit. Sabinam enim anum interrogavi,
 
 divina mente praeditam, ut cognoscerem quomodo ille esset
 
-obiturus ».
+obiturus».
 
 
 
@@ -1594,7 +1511,7 @@ lum ille, acerbo cum risu puerum intuens:
 
 « Quid ? Qui laqueo civium gulas fregit, ipse iugulatus pe-
 
-ribit. Fiet id aliquando: memento. Haec Catilinae ultio erit ».
+ribit. Fiet id aliquando: memento. Haec Catilinae ultio erit».
 
 
 
@@ -1636,7 +1553,7 @@ vissent, statim clamare inciperent: « M. Ciceronis filius adest;
 
 
 
-«maledietis puerum obruebant, lapidibus incessebant ».
+«maledietis puerum obruebant, lapidibus incessebant».
 
 
 
@@ -1644,7 +1561,7 @@ vissent, statim clamare inciperent: « M. Ciceronis filius adest;
 
 depellamus illum. Cur patimur eum inter nos versari ? Quin
 
-manus in illum inicimus ? ». lidem maledictis puerum obrue-
+manus in illum inicimus ?». lidem maledictis puerum obrue-
 
 bant, lapidibus ineessebant, vel contumeliose intuentes con-
 
@@ -1697,9 +1614,9 @@ dam feminarum vociferationem audivit atque cum eiulati-
 
 bus ancillarum ipsius matris lugentis querimonias. Custo-
 
-dem adlocutus: «Quid fit? », Cicero ait, «tristius aliquid
+dem adlocutus: «Quid fit?», Cicero ait, «tristius aliquid
 
-accidit, opinor ».
+accidit, opinor».
 
 
 
@@ -1723,7 +1640,7 @@ cunctata, tandem respondit:
 
 «Romam pater tuus reliquit; iniquae legi obnoxius in
 
-exsilium est profectus ».
+exsilium est profectus».
 
 
 
@@ -1761,11 +1678,11 @@ flictis querulum et demissum. Seribebat enim: « Conficior
 
 maerore, mea Terentia, nec meae me muüseriae magis ex-
 
-cruciant quam tuae vestraeque ». Vel etiam: « Cum aut
+cruciant quam tuae vestraeque». Vel etiam: « Cum aut
 
 scribo ad vos aut vestras lego, conficior lacrimis sic, ut
 
-ferre non possim ». Quae verba magis infirmam muliercu-
+ferre non possim». Quae verba magis infirmam muliercu-
 Iamdecere opinamur quam virum Romanum, eumque con-
 
 
@@ -1794,7 +1711,7 @@ quis temporibus litterarum commercium vel publice vel
 
 privatim se haberet. Publiceum officium, quod nos «la po-
 
-Sta » vocamus, Romani vario nomine indicabant, cum illud
+Sta» vocamus, Romani vario nomine indicabant, cum illud
 
 cursum publicum, cursum vehicularem, cursum fiscalem, rem
 
@@ -1957,7 +1874,7 @@ expalluit ac mutescens inscriptas litteras semel atque ite-
 
 rum relegit, quasi oculis suis vix confisa; deinde: «O me
 
-miseram ! » clamare coepit, «o me perditam et adflictam! ».
+miseram !» clamare coepit, «o me perditam et adflictam!».
 
 Seripserat enim Tullia: « Piso meus, repentino morbo cor-
 
@@ -1973,7 +1890,7 @@ Agite, heus! Ocius! Quid cessatis, ignavissimae? Statim
 
 foras exeam oportet ut Tulliodlm, filiam meam, quam
 
-primum conveniam ».
+primum conveniam».
 
 
 
@@ -2019,7 +1936,7 @@ Roganti Terentiae: «Quid mihi nuntias? Loquere», re-
 
 
 
-spondit: « Gaius decessit » Nec verbum ullum adiecit.
+spondit: « Gaius decessit» Nec verbum ullum adiecit.
 
 
 
@@ -2069,7 +1986,7 @@ tissima antiquitate tradita, idem significant atque: « Piso,
 
 
 
-Romanus civis (Qwuiris) decessit (leto datus est) »
+Romanus civis (Qwuiris) decessit (leto datus est)»
 
 
 
@@ -2101,7 +2018,7 @@ tatis ac suavissimis moribus praeditus, parvum Ciceronem
 
 tam carum habuit, ut maioris fratris loco illi potius esset
 
-quam adfinis; nec quiequam unquam praetermisit quin adu-
+quam adfinis; nec quicquam unquam praetermisit quin adu-
 
 lescentulum sibi conciliaret. Singultiens igitur Cicero domum
 
@@ -2169,7 +2086,7 @@ commissae erant, magnamque circa se ministrorum multi-
 
 
 
-«corpus in aedium atrio iacuit ».
+«corpus in aedium atrio iacuit».
 
 
 
@@ -2585,11 +2502,11 @@ fugientem rogavit:
 
 «Cur hi homines in aream nostram tanto furore insae-
 
-viunt ? ».
+viunt ?».
 
 
 
-Cui ille: « Noli id quaerere; ebrii sunt ».
+Cui ille: « Noli id quaerere; ebrii sunt».
 
 
 
@@ -2599,7 +2516,7 @@ Cui ille: « Noli id quaerere; ebrii sunt ».
 
 unum illum oderunt? Clamantes complures audivi: * Pereat
 
-M. Cicero! ' ».
+M. Cicero! '».
 
 
 
@@ -2615,7 +2532,7 @@ Tum paedagogus: « Clodius ille, qui tantopere nisus est
 
 ut pater tuus 1n exsilium pelleretur, cum se victum putet, sic
 
-fortasse acceptam ignominiam ulcisci conatur ».
+fortasse acceptam ignominiam ulcisci conatur».
 
 
 
@@ -2658,7 +2575,7 @@ atque opulentiae indicium erat.
 
 locans saepe M. Cicero filio suo secum colloquenti:
 
-« Haec villa», aiebat, «aequalis tua est ». Coeperat enim lu-
+« Haec villa», aiebat, «aequalis tua est». Coeperat enim lu-
 
 sculanum eo ipso anno instruere quo Cicero filius natus est.
 
@@ -2812,7 +2729,7 @@ reo quodam servabant, Graeco nomine oporotheca, dicto. Foe.
 
 
 
-«in urceolis vel amphoris ».
+«in urceolis vel amphoris».
 
 
 
@@ -2976,7 +2893,7 @@ membra, cum insomnia tum diuturna iactatione, lan-
 
 
 
-(rS n : A : NEP CS " L£ME a. :. : A Jeu. » " E * "e l
+(rS n : A : NEP CS " L£ME a. :. : A Jeu.» " E * "e l
 
 " v. pO . CLP ELEC - al n . . . TK L DA a 9 "^ TEM
 
@@ -2990,23 +2907,23 @@ B7 SENE 00v
 
 
 
-a. » » €" a Do . a" *
+a.»» €" a Do . a" *
 
 * SN anal bis J APPEL" &*! "ote at. ua FEN. 1-5; ONCE ?
 
 T X wrsolocSIMlaR ONSE X A US Ps eses eri
 
-j^^ -€-o ^ M TA TOSSMLD LPS TTE LL »* .
+j^^ -€-o ^ M TA TOSSMLD LPS TTE LL»* .
 
 ue Y - 1 & X ' r L o 4. Jet m in UM oin a "uc * r
 
-j Ui » M& "Y - "Y NE |t Loéc JI a. t^ LN" - (OT "- TIN 2" & ^
+j Ui» M& "Y - "Y NE |t Loéc JI a. t^ LN" - (OT "- TIN 2" & ^
 
-- d 1 ^ »* P " rc ^ 2 t RN "a, 47 . " lt
+- d 1 ^»* P " rc ^ 2 t RN "a, 47 . " lt
 
 e- IN ] H . ue "u* ' in $e L d. Ld -€-'* 17 BELLA 7 * "' Mar. * e . 7
 
-" Lio E J'AI -- . ". "o- x "x * ^ t 9 - * ^" , * »"* a ' " "
+" Lio E J'AI -- . ". "o- x "x * ^ t 9 - * ^" , *»"* a ' " "
 
 AR AME Y Ung t. nuova sn Jn... * . "P $4738 4,4 0 sn o .,-
 
@@ -3014,9 +2931,9 @@ MI . - 0 tS tM. "Aue &ni un c - '.a ch a'*wNÀ n "-—— a8 0a 2t. o. ua s a* S
 
 . "9. ) " AT 7 P. ^T. x PRI T: FN... . -* ^4 ^» '* à ' C. e "e. au aet? . LINE .
 
-"FL " 2 M "-. A» »Á . P .7 "LET I y QU a 7 - (VAT ; - [ , - "o 2. oon. L . dn i M. ] .
+"FL " 2 M "-. A»»Á . P .7 "LET I y QU a 7 - (VAT ; - [ , - "o 2. oon. L . dn i M. ] .
 
-un vu NASCE FEREXNDEN- AM RTENOBRUP —-. » | va qr.
+un vu NASCE FEREXNDEN- AM RTENOBRUP —-.» | va qr.
 
 , "E . : EE EN" PER " "LEE . Ls ow» . ^q " * o. * a " 1 .
 
@@ -3024,29 +2941,29 @@ un vu NASCE FEREXNDEN- AM RTENOBRUP —-. » | va qr.
 
 6 Vp. m x ive AUR ta cu! I EEMELERDNELRELDUNEREDEBETT - - « RNC RE
 
-" As - . , " 7 COPIE t -o*« »u Me LS ; t p ^ UC- . , " L ' : $ 2A
+" As - . , " 7 COPIE t -o*«»u Me LS ; t p ^ UC- . , " L ' : $ 2A
 
-U H Nm T - LTD: " ' DIDI 2 thin, tc » A- APTDR u NT L| NY
+U H Nm T - LTD: " ' DIDI 2 thin, tc» A- APTDR u NT L| NY
 
 "me X). - CAMP ey e Ts mpi a. eM, TI ! a. A
 
-: PIP E A * AM » -. xr " ni a zu. T". "Ws . Eur 2
+: PIP E A * AM» -. xr " ni a zu. T". "Ws . Eur 2
 
 y- * NT an ". - -r' " -. - - ua -»" . is. s. ] -*
 
-5 st - "o "oa »" m : : . E h * '
+5 st - "o "oa»" m : : . E h * '
 
 " , pP OF 7 "4 A. : -" "B LL Mt " 5 - : -* A m |! T " L h -* .
 
-| RE .t » . 1d a 5 4 uL , ^ - JL * p"
+| RE .t» . 1d a 5 4 uL , ^ - JL * p"
 
-E "M | * [ " » , a sx [ |- m- L1 ad
-
-
+E "M | * [ "» , a sx [ |- m- L1 ad
 
 
 
-«agiliores raedae equis vehebantur ».
+
+
+«agiliores raedae equis vehebantur».
 
 
 
@@ -3086,7 +3003,7 @@ Nd e ENS A
 
 
 
-«&àd leviores currus equi iungebantur ».
+«&àd leviores currus equi iungebantur».
 
 
 
@@ -3108,7 +3025,7 @@ facultas daretur et dormiendi. Nullum vehiculorum genus
 
 carruca sumptuosius erat; carrucam vero illam, quae dor-
 
-mitoria vocabatur, si quis nostrorum « wagons-lits » proa-
+mitoria vocabatur, si quis nostrorum « wagons-lits» proa-
 
 viam fuisse dixerit, non ille, opinor, errabit.
 
@@ -3146,7 +3063,7 @@ asseres, tigna. Ex quo factum
 
 
 
-idoneum erat ».
+idoneum erat».
 
 na statuerat, ne currus ullus a
 
@@ -3170,7 +3087,7 @@ riem per vias urbis plaustris deferendi.
 
 
 
-«adhibebatur etiam ad graviora pondera vehenda ».
+«adhibebatur etiam ad graviora pondera vehenda».
 
 
 
@@ -3216,7 +3133,7 @@ Birotum vehiculum c?-
 
 sium erat, quod bini vel
 
-terni equi uneti trahebant, c essedi similis covinus erat ».
+terni equi uneti trahebant, c essedi similis covinus erat».
 
 
 
@@ -3308,7 +3225,7 @@ navem conscendit, ut in Ciliciam perveniret. Mensis lulius
 
 
 
-«navem conscendit, ut in Ciliciam perveniret ».
+«navem conscendit, ut in Ciliciam perveniret».
 
 
 
@@ -3528,7 +3445,7 @@ tes moenia vel admoto ariete
 
 labefactare, vel testudine facta
 
-capere conati sunt. Serius ta- « admoto ariete ».
+capere conati sunt. Serius ta- « admoto ariete».
 
 
 
@@ -3582,7 +3499,7 @@ Athenis commoratus
 
 
 
-« testudine facta ». navem in ltaliam re-
+« testudine facta». navem in ltaliam re-
 
 
 
@@ -3666,7 +3583,7 @@ seripserit: « Pace opus est; ex victoria cum multa mala, tum
 
 
 
-certe tyrannus exsistet ». Quae verba non multo post civilis
+certe tyrannus exsistet». Quae verba non multo post civilis
 
 belli exitus comprobavit.
 
@@ -3793,7 +3710,7 @@ x« toga domestica ae pro-
 
 pria Romanorum vestis
 
-erat ».
+erat».
 
 
 
@@ -3935,7 +3852,7 @@ pallio paenula differebat, 1ter facien-
 
 tibus aptior, humeros aec plerumque
 
-caput quoque obtegens. : »
+caput quoque obtegens. :»
 
 
 
@@ -4065,7 +3982,7 @@ tum populumque Romanum nudis pedibus
 
 per Urbis vias ambulasse, aut nudis pedibus Ciceronem fuisse,
 
-cum diceret: «Quousque tandem Catilina...? ». Calceis Ivomani
+cum diceret: «Quousque tandem Catilina...?». Calceis Ivomani
 
 utebantur et soccis et soles. Ex corio confectus calceus pe-
 
@@ -4277,7 +4194,7 @@ comis suis imponere solent atque, ubi primum prior forma
 
 obsolevit, sic aptari iubent ut saeculi libido poscit. Quod
 
-nos « cappello » vocamus antiquis temporibus nullum erat.
+nos « cappello» vocamus antiquis temporibus nullum erat.
 
 limbo vestis super caput reducto Romanae matronae ple-
 
@@ -4321,7 +4238,7 @@ verba adiecit: « Ego meo Ciceroni, quoniam loma caremus,
 
 Arpini potissimum togam puram dedi, idque municipibus
 
-nostris fuit gratum ». Non enim tempora sinebant hHomae,
+nostris fuit gratum». Non enim tempora sinebant hHomae,
 
 ut mos erat, filium in foro magna cum sollemnitate de-
 
@@ -4353,17 +4270,17 @@ vel caecis, si posset, togam suam ostenderet. Magnum illius
 
 famulis negotium erat togam cotidie componere. « Nonne
 
-vides », furens exclamabat, « ut male toga defluat, quam non
+vides», furens exclamabat, « ut male toga defluat, quam non
 
 concinnus sit umbo? Quid cessas, inepte, hos sinus aptius
 
-accommodare ? ». Horam unam, horam alteram ; nondum res
+accommodare ?». Horam unam, horam alteram ; nondum res
 
 ad exitum perducebatur, nec prius servi a magno metu
 
 recreabantur, quam ille, bis terve cervice in omnes partes
 
-flexa togaque undique circurispectata, tandem « Optime! »
+flexa togaque undique circurispectata, tandem « Optime!»
 
 
 
@@ -4395,21 +4312,21 @@ litteras M. Ciceroni traderet. Quo conspecto Cicero:
 
 
 
-« Quomodo vales? » inquit.
+« Quomodo vales?» inquit.
 
 
 
 «Bene», respondet ille, «ut tempora sinunt. At nunc
 
-quod te bene valentem video gaudeo laetorque ».
+quod te bene valentem video gaudeo laetorque».
 
 — 78 —
 
 
 
-«At quem videre putas? ».
+«At quem videre putas?».
 
-« Quem, rogas? Te, opinor, nam nemo alius hic adest ».
+« Quem, rogas? Te, opinor, nam nemo alius hic adest».
 
 
 
@@ -4419,7 +4336,7 @@ Tum Cicero:
 
 
 
-togatum ».
+togatum».
 
 
 
@@ -4427,11 +4344,11 @@ Quatit ille caput: « Toga quid sit, infelix, nondum no-
 
 sti: sescenta habet incommoda. Miseret me tui, Marce, vir
 
-togate ».
+togate».
 
 
 
-Obstupuit Cicero, atque: «Non intellego quid dicas »,
+Obstupuit Cicero, atque: «Non intellego quid dicas»,
 
 inquit.
 
@@ -4539,7 +4456,7 @@ ad salutationem matutinam admittaris. Manumissus ser-
 
 vus mihi videor quotienscumque domi meae, toga deposita,
 
-sic tandem vivere incipio ut mihi libet ».
+sic tandem vivere incipio ut mihi libet».
 
 
 
@@ -4865,11 +4782,11 @@ Nihil agens Cicero per urbis vias vagabatur, cum ob-
 
 viam illi Acidinus fit, arreptaque dextera: « Nisi forte quid
 
-habeas », inquit, « quod hodie magis te adliciat, pergratum
+habeas», inquit, « quod hodie magis te adliciat, pergratum
 
 mihi feceris si mecum veneris. Magnus enim ludus gladia-
 
-torius nuntiatus est. Visne me comitari? ».
+torius nuntiatus est. Visne me comitari?».
 
 
 
@@ -4877,7 +4794,7 @@ Cui Cicero: « Cur non? Otiosus sum, neque unquam gla-
 
 diatorum paria armis dimicantia vidi; at saepe audivi ma-
 
-gnam delectationem hoc spectaculum adferre ».
+gnam delectationem hoc spectaculum adferre».
 
 
 
@@ -4893,7 +4810,7 @@ gladiatores alter alterum petunt.
 
 Dum gladiatores proeliantur, Acidinus Ciceronem adloqui
 
-non desinebat: « Videsne », aiebat, « ut Thraex non libenter
+non desinebat: « Videsne», aiebat, « ut Thraex non libenter
 
 moriatur? Languidulus est in iugulo ad vulnus porrigendo;
 
@@ -4909,7 +4826,7 @@ cidit! Quam non
 
 timide mortale
 
-vulnus excepit! ».
+vulnus excepit!».
 
 
 
@@ -4917,7 +4834,7 @@ Plebs interea,
 
 sanguinem sitiens:
 
-« Ure! Verbera! » « post. sollemnem certaminum adparatum ».
+« Ure! Verbera!» « post. sollemnem certaminum adparatum».
 
 clamitabat; « Vici-
 
@@ -4945,7 +4862,7 @@ scuto tegebat; nudo capite ille, nudis pedibus, brevi tan-
 
 
 
-« dum gladiatores proeliantur ».
+« dum gladiatores proeliantur».
 
 
 
@@ -4995,7 +4912,7 @@ sunt? Neglegentius,
 
 nis! fallor, specta-
 
-bas ».
+bas».
 
 Cui ille: « Iucun-
 
@@ -5007,7 +4924,7 @@ semper est; mac-
 
 tantur in Circo homines, ut apud lanium boves. Neque ta-
 
-men ista displicent ».
+men ista displicent».
 
 
 
@@ -5035,7 +4952,7 @@ mus eius aetatis philosophus habebatur, ceterosque docto.
 
 res audisset, multum se in studiis speraret profecturum,
 
-tantum abfuit ut pater id abnueret vel quiequam obiceret,
+tantum abfuit ut pater id abnueret vel quicquam obiceret,
 
 ut contra, lacrimis obortis, ita responderit:
 
@@ -5045,7 +4962,7 @@ ut contra, lacrimis obortis, ita responderit:
 
 his rei publicae temporibus haec una spes maerorem meum
 
-leviorem facit, fore ut talis lius meus sit, qualis ipse fui ».
+leviorem facit, fore ut talis lius meus sit, qualis ipse fui».
 
 Quae cum dixisset M. Cicero, vir optimus, sed vanus
 
@@ -5071,7 +4988,7 @@ tator, coepit coram filio elata voce scaenicoque gestu versus
 
 plurimos ex illo poemate recitare, quod in suum honorem
 
-ipse composuerat, atque « De consulatu meo » inscripserat.
+ipse composuerat, atque « De consulatu meo» inscripserat.
 
 
 
@@ -5087,9 +5004,9 @@ ticuit. Deinde:
 
 
 
-« Haec omnia », exclamavit, « frustra fuerunt. Vixi. Flo-
+« Haec omnia», exclamavit, « frustra fuerunt. Vixi. Flo-
 
-rui. Nulla iam est omnino res publica; nullus ego ».
+rui. Nulla iam est omnino res publica; nullus ego».
 
 
 
@@ -5105,7 +5022,7 @@ At Cicero, patri obsequens, cum versus illos, quos iam-
 
 dudum memoriter didicerat, attentissime audivisset, brevi
 
-mora interiecta: « Velim, pater, mihi ignoscas, » inquit, «8
+mora interiecta: « Velim, pater, mihi ignoscas,» inquit, «8
 
 id te rogo quod ad peregrinationem meam non mediocri-
 
@@ -5115,7 +5032,7 @@ statuimus? Nam mihi, filio tuo, non licet Athenis sine
 
 aliquo decore vivere. Metuo enim, si parcior sim, ne mihl
 
-omnes pauperiem obiciant, sordes tibi ».
+omnes pauperiem obiciant, sordes tibi».
 
 — 86 —
 
@@ -5131,7 +5048,7 @@ ductas. Ex illarum mercedibus quod tibi opus erit suppe-
 
 
 
-ditabo ».
+ditabo».
 
 Post aliquot menses Cicero Athenas profectus est.
 
@@ -5245,11 +5162,11 @@ ad se properante gressu venienti.
 
 
 
-« Audistine », inquit, « quid de Caesare adlatum sit? Pe-
+« Audistine», inquit, « quid de Caesare adlatum sit? Pe-
 
 rit ile tandem; econiuratorum pugiones libertatem nobis
 
-restituerunt ».
+restituerunt».
 
 
 
@@ -5259,7 +5176,7 @@ et sollicito:
 
 
 
-« Audivi », inquit, « sed quinam rerum exitus futurus sit
+« Audivi», inquit, « sed quinam rerum exitus futurus sit
 
 nemo adhue providere potest. Omnia in ambiguo sunt. Vide
 
@@ -5271,7 +5188,7 @@ Caesarem illum esse, plebi aeque acceptum, moribus Cae-
 
 sare nequiorem, atrociorem animo. Humor est Bruti facinus
 
-Romanae plebi non esse probatum ».
+Romanae plebi non esse probatum».
 
 
 
@@ -5366,7 +5283,7 @@ Postquam Aristocritus et Cicero recesserunt, prior hio:
 
 
 
-« Quid de patre meo nuntias? Loquere ».
+« Quid de patre meo nuntias? Loquere».
 
 
 
@@ -5386,13 +5303,13 @@ accepisset palam faciebant. Denique:
 
 
 
-«Nihil novi fortasse », inquit, « nuntias; id evenit quod
+«Nihil novi fortasse», inquit, « nuntias; id evenit quod
 
 iamdiu metuebam. Quisnam in Antonio clementiam esse
 
 suspicaretur? Quisnam in Octaviano fidem? At, nulla re
 
-omissa, quomodo illum necaverint enarra ».
+omissa, quomodo illum necaverint enarra».
 
 
 
@@ -5408,19 +5325,19 @@ constituendae ipsi per quinquennium essent, ae suos quis-
 
 
 
-«infaustum omen! ».
+«infaustum omen!».
 
 
 
 que inimicos proscriberet, nemini iam dubium fuit quin
 
-patri tuo esset pereundum ».
+patri tuo esset pereundum».
 
 
 
 «At cur», Cicero interpellavit, « cum tresvirn Iomam
 
-appropinquarent, urbem ille non reliquit ? ».
+appropinquarent, urbem ille non reliquit ?».
 
 
 
@@ -5546,7 +5463,7 @@ etiam illi praeciderunt, ut ea spolia Antonio deferrent, prae-
 
 
 
-mium pro scelere laturi ».
+mium pro scelere laturi».
  
 
 
