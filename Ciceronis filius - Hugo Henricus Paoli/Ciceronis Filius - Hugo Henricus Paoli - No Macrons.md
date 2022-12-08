@@ -1151,121 +1151,60 @@ socios indemnatos interfici iussisset.
 
 ### Quid de Cicerone patre audierit.
 
-
-
 Dum igitur Cicero cum paedagogo ambulat in Campo
-
 Martio ac puerili modo de unoquoque oceurrentiun civium
-
-ex illo sciscitatur, ille vero, quasi aliud agens, lente ac negle-
-
-genter ad interrogata respondet, in suspectos quosdam ac
-
-
-
-male animatos homines inciderunt, qui obliquis oculis adu-
-
-lescentulos ex equestri ordine certaminibus gymnicis corpora
-
-
-
+ex illo sciscitatur, ille vero, quasi aliud agens, lente ac
+neglegenter ad interrogata respondet, in suspectos quosdam ac
+male animatos homines inciderunt, qui obliquis oculis adulescentulos
+ex equestri ordine certaminibus gymnicis corpora
 exercentes spectarent.
 
-«Sic Romae fit», aiebant; «divites ludendo tempus te-
-
-
-
-runt, pauperes fame pereunt».
-
-
+«Sic Romae fit», aiebant; «divites ludendo tempus terunt, pauperes
+fame pereunt».
 
 Succincta tunica, incompti capilli, sordidi cerassioresque
-
 calcei plebeios homines declarabant. Quorum unus, cuius
-
-in oeulis sinistrum quoddam lumen elucebat, parvo Cice-
-
-rone appropinquante, murmurare coepit:
-
-
+in oculis sinistrum quoddam lumen elucebat, parvo Cicerone
+appropinquante, murmurare coepit:
 
 «Pusionis istius pater, qui se patrem patriae vocari
-
 gloriatur, quantum mali ipsius capiti impendeat, prorsus
-
 non videt».
-
-
 
 Atque elatiore voce:
 
-
-
-«Refer haec, puerule, patri tuo: illum non * patrem pa-
-
-
-
-triae' plebs Romana vocat, sed *sicarium ', qui nulla iudicum
-
+«Refer haec, puerule, patri tuo: illum non 'patrem patriae'
+plebs Romana vocat, sed 'sicarium', qui nulla iudicum
 sententia liberos cives ad supplicium duci iusserit».
 
-
-
 Expalluit paedagogus, arreptaque manu puerum secum
-
 trahebat, metu captum ac semel atque iterum rogantem:
-
-«Quid homini illi nobiseum est? Quid sibi vult? Hunc
-
+«Quid homini illi nobiscum est? Quid sibi vult? Hunc
 virum numquam apud patrem meum vidi; nos tamen ille
+probe videtur nosse».
 
-probe videtur nosse». |
-
-
-
-Celeriter discedentes homo sequebatur: «' Tristior pater
-
+Celeriter discedentes homo sequebatur: «Tristior pater
 tuus vivet, male peribit. Sabinam enim anum interrogavi,
-
 divina mente praeditam, ut cognoscerem quomodo ille esset
-
 obiturus».
 
-
-
-substitit paulum Cieero, subitaque sollicitudine cor-
-
-reptus, frustra paedagogo obsistente, audacter rogavit:
-
-
+Substitit paulum Cicero, subitaque sollicitudine correptus,
+frustra paedagogo obsistente, audacter rogavit:
 
 «Quidnam illa tibi respondit? dic, age».
 
+Tum ille, acerbo cum risu puerum intuens:
 
+«Quid? Qui laqueo civium gulas fregit, ipse iugulatus peribit.
+Fiet id aliquando: memento. Haec Catilinae ultio erit».
 
-lum ille, acerbo cum risu puerum intuens:
-
-
-
-«Quid ? Qui laqueo civium gulas fregit, ipse iugulatus pe-
-
-ribit. Fiet id aliquando: memento. Haec Catilinae ultio erit».
-
-
-
-landem, ducente paedagogo, puer ex illa multitudine
-
+Tandem, ducente paedagogo, puer ex illa multitudine
 evasit.
 
 
-
-
-
-
+# END 08-Dec-22 
 
 ### Lex in M. Ciceronem lata.
-
-
 
 Magis in dies palam fiebat, quanto odio M. Cicero plebi
 
@@ -1312,25 +1251,19 @@ ad plebem transierat et tribunus plebis creatus est, legem
 
 tulit ut, si quis indemnatos cives necavisset, ei aqua et igni
 
-interdiceretur. M. Cieero sensit se hac lege peti, atque ex
+interdiceretur. M. Cicero sensit se hac lege peti, atque eItalia 
+iscedere sponte properavit.
 
-Italia discedere sponte properavit.
+## M. Cicero in exsilium proficiscitur.
 
+Tamdudum Cicero notaverat patrem tristem et taciturnum
 
-### M. Cicero in exsilium proficiscitur.
+factum rarius foras exire, rarius amicos et familiarespud
 
+e accipere; magnam diei partem illum, ut qui anxia curpremer
+tur, obducta fronte cogitabundum per aedium con-
 
-
-Iamdudum Cicero notaverat patrem tristem et taciturnum
-
-factum rarius foras exire, rarius amicos et familiares apud
-
-se accipere; magnam diei partem illum, ut qui anxia cura
-
-premeretur, obducta fronte cogitabundum per aedium con-
-
-clavia ambulare: tablinum exhedra mutare, exhedram oeco;
-
+clavia Tulare: tablinum exhedra mutare, exhedram oeco;
 celerius interdum ire, interdum defixis oculis consistere. Ma-
 
 trem etiam plerumque silere vel, lacrimis obortis, cum fide-
@@ -4226,24 +4159,17 @@ offerre solent, in philosophiae studia totus incubuerat.
 
 
 
-sed filius eius Cieero, ut sunt adulescentium animi ad
-
-Ilucunditatem vitae proclives, otii voluptatibus quocumque
+sed filius eius Cicero, ut sunt adulescentium animi aIlucund
+tatem vitae proclives, otii voluptatibus quocumque
 
 modo poterat fruebatur. Quin etiam, quo liberiorem vitam
-
 sibi degere liceret, a patre petierat ut sibi vel domum Romae
-
 conduceret, vel peregrinanti sumptus faceret. Otiabatur in-
 
-terea; mane, ut prius consueverat, in Campo Martio versa-
+terea; mane, ut prius consueverat, in Campo Martio versa-batur post meridiem in balineis. Eo enim post horam nonamagna 
+ivium pars, cotidianis negotiis exactis, solebat con-
 
-batur, post meridiem in balineis. Eo enim post horam nonam
-
-magna civium pars, cotidianis negotiis exactis, solebat con-
-
-venire, u& commode lavarentur atque vel pila ludendo vel
-
+venire,T commode lavarentur atque vel pila ludendo vel
 cum amicis colloquendo tempus tererent. Nam Romae decli-
 
 nante die vel sapientibus ac severis viris otiosis licebat esse.
