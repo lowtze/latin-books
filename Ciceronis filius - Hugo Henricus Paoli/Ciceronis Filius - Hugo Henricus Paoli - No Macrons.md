@@ -1411,45 +1411,18 @@ significant atque: «Piso, Romanus civis (*Quiris*) decessit (*leto datus est*)�
 
 ### Parvi Ciceronis dolor.
 
-Quantum doloris Cicero ceperit, cum, repentino illo nun-
-
-tio casu quodam aecepto, sororis virum mortuum esse co-
-
-enovit, difficile est dictu. Nam Piso, vir singularis humani-
-
-tatis ac suavissimis moribus praeditus, parvum Ciceronem
-
-tam carum habuit, ut maioris fratris loco illi potius esset
-
-quam adfinis; nec quicquam unquam praetermisit quin adu-
-
-lescentulum sibi conciliaret. Singultiens igitur Cicero domum
-
-celeriter repetivit, in cubieulum suum confugit nec cibum
-
+Quantum doloris Cicero ceperit, cum, repentino illo nuntio casu
+quodam aecepto, sororis virum mortuum esse coenovit, difficile est
+dictu. Nam Piso, vir singularis humanitatis ac suavissimis moribus
+praeditus, parvum Ciceronem tam carum habuit, ut maioris fratris loco illi potius esset quam adfinis; nec quicquam unquam praetermisit quin adulescentulum sibi conciliaret. Singultiens igitur Cicero domum
+celeriter repetivit, in cubiculum suum confugit nec cibum
 toto die ullum cepit. Mater aberat maximaque ancillarum
-
-pars illam ad Tulliam comitatae erant. Quae domi manse-
-
-rant, de repentino Pisonis obitu maerentes colloquebantur.
-
-
-
+pars illam ad Tulliam comitatae erant. Quae domi manserant, de
+repentino Pisonis obitu maerentes colloquebantur.
 Puer solito neglegentius adservabatur.
 
 
-
-
-
-
-
-— 54 —
-
-
-
 ### Pisonis funus paratur.
-
-
 
 Dum Cicero solus ac tristis vel lectulum suum premit, vel
 
