@@ -1373,56 +1373,23 @@ primum conveniam».
 
 ### Piso moritur.
 
-
-
-Dicto citius ancillae dominae paruerunt; iamque Teren
-tia, stola illa induta qua Romanae matronae vestiri sole-
-
-bant, s1 foras essent exiturae, aedium in atrio, aegre moram
-
-illam ferens, pedisséquas exspectabat, cum ipsam 'Tulliae
-
+Dicto citius ancillae dominae paruerunt; iamque Terentia, stola illa
+induta qua Romanae matronae vestiri solebant, si foras essent
+exiturae, aedium in atrio, aegre moram
+illam ferens, pedissequas exspectabat, cum ipsam Tulliae
 nutricem conspexit e vestibulo aedes intrantem atque in
-
 limine haesitantem. Haec anus Tulliam a nuptiarum die in
-
 Pisonis domum secuta erat, eamque Tullia tamquam alteram
-
 matrem diligebat; aetatis provectae mulier, sed obvia atque
-
 affabili natura, facie plerumque hilari, argutis oculis; tum
-
 vero adeo tristis et conturbata, adeo squalida, ut ipsi capilli
-
-— B3 —
-
-
-
-incompti, ipsa sordida ac discincta vestis, magna 1llam celeri-
-
-
-
-tate ac festinatione aedes dominae suae reliquisse indicarent.
-
-Roganti Terentiae: «Quid mihi nuntias? Loquere», re-
-
-
-
-spondit: «Gaius decessit» Nec verbum ullum adiecit.
-
-
-
-
-
-
-
+incompti, ipsa sordida ac discincta vestis, magna illam celeritate ac
+festinatione aedes dominae suae reliquisse indicarent.
+Roganti Terentiae: «Quid mihi nuntias? Loquere», respondit: «Gaius
+decessit» Nec verbum ullum adiecit.
 
 
 ### Pisonis funus indicitur.
-
-
-
-
 
 Saepe mater parvum Ciceronem monuerat, si forte ille
 
@@ -2110,7 +2077,7 @@ prospectare. Nam praeter cubicula ad dormiendum idonea
 
 alia parva conelavia in eubiculorum modum aedificata erant,
 
-in quibus, s1 quis vellet, tranquillo in otio interdiu morari
+in quibus, si quis vellet, tranquillo in otio interdiu morari
 
 poterat legendo vel meditando vel quiescendo.
 
