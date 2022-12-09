@@ -1271,63 +1271,36 @@ Nam M. Cicero, qua inconstantia fuit, tantum in rebus secundis
 superbum et gloriosum se praebuit, quantum in adflictis querulum et demissum. Scribebat enim: «Conficior maerore, mea Terentia, nec meae me miseriae magis excruciant quam tuae vestraeque». Vel etiam: «Cum aut scribo ad vos aut vestras lego, conficior lacrimis sic, ut
 ferre non possim». Quae verba magis infirmam mulierculam decere opinamur quam virum Romanum, eumque consularem.
 
+
 ### De re vehiculari apud Romanos.
 
-Quoniam mentio incidit de crebris litteris à "Terentia
-
-acceptis, cum illa Komae moraretur, vir eius in Graecia
-
+Quoniam mentio incidit de crebris litteris a Terentia
+acceptis, cum illa Romae moraretur, vir eius in Graecia
 exsul esset, suspicor nonnullis puerorum hane historiolam
+legentium audiendi studium iniectum esse quomodo antiquis
+temporibus litterarum commercium vel publice vel
+privatim se haberet. Publiceum officium, quod nos «la posta»
+vocamus, Romani vario nomine indicabant, cum illud
+*cursum publicum*, *cursum vehicularem*, *cursum fiscalem*, *rem
+raedariam* vel *vehicularem* dicerent, ne nomina omnia persequar,
+quae varia et multa sunt.
 
-legentium audiendi studium iniectum esse quomodo anti-
-
-quis temporibus litterarum commercium vel publice vel
-
-privatim se haberet. Publiceum officium, quod nos «la po-
-
-Sta» vocamus, Romani vario nomine indicabant, cum illud
-
-cursum publicum, cursum vehicularem, cursum fiscalem, rem
-
-raedariam vel vehicularem dicerent, ne nomina omnia per-
-
-sequar, quae varia et multa sunt.
-
-
-
-Cursum publicum primum a Dareio, Persarum rege, exco-
-
-gitatum illi qui post Alexandri Magni mortem in illius im-
-
-perium suecesserant in ipsorum regnis instituerunt. Sed in
-
+Cursum publicum primum a Dareio, Persarum rege, excogitatum illi qui
+post Alexandri Magni mortem in illius imperium successerant in
+ipsorum regnis instituerunt. Sed in
 re vehiculari ordinanda Romani longius quam ceteri populi
-
 provecti sunt.
 
-
-
 Illud tamen animadvertendum est, quod apud antiquos
+cursus publicus uni tantum rei publicae administrandae necessitati
+subveniebat. Ut privatae litterae ad eos quibus
+inscriptae erant adferrentur privati ipsi suis opibus et impensis
+curabant.
 
-cursus publicus uni tantum rei publicae administrandae ne-
-
-cessitati subveniebat. Ut privatae litterae ad eos quibus
-
-inscriptae erant adferrentur privati ipsi suis opibus et im-
-
-pensis curabant.
-
-
-
-Cursus publicus celerior et constantior ab Augusti tem-
-
-poribus factus est, postquam Augustus iussit modicis inter-
-
-vallis per militares vias vehicula disponi, quo facilius co-
-
-
-
-gnosci posset quid in provincia quaque gereretur.
+Cursus publicus celerior et constantior ab Augusti temporibus factus
+est, postquam Augustus iussit modicis intervallis per militares vias
+vehicula disponi, quo facilius cognosci posset quid in provincia
+quaque gereretur.
 
 
 ### Cursus publicus ab Augusto ad Constantinum.
