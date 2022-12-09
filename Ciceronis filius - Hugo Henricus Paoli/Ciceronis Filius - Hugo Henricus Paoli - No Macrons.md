@@ -1318,37 +1318,20 @@ quidam erat praepositus.
 
 ### De epistularum commercio inter privatos.
 
-
-
 Ciceronis temporibus, si quis in re publica eminebat,
-
 frequentes ei epistulae mittendae erant: ad familiares, ad
-
-amicos, ad potentiores civitatis viros. Magnam igitur (a-
-
-bellariorum multitudinem inter servos alebat, qui litterarum
-
-fasciculos ad inscripta nomina perferrent. Tabellariorum ce-
-
-lerrimi cursores dicebantur; longiora itinera hi capessebant.
-
-Litterae quae locis disiunctissimis maximeque diversis red.
-
-dendae essent, iis plerumque tradebantur qui illuc iter face-
-
-rent. Cum vero litterarum commercium ingentem sumptum
-
+amicos, ad potentiores civitatis viros. Magnam igitur *tabellariorum*
+multitudinem inter servos alebat, qui litterarum
+fasciculos ad inscripta nomina perferrent. Tabellariorum celerrimi
+*cursores* dicebantur; longiora itinera hi capessebant.
+Litterae quae locis disiunctissimis maximeque diversis reddendae
+essent, iis plerumque tradebantur qui illuc iter facerent. Cum
+vero litterarum commercium ingentem sumptum
 privatis adferret, qui in amicitia erant consuerant inter se
-
 ita subvenire, ut alter alterius cursoribus invicem uteretur.
-
 At si propter commorationem tabellariorum et cursorum
-
-nemo erat cuilitterarum fasciculus traderetur, litterae ali-
-
-quot dies in manibus illius qui scripserat inertes manebant.
-
-
+nemo erat cui litterarum fasciculus traderetur, litterae aliquot dies
+in manibus illius qui scripserat inertes manebant.
 
 
 ### M. Cicero ab exsilio revocatur.
