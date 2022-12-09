@@ -1202,57 +1202,28 @@ Tandem, ducente paedagogo, puer ex illa multitudine
 evasit.
 
 
-# END 08-Dec-22 
-
 ### Lex in M. Ciceronem lata.
 
 Magis in dies palam fiebat, quanto odio M. Cicero plebi
+Romanae esset, cum praesertim P. Clodius, quem M. Cicero
+inimicissimum habebat, C. Iulio Caesare favente, popularem invidiam
+in illum, quocumqueimodo poterat, concitaret. Ad id res est
+adducta, ut, si quando parvus Cicero
+um paedagogo vel remotioribus urbis locis ambulatum
+exisset, infimae plebeculae pueri, ubi primum illum agnovissent,
+statim clamare inciperent: «M. Ciceronis filius adest;
+depellamus illum. Cur patimur eum inter nos versari? Quin
+manus in illum inicimus?». Iidem maledictis puerum obruebant,
+lapidibus incessebant, vel contumeliose intuentes consputabant.
 
-Romanae esset, cum praesertim P. Cledius, quem M. Ci-
-
-— 48 —
-
-
-
-cero inimicissimum habebat, C. Iulio Caesare favente, po-
-
-pularem invidiam in illum, quocumqueimodo poterat, con-
-
-c*itaret. Ad idir*es est adducta, ut, si quando parvus Cicero
-*
- um pa*edagogo vel remotioribus urbis locis ambu*latum*
- exi*sset, infiua*e plebeculae pueri, ubi primum illum agno-
-
-vissent, statim clamare inciperent: «M. Ciceronis filius adest;
-
-
-
-
-
-«maledietis puerum obruebant, lapidibus incessebant».
-
-
-
-
-
-depellamus illum. Cur patimur eum inter nos versari ? Quin
-
-manus in illum inicimus ?». lidem maledictis puerum obrue-
-
-bant, lapidibus ineessebant, vel contumeliose intuentes con-
-
-sputabant.
-
-
+![«maledietis puerum obruebant, lapidibus incessebant».]()
 
 P. Clodius tandem, qui, quamquam nobili loco natus,
-
 ad plebem transierat et tribunus plebis creatus est, legem
-
 tulit ut, si quis indemnatos cives necavisset, ei aqua et igni
+interdiceretur. M. Cicero sensit se hac lege peti, atque ex 
+Italia discedere sponte properavit.
 
-interdiceretur. M. Cicero sensit se hac lege peti, atque eItalia 
-iscedere sponte properavit.
 
 ## M. Cicero in exsilium proficiscitur.
 
