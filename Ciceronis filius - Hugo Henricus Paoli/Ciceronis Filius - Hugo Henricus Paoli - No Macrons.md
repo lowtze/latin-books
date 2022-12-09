@@ -1352,54 +1352,30 @@ ut si redeuntem maritum brevi esset acceptura.
 
 ### Nuntius tristis de Pisone adfertur.
 
-
-
 Sed hominum fortunae in dies mutantur. Quadam die
-
 una ex ancillis Tulliae Ciceronis domum primo mane adiit
-
 atque concitatis verbis ab ostiario petiit ut in conspectum
-
-Terentiae statim admitteretur. Venia impetrata lerentiae
-
+Terentiae statim admitteretur. Venia impetrata Terentiae
 cubiculum introiit eique tabellas raptim a Tullia exaratas
-
 trementi manu porrexit. Quibus lectis Terentia primum
-
-expalluit ac mutescens inscriptas litteras semel atque ite-
-
-rum relegit, quasi oculis suis vix confisa; deinde: «O me
-
-miseram !» clamare coepit, «o me perditam et adflictam!».
-
-Seripserat enim Tullia: «Piso meus, repentino morbo cor-
-
-reptus, aegrotat graviter». lerentia, ubi primum improvisus
-
+expalluit ac mutescens inscriptas litteras semel atque iterum
+relegit, quasi oculis suis vix confisa; deinde: «O me
+miseram!» clamare coepit, «o me perditam et adflictam!».
+Scripserat enim Tullia: «Piso meus, repentino morbo correptus,
+aegrotat graviter». Terentia, ubi primum improvisus
 ille dolor paulum requievit, domesticas ancillas adlocuta:
-
 «Ferte cito vestem meam», inquit (nondum enim a lecto
-
 surrexerat); «ferte tunicam, strenue, stolam, ricinium etiam.
-
 Agite, heus! Ocius! Quid cessatis, ignavissimae? Statim
-
-foras exeam oportet ut Tulliodlm, filiam meam, quam
-
+foras exeam oportet ut Tulliolam, filiam meam, quam
 primum conveniam».
-
-
-
-
-
 
 
 ### Piso moritur.
 
 
 
-Dicto citius ancillae dominae paruerunt; iamque Teren-
-
+Dicto citius ancillae dominae paruerunt; iamque Teren
 tia, stola illa induta qua Romanae matronae vestiri sole-
 
 bant, s1 foras essent exiturae, aedium in atrio, aegre moram
