@@ -1436,51 +1436,19 @@ funus pararent.
 
 ### De libitinariis.
 
-LibinarW d dicebantur quibus mortuorum exsequiae
+![«corpus in aedium atrio iacuit».]()
 
-commissae erant, magnamque circa se ministrorum multi-
-
-
-
-
-
-«corpus in aedium atrio iacuit».
-
-
-
-tudinem habebant qui singula curarent. Instrumentum fu-
-
-neris suppeditabant, ut sandapilam, lectum funebrem, fere-
-
-irum ; cormicines, tibicines, praefícas iidem conducebant. Qui
-
-libitinariam exercebant, maximos quaestus ex ea arte facie-
-
-
-
-
-
-
-
-bant; quae tamen, cum indecora ac turpis videretur, non
-
+*Libitinarii* ii dicebantur quibus mortuorum exsequiae
+commissae erant, magnamque circa se ministrorum multitudinem habebant
+qui singula curarent. Instrumentum funeris suppeditabant, ut
+*sandapilam*, *lectum funebrem*, *feretrum*; *cornicines*, *tibicines*, *praeficas* iidem conducebant. Qui
+libitinariam exercebant, maximos quaestus ex ea arte faciebant; quae
+tamen, cum indecora ac turpis videretur, non
 minorem ignominiam adferebat quam lucrum. Libitinarii ob
-
-
-
-id vocabantur, quod L4b$ina Venus vetus Mortis appel.
-
-latio fuit.
-
-
-
-
-
+id vocabantur, quod *Libitina Venus* vetus Mortis appellatio fuit.
 
 
 ### Mortui Pisonis expositio.
-
-
 
 Dies septem mortui Pisonis corpus in aedium atrio iacuit.
 
