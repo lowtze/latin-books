@@ -1336,39 +1336,18 @@ in manibus illius qui scripserat inertes manebant.
 
 ### M. Cicero ab exsilio revocatur.
 
-
 M. Ciceronis exsilium non diuturnum fuit. Anno enim
-
-postquam ille Romam relinquere coactus est, Senatus de-
-
-crevit ut in patriam revocaretur, summo studio de eius
-
+postquam ille Romam relinquere coactus est, Senatus decrevit ut in
+patriam revocaretur, summo studio de eius
 reditu C. Calpurnio Pisone adnitente, cui, ut supra diximus,
-
-Tullia nupserat. Maerorem Terentia deposuit totaque fa-
-
-milia ex magna aegritudine recreari coepit. Parvulus tum
-
+Tullia nupserat. Maerorem Terentia deposuit totaque familia ex magna
+aegritudine recreari coepit. Parvulus tum
 Cicero annum octavum agebat atque, cum ea sit puerorum
-
-— B9 —
-
-
-
-natura, ut ad laetitiam procliviores sint quam ad aegritudi-
-
-nem, magnopere gaudebat familiae faciem esse mutatam.
-
+natura, ut ad laetitiam procliviores sint quam ad aegritudinem,
+magnopere gaudebat familiae faciem esse mutatam.
 Iam Terentia coeperat domum ut ante diligenter servare,
-
 aequo animo ancillis imperare, omnia intus sic disponere,
-
 ut si redeuntem maritum brevi esset acceptura.
-
-
-
-
-
 
 
 ### Nuntius tristis de Pisone adfertur.
