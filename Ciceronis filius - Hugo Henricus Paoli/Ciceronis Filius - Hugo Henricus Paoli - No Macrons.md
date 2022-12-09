@@ -1425,34 +1425,16 @@ Puer solito neglegentius adservabatur.
 ### Pisonis funus paratur.
 
 Dum Cicero solus ac tristis vel lectulum suum premit, vel
-
-aedium conclavia tamquam obstupefactus pererrat, leren-
-
-tia Tulliae aderat, exstinctum virum perpetua lamentatione
-
-deflenti. Extremum morientis spiritum uxor exceperat, ocu-
-
-los operuerat, anulum, ut mos erat, detraxerat. Deinde, post-
-
-quam, id quod vetus Romanorum ritus poscebat, ter virum
-
-conclamavit, in remotissimum oecum recesserat ut loébwunaru
-
-
-
+aedium conclavia tamquam obstupefactus pererrat, Terentia Tulliae
+aderat, exstinctum virum perpetua lamentatione
+deflenti. Extremum morientis spiritum uxor exceperat, oculos
+operuerat, anulum, ut mos erat, detraxerat. Deinde, postquam, id quod
+vetus Romanorum ritus poscebat, ter virum
+conclamavit, in remotissimum oecum recesserat ut *libitinarii*
 funus pararent.
 
 
-
-
-
 ### De libitinariis.
-
-
-
-
-
-
 
 LibinarW d dicebantur quibus mortuorum exsequiae
 
