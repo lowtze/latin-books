@@ -1227,66 +1227,36 @@ Italia discedere sponte properavit.
 
 ## M. Cicero in exsilium proficiscitur.
 
-Tamdudum Cicero notaverat patrem tristem et taciturnum
-
-factum rarius foras exire, rarius amicos et familiarespud
-
-e accipere; magnam diei partem illum, ut qui anxia curpremer
-tur, obducta fronte cogitabundum per aedium con-
-
-clavia Tulare: tablinum exhedra mutare, exhedram oeco;
-celerius interdum ire, interdum defixis oculis consistere. Ma-
-
-trem etiam plerumque silere vel, lacrimis obortis, cum fide-
-
-lissimis ancillis colloqui. Cum vero Tullia soror ex coniugali
-
+Iamdudum Cicero notaverat patrem tristem et taciturnum
+factum rarius foras exire, rarius amicos et familiares apud
+se accipere; magnam diei partem illum, ut qui anxia curapremeretur,
+obducta fronte cogitabundum per aedium conclavia ambulare:
+tablinum exhedra mutare, exhedram oeco;
+celerius interdum ire, interdum defixis oculis consistere. Matrem
+etiam plerumque silere vel, lacrimis obortis, cum fidelissimis
+ancillis colloqui. Cum vero Tullia soror ex coniugali
 domo parentes visura venisse, numquam cum matre sine
-
 suspiriis esse locutam, aut sine lacrimis discessisse.
 
-
-
 At quadam die, quamquam in aedium parte ab atrio
+remota sub paedagogi custodia versabatur, flebilem quandam feminarum
+vociferationem audivit atque cum eiulatibus ancillarum ipsius matris
+lugentis querimonias. Custodem adlocutus: «Quid fit?», Cicero ait,
+«tristius aliquid accidit, opinor».
 
-remota sub paedagogi custodia versabatur, flebilem quan-
-
-dam feminarum vociferationem audivit atque cum eiulati-
-
-bus ancillarum ipsius matris lugentis querimonias. Custo-
-
-dem adlocutus: «Quid fit?», Cicero ait, «tristius aliquid
-
-accidit, opinor».
-
-
-
-Obmutuerat ile; ne unum quidem verbum tota die
-
+Obmutuerat ille; ne unum quidem verbum tota die
 protulit.
 
-
-
-Cum advesperavisset, neque adhue pater, ut consueve-
-
-rat, puerum ad se adduci iussisset, vetus quaedam ancilla,
-
+Cum advesperavisset, neque adhue pater, ut consueverat,
+puerum ad se adduci iussisset, vetus quaedam ancilla,
 quae absente matre matris vices sustinebat, casu Ciceroni
-
 obvia venit. Cui roganti quid novi afferret, paulisper prius
-
 cunctata, tandem respondit:
 
-
-
 «Romam pater tuus reliquit; iniquae legi obnoxius in
-
 exsilium est profectus».
 
-
-
 Quo nuntio accepto, Cicero vix se tenere potuit quin
-
 magnam vim lacrimarum profunderet.
 
 
