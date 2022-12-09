@@ -1262,53 +1262,16 @@ magnam vim lacrimarum profunderet.
 
 ### Pater abest.
 
-
-
 Postquam M. Cicero in Graeciam est profectus, illius
-
 domus Romae maeroris et aegritudinis plena erat. Diem
-
 tristem tristior dies subsequebatur. Unum solacium erat
-
 quod erebrae epistulae a viro missae saepissime Terentiae
-
-
-
-
-
-
 adferebantur, quas illa cum legeret lacrimis prope delebat.
-
-Nam M. Cicero, qua inconstantia fuit, tantum in rebus se-
-
-
-
-cundis superbum et gloriosum se praebuit, quantum in ad-
-
-flictis querulum et demissum. Seribebat enim: «Conficior
-
-maerore, mea Terentia, nec meae me muüseriae magis ex-
-
-cruciant quam tuae vestraeque». Vel etiam: «Cum aut
-
-scribo ad vos aut vestras lego, conficior lacrimis sic, ut
-
-ferre non possim». Quae verba magis infirmam muliercu-
-Iamdecere opinamur quam virum Romanum, eumque con-
-
-
-
-sularem.
-
-
-
-
+Nam M. Cicero, qua inconstantia fuit, tantum in rebus secundis
+superbum et gloriosum se praebuit, quantum in adflictis querulum et demissum. Scribebat enim: «Conficior maerore, mea Terentia, nec meae me miseriae magis excruciant quam tuae vestraeque». Vel etiam: «Cum aut scribo ad vos aut vestras lego, conficior lacrimis sic, ut
+ferre non possim». Quae verba magis infirmam mulierculam decere opinamur quam virum Romanum, eumque consularem.
 
 ### De re vehiculari apud Romanos.
-
-
-
-
 
 Quoniam mentio incidit de crebris litteris à "Terentia
 
