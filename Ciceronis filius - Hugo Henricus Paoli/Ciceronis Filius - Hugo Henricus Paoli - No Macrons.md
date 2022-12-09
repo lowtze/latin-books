@@ -1392,60 +1392,24 @@ decessit» Nec verbum ullum adiecit.
 ### Pisonis funus indicitur.
 
 Saepe mater parvum Ciceronem monuerat, si forte ille
-
-in atrio versaretur, ne ultra limina in vestibulum procederet :
-
+in atrio versaretur, ne ultra limina in vestibulum procederet:
 multa in publico fieri quae ingenuum puerum nosse non
-
-oporteret. Sed mos est puerorum parentum praeceptis in-
-
-terdum non obtemperare; neque vero Cicero tam docili
-
-animo fuit, ut à ceterorum puerorum consuetudine unus
-
+oporteret. Sed mos est puerorum parentum praeceptis interdum non
+obtemperare; neque vero Cicero tam docili
+animo fuit, ut a ceterorum puerorum consuetudine unus
 discederet. Accidit igitur ut, postridie eius diei quo Piso
-
 decesserat, Cicero, cum forte paedagogus abesset, peteret ab
+ostiario ut vel minimam horam praetereuntes in via sibi
+liceret adspicere. Abnuit primum ostiarius; at tandem flagitanti
+puero morem gessit.
 
-ostiario ut vel minimam horam fpraetereuntes in via sibi
-
-liceret adspicere. Abnuit primum ostiarius; at tandem flagi-
-
-tanti puero morem gessit.
-
-
-
-Qui quidem, postquam in media via fuit, praeconem lugu-
-
-bri veste indutum conspexit magna voce clamantem: «C. Cal-
-
-purnius Piso, Quiris, leto datus est». Haec verba, a remo-
-
-tissima antiquitate tradita, idem significant atque: «Piso,
-
-
-
-Romanus civis (Qwuiris) decessit (leto datus est)»
-
-
-
-
-
-
-
-
-
-
-
-
-
+Qui quidem, postquam in media via fuit, praeconem lugubri veste
+indutum conspexit magna voce clamantem: «C. Calpurnius Piso, Quiris,
+leto datus est». Haec verba, a remotissima antiquitate tradita, idem
+significant atque: «Piso, Romanus civis (*Quiris*) decessit (*leto datus est*)»
 
 
 ### Parvi Ciceronis dolor.
-
-
-
-
 
 Quantum doloris Cicero ceperit, cum, repentino illo nun-
 
