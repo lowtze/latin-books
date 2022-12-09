@@ -1305,28 +1305,15 @@ quaque gereretur.
 
 ### Cursus publicus ab Augusto ad Constantinum.
 
-
-
-Ab Augusti usque ad Constantini aetatem, Komani im-
-
-peratores in cursu publico aptius constituendo multum pro-
-
-fecerunt. Rei vehiculari Romae praefectus praetori, in provin-
-
-cus praesides, praeerant, quorum singuli administro quodam
-
-utebantur, qui praefectus vehiculorum vocabatur. Singulae
-
+Ab Augusti usque ad Constantini aetatem, Komani imperatores in cursu
+publico aptius constituendo multum profecerunt. Rei vehiculari Romae
+*praefectus praetori*, in provinciis *praesides*, praeerant, quorum
+singuli administro quodam
+utebantur, qui *praefectus vehiculorum* vocabatur. Singulae
 autem provinciae ita in partes discriptae erant, ut, quibus
-
 locis equi stationarii mutandi essent, omnia reperirentur
-
-quae eursus publici necessitas posceret. Huic officio manceps
-
+quae cursus publici necessitas posceret. Huic officio *manceps*
 quidam erat praepositus.
-
-
-
 
 
 ### De epistularum commercio inter privatos.
