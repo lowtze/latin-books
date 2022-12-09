@@ -1448,6 +1448,8 @@ minorem ignominiam adferebat quam lucrum. Libitinarii ob
 id vocabantur, quod *Libitina Venus* vetus Mortis appellatio fuit.
 
 
+# END 09-Dec-22 pg 55
+
 ### Mortui Pisonis expositio.
 
 Dies septem mortui Pisonis corpus in aedium atrio iacuit.
