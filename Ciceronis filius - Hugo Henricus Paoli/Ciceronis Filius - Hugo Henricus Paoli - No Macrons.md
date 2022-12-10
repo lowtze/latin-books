@@ -1448,48 +1448,17 @@ minorem ignominiam adferebat quam lucrum. Libitinarii ob
 id vocabantur, quod *Libitina Venus* vetus Mortis appellatio fuit.
 
 
-# END 09-Dec-22 pg 55
-
 ### Mortui Pisonis expositio.
 
 Dies septem mortui Pisonis corpus in aedium atrio iacuit.
-
-Illud pollonctores, humi prius depositum ac frigida aqua
-
-ablutum, deinde accurate lautum atque perunctum, po-
-
-stremo praetexta toga indutum in funebri lecto composue-
-
-rant ibique odores adsidue incendebant. Virentis piceae rami
-
+Illud *pollinctores*, humi prius depositum ac frigida aqua
+ablutum, deinde accurate lautum atque perunctum, postremo praetexta
+toga indutum in funebri lecto composuerant ibique odores adsidue
+incendebant. Virentis piceae rami
 per illos dies foribus adiacebant; flentes ancillae illos iuxta
-
 Pisonis mortem adposuerant, quod funebre indicium esset.
-
-
-
-lacentis Pisonis vultum unus e pollinctoribus in cera im-
-
-pressit, quae ad sem-
-
-
-
-piternam illius mie- [( UPOUDUCU
-
-moriam in air ar- !
-
-mariolo adservaretur.
-
-
-
-
-
-
-
-
-
-
-
+lacentis Pisonis vultum unus e pollinctoribus in cera impressit, quae
+ad sempiternam illius memoriam in atrii armariolo adservaretur.
 
 
 ### Piso effertur. 
