@@ -1676,40 +1676,18 @@ et quicquid diu aqua molliri oportebat.
 
 ### De villae rusticae parte interiore.
 
-
-
-
-
 Circum interiorem cohortem plurima conclavia aedificata
-
-erant. Ibi et etlicus habitabat, qui familiae rusticae praee-
-
-rat;ibi et cellae serviles erant, et rustica balnea; valetuda-
-
-narium, etiam in quo aegroti servi curabantur, et ergastu-
-
-lwm, Ya aedificatum, ut deterioribus servis poenae locus
-
+erant. Ibi et *vilicus* habitabat, qui familiae rusticae praeerat;
+ibi et cellae serviles erant, et rustica balnea; *valetudinarium*,
+etiam in quo aegroti servi curabantur, et *ergastulum*, ita aedificatum,
+ut deterioribus servis poenae locus
 esset.
 
-
-
-Dubia et equilia prope culinam sita erant, ne modico
-
-calore unquam carerent ; amplior enim culina in villa rustica
-
-erat quam in urbe, neque aptior alius locus in villa vide-
-
-batur quo, maxime tempore hiberno, servi congregari pos-
-
-sent et iuxta focum quae domi facienda essent sedentes
-
-perficere.
-
-
-
-— 61 —
-
+*Bubilia* et *equilia* prope culinam sita erant, ne modico
+calore unquam carerent; amplior enim culina in villa rustica
+erat quam in urbe, neque aptior alius locus in villa videbatur quo,
+maxime tempore hiberno, servi congregari possent et iuxta focum quae
+domi facienda essent sedentes perficere.
 
 
 ### De reliquis villae rusticae aedificiis.
