@@ -1664,26 +1664,14 @@ poterat legendo vel meditando vel quiescendo.
 
 ### De villa rustica: cortes et piscinae.
 
-
-
-Binae cortes in villis rusticis erant exstructae, quibus in
-
+Binae *cortes* in villis rusticis erant exstructae, quibus in
 medius singulae piscinae haud mediocri amplitudine sitae
-
 erant vel solo impressae vel caeso lapide cavatae. Harum
-
 piseinarum interior ad id adhibebatur, ut boves ex agris
-
 reducti, oves ex pabulo redeuntes ceteraque animalia et
-
 bibere possent et aqua perfundi; aves etiam aquaticae ibi
-
-innabant. In exteriore piscina et coria et lupini macera-
-
-bantur, et quicquid diu aqua molliri oportebat.
-
-
-
+innabant. In exteriore piscina et coria et lupini macerabantur,
+et quicquid diu aqua molliri oportebat.
 
 
 ### De villae rusticae parte interiore.
