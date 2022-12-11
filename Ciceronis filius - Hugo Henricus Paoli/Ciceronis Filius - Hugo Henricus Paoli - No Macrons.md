@@ -1630,26 +1630,14 @@ atque opulentiae indicium erat.
 
 ### De Tusculano.
 
-
-
-locans saepe M. Cicero filio suo secum colloquenti:
-
-«Haec villa», aiebat, «aequalis tua est». Coeperat enim lu-
-
-sculanum eo ipso anno instruere quo Cicero filius natus est.
-
+Iocans saepe M. Cicero filio suo secum colloquenti:
+«Haec villa», aiebat, «aequalis tua est». Coeperat enim Tusculanum eo
+ipso anno instruere quo Cicero filius natus est.
 Circumiacentes hortos signis in Graecia emptis ornaverat,
-
-interiores aedes pretiosa supellectile instruxerat, bibliothe-
-
-cam accurate ordinaverat, libris compluribus in bibliothecae
-
+interiores aedes pretiosa supellectile instruxerat, bibliothecam
+accurate ordinaverat, libris compluribus in bibliothecae
 armaria digestis. In libris comparandis consilio est usus
-
 T. Pomponii Attici, qui eo tempore in arte libraria excellebat.
-
-
-
 
 
 ### De Romanorum villa urbana.
