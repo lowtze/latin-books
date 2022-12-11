@@ -1463,79 +1463,26 @@ ad sempiternam illius memoriam in atrii armariolo adservaretur.
 
 ### Piso effertur. 
 
-21 rper , 3
+![«funebris pompa magno sumptu ducta est».]()
 
-Octavo die post-
-
-quam decessit, Piso
-
-a vespillonibus ex ae-
-
-
-
-dium atrio est ela-
-
-
-
-tus, ut ad ustrinam extra pomerium deferretur atque in
-
+Octavo die postquam decessit, Piso
+a *vespillonibus* ex aedium atrio est elatus, ut ad ustrinam extra
+pomerium deferretur atque in
 rogo ibi exstructo cremaretur. Vetabant enim leges corpus
-
-mortuum intra urbis moenia comburi. Funebris pompa ma-
-
-eno sumptu et magnificentia ducta est. D(ssignatores, utrim-
-
-que dispositi, curabant ne quid funebrem pompam turbaret,
-
+mortuum intra urbis moenia comburi. Funebris pompa maeno sumptu et
+magnificentia ducta est. *Dissignatores*, utrimque dispositi, curabant
+ne quid funebrem pompam turbaret,
 ut omnia recte ac rite procederent. Praecedebant cornicines
-
-
-
 et fidicines, qui quidem, quacumque funus transibat, acuta
-
-cum gravibus temperantes, mixto ingentique sono praete-
-
-reuntium aures complebant. Subsequebantur qui ferales fa-
-
-ces agitabant, cum iisque conductae aliquot feminae (prae-
-
-ficae dicebantur), quae, mercede accepta ut lugubres eiula-
-
-tiones ederent, clamore magno fictum ostentabant dolorem.
-
-
-
-
-
-«funebris pompa magno sumptu ducta est».
-
-
-
-
-
-
-
-— 56 —
-
-
-
-
-
-Quarum una interdum, ceteris tacentibus, maesta quadam
-
-naenia exstincti viri, qui efferebatur, laudes canebat.
-
-
-
-
-
+cum gravibus temperantes, mixto ingentique sono praetereuntium aures
+complebant. Subsequebantur qui ferales faces agitabant, cum iisque
+conductae aliquot feminae (*praeficae* dicebantur), quae, mercede
+accepta ut lugubres eiulationes ederent, clamore magno fictum
+ostentabant dolorem. Quarum una interdum, ceteris tacentibus, maesta
+quadam *naenia* exstincti viri, qui efferebatur, laudes canebat.
 
 
 ### Pisonis feretrum.
-
-
-
-
 
 Post ululantium praeficarum turbam i lento gressu pro-
 
