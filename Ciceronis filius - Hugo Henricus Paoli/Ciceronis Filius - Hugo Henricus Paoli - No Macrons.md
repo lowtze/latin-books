@@ -1571,36 +1571,20 @@ concitatae funditus everterat.
 
 ### M. Cicero aedificat.
 
-
-
-Iam novae aedes surgebant, magnaque operarum multi-
-
-tudo officium suum exsequebantur. M. Cicero ipse, si quid
-
+Iam novae aedes surgebant, magnaque operarum multitudo officium suum
+exsequebantur. M. Cicero ipse, si quid
 otii erat, multam diei partem ibi terebat: colloquebatur
-
 cum redemptoribus, fabros, si quid rectius agendum erat,
-
 admonebat, adlatam materiem recognoscebat. Patri filius
-
-aderat rei novitate inductus atque omnia inspiciend! stu-
-
-diosus. Saepe etiam, absente patre, cum paedagcgo in exstruen-
-
-dae domus area versabatur. Sed quadam die, repentino tu-
-
-multu exorto, atrocius quiddam factum est.
-
-
+aderat rei novitate inductus atque omnia inspiciendi studiosus. Saepe
+etiam, absente patre, cum paedagego in exstruendae domus area
+versabatur. Sed quadam die, repentino tumultu exorto, atrocius
+quiddam factum est.
 
 Vagabatur enim Cicero otiosus in area, gravique vultu,
-
 ut pueri solent, tamquam si ipse aedificandi artis peritissimus
-
 esset, aliquot quadratos lapides ex ordine positos recensebat,
-
 cum de improviso magnus clamor exauditur.
-
 
 
 ### Plebs Romana tumultuatur.
