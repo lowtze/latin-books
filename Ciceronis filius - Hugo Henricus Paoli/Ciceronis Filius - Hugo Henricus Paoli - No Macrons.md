@@ -1589,65 +1589,32 @@ cum de improviso magnus clamor exauditur.
 
 ### Plebs Romana tumultuatur.
 
-
-
 Armati homines aream invadunt, fabros inde expellunt,
-
 incohata opera disturbant, proximam Q. Ciceronis domum,
-
-M. fratris, lapidum coniectu frangunt, accensis facibus flam-
-
-mis dare conantur. Interea seditiosi viri vicatim ambientes
-
-plebem sollicitant. Maior in aream concursus fit. Omnia tur-
-
-bae ac terroris plena erant. Fugiens Cicero paedagogum una
-
+M. fratris, lapidum coniectu frangunt, accensis facibus flammis dare
+conantur. Interea seditiosi viri vicatim ambientes
+plebem sollicitant. Maior in aream concursus fit. Omnia turbae ac
+terroris plena erant. Fugiens Cicero paedagogum una
 fugientem rogavit:
 
-
-
-«Cur hi homines in aream nostram tanto furore insae-
-
-viunt ?».
-
-
+«Cur hi homines in aream nostram tanto furore insaeviunt?».
 
 Cui ille: «Noli id quaerere; ebrii sunt».
 
-
-
-«S1 ebrii sunt, cur patrem meum unum vituperant ? Cur
-
-
-
-unum illum oderunt? Clamantes complures audivi: * Pereat
-
-M. Cicero! '».
-
-
-
-
-
-
-
-— p9 —
-
-
+«Si ebrii sunt, cur patrem meum unum vituperant? Cur
+unum illum oderunt? Clamantes complures audivi: 'Pereat
+M. Cicero!'».
 
 Tum paedagogus: «Clodius ille, qui tantopere nisus est
-
 ut pater tuus in exsilium pellereiur, cum se victum putet, sic
-
-f*ortasse accepia*m ignominiam ulcisci conatur».
-*
+fortasse acceptam ignominiam ulcisci conatur».
 
 
- ## *Cicero apud patrem in Tusculano commor*atur.*
+## Cicero apud patrem in Tusculano commoratur.
  
 Ia*mCicero, uud*ecimum annum agens, prima studia in
 
-ludo perfecerat, cum pater illum Graeco cuidam servo tra-
+ludo perfecerat, cum pater illum Graeco cuidam servo tra
 
 didit, eximia doctrina praedito, cui Dionysio nomen erat,
 
@@ -2010,7 +1977,7 @@ B7 SENE 00v
 
 a.»» €" a Do . a" *
 
-* SN anal bis J APPEL" &*! "ote at. ua FEN. 1-5; ONCE ?
+* SN anal bis J APPEL" &*! "ote at. ua FEN. 1-5; ONCE?
 
 T X wrsolocSIMlaR ONSE X A US Ps eses eri
 
@@ -2764,7 +2731,7 @@ erat».
 
 'Togam cum dicimus, toga pura intellegenda est. logam
 
-vourpurea Ííasceola distinctam, quam ?praetextam vocabant,
+vourpurea Ííasceola distinctam, quam?praetextam vocabant,
 
 pueri; ut supra dictum est, induebant, et magistratus: hil
 
@@ -3287,7 +3254,7 @@ ruerat, tum pariter cum rei publicae libertate perisse.
 
 Postquam Cicero filius vestem mutavit, quisnam Arpi-
 
-natium illum togatum non vidit ? Omnes oppidi areas, vicos,
+natium illum togatum non vidit? Omnes oppidi areas, vicos,
 
 vias forumque totum, hue illuc excurrens, frequentabat, ut
 
@@ -3299,7 +3266,7 @@ vides», furens exclamabat, «ut male toga defluat, quam non
 
 concinnus sit umbo? Quid cessas, inepte, hos sinus aptius
 
-accommodare ?». Horam unam, horam alteram ; nondum res
+accommodare?». Horam unam, horam alteram ; nondum res
 
 ad exitum perducebatur, nec prius servi a magno metu
 
@@ -4325,7 +4292,7 @@ patri tuo esset pereundum».
 
 «At cur», Cicero interpellavit, «cum tresvirn Iomam
 
-appropinquarent, urbem ille non reliquit ?».
+appropinquarent, urbem ille non reliquit?».
 
 
 
@@ -4412,7 +4379,7 @@ tabatur, propius accedere iubet, atque in e obliquis oculiintuens, excIamat:
 
 Cui ipse:
 
-* Qui pudor in sicariis ? ".
+* Qui pudor in sicariis? ".
 
 
 
