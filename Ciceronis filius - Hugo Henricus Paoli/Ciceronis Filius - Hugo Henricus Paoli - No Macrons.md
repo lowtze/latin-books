@@ -1612,34 +1612,20 @@ fortasse acceptam ignominiam ulcisci conatur».
 
 ## Cicero apud patrem in Tusculano commoratur.
  
-Ia*mCicero, uud*ecimum annum agens, prima studia in
-
-ludo perfecerat, cum pater illum Graeco cuidam servo tra
-
-didit, eximia doctrina praedito, cui Dionysio nomen erat,
-
+Iam Cicero, undecimum annum agens, prima studia in
+ludo perfecerat, cum pater illum Graeco cuidam servo tradidit,
+eximia doctrina praedito, cui Dionysio nomen erat,
 severiore disciplina excolendum. Consueverat tum M. Cicero
-
 magnam anni partem in Tusculano commorari, quae loca
-
-summopere diligebat, diuque proeul abesse ab urbe, post-
-
-quam Romae, Caesare et Pompeio principatum obtinentibus,
-
+summopere diligebat, diuque procul abesse ab urbe, postquam
+Romae, Caesare et Pompeio principatum obtinentibus,
 pristinam auctoritatem amiserat.
 
-
-
 Venit igitur Cicero plus librorum secum adferens quam
-
 discendi cupiditatem, atque, cum magis illius animus ad
-
 vitae lautitias quam ad studia inclinaret, libentissime se
-
 in Tusculano esse fatebatur; quicquid enim adspexerat, luxus
-
 atque opulentiae indicium erat.
-
 
 
 ### De Tusculano.
