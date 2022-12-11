@@ -1642,56 +1642,24 @@ T. Pomponii Attici, qui eo tempore in arte libraria excellebat.
 
 ### De Romanorum villa urbana.
 
-
-
-Duo apud Romanos villarum genera erant: altera vila
-
-wrbana dicebatur (vel villa pseudourbana, vel meritorvum),
-
-altera villa. rustica. Villae urbanae ad dominorum volupta-
-
-tem aedificatae erant, villae rusticae ad ea omnia suppedi-
-
-tanda quae agrorum cultus poscebat. Villae urbanae ple-
-
-rumque a peristylio adibantur, non, ut aedes urbanae, per
-
-
-
-
-
-
-
-— 60 —
-
-
-
+Duo apud Romanos villarum genera erant: altera *villa
+urbana* dicebatur (vel *villa pseudourbana*, vel *meritorium*),
+altera *villa rustica*. Villae urbanae ad dominorum voluptatem
+aedificatae erant, villae rusticae ad ea omnia suppeditanda quae
+agrorum cultus poscebat. Villae urbanae plerumque a peristylio
+adibantur, non, ut aedes urbanae, per
 vestibulum et fauces, ab atrio, largiusque aere fruebantur et
-
 sole. Cum vero rus, patentibus agris, laxum spatium ad
-
 aedificandum praeberet, plura in illis triclinia aedificari
-
 mos erat, ampla item cubicula, vel separata illa domus
-
-membra quae diaeíae vocabantur. Singulae diaetae plura
-
+membra quae *diaetae* vocabantur. Singulae diaetae plura
 conclavia aut cubicula capiebant. Neque externae fenestrae
-
 deerant, sed et in triclinio discumbentibus et in cubiculo
-
 iacentibus agros, vineas, colles latissimis fenestris licebat
-
 prospectare. Nam praeter cubicula ad dormiendum idonea
-
-alia parva conelavia in eubiculorum modum aedificata erant,
-
+alia parva conelavia in cubiculorum modum aedificata erant,
 in quibus, si quis vellet, tranquillo in otio interdiu morari
-
 poterat legendo vel meditando vel quiescendo.
-
-
-
 
 
 ### De villa rustica: cortes et piscinae.
