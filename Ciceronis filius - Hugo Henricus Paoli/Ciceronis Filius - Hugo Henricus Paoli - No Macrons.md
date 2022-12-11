@@ -1484,43 +1484,20 @@ quadam *naenia* exstincti viri, qui efferebatur, laudes canebat.
 
 ### Pisonis feretrum.
 
-Post ululantium praeficarum turbam i lento gressu pro-
-
-cedebant, qui cereis imaginibus ad ora aptatis maiores, ut
-
-supra diximus, simulabant. Virilis sexus consanguinei fere-
-
-trum deferebant: iacebat Piso in lecto eburneis pedibus or-
-
-nato, purpureis vestibus instrato, ac sic positus, ut omnes
-
-illius faciem videre possent. Post feretrum propinqui om-
-
-nes utriusque sexus veniebant cum ipsa Pisonis uxore. Servi
-
-complures, quos Piso testamento manumiserat, feretrum pil-
-
-leati sequebantur. Ea erat enim Romanorum consuetudo, ut
-
-liberti pilleo caput tegerent. Cum ceteris, ad exsequias co-
-
-honestandas, magna multitudo convenerat familiarium, no-
-
-bilium virorum, clientium.
-
-
-
-
-
-
-
-
-
+Post ululantium praeficarum turbam ii lento gressu procedebant, qui
+cereis imaginibus ad ora aptatis maiores, ut
+supra diximus, simulabant. Virilis sexus consanguinei feretrum
+deferebant: iacebat Piso in lecto eburneis pedibus ornato, purpureis
+vestibus instrato, ac sic positus, ut omnes
+illius faciem videre possent. Post feretrum propinqui omnes utriusque
+sexus veniebant cum ipsa Pisonis uxore. Servi
+complures, quos Piso testamento manumiserat, feretrum pilleati
+sequebantur. Ea erat enim Romanorum consuetudo, ut
+liberti pilleo caput tegerent. Cum ceteris, ad exsequias cohonestandas, magna multitudo convenerat familiarium, nobilium
+virorum, clientium.
 
 
 ### Tulliae dolor.
-
-
 
 Muti procedebant omnes. Passis capillis vestituque squa-
 
