@@ -1505,7 +1505,7 @@ propinquos tenens; saepiusque misera
 pectus plangebat vel genas lacerabat unguibus. Constat
 Romanorum legem antiquissimam sanxisse ne mulieres in
 funeribus nimium dolorem ostenderent, sed quod lege vetitum
-erat consuetudine coneedebatur. Deos etiam interdum vocabat ut
+erat consuetudine concedebatur. Deos etiam interdum vocabat ut
 exstinctum virum sibi redderent. Parvus Cicero
 comitabatur, illius vestibus adhaerens, magno et ipse dolore
 permotus, quamquam nondum e pueris excesserat, quae aetas
@@ -1553,47 +1553,20 @@ humati sunt.
 ### De M. Ciceronis reditu.
 
 Maeror parvi Ciceronis de Pisonis obitu non diuturnus
+fuit; cito enim puerorum dolores mitescunt. Magnum insuper gaudium
+paulo post adtulit illi Marci patris reditus.
+Redeuntem populus Romanus magna cum laetitia acceperat; neque tamen
+illum fallebat quantum res Romanae
+essent mutatae: Senatus auctoritatem imminutam, incertum vulgus,
+nobilium plerosque dubios et cunctantes; Caesarem, vel absentem,
+plurimum posse. Sed M. Cicero, quamquam rei publicae statum bene
+noverat, summopere nitebatur ut, quantum posset, amissam gratiam apud
+cives recuperaret.
 
-fuit; cito enim puerorum dolores mitescunt. Magnum in-
-
-super gaudium paulo post adtulit illi Marci patris reditus.
-
-RHedeuntem populus Romanus magna cum laetitia accepe-
-
-rat; neque tamen illum fallebat quantum res Romanae
-
-essent mutatae: Senatus auctoritatem imminutam, incer-
-
-tum vulgus, nobilium plerosque dubios et cunctantes; Cae-
-
-sarem, vel absentem, plurimum posse. Sed M. Cicero, quam-
-
-quam rei publicae statum bene noverat, summopere nite-
-
-— B8 —
-
-
-
-batur ut, quantum posset, amissam gratiam apud cives rc-
-
-cuperaret. |
-
-
-
-Nee quicquam ille, postquam ab exsilio rediit, antiquius
-
+Nec quicquam ille, postquam ab exsilio rediit, antiquius
 habuit, quam ut ipsius domus in monte Palatino rursus
-
-
-
 aedificaretur. Priorem domum enim furor plebis a P. Clodio
-
 concitatae funditus everterat.
-
-
-
-
-
 
 
 ### M. Cicero aedificat.
