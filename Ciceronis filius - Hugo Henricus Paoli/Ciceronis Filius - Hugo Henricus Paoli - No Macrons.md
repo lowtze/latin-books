@@ -1499,129 +1499,58 @@ virorum, clientium.
 
 ### Tulliae dolor.
 
-Muti procedebant omnes. Passis capillis vestituque squa-
-
-lido Tullia multis cum lacrimis feretrum prosequebatur, me-
-
-dium locum inter propinquos tenens; saepiusque misera
-
+Muti procedebant omnes. Passis capillis vestituque squalido Tullia
+multis cum lacrimis feretrum prosequebatur, medium locum inter
+propinquos tenens; saepiusque misera
 pectus plangebat vel genas lacerabat unguibus. Constat
-
 Romanorum legem antiquissimam sanxisse ne mulieres in
-
 funeribus nimium dolorem ostenderent, sed quod lege vetitum
-
-erat consuetudine coneedebatur. Deos etiam interdum vo-
-
-cabat ut exstinctum virum sibi redderent. Parvus Cicero
-
+erat consuetudine coneedebatur. Deos etiam interdum vocabat ut
+exstinctum virum sibi redderent. Parvus Cicero
 comitabatur, illius vestibus adhaerens, magno et ipse dolore
-
 permotus, quamquam nondum e pueris excesserat, quae aetas
-
 omnia leniora facere solet.
-
-
-
-
-
-
-
 
 
 ### Pisonis laudatio funebris.
 
-
-
-Postquam in Forum ventum est, tum tibiae acutius ca-
-
-nere, cornua graviorem bombum edere, praeficae miserabi-
-
-lius eiulare. Undique tuniecatus popellus adeurrebat, funus
-
-spectaturus. Cum autem funebris pompa ad HRostra perve-
-
-nisset, improviso silentio facto, unus ex Pisonis propinquis
-
-
-
-— 517 —
-
-
-
+Postquam in Forum ventum est, tum tibiae acutius canere, cornua
+graviorem bombum edere, praeficae miserabilius eiulare. Undique
+tunicatus popellus adcurrebat, funus
+spectaturus. Cum autem funebris pompa ad Rostra pervenisset,
+improviso silentio facto, unus ex Pisonis propinquis
 laudationem funebrem de more pronuntiavit. Proavorum
-
-gloria et rebus gestis commemoratis, Pisonis honores recen-
-
-suit, virtutes laudavit, de summa illius in absentem socerum
-
+gloria et rebus gestis commemoratis, Pisonis honores recensuit,
+virtutes laudavit, de summa illius in absentem socerum
 fide praedicavit. Maiorum imagines proavorum simulacra
-
 reddentes, circum feretrum dispositae, quasi laudantis verba
-
 audirent, sollemni ritui religionem addebant.
-
-
-
-
-
 
 
 ### Pisonis corpus crematur.
 
-
-
-Feretrum qui gestabant post habitam laudationem rur-
-
-sus humeris impositum ad ustrinam detulerunt. Funesta ibi
-
+Feretrum qui gestabant post habitam laudationem rursus humeris
+impositum ad ustrinam detulerunt. Funesta ibi
 facie rogus ex usto nigrantique ustrinae solo eminebat; lignis
-
 in arae formam congestis exstructus erat, pice, siccis foliis,
-
 murra inter ligna immixtis, quo facilius materies ignem
+conciperet. Virentes cupressorum rami lateribus intexti rogum
+obtegebant.
 
-conciperet. Virentes cupressorum rami lateribus intexti ro-
-
-gum obtegebant.
-
-
-
-Pollnetores Pisonis corpus cum ipso lecto rogo impo-
-
-suerunt; deinde familiares ture, unguentis, odoribus adsper-
-
-sum florum corollis ornaverunt. Tum, postquam infelix illa
-
+Pollnetores Pisonis corpus cum ipso lecto rogo imposuerunt; deinde
+familiares ture, unguentis, odoribus adspersum florum corollis
+ornaverunt. Tum, postquam infelix illa
 uxor, Tullia, «vale» dicto supremum osculum mortui viri
-
 in fronte impressit, admotis facibus rogus est incensus.
 
-
-
 Ubi primum corpus cum materie totum exarsit, Tullia,
-
 ablutis manibus, ossa legit, vino respersit, in olla quadam
-
 condidit. Postridie Pisonis cineres, unguentis immixti atque
-
-in urnà cum exustis ossibus compositi, in maiorum sepulcro
-
+in urna cum exustis ossibus compositi, in maiorum sepulcro
 humati sunt.
 
 
-
-
-
-
-
-
-
-
-
 ### De M. Ciceronis reditu.
-
-
 
 Maeror parvi Ciceronis de Pisonis obitu non diuturnus
 
