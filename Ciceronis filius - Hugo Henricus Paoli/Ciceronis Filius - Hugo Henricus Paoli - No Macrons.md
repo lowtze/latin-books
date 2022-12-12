@@ -1943,68 +1943,28 @@ Pindenissitae se dediderunt. Cicero ab exercitu imperator appellatus
 est.
 
 
-### Cicero cum patre in
+### Cicero cum patre in Italiam redit.
 
-Italiam redit.
-
-
-
-
+![«testudine facta».]()
 
 Anno quarto et
-
 septingentesimo ab
-
-U. c. (2 50 a. Chr. n.)
-
-M. Cicero Cilicia pro-
-
-vincla decessit. 'To-
-
-tum íere mensem
-
-Athenis commoratus
-
-
-
-«testudine facta». navem in ltaliam re-
-
-
-
-diturus conscendit
-
-
-
+U. c. (= 50 a. Chr. n.)
+M. Cicero Cilicia provincia decessit. Totum fere mensem
+Athenis commoratus navem in Italiam rediturus conscendit
 brevique, bonam ac certam tempestatem nactus, Brundisium
-
 adpulit; Cicerones illum et Dionysius servus comitabantur.
 
-
-
 Vehementer Cicero filius gavisus est cum sibi e portu
-
 urbem petenti Terentiam matrem obviam venientem vidit.
-
 Romam illa reliquerat ut quam primum redeuntem filium
-
-reviseret. Nihil exoptatius Ciceroni, nihil carius matris ad-
-
-ventu fieri potuit. Quae oscula, qui complexus fuerunt!
-
+reviseret. Nihil exoptatius Ciceroni, nihil carius matris adventu
+fieri potuit. Quae oscula, qui complexus fuerunt!
 Multa mater de longo illo itinere est percontata, multa filius
-
-et de se et de patre et de iucunda patruelis societate narra-
-
-
-
-vit: quiequid acciderat non sine quadam puerili vanitate
-
-referebat. Locorum armioenitatem, aedificiorum splendorem,
-
-navigationis casus verbis effingere conabatur, omnia, ut adu-
-
-lescentuli solent, in maius augens.
-
+et de se et de patre et de iucunda patruelis societate narravit:
+quicquid acciderat non sine quadam puerili vanitate
+referebat. Locorum amoenitatem, aedificiorum splendorem,
+navigationis casus verbis effingere conabatur, omnia, ut adulescentuli solent, in maius augens.
 
 
 ### M. Ciceronem, Romam reversum, bellum civile imminens
