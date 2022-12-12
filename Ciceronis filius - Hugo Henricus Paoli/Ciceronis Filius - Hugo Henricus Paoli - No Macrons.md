@@ -1745,182 +1745,36 @@ una cum adulescentulis illis iter per Graeciam iacere statuerat.
 
 ### De Romanorum raedis et carrucis.
 
-
-
-
-
-Haedis iter fecerunt; nam veteres Romani, cum peregri-
-
-nationem aliquam suscepissent, terrestri itinere raedis ute-
-
-bantur, maritimo navigiis. Inter multa et varia vehiculorum
-
-genera, quae apud illos in usu erant, maxime peregrinanti-
-
-bus aptae raedae videbantur, quod celeriter trahebantur et
-
+Raedis iter fecerunt; nam veteres Romani, cum peregrinationem aliquam
+suscepissent, terrestri itinere raedis utebantur, maritimo navigiis.
+Inter multa et varia vehiculorum
+genera, quae apud illos in usu erant, maxime peregrinantibus aptae
+raedae videbantur, quod celeriter trahebantur et
 tam firmiter exstructae erant, ut plures homines una raeda
-
 commode veherentur.
 
-
+![«agiliores raedae equis vehebantur».]()
 
 Raedarum usus, ut omnium fere vehiculorum, a Gallia
-
 in Italiam invectus est. Quattuor rotarum vehiculum raeda
-
 erat duabus mulis plerumque tractum; sed agiliores raedae
-
 quaternis, vel octonis, perraro denis equis vehebantur.
-
 Neque tamen tantum commoditatis raedae iter facientibus
+praebebant, ut, si quis plurimos dies in itinere consumpsisset, non
+ante eo quo statuerat perveniret, quam illius
+membra, cum insomnia tum diuturna iactatione, languida ac defatigata essent ossaque, ut ita dicam, paene confracta.
 
-
-
-
-
-— 63 —
-
-
-
-praebebant, ut, si quis plurimos dies in itinere consum-
-
-psisset, non ante eo quo statuerat perveniret, quam illius
-
-membra, cum insomnia tum diuturna iactatione, lan-
-
-
-
-
-
-(rS n : A : NEP CS " L£ME a. :. : A Jeu.» " E * "e l
-
-" v. pO . CLP ELEC - al n . . . TK L DA a 9 "^ TEM
-
-
-
-ZIJJIIPIPADEI EPA LIILTIRZZgLLDE LL] T J mE VR DI 2r SUL UI, ALL.
-
-
-
-B7 SENE 00v
-
-
-
-a.»» €" a Do . a" *
-
-* SN anal bis J APPEL" &*! "ote at. ua FEN. 1-5; ONCE?
-
-T X wrsolocSIMlaR ONSE X A US Ps eses eri
-
-j^^ -€-o ^ M TA TOSSMLD LPS TTE LL»* .
-
-ue Y - 1 & X ' r L o 4. Jet m in UM oin a "uc * r
-
-j Ui» M& "Y - "Y NE |t Loéc JI a. t^ LN" - (OT "- TIN 2" & ^
-
-- d 1 ^»* P " rc ^ 2 t RN "a, 47 . " lt
-
-e- IN ] H . ue "u* ' in $e L d. Ld -€-'* 17 BELLA 7 * "' Mar. * e . 7
-
-" Lio E J'AI -- . ". "o- x "x * ^ t 9 - * ^" , *»"* a ' " "
-
-AR AME Y Ung t. nuova sn Jn... * . "P $4738 4,4 0 sn o .,-
-
-MI . - 0 tS tM. "Aue &ni un c - '.a ch a'*wNÀ n "-—— a8 0a 2t. o. ua s a* So.
-
-. "9. ) " AT 7 P. ^T. x PRI T: FN... . -* ^4 ^» '* à ' C. e "e. au aet? . LINE .
-
-"FL " 2 M "-. A»»A . P .7 "LET I y QU a 7 - (VAT ; - [ , - "o 2. oon. L. dn i M. ] .
-u vu NASCE FEREXNDEN- AM RTENOBRUP —-.» | va qr, "E . : EE EN" PER " "LEE . Ls ow» . ^q " * o. * a " 1 .
-2c |] Ut à A " T" LA t3, ; "rh. ,$5 ^ AP PA . À d AULA a ] m^Is ! 2 2 "n * '
-U H Nm
- T - LTD: " ' DIDI 2 thin, tc» A- APTDR u NT L| NY
-
-e X). - CAMP ey e Ts mpi a. eM, TI ! a. A
-
-: PIP E A * AM» -. xr " ni a zu. T". "Ws . Eur 2
-
-y- * NT an ". - -r' " -. - - ua -»" . is. s. ] -*
-
-5 st - "o "oa»" m : : . E h * '
-
-" , pP OF 7 "4 A. : -" "B LL Mt " 5 - : -* A m |! T " L h -* .
-
-| RE .t» . 1d a 5 4 uL , ^ - JL * p"
-
-E "M | * [ "» , a sx [ |- m- L1 ad
-
-
-
-
-
-«agiliores raedae equis vehebantur».
-
-
-
-
-
-guida ac defatigata essent ossaque, ut ita dicam, paene
-
-conífracta.
-
-
+![«ad leviores currus equi iungebantur».]()
 
 Posterius enim — qui mos, sero tamen, Cicerone iamdiu
-
 mortuo, invaluit — ne peregrinandi necessitas longiora itinera
-
-
-
-
-
-
-
-
-
-d"
-
-
-
-LA
-
-ANUOUCOCUUD
-
-Nd e ENS A
-
-
-
-
-
-
-
-«&àd leviores currus equi iungebantur».
-
-
-
-in cruciatus verteret, Romani dorm^itoriis carrucis nti coepe-
-
-runt, quarum in interiore parte lectulus ita aptatus erat ac
-
+in cruciatus verteret, Romani *dormitoriis carrucis* uti coeperunt,
+quarum in interiore parte lectulus ita aptatus erat ac
 vestimentis instratus, ut illis, qui sic iter facerent, et iacendi
-
-
-
-— 64 —
-
-
-
-
-
 facultas daretur et dormiendi. Nullum vehiculorum genus
-
-carruca sumptuosius erat; carrucam vero illam, quae dor-
-
-mitoria vocabatur, si quis nostrorum «wagons-lits» proa-
-
-viam fuisse dixerit, non ille, opinor, errabit.
-
+carruca sumptuosius erat; carrucam vero illam, quae dormitoria
+vocabatur, si quis nostrorum «wagons-lits» proaviam fuisse dixerit,
+non ille, opinor, errabit.
 
 
 ### De ceteris Romanorum vehiculis. (Plaustrum, arcera, pe-
