@@ -1711,22 +1711,19 @@ improvisa tempestas coorta esset, demessas spicas congererent.
 ### M. Cicero in Ciliciam proficiscitur.
 
 Nulla unquam inter potentes firma amicitia fuit. Caesar
-et Pompeius, postquam inita societate Senatusque aucto-
-ritate imminuta Romanarum rerum potiti sunt, dissentire
-ac de principatu inter se contendere coeperunt. Quae dis-
-sensio in gravissimas dubitationes M. Ciceronem adduxit,
+et Pompeius, postquam inita societate Senatusque auctoritate imminuta
+Romanarum rerum potiti sunt, dissentire
+ac de principatu inter se contendere coeperunt. Quae dissensio in
+gravissimas dubitationes M. Ciceronem adduxit,
 cum aemulorum neutri displicere vellet, neutri vero ita
 fidem suam adstringere, ut nulla via ad alterum confugiendi,
-81 Torte necesse esset, relinqueretur. Cum suspensus ille atque
-incertus haereret, peropportunc accidit ut in Ciliciam proconsulari
+si forte necesse esset, relinqueretur. Cum suspensus ille atque
+incertus haereret, peropportune accidit ut in Ciliciam proconsulari
 potestate mitteretur. Profectus est igitur anno
-septitgentesimo tertio ab U.c. (— 51 a. Chr. n.), mense
-Maio; atque, cum Benevento ac Venusia Brundisium venis
-set, navem ibi conscendit paulumque Actii commoratus primis
+septitgentesimo tertio ab U.c. (= 51 a. Chr. n.), mense
+Maio; atque, cum Benevento ac Venusia Brundisium venisset,
+navem ibi conscendit paulumque Actii commoratus primis
 insequentis mensis diebus Athenas pervenit.
-
-
-
 
 
 ### Cicero filius patrem iter facientem comitatur.
