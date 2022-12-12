@@ -1918,82 +1918,29 @@ essent, antequam M. Cicero cum proconsulari imperio in
 Ciliciam venisset, neminem in Asia audivisse.
 
 
-### Quomodo M. Cicero curn Pindenissitis bellum gesserit.
+### Quomodo M. Cicero cum Pindenissitis bellum gesserit.
 
+![«admoto ariete».]()
 
-
-Quid M. Cicere in provincia sua egerit paucis explican-
-
-dum est. Parthorum regnum semper Romano imperio infe-
-
-stum fuit. Cum igitur graves nuntii de Parthis venirent,
-
-hostesque Ciliciae imminere dicerentur, Cicero, ne qua im-
-
-provisa hostium incursio se necopinantem opprimeret, ad
-
+Quid M. Cicero in provincia sua egerit paucis explicandum est.
+Parthorum regnum semper Romano imperio infestum fuit. Cum igitur
+graves nuntii de Parthis venirent,
+hostesque Ciliciae imminere dicerentur, Cicero, ne qua improvisa
+hostium incursio se necopinantem opprimeret, ad
 Amanum montem contendit, qui Syriam a Cilicia dividit.
-
-Mons plenus erat hostium, quorum magnum numerum Cice-
-
-ronis copiae occiderunt. Pindenissum deinde contendit. Feri
-
+Mons plenus erat hostium, quorum magnum numerum Ciceronis copiae
+occiderunt. Pindenissum deinde contendit. Feri
 homines et acres et omnibus rebus ad defendendum parati,
-
-
-
-
-
-
-
-— 69 —
-
-
-
-oppidum illud munitionibus saeptum tuebantur. Cuius moe-
-
-nia Cicero vallo et fossa cinxit. Aggerem maximum exstrui
-
-iussit, turremque altissimam ad.
-
-moveri; magnam tormentorum
-
-copiam opportunis locis collo-
-
-cavit. Semel atque iterum mili-
-
-tes moenia vel admoto ariete
-
-labefactare, vel testudine facta
-
-capere conati sunt. Serius ta- «admoto ariete».
-
-
-
-men quam Speraverat magno-
-
-
-
-que labore Cicero negotium confecio; nam septimo et quin-
-
-
-
-quagesimo die postquam eos oppugnare coeperat, Pindenis-
-
-sitae se dediderunt. Ci-
-
-
-
-cero ab exercitu impe-
-
-rator appellatus est.
-
-
-
-
-
-
-
+oppidum illud munitionibus saeptum tuebantur. Cuius moenia Cicero
+vallo et fossa cinxit. Aggerem maximum exstrui
+iussit, turremque altissimam admoveri; magnam tormentorum
+copiam opportunis locis collocavit. Semel atque iterum milites moenia
+vel admoto ariete labefactare, vel testudine facta
+capere conati sunt. Serius tamen
+quam speraverat magnoque labore Cicero negotium confecit; nam
+septimo et quinquagesimo die postquam eos oppugnare coeperat,
+Pindenissitae se dediderunt. Cicero ab exercitu imperator appellatus
+est.
 
 
 ### Cicero cum patre in
