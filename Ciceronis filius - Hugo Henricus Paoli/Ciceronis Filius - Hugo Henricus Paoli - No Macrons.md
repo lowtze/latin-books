@@ -1905,40 +1905,34 @@ et longe à nave in altum revertebantur.
 
 ### Cicero cum Marco patre patruelique fratre in Asia moratur.
 
-Ephesum tandem pervenerunt quinto et decimo die post-
+Ephesum tandem pervenerunt quinto et decimo die postquam Athenas
+reliquerant. Asia provincia M. Ciceronem iter
+in Ciliciam facientem admirabiliter accepit. Venit etiam a regno suo,
+ut illum salutaret, Deiotarus rex, qui amice atque
+officiose praeter ceteros se gessit. Vetus hic ac fidissimus
+amicus populi Romani, rex a Senatu appellatus erat, atque 
+iampridem ad Ciceronis familiaritatem se adplicuerat. Paucos dies Ephesi moratus M. Cicero, qui, proconsul cum
+esset, in Cilicia provincia exercitui praeerat, ad aestiva
+castra est profectus. Cicerones vero Diotarus secum duxit.
+Dionysius servus adolescentulos sequebatur, sedulus ille quidem
+et doctus studiorum praeses, sed ingenio difficili et moroso,
+atque, ut pueri illi dititabant, furenter irasci solitus.
 
-quam Athenas reliquerant. Asia provincia M. Ciceronem iter
-
-in Ciliciam facientem admirabiliter accepit. Venit etiam a re-
-
-— 68 —
-
-
-
-gno suo, ut illum salntaret, DeiotArus rex, qui amice atque
-offieiose praeter ceteros se gessit. Vetus hicac fidissimus
-amicus populi Romani, rex à Senatu appellatus erat, atquiampridem ad Ciceronis familiaritatem se adplicuerat. Pau-
-cos dies Ephesi mratus M. Cicero, qui, proconIul cum
-esset, in Cilieià provincia exercitui praeeratifficili et moroso, atque, ut pueri illi dititabant, furenter iras
-ci soIitus.
-
-ostes in acie caedere,munitissima loca oppugnando Iapere.
-Gloriabatur Cicero atque cum patrueli fratre frequenm-
-quam narranti attentissimas aures praebebant, vixdum ille
-iscesserat, alius alium cum malevolo risu intuentes, non
-
+Dum Cicero eiusque patruelis frater apud Deiotarum in
+Galatarum finibus bellissimo quodam loco morantur, crebri
+nuntii adlati sunt de M. Cicerone proconsule provinciam
+suam fortiter administrante: bellum illum gerere, acerrimos
+hostes in acie caedere,munitissima loca oppugnando capere.
+Gloriabatur Cicero atque cum patrueli fratre frequentiores
+areas circumiens res a patre gestas omnibus, ut quisque
+obviam venerat, enarrabat. Sed Graeculi homines, quamquam narranti
+attentissimas aures praebebant, vixdum ille
+discesserat, alius alium cum malevolo risu intuentes, non
 maiorem gloriam M. Ciceronem adepturum fuisse aiebant,
-
 si muscarum exercitum vel formicarum agmina fudisset: vere
-
 illum Pindenissitas armis superasse, sed Pindenissitae qui
-
 essent, antequam M. Cicero cum proconsulari imperio in
-
 Ciliciam venisset, neminem in Asia audivisse.
-
-
-
 
 
 ### Quomodo M. Cicero curn Pindenissitis bellum gesserit.
