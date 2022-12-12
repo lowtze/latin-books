@@ -1807,94 +1807,34 @@ Gallia importatum. Petorritis nobilissimi viri utebantur in
 itineribus, victores duces in triumphis.
 
 
-### De ceteris Romanorum
+### De ceteris Romanorum vehiculis. (Cisium, essedum, covinus, carpentum, pilentum).
 
-vehiculis. (Cisium, es-
+Birotum vehiculum *cisium* erat, quod bini vel
+terni equi uncti trahebant, 
+capso contectum, ne imbres vel nimii solis radii insidentes
+laederent. *Cisiarii*, qui
+vocabantur, publicorum aurigarum officio Romae fungebantur, si quis
+Roma in suburbanum agrum vectari vellet.
 
-sedum, covinus, car-
-
-pentum, pilentum).
-
-
-
-
-
-Birotum vehiculum c?-
-
-sium erat, quod bini vel
-
-terni equi uneti trahebant, c essedi similis covinus erat».
-
-
-
-capso contectum, ne im-
-
-bres vel nimii solis radii insidentes laederent. C'siar5, qui
-
-
-
-vocabantur, publicorum aurigarum officio Iiomae fungeban-
-
-tur, si quis Roma in suburbanum agrum vectari vellet.
+![«essedi similis covinus erat».]()
 
 Cisio simile, sed firmius ae robustiore materie compactum,
-
-essédum erat, quod quidem illorum essedorum speciem rete-
-
-rebat quibus Galli, bellum cum gererent, in acie uti consue-
-
-
-
-
-
-
-
-Carpentum.
-
-
-
-
-
-rant. Privata utilitas essedorum usum mutavit, non speciem.
-
+*essedum* erat, quod quidem illorum essedorum speciem reterebat quibus
+Galli, bellum cum gererent, in acie uti consuerant.
+Privata utilitas essedorum usum mutavit, non speciem.
 Essedorum, quibus privati utebantur, magnitudo potius
+quam forma differebat. Maiora esseda essedarius agebat, minora
+dominus ipse. Essedi similis *covinus* erat.
 
-quam forma differebat. Maiora esséda essedarius agebat, mi-
+![Carpentum.]()
 
-nora dominus ipse. Essédi similis covinus erat.
-
-
-
-Carpent? origo vetustissima ferebatur; sed priscum illud
-
-ac rude 1talicarum gentium vehiculum procedente tempore
-
-
-
-
-
-5. - PAOLI. Ciceronis filius.
-
-— 66 —
-
-
-
+*Carpenti* origo vetustissima ferebatur; sed priscum illud
+ac rude Italicarum gentium vehiculum procedente tempore
 in lautum concinnumque currum evasit, aptam vecturam
-
-nobilibus matronis praebentem. Eadem fere ac carpenti spe-
-
-cie, sed pondere maiore pilentum erat, vehiculum quattuor
-
-rotarum, quo antiquis temporibus Vestales tantum vecta-
-
-bantur. Mutati mores illius currus usum inter matronas vul-
-
-
-
-caverunt.
-
-
-
+nobilibus matronis praebentem. Eadem fere ac carpenti specie, sed
+pondere maiore pilentum erat, vehiculum quattuor
+rotarum, quo antiquis temporibus Vestales tantum vectabantur. Mutati
+mores illius currus usum inter matronas vulcaverunt.
 
 
 ### Athenis relictis, M. Cicero Delum adpellit.
