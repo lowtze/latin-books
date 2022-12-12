@@ -30,18 +30,17 @@ PRINTER TO THE UNIVERSITY
 
 ## Table of Contents
 
-- [Easy Latin Plays](#easy-latin-plays)
-  - [Table of Contents](#table-of-contents)
-  - [PREFACE](#preface)
-  - [MATER GRACCHORUM](#mater-gracchorum)
-    - [Scaena I. Apud Corneliam.](#scaena-i-apud-corneliam)
-    - [Scaena II. In Foro.](#scaena-ii-in-foro)
-    - [Scaena III. In Foro. Vesperi.](#scaena-iii-in-foro-vesperi)
-    - [Scaena IV. In Capitolio.](#scaena-iv-in-capitolio)
-    - [Scaena V. Apud Corneliam.](#scaena-v-apud-corneliam)
-  - [GEMINI](#gemini)
-    - [Scaena I. Extra Numitoris Domum.](#scaena-i-extra-numitoris-domum)
-    - [Scaena II. Intra Numitoris Domum.](#scaena-ii-intra-numitoris-domum)
+- [Table of Contents](#table-of-contents)
+- [PREFACE](#preface)
+- [MATER GRACCHORUM](#mater-gracchorum)
+  - [Scaena I. Apud Corneliam.](#scaena-i-apud-corneliam)
+  - [Scaena II. In Foro.](#scaena-ii-in-foro)
+  - [Scaena III. In Foro. Vesperi.](#scaena-iii-in-foro-vesperi)
+  - [Scaena IV. In Capitolio.](#scaena-iv-in-capitolio)
+  - [Scaena V. Apud Corneliam.](#scaena-v-apud-corneliam)
+- [GEMINI](#gemini)
+  - [Scaena I. Extra Numitoris Domum.](#scaena-i-extra-numitoris-domum)
+  - [Scaena II. Intra Numitoris Domum.](#scaena-ii-intra-numitoris-domum)
 
 ---
 
