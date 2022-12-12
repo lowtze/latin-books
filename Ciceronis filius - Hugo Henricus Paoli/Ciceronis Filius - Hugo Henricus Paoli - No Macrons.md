@@ -1692,80 +1692,32 @@ domi facienda essent sedentes perficere.
 
 ### De reliquis villae rusticae aedificiis.
 
+![«in urceolis vel amphoris».]()
 
-
-Granaria, quo post messem rustici servi frumenta conge-
-
-rebant, et cella vinaria, in qua vinum fermentari sinebatur vel
-
-in amphoris diffusum servabatur ut inveterasceret, separatim
-
-opportuno loco aedificata erant. Ad septemtriones spectabant,
-
+*Granaria*, quo post messem rustici servi frumenta congerebant, et
+*cella vinaria*, in qua vinum fermentari sinebatur vel
+in amphoris diffusum servabatur ut inveterasceret, separatim opportuno loco aedificata erant. Ad septemtriones spectabant,
 nam calor et nimius humor frumento nocere solet et vino.
-
-Fructus vero, ex arboribus suo tempore decerptos, in hor-
-
-reo quodam servabant, Graeco nomine oporotheca, dicto. Foe.
-
-
-
-«in urceolis vel amphoris».
-
-
-
-
-
-
-
-
-
-num in foenil? condebatur, quod aedificium quam maxime
-
+Fructus vero, ex arboribus suo tempore decerptos, in horreo quodam
+servabant, Graeco nomine *oporotheca*, dicto. Foenum
+in *foenili* condebatur, quod aedificium quam maxime
 a ceteris separatum erat propter incendii periculum. Oleum
-
-ex oleis forculari expressum, atque in urceolis vel amphoris
-
-conditum in cella olearia servabant. Villae rusticae et are?
-
-et horrea alia adiacebant, et mubilariwm, quo agricolae, $i
-
-
-
-improvisa tempestas coorta esset, demessas spicas conge-
-
-rerent.
-
-
-
+ex oleis *torculari* expressum, atque in urceolis vel amphoris
+conditum in *cella olearia* servabant. Villae rusticae et area
+et horrea alia adiacebant, et *nubilarium*, quo agricolae, si
+improvisa tempestas coorta esset, demessas spicas congererent.
 
 
 ### M. Cicero in Ciliciam proficiscitur.
 
-
-
 Nulla unquam inter potentes firma amicitia fuit. Caesar
-
 et Pompeius, postquam inita societate Senatusque aucto-
-
 ritate imminuta Romanarum rerum potiti sunt, dissentire
-
 ac de principatu inter se contendere coeperunt. Quae dis-
-
 sensio in gravissimas dubitationes M. Ciceronem adduxit,
-
 cum aemulorum neutri displicere vellet, neutri vero ita
-
 fidem suam adstringere, ut nulla via ad alterum confugiendi,
-
 81 Torte necesse esset, relinqueretur. Cum suspensus ille atque
-
-
-
-
-
-
-
 incertus haereret, peropportunc accidit ut in Ciliciam proconsulari
 potestate mitteretur. Profectus est igitur anno
 septitgentesimo tertio ab U.c. (— 51 a. Chr. n.), mense
