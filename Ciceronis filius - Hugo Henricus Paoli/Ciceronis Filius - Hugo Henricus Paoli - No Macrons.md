@@ -1839,64 +1839,29 @@ mores illius currus usum inter matronas vulcaverunt.
 
 ### Athenis relictis, M. Cicero Delum adpellit.
 
+![«navem conscendit, ut in Ciliciam perveniret».]()
 
-
-Postquam M. Cicero cum adulescentulis illis terrestri iti-
-
-
-
-nere confecto Athenas revertit, paulisper ibi commoratus,
-
-navem conscendit, ut in Ciliciam perveniret. Mensis lulius
-
-
-
-
-
-
-
-«navem conscendit, ut in Ciliciam perveniret».
-
-
-
+Postquam M. Cicero cum adulescentulis illis terrestri itinere
+confecto Athenas revertit, paulisper ibi commoratus,
+navem conscendit, ut in Ciliciam perveniret. Mensis Iulius
 erat (mensis hic Ciceronis aetate Quintilis vocabatur), quo
-
 anni tempore maxima navigiorum pars iamdiu in mari erat
-
 a Graecis mercatoribus conducta. Negotium magnum fuit
-
-navem vel minimam invenire quae praesto esset; postre-
-
-mum tamen Cicero, nonnullis Rhodiis et Mytilenaeis homi-
-
-nibus operam suam officiose navantibus, parvulum navigium
-
+navem vel minimam invenire quae praesto esset; postremum tamen
+Cicero, nonnullis Rhodiis et Mytilenaeis hominibus operam suam
+officiose navantibus, parvulum navigium
 nactus est, quod, eum ponte et extremis pluteis careret,
-
-Graeco nomine aphractum vocabatur. Conscenderunt igitur,
-
-— 671 —
-
-
-
+Graeco nomine *aphractum* vocabatur. Conscenderunt igitur,
 M. Cicerone aphracti imbecillitatem culpante, quo nullum
-
 navigium fluctum minus ferre posset aut tardius navigaret.
 
-
-
 A Piraeo profecti ad Delum insulam cursum tenuerunt.
-
 Quo M. Cicero ubi primum adpulit, nihil festinare statuit,
-
 seque non ante vela daturum nuntiavit, quam mare bonam
-
-navigationem portenderet; nam cum usque ad GyArum in-
-sulam bene atque iucunde navigasset, hace inula post ter-
-gum relicta, saevo non adverso vento navigium impellentecitius quam suspicatus erat Delum pervenerat, adeo tamen
-fluctuum agitatione fracts ac perturbatus ut procelloIo mari
-
-
+navigationem portenderet; nam cum usque ad Gyarum insulam bene atque
+iucunde navigasset, hac insula post tergum relicta, saevo non adverso
+vento navigium impellentecitius quam suspicatus erat Delum pervenerat, adeo tamen fluctuum agitatione fractus ac perturbatus ut
+procelloso mari se diutius committere nollet.
 
 
 ## Pater nauseat, filius iucunde navigat.
