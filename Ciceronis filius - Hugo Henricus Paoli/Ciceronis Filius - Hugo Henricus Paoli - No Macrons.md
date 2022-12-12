@@ -1777,90 +1777,34 @@ vocabatur, si quis nostrorum «wagons-lits» proaviam fuisse dixerit,
 non ille, opinor, errabit.
 
 
-### De ceteris Romanorum vehiculis. (Plaustrum, arcera, pe-
+### De ceteris Romanorum vehiculis. (Plaustrum, arcera, petorritum).
 
-torritum ).
-
-
+![«hoc vehiculum ad rustica opera idoneum erat».]()
 
 Multa et varia vehiculorum genera praeter raedas et
-
 carrucas apud Romanos constat fuisse; ad graviores currus
-
-boves vel tauri iungebantur, ad leviores equi. Ad onera de-
-
-ferenda aptissimum erat plau-
-
-sirum, duabus plerumque rotis
-
+boves vel tauri iungebantur, ad leviores equi. Ad onera deferenda
+aptissimum erat *plaustrum*, duabus plerumque rotis
 praeditum, rarius quattuor.
-
-Hoc vehiculum ad rustiea ope-
-
-ra idoneum erat; adhibebatur
-
-etiam ad graviora pondera ve-
-
-henda, velut arenam, lapides,
-
-asseres, tigna. Ex quo factum
-
-«hoc vehiculum ad rustica opera est ut, quamquam lex Roma.
-
-
-
-idoneum erat».
-
-na statuerat, ne currus ullus a
-
+Hoc vehiculum ad rustica opera idoneum erat; adhibebatur
+etiam ad graviora pondera vehenda, velut arenam, lapides,
+asseres, tigna. Ex quo factum est ut, quamquam lex Romana statuerat,
+ne currus ullus a
 solis ortu usque ad occasum per urbem iter faceret, si quis
+tamen intra moenia aedificaret, facultas ill daretur materiem per
+vias urbis plaustris deferendi.
 
-tamen intra moenia aedificaret, facultas ill daretur mate-
+![«adhibebatur etiam ad graviora pondera vehenda».]()
 
-riem per vias urbis plaustris deferendi.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-«adhibebatur etiam ad graviora pondera vehenda».
-
-
-
-singulare quoddam plaustri genus arcera. vocabatur. Un-
-
-dique contecta erat, atque ea ratione facta, ut et currus
-
-commoditatem praeberet et lectuli. Aegri atque ii qui admo-
-
-dum senes essent hoc curru vehebantur.
-
-— 65 —
-
-
+Singulare quoddam plaustri genus *arcera* vocabatur. Undique contecta
+erat, atque ea ratione facta, ut et currus
+commoditatem praeberet et lectuli. Aegri atque ii qui admodum senes
+essent hoc curru vehebantur.
 
 Aptum autem vehiculum ad complures homines vehendos,
-
-saepe magnifice exornatum, pelorrítum erat, et ipsum a
-
+saepe magnifice exornatum, *petorritum* erat, et ipsum a
 Gallia importatum. Petorritis nobilissimi viri utebantur in
-
-itineribus, victores duces
-
-in triumphis.
-
-
-
+itineribus, victores duces in triumphis.
 
 
 ### De ceteris Romanorum
