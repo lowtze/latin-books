@@ -28,6 +28,23 @@ PRINTER TO THE UNIVERSITY
 
 ---
 
+## Table of Contents
+
+- [Easy Latin Plays](#easy-latin-plays)
+  - [Table of Contents](#table-of-contents)
+  - [PREFACE](#preface)
+  - [MATER GRACCHORUM](#mater-gracchorum)
+    - [Scaena I. Apud Corneliam.](#scaena-i-apud-corneliam)
+    - [Scaena II. In Forō.](#scaena-ii-in-forō)
+    - [Scaena III. In Forō. Vesperī.](#scaena-iii-in-forō-vesperī)
+    - [Scaena IV. In Capitōliō.](#scaena-iv-in-capitōliō)
+    - [Scaena V. Apud Cornēliam.](#scaena-v-apud-cornēliam)
+  - [GEMINI](#gemini)
+    - [Scaena I. Extra Numitōris Domum.](#scaena-i-extra-numitōris-domum)
+    - [Scaena II. Intrā Numitōris Domum.](#scaena-ii-intrā-numitōris-domum)
+
+--- 
+
 ## PREFACE
 
 'Mater Gracchorum' is published at the request
