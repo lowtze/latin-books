@@ -1866,41 +1866,24 @@ procelloso mari se diutius committere nollet.
 
 ## Pater nauseat, filius iucunde navigat.
 
-
-
-
-
 Aegre ille navis iactationem ferebat ac, si forte tempestas
-
-minus idonea esset ad navigandum, nausea perpetuo labo-
-
-rabat. Sedebat miser in angulo quodam navigii, rudentibus
-
+minus idonea esset ad navigandum, nausea perpetuo laborabat. Sedebat
+miser in angulo quodam navigii, rudentibus
 in orbem circumvolutis fultus, ore exsanguis, languescente
+collo, vitreis oculis interdum prominentibus, quotienscumque omnium
+in conspectu ingestum cibum evomere cogebatur.
 
-collo, vitreis oculis interdum prominentibus, quotienscum-
-
-que omnium in conspectu ingestum cibum evomere coge-
-
-batur.
-
-
-
-At filius, qui nullam a navigii agitatione molestiam ha-
-
-beret, raro nauseanti patri aderat, non quo parum pietatis
-
-in illo esset, sed quod rerum novitate summopere adlicie-
-
-batur, eaque notabat quae prima itinera facientibus insolita
-
-aec mira videntur. Praetereuntes insulas adtonitis oculis, ut
-
-adulescentuli solent, recensebat: Ceo, GyArum, Syrum, quae
-alia aliam sic subsequebantur, ut si Asiam ptentibus iter
-monstrare vellent. Delphinos etiam spectabat interdum, qucurvo dorso inter fluctus edito, quasi pueriliter ludentes,
-eadem celeritate e navis suleum post puppim peIebant,
-et longe à nave in altum revertebantur.
+At filius, qui nullam a navigii agitatione molestiam haberet, raro
+nauseanti patri aderat, non quo parum pietatis
+in illo esset, sed quod rerum novitate summopere adliciebatur, eaque
+notabat quae prima itinera facientibus insolita
+ac mira videntur. Praetereuntes insulas adtonitis oculis, ut
+adulescentuli solent, recensebat: Ceo, Gyarum, Syrum, quae
+alia aliam sic subsequebantur, ut si Asiam petentibus iter
+monstrare vellent. Delphinos etiam spectabat interdum, qui
+curvo dorso inter fluctus edito, quasi pueriliter ludentes,
+eadem celeritate e navis suleum post puppim petebant,
+et longe a nave in altum revertebantur.
 
 
 ### Cicero cum Marco patre patruelique fratre in Asia moratur.
