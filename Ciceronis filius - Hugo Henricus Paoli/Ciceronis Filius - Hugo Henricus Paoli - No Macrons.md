@@ -1728,44 +1728,19 @@ insequentis mensis diebus Athenas pervenit.
 
 ### Cicero filius patrem iter facientem comitatur.
 
-
-
-Comitabantur illum Cicero filius, annum quintum et de-
-
-cimum agens, atque una cum eo Quintus Cicero, fratris
-
+Comitabantur illum Cicero filius, annum quintum et decimum agens,
+atque una cum eo Quintus Cicero, fratris
 Quinti filius, anno maior natu, cuius mater T. Pomponii
-
 Attici soror erat, viri, ub supra diximus, M. Ciceroni summa
-
-familiaritate coniuncti. Dionysium etiam, servum illum doc-
-
-tissimum, M. Cicero secum adduxerat, ut Ciceronum studiis
-
+familiaritate coniuncti. Dionysium etiam, servum illum doctissimum,
+M. Cicero secum adduxerat, ut Ciceronum studiis
 apud Graecos praeesset.
 
-
-
-Valde Athenae Ciceronem filium eiusque patruelem Ífra-
-
-trem delectaverunt, urbs et monumentis insignis et huma-
-
-nis litteris florens. Brevis haec Athenis commoratio occasio
-
+Valde Athenae Ciceronem filium eiusque patruelem Ífratrem
+delectaverunt, urbs et monumentis insignis et humanis litteris
+florens. Brevis haec Athenis commoratio occasio
 fuit totam Graecam paeninsulam visendi; nam Marcus pater
-
-
-
-una cum adulescentulis illis iter per Graeciam íacere sta-
-
-tuerat.
-
-
-
-
-
-
-
+una cum adulescentulis illis iter per Graeciam íacere statuerat.
 
 
 ### De Romanorum raedis et carrucis.
