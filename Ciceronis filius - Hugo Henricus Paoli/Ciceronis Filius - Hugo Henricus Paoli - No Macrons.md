@@ -163,7 +163,7 @@ Caesaris Iulia.
 
 ### Ciceronis dies lustricus celebratur.
 
-Cum in M. Ciceronis aedibus illius filii dies lustricus celebraretur, magna omnium írequentia facta est. Florebat
+Cum in M. Ciceronis aedibus illius filii dies lustricus celebraretur, magna omnium frequentia facta est. Florebat
 enim M. Cicero et eloquentiae fama et in re publica auctoritate, cum superiore anno praeturam esset adeptus, consul
 brevi futurus. Magna propinquorum, amicorum, clientium
 multitudo convenerunt, ut de tam laeto eventu illi
@@ -1736,11 +1736,11 @@ familiaritate coniuncti. Dionysium etiam, servum illum doctissimum,
 M. Cicero secum adduxerat, ut Ciceronum studiis
 apud Graecos praeesset.
 
-Valde Athenae Ciceronem filium eiusque patruelem Ífratrem
+Valde Athenae Ciceronem filium eiusque patruelem fratrem
 delectaverunt, urbs et monumentis insignis et humanis litteris
 florens. Brevis haec Athenis commoratio occasio
 fuit totam Graecam paeninsulam visendi; nam Marcus pater
-una cum adulescentulis illis iter per Graeciam íacere statuerat.
+una cum adulescentulis illis iter per Graeciam iacere statuerat.
 
 
 ### De Romanorum raedis et carrucis.
