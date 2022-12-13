@@ -2210,58 +2210,34 @@ suris adligabatur, eburneis *lunulis* ornabatur.
 ### Quomodo Romani caput operire consuerint.
 
 Mos quondam priscis Italicis populis fuit operto capite
-
 in publicum prodire; sed Ciceronis aetate mos ille antiquus
+eo usque in desuetudinem venerat, ut si quem capite pilleum gerentem
+praetereuntes vidissent, id ipsum libertini
+hominis condicionem palam faceret. Nam liberi aperto capite
+ambulabant, cum pilleo liberti, servi vero nullo capitis
+tegumento, sed capillis rasis. Inter servos enim ii tantum
+pueri qui in conviviis pocula ministrabant promissam comam gerebant.
+Si quis tamen longum iter facturus erat,
+lato tegimine utebatur quod *petasus* vel *causia* vocabatur;
+eodem modo illi qui in theatro vel in circo edentes ludos
+aestivo tempore spectabant caput a solis radiis defendebant. Qua vero forma petasus a causia internosceretur, abantiquis scriptoribus
+traditum non est.
 
-eo usque in desuetudinem venerat, ut si quem capite pil.
+Mense decembri, cum Saturnalia Romae celebrarentur,
+cives etiam pilleati erant; nec togam indubant, sed *synthesi*,
+ut in symposiss, induti per Urbis vias versabantur, ut
+ornatu ipso significarent Saturno rege pares omnes
+homines fuisse.
 
-leum gerentem praetereuntes vidissent, id ipsum libertini
-
-hominis condicionem palam faceret. Nam liberi aperto ca-
-
-pite ambulabant, cum pilleo liberti, servi vero nullo capitis
-
-tegumento, sed ecapilhs rasis. Inter servos enim ii tantum
-
-pueri qui in conviviis pocula ministrabant promissam co-
-
-mam gerebant. Si quis tamen longum iter facturus erat,
-
-lato tegimine utebatur quod pe'Asus vel causa vocabatur;
-eodem modo illi qui in theatro vel in cireo edentes ludos
-aestivo tempore spectabant caput a solis radiis defendebant. Qua vero forma petAsus a causia internosceretur, abantiquis scriptoribus traitum non est.Mense decembri,cum Saturnalia Romae celebraIentur,
-cives etiam pilleati eran; nec togam indubant, sed syIthési,fuisse.
-
-
-
-atronas aperto capite ambulare Komani mores non
-
-sinebant. Neque tamen Romanae mulieres huiusmodi capi-
-
-tis tegiminibus utebantur, quae nostrae aetatis matronae
-
+Matronas aperto capite ambulare Komani mores non
+sinebant. Neque tamen Romanae mulieres huiusmodi capitis tegiminibus
+utebantur, quae nostrae aetatis matronae
 comis suis imponere solent atque, ubi primum prior forma
-
 obsolevit, sic aptari iubent ut saeculi libido poscit. Quod
-
 nos «cappello» vocamus antiquis temporibus nullum erat.
-
-limbo vestis super caput reducto Romanae matronae ple-
-
-rumque velabantur; taeniolae vero quae capiti innecteban-
-
-tur mulierum capillos eodem tempore et exornabant et te-
-
-gebant.
-
-
-
-
-
-
-
-
-
+Limbo vestis super caput reducto Romanae matronae plerumque
+velabantur; taeniolae vero quae capiti innectebantur mulierum
+capillos eodem tempore et exornabant et tegebant.
 
 
 ### Cicero vestem mutat.
