@@ -2121,62 +2121,25 @@ quam in conviviis comissantes induebant.
 
 ### De muliebribus vestimentis. Quae vestis caracalla fuerit.
 
+![«mulieres stolam tunicis iniciebant»]()
 
-
-
-
-Antiquis temporibus toga fuit commune vestimentum vi-
-
-rle et muliebre; sed mutatis moribus iamdiu Romae mu-
-
-lieres stolam tunicae iniciebant, cuius in extrema ora pur-
-
-purea fasceola, «nstita dicta, adsuta erat. Subter stolam binis
-
-— 74 —
-
-
-
-tunicis utebantur, quarum interior subucula, vel «nterula,
-
-
-
-vel indusvum vocabatur.
+Antiquis temporibus toga fuit commune vestimentum virle et muliebre;
+sed mutatis moribus iamdiu Romae mulieres *stolam* tunicae iniciebant,
+cuius in extrema ora purpurea fasceola, *instita* dicta, adsuta erat.
+Subter stolam binis tunicis utebantur, quarum interior *subucula*,
+vel *interula*, vel *indusium* vocabatur.
 
 Inter feminarum vestes a serioris aetatis scriptoribus
-
-
-
-etiam caracallae mentio fit. Duo caracallae genera fuisse
-
+etiam *caracallae* mentio fit. Duo caracallae genera fuisse
 accepimus, cum eodem nomine Latina lingua et muliebrem
-
 vestem et virilem significaret; brevis altera
-
-erat, sine manicis, plerumque sumptuosa, ta-
-
-laris altera virisque mollioribus apta. Hanc
-
-ideo postea Antoninianam vocatam esse tra-
-
-dunt, quod Imperator Antoninus ea veste
-
-indutus inter milites versari soleret. Ex quo
-
-factum est ut vestis ab imperatore nomen
-
-duceret, imperator a veste; nam in con-
-
-suetudinem venit imperatorem illum, pro
-
-Antonino, Caracallam vocare.
-
-
-
-
-
-
-
+erat, sine manicis, plerumque sumptuosa, talaris altera virisque
+mollioribus apta. Hanc
+ideo postea *Antoninianam* vocatam esse tradunt, quod Imperator
+Antoninus ea veste indutus inter milites versari soleret.
+Ex quo factum est ut vestis ab imperatore nomen
+duceret, imperator a veste; nam in consuetudinem venit imperatorem
+illum, pro Antonino, Caracallam vocare.
 
 
 ### De Romanorum calceamentis.
@@ -2193,9 +2156,7 @@ Quoniam de Romanorum vestitu tam
 
 
 
-«mulieres. stolam
-
-tunicis inieiebant», àddamus oportet, ne quis forte credat sena-
+, àddamus oportet, ne quis forte credat sena-
 
 tum populumque Romanum nudis pedibus
 
