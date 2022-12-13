@@ -2091,68 +2091,32 @@ vestes*, vel *colobia* vocabantur.
 
 ### De ceteris virilibus vestimentis.
 
-
-
-
+![Cucullus.]()
 
 Multis et varus vestimentis praeter togam et tunicam
-
 Romani utebantur, vel togae superinduendis, vel togae loco
-
-induendis. Palltwm spissus quidam amictus vocabatur, togae
-
+induendis. *Pallium* spissus quidam amictus vocabatur, togae
 oficio similis, brevior tamen et simplicior. Non multum a
+pallio *paenula* differebat, 1ter facientibus aptior, humeros aec
+plerumque caput quoque obtegens.
 
-pallio paenula differebat, 1ter facien-
-
-tibus aptior, humeros aec plerumque
-
-caput quoque obtegens. :»
-
-
-
-Genus alterum pallu, endrommis Ci
-
-(vel endromida) ad id erat idonea,
-
+Genus alterum pallii, *endrommis*
+(vel *endromida*) ad id erat idonea,
 ut grave integumentum praeberet,
-
 si improvisus imber coortus esset,
-
 vel si post palaestrae ludum fessum
-
-ac sudore madidum corpus veste sta-
-
-tim involvi oporteret. Crassiores ali
-
-amictus, ut brrus et bardocucullus,
-
-adsutis cucullis caput tegentibus
-
+ac sudore madidum corpus veste statim
+involvi oporteret. Crassiores alii
+amictus, ut *birrus* et *bardocucullus*,
+adsutis *cucullis* caput tegentibus
 praediti erant.
 
-
-
-Lacerna, cuius usus post Cicero- Cucullus.
-
-nis aetatem invaluit, brevis erat ex-
-
-peditaque vestis, quae cotidianis negotiis operam dantibus
-
-celeriorem quam toga incessum reddebat, motusque corpo-
-
-ris agiliores. Synthésis vero cenatoria illa vestis vocabatur,
-
+*Lacerna*, cuius usus post Ciceronis
+aetatem invaluit, brevis erat expeditaque
+vestis, quae cotidianis negotiis operam dantibus
+celeriorem quam toga incessum reddebat, motusque corporis
+agiliores. *Synthesis* vero cenatoria illa vestis vocabatur,
 quam in conviviis comissantes induebant.
-
-
-
-
-
-
-
-
-
 
 
 ### De muliebribus vestimentis. Quae vestis caracalla fuerit.
