@@ -1225,7 +1225,7 @@ interdiceretur. M. Cicero sensit se hac lege peti, atque ex
 Italia discedere sponte properavit.
 
 
-## M. Cicero in exsilium proficiscitur.
+### M. Cicero in exsilium proficiscitur.
 
 Iamdudum Cicero notaverat patrem tristem et taciturnum
 factum rarius foras exire, rarius amicos et familiares apud
@@ -1610,7 +1610,7 @@ ut pater tuus in exsilium pellereiur, cum se victum putet, sic
 fortasse acceptam ignominiam ulcisci conatur».
 
 
-## Cicero apud patrem in Tusculano commoratur.
+### Cicero apud patrem in Tusculano commoratur.
  
 Iam Cicero, undecimum annum agens, prima studia in
 ludo perfecerat, cum pater illum Graeco cuidam servo tradidit,
@@ -1864,7 +1864,7 @@ vento navigium impellentecitius quam suspicatus erat Delum pervenerat, adeo tame
 procelloso mari se diutius committere nollet.
 
 
-## Pater nauseat, filius iucunde navigat.
+### Pater nauseat, filius iucunde navigat.
 
 Aegre ille navis iactationem ferebat ac, si forte tempestas
 minus idonea esset ad navigandum, nausea perpetuo laborabat. Sedebat
@@ -2857,7 +2857,7 @@ dilexerit».
   - [Cicero in Campum Martium ducitur.](#cicero-in-campum-martium-ducitur)
   - [Quid de Cicerone patre audierit.](#quid-de-cicerone-patre-audierit)
   - [Lex in M. Ciceronem lata.](#lex-in-m-ciceronem-lata)
-- [M. Cicero in exsilium proficiscitur.](#m-cicero-in-exsilium-proficiscitur)
+  - [M. Cicero in exsilium proficiscitur.](#m-cicero-in-exsilium-proficiscitur)
   - [Pater abest.](#pater-abest)
   - [De re vehiculari apud Romanos.](#de-re-vehiculari-apud-romanos)
   - [Cursus publicus ab Augusto ad Constantinum.](#cursus-publicus-ab-augusto-ad-constantinum)
@@ -2878,7 +2878,7 @@ dilexerit».
   - [De M. Ciceronis reditu.](#de-m-ciceronis-reditu)
   - [M. Cicero aedificat.](#m-cicero-aedificat)
   - [Plebs Romana tumultuatur.](#plebs-romana-tumultuatur)
-- [Cicero apud patrem in Tusculano commoratur.](#cicero-apud-patrem-in-tusculano-commoratur)
+  - [Cicero apud patrem in Tusculano commoratur.](#cicero-apud-patrem-in-tusculano-commoratur)
   - [De Tusculano.](#de-tusculano)
   - [De Romanorum villa urbana.](#de-romanorum-villa-urbana)
   - [De villa rustica: cortes et piscinae.](#de-villa-rustica-cortes-et-piscinae)
@@ -2890,7 +2890,7 @@ dilexerit».
   - [De ceteris Romanorum vehiculis. (Plaustrum, arcera, petorritum).](#de-ceteris-romanorum-vehiculis-plaustrum-arcera-petorritum)
   - [De ceteris Romanorum vehiculis. (Cisium, essedum, covinus, carpentum, pilentum).](#de-ceteris-romanorum-vehiculis-cisium-essedum-covinus-carpentum-pilentum)
   - [Athenis relictis, M. Cicero Delum adpellit.](#athenis-relictis-m-cicero-delum-adpellit)
-- [Pater nauseat, filius iucunde navigat.](#pater-nauseat-filius-iucunde-navigat)
+  - [Pater nauseat, filius iucunde navigat.](#pater-nauseat-filius-iucunde-navigat)
   - [Cicero cum Marco patre patruelique fratre in Asia moratur.](#cicero-cum-marco-patre-patruelique-fratre-in-asia-moratur)
   - [Quomodo M. Cicero cum Pindenissitis bellum gesserit.](#quomodo-m-cicero-cum-pindenissitis-bellum-gesserit)
   - [Cicero cum patre in Italiam redit.](#cicero-cum-patre-in-italiam-redit)
