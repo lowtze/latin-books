@@ -2455,7 +2455,6 @@ Desidiosi viri, vel qui seniores essent aut corpore infirmo, in
 labris singuli lavari malebant, vel nudo corpore
 solis calorem cute excipere, quod quidem *apricari* dicebatur.
 
-# 13-Dec-22 p82
 
 ### Cicero circenses ludos spectat.
 
@@ -2515,48 +2514,53 @@ tamen ista displicent».
 
 ### Cicero Athenas proficiscitur.
 
-
 Eadem erat et in Cicerone filio peregrinandi cupiditas
 eb in eius patre ardens quaedam et ambitiosa voluntas ut
 apud Graecos ille in severiora studia incumberet eamque
-doctrinam hauriret, qua excultus ad summos honores pos-
-set aliquando pervenire. Cum igitur Cicero quadam die
+doctrinam hauriret, qua excultus ad summos honores posset aliquando
+pervenire. Cum igitur Cicero quadam die
 Marcum patrem adisset ab eoque petisset ut per illum
-Athenas proficisci sibi liceret, ubi, si Cratippum, qui sum-
-mus eius aetatis philosophus habebatur, ceterosque docto.
-res audisset, multum se in studiis speraret profecturum,
+Athenas proficisci sibi liceret, ubi, si Cratippum, qui summus eius
+aetatis philosophus habebatur, ceterosque doctores
+audisset, multum se in studiis speraret profecturum,
 tantum abfuit ut pater id abnueret vel quicquam obiceret,
 ut contra, lacrimis obortis, ita responderit:
+
 «Consilium probo, fili mi, tibique plaudo. Nam tristissimis
 his rei publicae temporibus haec una spes maerorem meum
 leviorem facit, fore ut talis lius meus sit, qualis ipse fui».
+
 Quae cum dixisset M. Cicero, vir optimus, sed vanus
-et gloriosus laudumque suarum usque ad fastidium osten-
-tator, coepit coram filio elata voce scaenicoque gestu versus
+et gloriosus laudumque suarum usque ad fastidium ostentator, coepit
+coram filio elata voce scaenicoque gestu versus
 plurimos ex illo poemate recitare, quod in suum honorem
 ipse composuerat, atque «De consulatu meo» inscripserat.
-Arma glad4atoria.
-Postquam pronuntiandi finem fecit, demisso capite diu con-
-ticuit. Deinde:
-«Haec omnia», exclamavit, «frustra fuerunt. Vixi. Flo-
-rui. Nulla iam est omnino res publica; nullus ego».
+
+![Arma gladiatoria.]()
+
+Postquam pronuntiandi finem fecit, demisso capite diu conticuit.
+Deinde:
+
+«Haec omnia», exclamavit, «frustra fuerunt. Vixi. Florui. Nulla iam
+est omnino res publica; nullus ego».
 
 
 ### Nihil sine nummis fieri se Cicero probe didicisse ostendit.
 
-At Cicero, patri obsequens, cum versus illos, quos iam-
-dudum memoriter didicerat, attentissime audivisset, brevi
-mora interiecta: «Velim, pater, mihi ignoscas,» inquit, «8
-id te rogo quod ad peregrinationem meam non mediocri-
-ter pertinere censeo. Satisne pecuniae habes ad id quod
+At Cicero, patri obsequens, cum versus illos, quos iamdudum memoriter
+didicerat, attentissime audivisset, brevi
+mora interiecta: «Velim, pater, mihi ignoscas,» inquit, «si
+id te rogo quod ad peregrinationem meam non mediocriter pertinere
+censeo. Satisne pecuniae habes ad id quod
 statuimus? Nam mihi, filio tuo, non licet Athenis sine
-aliquo decore vivere. Metuo enim, si parcior sim, ne mihl
+aliquo decore vivere. Metuo enim, si parcior sim, ne mihi
 omnes pauperiem obiciant, sordes tibi».
+
 Cui Marcus: «Bono animo sis, mi Cicero; omnia iam
-providi. Haud ignoras aliquot mihi domos in Aventino at-
-que in Argileto esse pensione non parva ab inquilinis con-
-ductas. Ex illarum mercedibus quod tibi opus erit suppe-
-ditabo».
+providi. Haud ignoras aliquot mihi domos in Aventino atque in
+Argileto esse pensione non parva ab inquilinis conductas. Ex illarum
+mercedibus quod tibi opus erit suppeditabo».
+
 Post aliquot menses Cicero Athenas profectus est.
 
 
@@ -2564,19 +2568,19 @@ Post aliquot menses Cicero Athenas profectus est.
 
 Athenis cum esset, Cicero non unam eandemque vitae
 rationem sequebatur. Interdum philosophorum ac rhetorum
-scholas magna cum diligentia frequentabat; interdum epu-
-lis ac vino, quibus ex adulescentulo praeter modum deditus
+scholas magna cum diligentia frequentabat; interdum epulis ac vino,
+quibus ex adulescentulo praeter modum deditus
 erat, tanta intemperantia indulgebat, ut litterarum studia
-omnino neglegeret, vel ebrietate impeditus vel somno. Ru-
-mor erat saepius illum, Athenis relictis, per Graeciam totam
-esse peregrinatum, voluptates illas sectantem, quae ganeo-
-nem potius ac dissolutum hominem decerent, quam adule-
-scentem severioribus studiis deditum.
+omnino neglegeret, vel ebrietate impeditus vel somno. Rumor erat
+saepius illum, Athenis relictis, per Graeciam totam
+esse peregrinatum, voluptates illas sectantem, quae ganeonem potius
+ac dissolutum hominem decerent, quam adulescentem severioribus
+studiis deditum.
 
 Condiscipulos Athenis habuit nonnullos optimatium filios,
 ut Acidinum illum quem supra memoravimus, Bibulum,
-Messallam, alios. Quem in numerum sponte ac libenter Ve-
-nusinus quidam adulescens adscitus est, humili loco natus
+Messallam, alios. Quem in numerum sponte ac libenter Venusinus quidam
+adulescens adscitus est, humili loco natus
 (nam pater eius libertinus erat) sed promptus, sermone
 iucundo, incredibili quadam vi ingenii praeditus, amicus
 idem fidus ac probatus. Horatio Flacco nomen ei erat, nec
@@ -2586,17 +2590,15 @@ futurum.
 
 ### Nuntius de caede Caesaris Athenas adfertur.
 
-Crebri interea de Romanis rebus nuntii Athenas adfe-
-rebantur: potentiorem in dies Caesarem fieri; sed quo am-
-pliores honores ad illum a Senatu essent delati, eo maiorem
+Crebri interea de Romanis rebus nuntii Athenas adferebantur:
+potentiorem in dies Caesarem fieri; sed quo ampliores honores ad
+illum a Senatu essent delati, eo maiorem
 in eum adversariorum invidiam fieri. Amicos eius praeter
-modum superbire; viros optimos aut ad aduationem coac-
-tos, aut à re publica omnino amotos. Talia in Graecia dItalicis rebus nuntiabntur. Horruerunt omnes, cum Ix im-
-oviso adlatum est coniurationem adversus Caesarem esse
+modum superbire; viros optimos aut ad aduationem coactos, aut a re
+publica omnino amotos. Talia in Graecia de Italicis rebus nuntiabantur. Horruerunt omnes, cum ex improviso adlatum est coniurationem adversus Caesarem esse
 factam, ipsumque viginti tribus vulneribus confossum in
-Curia, iuxta statuam Cn. Pompeii, trucidatum esse. Coniu-
-ratos Capitolium occupavisse, dictaturae honorem in per-
-petuum esse sublatum.
+Curia, iuxta statuam Cn. Pompeii, trucidatum esse. Coniuratos
+Capitolium occupavisse, dictaturae honorem in perpetuum esse sublatum.
 
 
 ### Octavianus societatem init cum Antonio et Lepido.
