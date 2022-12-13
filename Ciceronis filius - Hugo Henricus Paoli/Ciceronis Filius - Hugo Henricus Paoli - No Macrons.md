@@ -5,7 +5,7 @@ publisher:
 year: 1964
 lang: la
 cover-image: "./images/cover.png"
-version: 0.5
+version: 0.6
 ---
 
 # Ciceronis Filius
@@ -2455,687 +2455,277 @@ Desidiosi viri, vel qui seniores essent aut corpore infirmo, in
 labris singuli lavari malebant, vel nudo corpore
 solis calorem cute excipere, quod quidem *apricari* dicebatur.
 
+# 13-Dec-22 p82
 
 ### Cicero circenses ludos spectat.
 
-
-
 Nihil agens Cicero per urbis vias vagabatur, cum ob-
-
 viam illi Acidinus fit, arreptaque dextera: «Nisi forte quid
-
 habeas», inquit, «quod hodie magis te adliciat, pergratum
-
 mihi feceris si mecum veneris. Magnus enim ludus gladia-
-
 torius nuntiatus est. Visne me comitari?».
-
-
-
 Cui Cicero: «Cur non? Otiosus sum, neque unquam gla-
-
 diatorum paria armis dimicantia vidi; at saepe audivi ma-
-
 gnam delectationem hoc spectaculum adferre».
-
-
-
 Circum intrant; adsidunt; spectant. Post sollemnem cer-
-
 taminum adparatum ludus incipit. Splendidis armis induti
-
 gladiatores alter alterum petunt.
-
-— 83 —
-
-
-
 Dum gladiatores proeliantur, Acidinus Ciceronem adloqui
-
 non desinebat: «Videsne», aiebat, «ut Thraex non libenter
-
 moriatur? Languidulus est in iugulo ad vulnus porrigendo;
-
 male artem suam
-
 didicit ille! At con-
-
 tra, quam audac-
-
 ter prius Syrus oc-
-
 cidit! Quam non
-
 timide mortale
-
 vulnus excepit!».
-
-
-
 Plebs interea,
-
 sanguinem sitiens:
-
 «Ure! Verbera!» «post. sollemnem certaminum adparatum».
-
 clamitabat; «Vici-
-
 sti illum strenue; occidere quid cessas?», ac pollice verso
-
 conviciis ac probris moriturum consectabatur.
-
-
-
 Retiariwum peritissimum eo die corpore ingens secutor, et
-
 ipse in arte sua non mediocriter versatus, propius invadere
-
 ac gladio vulnerare temptabat. Caput hic galea, corpus
-
 scuto tegebat; nudo capite ille, nudis pedibus, brevi tan-
-
-
-
-
-
-
-
-
-
-
-
 «dum gladiatores proeliantur».
-
-
-
-
-
 tum tunica indutus manu altera tridentem, altera ferreum
-
 rete agitabat, summopere vitans ne se adversarius comminus
-
 pugnare cogeret. Incertus pugnae exitus videtur. Celeri pede
-
 secutor tamquam fugienti instat; at retiarius, tempore op-
-
 portuno arrepto, rete ex improviso iacit, secutorem ita ad.
-
 volvit, ut vix moveri possit, impeditum adgreditur atque bis
-
-
-
-
-
-
-
-— 84 —
-
-
-
 terque tridente in ventrem infixo, laceratis extis expirantem
-
 in harena Circi relinquit.
-
 Tum spectatores ardenter plaudere, clamores ad caelum
-
 tollere, conviciis petere et sibilis ut secutor statim iuguletur.
-
 Postquam e Cir-
-
 co exierunt, Acidi-
-
 nus Ciceronem ro-
-
 gavit: «Quid tibi
-
 ludi gladiatorii visi
-
 sunt? Neglegentius,
-
 nis! fallor, specta-
-
 bas».
-
 Cui ille: «Iucun-
-
 dius quiddam esse
-
 Retiarius ; secutor. putaveram. Idem
-
 semper est; mac-
-
 tantur in Circo homines, ut apud lanium boves. Neque ta-
-
 men ista displicent».
-
-
-
 
 
 ### Cicero Athenas proficiscitur.
 
 
-
 Eadem erat et in Cicerone filio peregrinandi cupiditas
-
 eb in eius patre ardens quaedam et ambitiosa voluntas ut
-
 apud Graecos ille in severiora studia incumberet eamque
-
 doctrinam hauriret, qua excultus ad summos honores pos-
-
 set aliquando pervenire. Cum igitur Cicero quadam die
-
 Marcum patrem adisset ab eoque petisset ut per illum
-
 Athenas proficisci sibi liceret, ubi, si Cratippum, qui sum-
-
 mus eius aetatis philosophus habebatur, ceterosque docto.
-
 res audisset, multum se in studiis speraret profecturum,
-
 tantum abfuit ut pater id abnueret vel quicquam obiceret,
-
 ut contra, lacrimis obortis, ita responderit:
-
-
-
 «Consilium probo, fili mi, tibique plaudo. Nam tristissimis
-
 his rei publicae temporibus haec una spes maerorem meum
-
 leviorem facit, fore ut talis lius meus sit, qualis ipse fui».
-
 Quae cum dixisset M. Cicero, vir optimus, sed vanus
-
 et gloriosus laudumque suarum usque ad fastidium osten-
-
-
-
-
-
-
-
-
-
-
-
-— 85 —
-
-
-
-
-
 tator, coepit coram filio elata voce scaenicoque gestu versus
-
 plurimos ex illo poemate recitare, quod in suum honorem
-
 ipse composuerat, atque «De consulatu meo» inscripserat.
-
-
-
-
-
 Arma glad4atoria.
-
-
-
 Postquam pronuntiandi finem fecit, demisso capite diu con-
-
 ticuit. Deinde:
-
-
-
 «Haec omnia», exclamavit, «frustra fuerunt. Vixi. Flo-
-
 rui. Nulla iam est omnino res publica; nullus ego».
-
-
-
-
-
 
 
 ### Nihil sine nummis fieri se Cicero probe didicisse ostendit.
 
-
-
 At Cicero, patri obsequens, cum versus illos, quos iam-
-
 dudum memoriter didicerat, attentissime audivisset, brevi
-
 mora interiecta: «Velim, pater, mihi ignoscas,» inquit, «8
-
 id te rogo quod ad peregrinationem meam non mediocri-
-
 ter pertinere censeo. Satisne pecuniae habes ad id quod
-
 statuimus? Nam mihi, filio tuo, non licet Athenis sine
-
 aliquo decore vivere. Metuo enim, si parcior sim, ne mihl
-
 omnes pauperiem obiciant, sordes tibi».
-
-— 86 —
-
-
-
 Cui Marcus: «Bono animo sis, mi Cicero; omnia iam
-
 providi. Haud ignoras aliquot mihi domos in Aventino at-
-
 que in Argileto esse pensione non parva ab inquilinis con-
-
 ductas. Ex illarum mercedibus quod tibi opus erit suppe-
-
-
-
 ditabo».
-
 Post aliquot menses Cicero Athenas profectus est.
-
-
-
-
-
 
 
 ### Cicero Athenis philosophos atque rhetores audit.
 
-
-
 Athenis cum esset, Cicero non unam eandemque vitae
-
 rationem sequebatur. Interdum philosophorum ac rhetorum
-
 scholas magna cum diligentia frequentabat; interdum epu-
-
 lis ac vino, quibus ex adulescentulo praeter modum deditus
-
 erat, tanta intemperantia indulgebat, ut litterarum studia
-
 omnino neglegeret, vel ebrietate impeditus vel somno. Ru-
-
 mor erat saepius illum, Athenis relictis, per Graeciam totam
-
 esse peregrinatum, voluptates illas sectantem, quae ganeo-
-
 nem potius ac dissolutum hominem decerent, quam adule-
-
 scentem severioribus studiis deditum.
 
-
-
 Condiscipulos Athenis habuit nonnullos optimatium filios,
-
 ut Acidinum illum quem supra memoravimus, Bibulum,
-
 Messallam, alios. Quem in numerum sponte ac libenter Ve-
-
 nusinus quidam adulescens adscitus est, humili loco natus
-
 (nam pater eius libertinus erat) sed promptus, sermone
-
 iucundo, incredibili quadam vi ingenii praeditus, amicus
-
 idem fidus ac probatus. Horatio Flacco nomen ei erat, nec
-
 temere plerique dictitabant magnum illum poetam aliquando
-
 futurum.
-
-
-
-
-
 
 
 ### Nuntius de caede Caesaris Athenas adfertur.
 
-
-
 Crebri interea de Romanis rebus nuntii Athenas adfe-
-
 rebantur: potentiorem in dies Caesarem fieri; sed quo am-
-
 pliores honores ad illum a Senatu essent delati, eo maiorem
-
 in eum adversariorum invidiam fieri. Amicos eius praeter
 modum superbire; viros optimos aut ad aduationem coac-
 tos, aut à re publica omnino amotos. Talia in Graecia dItalicis rebus nuntiabntur. Horruerunt omnes, cum Ix im-
-
-
-
-
 oviso adlatum est coniurationem adversus Caesarem esse
-
 factam, ipsumque viginti tribus vulneribus confossum in
-
 Curia, iuxta statuam Cn. Pompeii, trucidatum esse. Coniu-
-
 ratos Capitolium occupavisse, dictaturae honorem in per-
-
 petuum esse sublatum.
-
-
-
 
 
 ### Octavianus societatem init cum Antonio et Lepido.
 
-
-
 Ubi primum nuntius de caede Caesaris Athenas perlatus
-
 est, Acidinus, nulla mora interposita, e domo se proripuit,
-
 ut quam primum Ciceronem conveniret. Occurrit illi in via.
-
 ad se properante gressu venienti.
-
-
-
 «Audistine», inquit, «quid de Caesare adlatum sit? Pe-
-
 rit ile tandem; econiuratorum pugiones libertatem nobis
-
 restituerunt».
-
-
-
 At Cicero contracta fronte, ut qui suspenso animo esset
-
 et sollicito:
-
-
-
 «Audivi», inquit, «sed quinam rerum exitus futurus sit
-
 nemo adhuc providere potest. Omnia in ambiguo sunt. Vide
-
 ne nimis mature laeteris. Caesar occidit; Antonius vivit.
-
 Saepe enim patrem meum audivi cum diceret alterum
-
 Caesarem illum esse, plebi aeque acceptum, moribus Cae-
-
 sare nequiorem, atrociorem animo. Humor est Bruti facinus
-
 Romanae plebi non esse probatum».
-
-
-
 Nec fallebatur. Cum enim brevi tempore civile bellum
-
 in Italia exarsisset, quo exorto C. Caesar Octavianus et
-
 M. Lepidus Senatus partes contra Antonium secuti sunt,
-
 magna ex improviso rerum mutatio facta est. Post Mutinen-
-
 sem pugnam, qua M. Antonius fusus et fugatus est, M. Le-
-
 pidus Caesarem cum Antonio in gratiam reduxit. Pepige-
-
 runt tres illi viri se contra omnes coniunctos fore, summo-
-
 que imperio potiti lege statuerunt, ut ii qui Caesari adver-
-
 sati essent nullo iudicio interficerentur. Acerrime igitur in
-
 proscriptos saevitum est. Urbs tumultus et terroris plena
-
 erat. Nihil tutum putabatur, nihil sanctum. Spes una in
-
 Bruti armis erat, qui Graeciam provinciam in suam pote-
-
 statem redegerat ingentique exercitui praeerat.
-
-
 
 
 ### Cicero iter ad Homam inceptum intermittit.
 
-
-
 Quae postquam in Graecia nuntiata sunt, Cicero, cum
-
 ignoraret non tantum patris nomen, sed suum etiam in
-
 proscriptorum numerum relatum esse, Romam iter facie-
-
 bat. In itinere, cum ad mare appropinquaret, Aristocritum
-
 citato cursu ad se venientem vidit. Servus erat hic M. Cice-
-
 ronis, inter cursores celeritate ace fidelitate insignis. Litte-
-
 ras illi ante aliquot dies a patre datas reddidit, quibus pater,
-
 quamquam nondum triumvirali potestate constituta, salu-
-
 tem suam in magno esse discrimine nuntiabat, uni tamen
-
 Bruto se confidere. Hortabatur igitur ut Bruti castra pe-
-
 teret; cito illum conaturum si triumvirum vires in acie
-
-
-
 frangi possent.
-
-
-
-
-
-
-
 
 
 ### Nuntium de morte patris Cicero accipit.
 
-
-
-
-
 Mutato itinere Cicero in Macedoniam atque ad Bruti ca-
-
 stra, unde profectus erat, quam celerrime contendit. Com-
-
 plures iam dies eo pervenerat, cum Aristocritum tristi vultu
-
 redeuntem ac se inter milites quaeritantem adspexit. Adut
-
 illum, qui quidem aliquid se de patre adlaturum renuntiavit,
-
 petiitque ut venia sibi daretur cum ipso secreto colloquendi.
-
-
-
 Postquam Aristocritus et Cicero recesserunt, prior hio:
-
-
-
 «Quid de patre meo nuntias? Loquere».
-
-
-
 Cui ille: «Durum quiddam, Marce, imperas; sed vera
-
 me loqui necesse est, vel si nuntius tristissimus adferendus
-
 est. Pater tuus perut».
-
-
-
 Diu Cicero tacuit; sed nubilus vultus, trementes manus,
-
 contractumque supercilium quantum dolorem ex eo nuntio
-
 accepisset palam faciebant. Denique:
-
-
-
 «Nihil novi fortasse», inquit, «nuntias; id evenit quod
-
 iamdiu metuebam. Quisnam in Antonio clementiam esse
-
 suspicaretur? Quisnam in Octaviano fidem? At, nulla re
-
 omissa, quomodo illum necaverint enarra».
-
-
-
 Tum Aristocritus: «Postquam Octavianus ea lege cum
-
 Antonio et Lepido societatem iniit, ut tresviri rei publicae
-
 constituendae ipsi per quinquennium essent, ac suos quis-
-
-
-
-
-
-
-
 «infaustum omen!».
-
-
-
 que inimicos proscriberet, nemini iam dubium fuit quin
-
 patri tuo esset pereundum».
-
-
-
 «At cur», Cicero interpellavit, «cum tresvirn Iomam
-
 appropinquarent, urbem ille non reliquit?».
-
-
-
 «Fugit ille quidem, primum in Tusculanum, deinde trans-
-
 versis itineribus in. Formianum, ibique à propinqua ora
-
 maritima navieulam conscendit. Navis, secundo vento acta,
-
 ad promunturium Circaeum feliciter adpulit; sed ille, mu-
-
 tato consilio, nautis imperavit ut se Caietam deferrent. Ecce
-
 autem, cum litus adiret, densum corvoruin ac graculorum
-
 agmen — infaustum omen! - ex Apollinis fano, quod in
-
-
-
-
-
-— 90 —
-
-
-
 litore aedificatum est, ex improviso evolant. Crocitantes
-
 atque importuna voce nescio quid mali minitantes, ruden-
-
 tibus navis, antemnis, gubernaculo insidunt. Cymbula vec-
-
 tus Marcus oram maritimam tetigit suamque villam adiit.
-
 Tum dirae illae aves villam invadere, limina ac fenestras
-
 rostris atque alis verberare, Marci lecto advolare, ipsius
-
 togae sinum arripere. Familiaribus admonentibus, metu ille
-
 amens ac maerore confectus navem iterum conscendit, sed
-
 cum navis iactationem ferre non posset, nautis imperavit ut
-
 rursus litus peterent. Vitae taedium eum ceperat: exclama-
-
 bat interdum: ** In patria moriatur necesse est qui patriam
-
-
-
 servavit".
-
-
-
-
-
 
 
 ### Quomodo M. Cicero iugulatus sit.
 
-
-
-
-
 Dum ad villam regreditur obviam illi fiunt in ipso litore
-
 sicari ab Antonio missi, Herennius centurio et Popillius
-
 tribunus. Tum ego, eonservos meos adlocutus, qui mecum
-
 Marcum comitabantur:
-
-
-
-* Non sic ", aio, ** Marcus noster peribit!
-
-
-
+Non sic ", aio, ** Marcus noster peribit!
 Adnuunt illi sicasque, quas sub vestibus celatas habe-
-
 bant, extrAhunt, fortiter pro domino suo ad dimicandum
 parati. Tum Popillius armatorum turbam, que illum comi-
 tabatur, propius accedere iubet, atque in e obliquis oculiintuens, excIamat:
-
-
 Cui ipse:
-
-* Qui pudor in sicariis? ".
-
-
-
+Qui pudor in sicariis? ".
 Iamque utrimque ad pugnam acceingebamur. Illi destric-
-
 tis gladiis, nos elatis pugionibus alteri alteros petituri era-
-
-
-
 mus, cum pater tuus:
-
 ** Lecticam deponite, pueri ", inquit; ** ferte aequo animo
-
-
-
 quod fors iniqua cogit ".
-
-
-
 Prominentem ex lectica immotamque cervicem praeben-
-
 tem iugulant. Obtruncato capite — horribile dictu! — manus
-
 etiam illi praeciderunt, ut ea spolia Antonio deferrent, prae-
-
-
-
 mium pro scelere laturi».
- 
-
-
-
-
-
 
 
 ### Ciceronis somnium.
-
 
 Insequenti nocte Cicero sub tentorio iacens somnum capere
 non poterat. Obversabatur enim illius oculis patris imago,
