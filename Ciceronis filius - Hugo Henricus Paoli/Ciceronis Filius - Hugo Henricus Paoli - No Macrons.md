@@ -1818,7 +1818,7 @@ Roma in suburbanum agrum vectari vellet.
 
 ![«essedi similis covinus erat».]()
 
-Cisio simile, sed firmius ae robustiore materie compactum,
+Cisio simile, sed firmius ac robustiore materie compactum,
 *essedum* erat, quod quidem illorum essedorum speciem reterebat quibus
 Galli, bellum cum gererent, in acie uti consuerant.
 Privata utilitas essedorum usum mutavit, non speciem.
@@ -2026,7 +2026,7 @@ Virorum vestimenta erant: *toga*,
 ![«toga domestica ac propria Romanorum vestis erat».]()
 
 Inter virilia Romanorum vestimenta primum locum *toga* obtinebat, quae
-quidem domestica ae propria Romanorum vestis erat, atque eo usque
+quidem domestica ac propria Romanorum vestis erat, atque eo usque
 civis
 Romani dignitatem palam faciebat ut
 populus Romanus a Vergilio poeta
@@ -2186,50 +2186,28 @@ feminae pretiose calceatae ambulabant.
 
 ### De calceis.
 
+![Calceus.]()
 
-
-Idem erat in calcea-
-
-mentis calceus, quod in z
-
-vestibus toga; nam ge- Calceus. Calceus patricius.
-
-nus hoc ornatus Romani
-
-sibi proprium ae domesticum putabant. Sed calceis in pu-
-
-blico utebantur, in aedibus soleis. Utrumque enim 1indeco-
-
-rum videbatur, et sine calceis foris versari, et cum calceis
-
+Idem erat in calceamentis *calceus*, quod in
+vestibus toga; nam genus hoc ornatus Romani
+sibi proprium ac domesticum putabant. Sed calceis in publico
+utebantur, in aedibus soleis. Utrumque enim indecorum videbatur, et
+sine calceis foris versari, et cum calceis
 domi. Si quis igitur vel suam ipsius vel alienam domum
-
 intraturus erat, statim, calceis depositis, pedes in soleas
-
 intromittebat.
 
+![Calceus patricius.]()
 
-
-simplex caleceorum corium erat quo privati homines pe-
-
-des tegebant, nullo ornamento addito. At contra qui in re
-
-publiea eminebant, calceis ipsis nobilitatem suam ostende-
-
-bant, ut patricii viri et senatores. Calceus aíricvus ruber
-
-erat, senatorvus niger; uterque teretibus quibusdam ocorrigiis
-
-suris adligabatur, eburneis lunulis ornabatur.
+Simplex calceorum corium erat quo privati homines pedes tegebant,
+nullo ornamento addito. At contra qui in re
+publica eminebant, calceis ipsis nobilitatem suam ostendebant, ut
+patricii viri et senatores. Calceus *patricius* ruber
+erat, *senatorius* niger; uterque teretibus quibusdam corrigiis
+suris adligabatur, eburneis *lunulis* ornabatur.
 
 
 ### Quomodo Romani caput operire consuerint.
-
-
-
-
-
-
 
 Mos quondam priscis Italicis populis fuit operto capite
 
@@ -2698,7 +2676,7 @@ nae thermae sub Nerone, Antoninianae sub Caracalla: illae
 
 quod optime calefactae essent saepe ab antiquis laudatae,
 
-hae propter amplitudinem ae magnificentiam insignes. Plu-
+hae propter amplitudinem ac magnificentiam insignes. Plu-
 
 rima tamen et privata et publiea balinea erant, quae in
 
@@ -3140,7 +3118,7 @@ nusinus quidam adulescens adscitus est, humili loco natus
 
 iucundo, incredibili quadam vi ingenii praeditus, amicus
 
-idem fidus ae probatus. Horatio Flacco nomen ei erat, nec
+idem fidus ac probatus. Horatio Flacco nomen ei erat, nec
 
 temere plerique dictitabant magnum illum poetam aliquando
 
@@ -3306,7 +3284,7 @@ stra, unde profectus erat, quam celerrime contendit. Com-
 
 plures iam dies eo pervenerat, cum Aristocritum tristi vultu
 
-redeuntem ae se inter milites quaeritantem adspexit. Adut
+redeuntem ac se inter milites quaeritantem adspexit. Adut
 
 illum, qui quidem aliquid se de patre adlaturum renuntiavit,
 
@@ -3352,7 +3330,7 @@ Tum Aristocritus: «Postquam Octavianus ea lege cum
 
 Antonio et Lepido societatem iniit, ut tresviri rei publicae
 
-constituendae ipsi per quinquennium essent, ae suos quis-
+constituendae ipsi per quinquennium essent, ac suos quis-
 
 
 
@@ -3386,7 +3364,7 @@ ad promunturium Circaeum feliciter adpulit; sed ille, mu-
 
 tato consilio, nautis imperavit ut se Caietam deferrent. Ecce
 
-autem, cum litus adiret, densum corvoruin ae graculorum
+autem, cum litus adiret, densum corvoruin ac graculorum
 
 agmen — infaustum omen! - ex Apollinis fano, quod in
 
