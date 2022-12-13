@@ -2023,58 +2023,24 @@ Virorum vestimenta erant: *toga*,
 
 ### De Romanorum toga.
 
+![«toga domestica ac propria Romanorum vestis erat».]()
 
-
-
-
-Inter virilia Romanorum vestimen-
-
-ta primum locum /oga obtinebat, quae
-
-quidem domestica ae propria Romano-
-
-rum vestis erat, atque eo usque civis
-
+Inter virilia Romanorum vestimenta primum locum *toga* obtinebat, quae
+quidem domestica ae propria Romanorum vestis erat, atque eo usque
+civis
 Romani dignitatem palam faciebat ut
-
 populus Romanus a Vergilio poeta
-
-«gens togata» sit vocatus. Lanea ve-
-
-stis erat, oblonga, angulis in extremi-
-
-tate rotundatis, eiusque longitudo hominis staturam dimi-
-
-dio superabat. Hac veste, prius ita plicata, ut superpositae
-
-partes latitudine impares essent, Romani togam compone-
-
-bant, neque ante togam ad pedes fluere sinebant quam ali-
-
-quot sus ex illa ferent laxioresque vestis partes in nodum
-
-colligerentur, qui wmbo vocabatur.
-
-
+«gens togata» sit vocatus. Lanea vestis erat, oblonga, angulis in
+extremitate rotundatis, eiusque longitudo hominis staturam dimidio
+superabat. Hac veste, prius ita plicata, ut superpositae
+partes latitudine impares essent, Romani togam componebant, neque
+ante togam ad pedes fluere sinebant quam aliquot *sinus* ex illa
+ferent laxioresque vestis partes in nodum
+colligerentur, qui *umbo* vocabatur.
 
 Haec tam perplexa tamque augusta et magnifica vestis, cum
-
-civium adspectum graviorem faceret, maiestatem illam adde-
-
-bat, quam hodie quoque in Romanorum statuis admiramur.
-
-
-
-
-
-
-
-x«toga domestica ae pro-
-
-pria Romanorum vestis
-
-erat».
-
+civium adspectum graviorem faceret, maiestatem illam addebat, quam
+hodie quoque in Romanorum statuis admiramur.
 
 
 ### De togarum varietate.
