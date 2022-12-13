@@ -5,7 +5,7 @@ publisher:
 year: 1964
 lang: la
 cover-image: "./images/cover.png"
-version: 0.6
+version: 0.9
 ---
 
 # Ciceronis Filius
@@ -2640,64 +2640,73 @@ redegerat ingentique exercitui praeerat.
 
 Quae postquam in Graecia nuntiata sunt, Cicero, cum
 ignoraret non tantum patris nomen, sed suum etiam in
-proscriptorum numerum relatum esse, Romam iter facie-
-bat. In itinere, cum ad mare appropinquaret, Aristocritum
-citato cursu ad se venientem vidit. Servus erat hic M. Cice-
-ronis, inter cursores celeritate ace fidelitate insignis. Litte-
-ras illi ante aliquot dies a patre datas reddidit, quibus pater,
-quamquam nondum triumvirali potestate constituta, salu-
-tem suam in magno esse discrimine nuntiabat, uni tamen
-Bruto se confidere. Hortabatur igitur ut Bruti castra pe-
-teret; cito illum conaturum si triumvirum vires in acie
+proscriptorum numerum relatum esse, Romam iter faciebat. In itinere,
+cum ad mare appropinquaret, Aristocritum
+citato cursu ad se venientem vidit. Servus erat hic M. Ciceronis,
+inter cursores celeritate ac fidelitate insignis. Litteras illi ante
+aliquot dies a patre datas reddidit, quibus pater,
+quamquam nondum triumvirali potestate constituta, salutem suam in
+magno esse discrimine nuntiabat, uni tamen
+Bruto se confidere. Hortabatur igitur ut Bruti castra peteret; cito
+illum conaturum si triumvirum vires in acie
 frangi possent.
 
 
 ### Nuntium de morte patris Cicero accipit.
 
-Mutato itinere Cicero in Macedoniam atque ad Bruti ca-
-stra, unde profectus erat, quam celerrime contendit. Com-
-plures iam dies eo pervenerat, cum Aristocritum tristi vultu
-redeuntem ac se inter milites quaeritantem adspexit. Adut
+Mutato itinere Cicero in Macedoniam atque ad Bruti castra, unde
+profectus erat, quam celerrime contendit. Complures iam dies eo
+pervenerat, cum Aristocritum tristi vultu
+redeuntem ac se inter milites quaeritantem adspexit. Adiit
 illum, qui quidem aliquid se de patre adlaturum renuntiavit,
 petiitque ut venia sibi daretur cum ipso secreto colloquendi.
-Postquam Aristocritus et Cicero recesserunt, prior hio:
+
+Postquam Aristocritus et Cicero recesserunt, prior hic:
+
 «Quid de patre meo nuntias? Loquere».
+
 Cui ille: «Durum quiddam, Marce, imperas; sed vera
 me loqui necesse est, vel si nuntius tristissimus adferendus
-est. Pater tuus perut».
+est. Pater tuus periit».
+
 Diu Cicero tacuit; sed nubilus vultus, trementes manus,
 contractumque supercilium quantum dolorem ex eo nuntio
 accepisset palam faciebant. Denique:
+
 «Nihil novi fortasse», inquit, «nuntias; id evenit quod
 iamdiu metuebam. Quisnam in Antonio clementiam esse
 suspicaretur? Quisnam in Octaviano fidem? At, nulla re
 omissa, quomodo illum necaverint enarra».
+
+![«infaustum omen!».()]
+
 Tum Aristocritus: «Postquam Octavianus ea lege cum
 Antonio et Lepido societatem iniit, ut tresviri rei publicae
-constituendae ipsi per quinquennium essent, ac suos quis-
-«infaustum omen!».
-que inimicos proscriberet, nemini iam dubium fuit quin
+constituendae ipsi per quinquennium essent, ac suos quisque
+inimicos proscriberet, nemini iam dubium fuit quin
 patri tuo esset pereundum».
-«At cur», Cicero interpellavit, «cum tresvirn Iomam
+
+«At cur», Cicero interpellavit, «cum tresvirn Romam
 appropinquarent, urbem ille non reliquit?».
-«Fugit ille quidem, primum in Tusculanum, deinde trans-
-versis itineribus in. Formianum, ibique à propinqua ora
-maritima navieulam conscendit. Navis, secundo vento acta,
-ad promunturium Circaeum feliciter adpulit; sed ille, mu-
-tato consilio, nautis imperavit ut se Caietam deferrent. Ecce
-autem, cum litus adiret, densum corvoruin ac graculorum
+
+«Fugit ille quidem, primum in Tusculanum, deinde transversis
+itineribus in Formianum, ibique a propinqua ora
+maritima naviculam conscendit. Navis, secundo vento acta,
+ad promunturium Circaeum feliciter adpulit; sed ille, mutato
+consilio, nautis imperavit ut se Caietam deferrent. Ecce
+autem, cum litus adiret, densum corvorum ac graculorum
 agmen — infaustum omen! - ex Apollinis fano, quod in
 litore aedificatum est, ex improviso evolant. Crocitantes
-atque importuna voce nescio quid mali minitantes, ruden-
-tibus navis, antemnis, gubernaculo insidunt. Cymbula vec-
-tus Marcus oram maritimam tetigit suamque villam adiit.
+atque importuna voce nescio quid mali minitantes, rudentibus navis,
+antemnis, gubernaculo insidunt. Cymbula vectus Marcus oram maritimam
+tetigit suamque villam adiit.
 Tum dirae illae aves villam invadere, limina ac fenestras
 rostris atque alis verberare, Marci lecto advolare, ipsius
 togae sinum arripere. Familiaribus admonentibus, metu ille
 amens ac maerore confectus navem iterum conscendit, sed
 cum navis iactationem ferre non posset, nautis imperavit ut
-rursus litus peterent. Vitae taedium eum ceperat: exclama-
-bat interdum: ** In patria moriatur necesse est qui patriam
+rursus litus peterent. Vitae taedium eum ceperat: exclamabat
+interdum: "In patria moriatur necesse est qui patriam
 servavit".
 
 
@@ -2705,24 +2714,32 @@ servavit".
 
 Dum ad villam regreditur obviam illi fiunt in ipso litore
 sicari ab Antonio missi, Herennius centurio et Popillius
-tribunus. Tum ego, eonservos meos adlocutus, qui mecum
+tribunus. Tum ego, conservos meos adlocutus, qui mecum
 Marcum comitabantur:
-Non sic ", aio, ** Marcus noster peribit!
-Adnuunt illi sicasque, quas sub vestibus celatas habe-
-bant, extrAhunt, fortiter pro domino suo ad dimicandum
-parati. Tum Popillius armatorum turbam, que illum comi-
-tabatur, propius accedere iubet, atque in e obliquis oculiintuens, excIamat:
+
+"Non sic", aio, "Marcus noster peribit!".
+
+Adnuunt illi sicasque, quas sub vestibus celatas habebant, extrahunt,
+fortiter pro domino suo ad dimicandum
+parati. Tum Popillius armatorum turbam, que illum comitabatur,
+propius accedere iubet, atque in e obliquis oculis intuens, exclamat:
+
+"Quae tanta audacia in servis?".
+
 Cui ipse:
-Qui pudor in sicariis? ".
-Iamque utrimque ad pugnam acceingebamur. Illi destric-
-tis gladiis, nos elatis pugionibus alteri alteros petituri era-
-mus, cum pater tuus:
-** Lecticam deponite, pueri ", inquit; ** ferte aequo animo
+
+"Qui pudor in sicariis? ".
+
+Iamque utrimque ad pugnam accingebamur. Illi destrictis gladiis, nos
+elatis pugionibus alteri alteros petituri eramus, cum pater tuus:
+
+"Lecticam deponite, pueri", inquit; "ferte aequo animo
 quod fors iniqua cogit ".
-Prominentem ex lectica immotamque cervicem praeben-
-tem iugulant. Obtruncato capite — horribile dictu! — manus
-etiam illi praeciderunt, ut ea spolia Antonio deferrent, prae-
-mium pro scelere laturi».
+
+Prominentem ex lectica immotamque cervicem praebentem iugulant.
+Obtruncato capite — horribile dictu! — manus
+etiam illi praeciderunt, ut ea spolia Antonio deferrent, praemium pro
+scelere laturi».
 
 
 ### Ciceronis somnium.
@@ -2760,3 +2777,150 @@ civilia officia exsequenda sint, vel si non omnia prospere
 sint casura. Saepe enim opinio me fefellit, saepe, fateor,
 erravi: sed error culpa caret, si quis patriam ante omnia
 dilexerit».
+
+## Table of Contents
+- [INITIO.](#initio)
+  - [Cicero, M. Tullii Ciceronis filius, Romae nascitur.](#cicero-m-tullii-ciceronis-filius-romae-nascitur)
+  - [Filioli ortus patri nuntiatur.](#filioli-ortus-patri-nuntiatur)
+  - [Primae infantis curae.](#primae-infantis-curae)
+  - [Dies lustricus.](#dies-lustricus)
+  - [De Romanorum nominibus.](#de-romanorum-nominibus)
+  - [Ciceronis dies lustricus celebratur.](#ciceronis-dies-lustricus-celebratur)
+  - [Romana domus. Atrium, compluvium, impluvium.](#romana-domus-atrium-compluvium-impluvium)
+  - [Cubicula et alae.](#cubicula-et-alae)
+  - [Tabernae.](#tabernae)
+  - [De atrii usu.](#de-atrii-usu)
+  - [Maiorum imagines, cerae dictae.](#maiorum-imagines-cerae-dictae)
+  - [Cicero, homo novus.](#cicero-homo-novus)
+  - [Fauces, vestibulum.](#fauces-vestibulum)
+  - [*«Cave canem!»*.](#cave-canem)
+  - [Ianua.](#ianua)
+  - [De quibusdam. Romanorum superstitionibus.](#de-quibusdam-romanorum-superstitionibus)
+  - [Posticum.](#posticum)
+  - [Tablinum, cenaculum.](#tablinum-cenaculum)
+  - [Andron, peristylium, triclinium, oecus.](#andron-peristylium-triclinium-oecus)
+  - [Suspensurae et parietes tubulati.](#suspensurae-et-parietes-tubulati)
+  - [Vir dicax Ciceronem oratorem adit.](#vir-dicax-ciceronem-oratorem-adit)
+  - [De insulis inquilinis locandis.](#de-insulis-inquilinis-locandis)
+  - [De insularum incommodis.](#de-insularum-incommodis)
+  - [De insularum conclavibus.](#de-insularum-conclavibus)
+  - [Tulliolae nuptiae parantur.](#tulliolae-nuptiae-parantur)
+  - [De Tulliolae sponsalibus.](#de-tulliolae-sponsalibus)
+  - [De die nuptiali.](#de-die-nuptiali)
+  - [Tulliolae vestis nuptialis.](#tulliolae-vestis-nuptialis)
+  - [Tulliolae nuptiae celebrantur.](#tulliolae-nuptiae-celebrantur)
+  - [Dextrarum iunctio.](#dextrarum-iunctio)
+  - [Quanti M. Tullius Cicero artem coquinariam fecerit.](#quanti-m-tullius-cicero-artem-coquinariam-fecerit)
+  - [De Romanorum conviviis. Cena, prandium, ientaculum.](#de-romanorum-conviviis-cena-prandium-ientaculum)
+  - [De tricliniis.](#de-tricliniis)
+  - [Cenatoria supellex.](#cenatoria-supellex)
+  - [Quaedam parum decens Romanorum consuetudo.](#quaedam-parum-decens-romanorum-consuetudo)
+  - [De mappa.](#de-mappa)
+  - [De tribus cenae temporibus.](#de-tribus-cenae-temporibus)
+  - [De gustatione.](#de-gustatione)
+  - [De cena ipsa.](#de-cena-ipsa)
+  - [De Romanorum culina.](#de-romanorum-culina)
+  - [De iure quod «garum» dicebatur.](#de-iure-quod-garum-dicebatur)
+  - [De secundis mensis.](#de-secundis-mensis)
+  - [Quos cibos Romani ignoraverint.](#quos-cibos-romani-ignoraverint)
+  - [De pane.](#de-pane)
+  - [Tulliolae cena nuptialis.](#tulliolae-cena-nuptialis)
+  - [Piso Tulliolam rapere conatur.](#piso-tulliolam-rapere-conatur)
+  - [Incipit Tulliolae deductio.](#incipit-tulliolae-deductio)
+  - [Nuptialis pompa.](#nuptialis-pompa)
+  - [«Ubi tu Gaius, ego Gaia».](#ubi-tu-gaius-ego-gaia)
+  - [De primis Ciceronis ludis.](#de-primis-ciceronis-ludis)
+  - [De quibusdam puerorum Romanorum ludis.](#de-quibusdam-puerorum-romanorum-ludis)
+  - [«Par impar»; «capita et navia».](#par-impar-capita-et-navia)
+  - [De «musca aenea».](#de-musca-aenea)
+  - [Pueri maiores natu imitantur.](#pueri-maiores-natu-imitantur)
+  - [Dexteritatis praemia.](#dexteritatis-praemia)
+  - [De primis Ciceronis studiis.](#de-primis-ciceronis-studiis)
+  - [De notariis.](#de-notariis)
+  - [Parvus Cicero in ludum itare incipit.](#parvus-cicero-in-ludum-itare-incipit)
+  - [De Ciceronis scholastico instrumento.](#de-ciceronis-scholastico-instrumento)
+  - [Calamus, scalprum, atramentum, cerae, stilus.](#calamus-scalprum-atramentum-cerae-stilus)
+  - [Cicero in morbum incidit.](#cicero-in-morbum-incidit)
+  - [De Romanorum medicis.](#de-romanorum-medicis)
+  - [Quomodo Romanorum medici artem suam exercuerint.](#quomodo-romanorum-medici-artem-suam-exercuerint)
+  - [Cicero a peregrinis medicis curatur.](#cicero-a-peregrinis-medicis-curatur)
+  - [Ciceronis ancillae maledico sermone de Graecis medicis iudicium faciunt.](#ciceronis-ancillae-maledico-sermone-de-graecis-medicis-iudicium-faciunt)
+  - [Veteres morborum curationes.](#veteres-morborum-curationes)
+  - [Cicero convalescit.](#cicero-convalescit)
+  - [De M. Ciceronis domo in colle Palatino.](#de-m-ciceronis-domo-in-colle-palatino)
+  - [Parietes, camerae, pavimenta.](#parietes-camerae-pavimenta)
+  - [«Nosce te ipsum».](#nosce-te-ipsum)
+  - [De Romanorum lectis.](#de-romanorum-lectis)
+  - [De lectorum partibus.](#de-lectorum-partibus)
+  - [De Romanorum mensis.](#de-romanorum-mensis)
+  - [De varia mensarum forma.](#de-varia-mensarum-forma)
+  - [Cicero in Campum Martium ducitur.](#cicero-in-campum-martium-ducitur)
+  - [Quid de Cicerone patre audierit.](#quid-de-cicerone-patre-audierit)
+  - [Lex in M. Ciceronem lata.](#lex-in-m-ciceronem-lata)
+- [M. Cicero in exsilium proficiscitur.](#m-cicero-in-exsilium-proficiscitur)
+  - [Pater abest.](#pater-abest)
+  - [De re vehiculari apud Romanos.](#de-re-vehiculari-apud-romanos)
+  - [Cursus publicus ab Augusto ad Constantinum.](#cursus-publicus-ab-augusto-ad-constantinum)
+  - [De epistularum commercio inter privatos.](#de-epistularum-commercio-inter-privatos)
+  - [M. Cicero ab exsilio revocatur.](#m-cicero-ab-exsilio-revocatur)
+  - [Nuntius tristis de Pisone adfertur.](#nuntius-tristis-de-pisone-adfertur)
+  - [Piso moritur.](#piso-moritur)
+  - [Pisonis funus indicitur.](#pisonis-funus-indicitur)
+  - [Parvi Ciceronis dolor.](#parvi-ciceronis-dolor)
+  - [Pisonis funus paratur.](#pisonis-funus-paratur)
+  - [De libitinariis.](#de-libitinariis)
+  - [Mortui Pisonis expositio.](#mortui-pisonis-expositio)
+  - [Piso effertur.](#piso-effertur)
+  - [Pisonis feretrum.](#pisonis-feretrum)
+  - [Tulliae dolor.](#tulliae-dolor)
+  - [Pisonis laudatio funebris.](#pisonis-laudatio-funebris)
+  - [Pisonis corpus crematur.](#pisonis-corpus-crematur)
+  - [De M. Ciceronis reditu.](#de-m-ciceronis-reditu)
+  - [M. Cicero aedificat.](#m-cicero-aedificat)
+  - [Plebs Romana tumultuatur.](#plebs-romana-tumultuatur)
+- [Cicero apud patrem in Tusculano commoratur.](#cicero-apud-patrem-in-tusculano-commoratur)
+  - [De Tusculano.](#de-tusculano)
+  - [De Romanorum villa urbana.](#de-romanorum-villa-urbana)
+  - [De villa rustica: cortes et piscinae.](#de-villa-rustica-cortes-et-piscinae)
+  - [De villae rusticae parte interiore.](#de-villae-rusticae-parte-interiore)
+  - [De reliquis villae rusticae aedificiis.](#de-reliquis-villae-rusticae-aedificiis)
+  - [M. Cicero in Ciliciam proficiscitur.](#m-cicero-in-ciliciam-proficiscitur)
+  - [Cicero filius patrem iter facientem comitatur.](#cicero-filius-patrem-iter-facientem-comitatur)
+  - [De Romanorum raedis et carrucis.](#de-romanorum-raedis-et-carrucis)
+  - [De ceteris Romanorum vehiculis. (Plaustrum, arcera, petorritum).](#de-ceteris-romanorum-vehiculis-plaustrum-arcera-petorritum)
+  - [De ceteris Romanorum vehiculis. (Cisium, essedum, covinus, carpentum, pilentum).](#de-ceteris-romanorum-vehiculis-cisium-essedum-covinus-carpentum-pilentum)
+  - [Athenis relictis, M. Cicero Delum adpellit.](#athenis-relictis-m-cicero-delum-adpellit)
+- [Pater nauseat, filius iucunde navigat.](#pater-nauseat-filius-iucunde-navigat)
+  - [Cicero cum Marco patre patruelique fratre in Asia moratur.](#cicero-cum-marco-patre-patruelique-fratre-in-asia-moratur)
+  - [Quomodo M. Cicero cum Pindenissitis bellum gesserit.](#quomodo-m-cicero-cum-pindenissitis-bellum-gesserit)
+  - [Cicero cum patre in Italiam redit.](#cicero-cum-patre-in-italiam-redit)
+  - [M. Ciceronem, Romam reversum, bellum civile imminens maerore adficit.](#m-ciceronem-romam-reversum-bellum-civile-imminens-maerore-adficit)
+  - [Cicero filius se cito vestem purarr, induturum sperat.](#cicero-filius-se-cito-vestem-purarr-induturum-sperat)
+  - [De Romanorum vestitu.](#de-romanorum-vestitu)
+  - [De Romanorum toga.](#de-romanorum-toga)
+  - [De togarum varietate.](#de-togarum-varietate)
+  - [De tunicis.](#de-tunicis)
+  - [De ceteris virilibus vestimentis.](#de-ceteris-virilibus-vestimentis)
+  - [De muliebribus vestimentis. Quae vestis caracalla fuerit.](#de-muliebribus-vestimentis-quae-vestis-caracalla-fuerit)
+  - [De Romanorum calceamentis.](#de-romanorum-calceamentis)
+  - [De calceis.](#de-calceis)
+  - [Quomodo Romani caput operire consuerint.](#quomodo-romani-caput-operire-consuerint)
+  - [Cicero vestem mutat.](#cicero-vestem-mutat)
+  - [Cicero de toga pura praeter modum gloriatur.](#cicero-de-toga-pura-praeter-modum-gloriatur)
+  - [Quantum incommoditatis toga adferat.](#quantum-incommoditatis-toga-adferat)
+  - [Mutata veste Cicero liberiorem vitam degit.](#mutata-veste-cicero-liberiorem-vitam-degit)
+  - [Inter Pormpeianos equites Cicero apud Pharsalum pugnat.](#inter-pormpeianos-equites-cicero-apud-pharsalum-pugnat)
+  - [Pater maeret, filius otiatur.](#pater-maeret-filius-otiatur)
+  - [De Romanorum balineis.](#de-romanorum-balineis)
+  - [De variis thermarum locis.](#de-variis-thermarum-locis)
+  - [Cicero circenses ludos spectat.](#cicero-circenses-ludos-spectat)
+  - [Cicero Athenas proficiscitur.](#cicero-athenas-proficiscitur)
+  - [Nihil sine nummis fieri se Cicero probe didicisse ostendit.](#nihil-sine-nummis-fieri-se-cicero-probe-didicisse-ostendit)
+  - [Cicero Athenis philosophos atque rhetores audit.](#cicero-athenis-philosophos-atque-rhetores-audit)
+  - [Nuntius de caede Caesaris Athenas adfertur.](#nuntius-de-caede-caesaris-athenas-adfertur)
+  - [Octavianus societatem init cum Antonio et Lepido.](#octavianus-societatem-init-cum-antonio-et-lepido)
+  - [Cicero iter ad Homam inceptum intermittit.](#cicero-iter-ad-homam-inceptum-intermittit)
+  - [Nuntium de morte patris Cicero accipit.](#nuntium-de-morte-patris-cicero-accipit)
+  - [Quomodo M. Cicero iugulatus sit.](#quomodo-m-cicero-iugulatus-sit)
+  - [Ciceronis somnium.](#ciceronis-somnium)
+- [Table of Contents](#table-of-contents)
