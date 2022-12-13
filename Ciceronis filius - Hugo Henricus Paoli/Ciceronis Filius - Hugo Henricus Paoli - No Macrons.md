@@ -2605,33 +2605,35 @@ Capitolium occupavisse, dictaturae honorem in perpetuum esse sublatum.
 
 Ubi primum nuntius de caede Caesaris Athenas perlatus
 est, Acidinus, nulla mora interposita, e domo se proripuit,
-ut quam primum Ciceronem conveniret. Occurrit illi in via.
+ut quam primum Ciceronem conveniret. Occurrit illi in via
 ad se properante gressu venienti.
-«Audistine», inquit, «quid de Caesare adlatum sit? Pe-
-rit ile tandem; econiuratorum pugiones libertatem nobis
-restituerunt».
+
+«Audistine», inquit, «quid de Caesare adlatum sit? Periit ille tandem;
+coniuratorum pugiones libertatem nobis restituerunt».
+
 At Cicero contracta fronte, ut qui suspenso animo esset
 et sollicito:
+
 «Audivi», inquit, «sed quinam rerum exitus futurus sit
 nemo adhuc providere potest. Omnia in ambiguo sunt. Vide
 ne nimis mature laeteris. Caesar occidit; Antonius vivit.
 Saepe enim patrem meum audivi cum diceret alterum
-Caesarem illum esse, plebi aeque acceptum, moribus Cae-
-sare nequiorem, atrociorem animo. Humor est Bruti facinus
+Caesarem illum esse, plebi aeque acceptum, moribus Caesare nequiorem,
+atrociorem animo. Humor est Bruti facinus
 Romanae plebi non esse probatum».
+
 Nec fallebatur. Cum enim brevi tempore civile bellum
 in Italia exarsisset, quo exorto C. Caesar Octavianus et
 M. Lepidus Senatus partes contra Antonium secuti sunt,
-magna ex improviso rerum mutatio facta est. Post Mutinen-
-sem pugnam, qua M. Antonius fusus et fugatus est, M. Le-
-pidus Caesarem cum Antonio in gratiam reduxit. Pepige-
-runt tres illi viri se contra omnes coniunctos fore, summo-
-que imperio potiti lege statuerunt, ut ii qui Caesari adver-
-sati essent nullo iudicio interficerentur. Acerrime igitur in
-proscriptos saevitum est. Urbs tumultus et terroris plena
+magna ex improviso rerum mutatio facta est. Post Mutinensem pugnam,
+qua M. Antonius fusus et fugatus est, M. Lepidus Caesarem cum Antonio
+in gratiam reduxit. Pepigerunt tres illi viri se contra omnes
+coniunctos fore, summoque imperio potiti lege statuerunt, ut ii qui
+Caesari adversati essent nullo iudicio interficerentur. Acerrime
+igitur in proscriptos saevitum est. Urbs tumultus et terroris plena
 erat. Nihil tutum putabatur, nihil sanctum. Spes una in
-Bruti armis erat, qui Graeciam provinciam in suam pote-
-statem redegerat ingentique exercitui praeerat.
+Bruti armis erat, qui Graeciam provinciam in suam potestatem
+redegerat ingentique exercitui praeerat.
 
 
 ### Cicero iter ad Homam inceptum intermittit.
