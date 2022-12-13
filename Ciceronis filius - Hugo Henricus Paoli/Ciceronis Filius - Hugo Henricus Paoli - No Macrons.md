@@ -2242,44 +2242,19 @@ capillos eodem tempore et exornabant et tegebant.
 
 ### Cicero vestem mutat.
 
-
-
-sed, ut ad Ciceronem nostrum revertamur, unde haec
-
+Sed, ut ad Ciceronem nostrum revertamur, unde haec
 digressio de Romanorum vestitu initium habuit, Arpini ille
-
-togam puram accepit. M. (Cicero pater, cum epistulam
-
-I. Pomponio Attico missurus esset (eidem illi cui ante
-
-
-
-— 77 —
-
-
-
+togam puram accepit. M. Cicero pater, cum epistulam
+T. Pomponio Attico missurus esset (eidem illi cui ante
 septem et decem annos se filiolo auctum nuntiaverat), haec
-
-verba adiecit: «Ego meo Ciceroni, quoniam loma caremus,
-
+verba adiecit: «Ego meo Ciceroni, quoniam Roma caremus,
 Arpini potissimum togam puram dedi, idque municipibus
-
-nostris fuit gratum». Non enim tempora sinebant hHomae,
-
-ut mos erat, filium in foro magna cum sollemnitate de-
-
-ductum amicis et clientibus ostendere, ut novum illi to-
-
-gatum civem plausu, donis, bonis ominibus exciperent. Del-
-
-lum civile enim exortum erat, nec Cicero ignorabat aucto-
-
-ritatem suam, qua paucis ante annis mirum in modum flo-
-
-ruerat, tum pariter cum rei publicae libertate perisse.
-
-
-
+nostris fuit gratum». Non enim tempora sinebant Romae,
+ut mos erat, filium in foro magna cum sollemnitate deductum amicis et
+clientibus ostendere, ut novum illi togatum civem plausu, donis,
+bonis ominibus exciperent. Bellum civile enim exortum erat, nec
+Cicero ignorabat auctoritatem suam, qua paucis ante annis mirum in
+modum floruerat, tum pariter cum rei publicae libertate perisse.
 
 
 ### Cicero de toga pura praeter modum gloriatur.
