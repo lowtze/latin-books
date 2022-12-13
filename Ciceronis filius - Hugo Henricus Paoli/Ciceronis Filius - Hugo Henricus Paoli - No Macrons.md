@@ -2378,59 +2378,25 @@ ipse in fugam se dedit.
 
 ### Pater maeret, filius otiatur.
 
-
-
-
-
-
-
 C. Iulius Caesar post Pharsalicam victoriam Pompeique
-
 mortem adversariorum copiis in Libya atque in Hispania
-
-profligatis Romanarum rerum unus est potitus perpetuam-
-
-que dietaturam adeptus sic omnibus imperare coepit, ut
-
-praeter nomen regia penes illum potestas esset. Tristis M. Ci-
-
-cero pater amissam libertatem deflebat atque solacium il-
-
-lud quaerens, quod unum temporum iniquitates bonis viris
-
+profligatis Romanarum rerum unus est potitus perpetuamque dietaturam
+adeptus sic omnibus imperare coepit, ut
+praeter nomen regia penes illum potestas esset. Tristis M. Cicero
+pater amissam libertatem deflebat atque solacium illud quaerens, quod
+unum temporum iniquitates bonis viris
 offerre solent, in philosophiae studia totus incubuerat.
 
-
-
-sed filius eius Cicero, ut sunt adulescentium animi aIlucund
-tatem vitae proclives, otii voluptatibus quocumque
-
+Sed filius eius Cicero, ut sunt adulescentium animi ad
+iucunditatem vitae proclives, otii voluptatibus quocumque
 modo poterat fruebatur. Quin etiam, quo liberiorem vitam
 sibi degere liceret, a patre petierat ut sibi vel domum Romae
-conduceret, vel peregrinanti sumptus faceret. Otiabatur in-
-
-terea; mane, ut prius consueverat, in Campo Martio versa-batur post meridiem in balineis. Eo enim post horam nonamagna 
-ivium pars, cotidianis negotiis exactis, solebat con-
-
-venire,T commode lavarentur atque vel pila ludendo vel
-cum amicis colloquendo tempus tererent. Nam Romae decli-
-
-nante die vel sapientibus ac severis viris otiosis licebat esse.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+conduceret, vel peregrinanti sumptus faceret. Otiabatur interea;
+mane, ut prius consueverat, in Campo Martio versabatur post meridiem in balineis. Eo enim post horam nonam
+magna civium pars, cotidianis negotiis exactis, solebat convenire,
+ut commode lavarentur atque vel pila ludendo vel
+cum amicis colloquendo tempus tererent. Nam Romae declinante
+die vel sapientibus ac severis viris otiosis licebat esse.
 
 
 ### De Romanorum balineis.
