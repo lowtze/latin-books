@@ -2459,62 +2459,58 @@ solis calorem cute excipere, quod quidem *apricari* dicebatur.
 
 ### Cicero circenses ludos spectat.
 
-Nihil agens Cicero per urbis vias vagabatur, cum ob-
-viam illi Acidinus fit, arreptaque dextera: «Nisi forte quid
+Nihil agens Cicero per urbis vias vagabatur, cum obviam illi Acidinus
+fit, arreptaque dextera: «Nisi forte quid
 habeas», inquit, «quod hodie magis te adliciat, pergratum
-mihi feceris si mecum veneris. Magnus enim ludus gladia-
-torius nuntiatus est. Visne me comitari?».
-Cui Cicero: «Cur non? Otiosus sum, neque unquam gla-
-diatorum paria armis dimicantia vidi; at saepe audivi ma-
-gnam delectationem hoc spectaculum adferre».
-Circum intrant; adsidunt; spectant. Post sollemnem cer-
-taminum adparatum ludus incipit. Splendidis armis induti
+mihi feceris si mecum veneris. Magnus enim ludus gladiatorius
+nuntiatus est. Visne me comitari?».
+
+Cui Cicero: «Cur non? Otiosus sum, neque unquam gladiatorum paria
+armis dimicantia vidi; at saepe audivi magnam delectationem hoc
+spectaculum adferre».
+
+Circum intrant; adsidunt; spectant. Post sollemnem certaminum
+adparatum ludus incipit. Splendidis armis induti
 gladiatores alter alterum petunt.
+
 Dum gladiatores proeliantur, Acidinus Ciceronem adloqui
 non desinebat: «Videsne», aiebat, «ut Thraex non libenter
 moriatur? Languidulus est in iugulo ad vulnus porrigendo;
-male artem suam
-didicit ille! At con-
-tra, quam audac-
-ter prius Syrus oc-
-cidit! Quam non
-timide mortale
-vulnus excepit!».
-Plebs interea,
-sanguinem sitiens:
-«Ure! Verbera!» «post. sollemnem certaminum adparatum».
-clamitabat; «Vici-
-sti illum strenue; occidere quid cessas?», ac pollice verso
-conviciis ac probris moriturum consectabatur.
-Retiariwum peritissimum eo die corpore ingens secutor, et
+male artem suam didicit ille! At contra, quam audacter prius Syrus
+occidit! Quam non timide mortale vulnus excepit!».
+
+![«post sollemnem certaminum adparatum».]()
+
+Plebs interea,sanguinem sitiens: «Ure! Verbera!» 
+clamitabat; «Vicisti illum strenue; occidere quid cessas?», ac
+pollice verso conviciis ac probris moriturum consectabatur.
+
+![«dum gladiatores proeliantur».]()
+
+*Retiarium* peritissimum eo die corpore ingens *secutor*, et
 ipse in arte sua non mediocriter versatus, propius invadere
 ac gladio vulnerare temptabat. Caput hic galea, corpus
-scuto tegebat; nudo capite ille, nudis pedibus, brevi tan-
-«dum gladiatores proeliantur».
-tum tunica indutus manu altera tridentem, altera ferreum
+scuto tegebat; nudo capite ille, nudis pedibus, brevi tantum
+tunica indutus manu altera tridentem, altera ferreum
 rete agitabat, summopere vitans ne se adversarius comminus
 pugnare cogeret. Incertus pugnae exitus videtur. Celeri pede
-secutor tamquam fugienti instat; at retiarius, tempore op-
-portuno arrepto, rete ex improviso iacit, secutorem ita ad.
-volvit, ut vix moveri possit, impeditum adgreditur atque bis
+secutor tamquam fugienti instat; at retiarius, tempore opportuno
+arrepto, rete ex improviso iacit, secutorem ita advolvit,
+ut vix moveri possit, impeditum adgreditur atque bis
 terque tridente in ventrem infixo, laceratis extis expirantem
 in harena Circi relinquit.
+
+![Retiarius; secutor.]()
+
 Tum spectatores ardenter plaudere, clamores ad caelum
 tollere, conviciis petere et sibilis ut secutor statim iuguletur.
-Postquam e Cir-
-co exierunt, Acidi-
-nus Ciceronem ro-
-gavit: «Quid tibi
-ludi gladiatorii visi
-sunt? Neglegentius,
-nis! fallor, specta-
-bas».
-Cui ille: «Iucun-
-dius quiddam esse
-Retiarius ; secutor. putaveram. Idem
-semper est; mac-
-tantur in Circo homines, ut apud lanium boves. Neque ta-
-men ista displicent».
+Postquam e Circo exierunt, Acidinus Ciceronem rogavit: «Quid tibi
+ludi gladiatorii visi sunt? Neglegentius,
+nisi fallor, spectabas».
+
+Cui ille: «Iucundius quiddam esse putaveram. Idem
+semper est; mactantur in Circo homines, ut apud lanium boves. Neque
+tamen ista displicent».
 
 
 ### Cicero Athenas proficiscitur.
