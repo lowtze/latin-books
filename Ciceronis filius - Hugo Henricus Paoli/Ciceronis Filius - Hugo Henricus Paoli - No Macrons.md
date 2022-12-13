@@ -2259,42 +2259,20 @@ modum floruerat, tum pariter cum rei publicae libertate perisse.
 
 ### Cicero de toga pura praeter modum gloriatur.
 
-
-
-Postquam Cicero filius vestem mutavit, quisnam Arpi-
-
-natium illum togatum non vidit? Omnes oppidi areas, vicos,
-
+Postquam Cicero filius vestem mutavit, quisnam Arpinatium
+illum togatum non vidit? Omnes oppidi areas, vicos,
 vias forumque totum, hue illuc excurrens, frequentabat, ut
-
 vel caecis, si posset, togam suam ostenderet. Magnum illius
-
 famulis negotium erat togam cotidie componere. «Nonne
-
 vides», furens exclamabat, «ut male toga defluat, quam non
-
 concinnus sit umbo? Quid cessas, inepte, hos sinus aptius
-
-accommodare?». Horam unam, horam alteram ; nondum res
-
+accommodare?». Horam unam, horam alteram; nondum res
 ad exitum perducebatur, nec prius servi a magno metu
-
 recreabantur, quam ille, bis terve cervice in omnes partes
-
-flexa togaque undique circurispectata, tandem «Optime!»
-
-
-
+flexa togaque undique circumspectata, tandem «Optime!»
 dixisset.
 
 Tum magnifice domo exibat: togatam pupulam diceres.
-
-
-
-
-
-
-
 
 
 ### Quantum incommoditatis toga adferat.
