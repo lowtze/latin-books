@@ -1992,25 +1992,15 @@ belli exitus comprobavit.
 
 ### Cicero filius se cito vestem purarr, induturum sperat.
 
-
-
 At Cicero filius, quamquam spe deceptus, quod frustra
-
-triumphantem patrem se spectaturum sibi finxisset, sum-
-
-mopere tamen laetabatur domi se apud matrem esse, diem-
-
-que illum exspectabat quo sibi toga esset induenda. Mos
-
+triumphantem patrem se spectaturum sibi finxisset, summopere tamen
+laetabatur domi se apud matrem esse, diemque illum exspectabat quo
+sibi toga esset induenda. Mos
 erat enim Romanorum ut adulescentuli qui septimum et
-
-decimum annum agerent, praetexta deposita, vestem pu-
-
-ram sumerent. Nam praetexta, purpurea fasceola ornata,
-
-puerile vestimentum erat; nec quisquam lomanus civis pu-
-
-tabatur, nisi toga pura indutus ambularet.
+decimum annum agerent, praetexta deposita, vestem puram sumerent. Nam
+praetexta, purpurea fasceola ornata,
+puerile vestimentum erat; nec quisquam Romanus civis putabatur, nisi
+toga pura indutus ambularet.
 
 
 ### De Romanorum vestitu.
