@@ -2360,54 +2360,20 @@ rumores et captabat et diffundebat.
 
 ### Inter Pormpeianos equites Cicero apud Pharsalum pugnat.
 
-
-
-Insequenti anno postquam vestem puram sumpserat, Ci-
-
-cero prima stipendia in equitum turmis meruit, atque in
-
-Pompei exercitu apud Pharsaàlum pugnavit; unde post illam
-
-
-
-— 80 —
-
-
-
-
-
-cladem & Pompeio acceptam Romam revertit sine gloria ille
-
+Insequenti anno postquam vestem puram sumpserat, Cicero prima
+stipendia in equitum turmis meruit, atque in
+Pompei exercitu apud Pharsalum pugnavit; unde post illam
+cladem a Pompeio acceptam Romam revertit sine gloria ille
 quidem, sed sine dedecore et infamia. Nam cum Caesaris
-
-milites infestis pilis citatoque cursu Pompeianos equites ador-
-
-ti sunt strictisque gladiis comminus pugnare coeperunt, for-
-
-tissime Cicero cum ceteris equitibus legionum impetum tulit.
-
+milites infestis pilis citatoque cursu Pompeianos equites adorti sunt
+strictisque gladiis comminus pugnare coeperunt, fortissime Cicero cum
+ceteris equitibus legionum impetum tulit.
 Ubi vero Pompeianae turmae, quamvis strenue pugnantes
-
 ac resistentes, ab alus Caesarianis cohortibus, recentibus
-
-atque integris, se à latere peti senserunt atque, a paucis
-
-initio fugae facto, universi terga verterunt, tum Cicero sa-
-
-luti suae magis consulens quam bellicae virtutis laudi, fu-
-
-
-
-gientibus omnibus, et ipse in fugam se dedit.
-
-
-
-
-
-
-
-
-
+atque integris, se a latere peti senserunt atque, a paucis
+initio fugae facto, universi terga verterunt, tum Cicero saluti suae
+magis consulens quam bellicae virtutis laudi, fugientibus omnibus, et
+ipse in fugam se dedit.
 
 
 ### Pater maeret, filius otiatur.
