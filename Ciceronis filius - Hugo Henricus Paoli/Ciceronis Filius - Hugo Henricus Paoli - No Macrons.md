@@ -2045,64 +2045,27 @@ hodie quoque in Romanorum statuis admiramur.
 
 ### De togarum varietate.
 
-
-
-
-
-'Togam cum dicimus, toga pura intellegenda est. logam
-
-vourpurea Ííasceola distinctam, quam?praetextam vocabant,
-
-pueri; ut supra dictum est, induebant, et magistratus: hil
-
-
-
+*Togam* cum dicimus, toga pura intellegenda est. logam
+vourpurea fasceola distinctam, quam *praetextam* vocabant,
+pueri; ut supra dictum est, induebant, et magistratus: hi
 ut muneris dignitatem veste ipsa ostenderent, illi ut aetatis
-
 innocentiam.
 
-
-
 Triumphantes imperatores magnificam ac sumptuosam
-
 togam induebant, quae, cum palmulis acu pictis ornata
+esset, *toga picta*, vel *toga palmata* vocabatur. Augures vero
+ceterique sacerdotes *trabea* in publico utebantur: toga haec
+erat variis coloribus intexta.
 
-esset, loga, *1cla, vel toga palmata vocabatur. Augures vero
-
-ceterique sacerdotes írabea in publico utebantur: toga haec
-
-erat varüs coloribus intexta.
-
-
-
-Romani, cum stipendia mererent, sago utebantur. Domi
-
+Romani, cum stipendia mererent, *sago* utebantur. Domi
 igitur togam induebant, in bello sagum, ut apud illos toga
-
 civilia iura indicaverit, sagum militiae officium. Imperator
-
-vero, ut ab omnibus dignosceretur, purpuream vestem indue-
-
-bat, cui nomen erat paludamentum. At si forte sacrificium
-
+vero, ut ab omnibus dignosceretur, purpuream vestem induebat,
+cui nomen erat *paludamentum*. At si forte sacrificium
 aliquod de more maiorum in ipsis castris faciendum erat,
-
 togam imperator induebat, ita circa pectus advolutam, ut
-
 expeditis bracchiis omnia quae ritus posceret perficeret. Haec
-
-ratio togae induendae cinctus Gabinius vocabatur.
-
-
-
-
-
-
-
-
-
-
-
+ratio togae induendae *cinctus Gabinius* vocabatur.
 
 
 ### De tunicis.
