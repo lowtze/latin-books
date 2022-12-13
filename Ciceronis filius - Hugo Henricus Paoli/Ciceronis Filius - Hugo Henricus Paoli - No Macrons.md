@@ -1967,56 +1967,27 @@ referebat. Locorum amoenitatem, aedificiorum splendorem,
 navigationis casus verbis effingere conabatur, omnia, ut adulescentuli solent, in maius augens.
 
 
-### M. Ciceronem, Romam reversum, bellum civile imminens
-
-maerore adficit.
-
-
-
-
+### M. Ciceronem, Romam reversum, bellum civile imminens maerore adficit.
 
 At reditus M. Ciceronis in patriam nec splendidus nec
-
 laetus fuit. Speraverat ille, qua erat ingenii levitate, fore
-
-ut à Senatu sibi triumphus decerneretur, quod Pindenissitas,
-
-metuendos hostes, profligasset atque a victore exercitu «im-
-
-perator» appellatus esset. Sed nec quicquam in petendo
-
+ut a Senatu sibi triumphus decerneretur, quod Pindenissitas,
+metuendos hostes, profligasset atque a victore exercitu «imperator»
+appellatus esset. Sed nec quicquam in petendo
 triumpho profecit et excitam civitatem ac penitus turbatam
-
-Invenit: incertum rei publicae statum; magnam dissensio-
-
-nem ortam inter Caesarem et Pompeium; ambiguam Sena-
-
-tus fidem; viros, qui boni vocabantur, metu suspensos nec
-
-Inter se consentientes: postremo civile bellum procul dubio
-
+Invenit: incertum rei publicae statum; magnam dissensionem ortam
+inter Caesarem et Pompeium; ambiguam Senatus fidem; viros, qui boni
+vocabantur, metu suspensos nec
+inter se consentientes: postremo civile bellum procul dubio
 imminere.
 
-
-
 In Formianum igitur recessit atque de re publica, prout
-
 vulgi rumores ad illum adferebantur, cotidie magis timere
-
-coepit. l'am anxio, tam sollicito animo erat, ut quodam die
-
+coepit. Tam anxio, tam sollicito animo erat, ut quodam die
 ad Atticum, amicum suum, quasi divina mente instinctus,
-
-seripserit: «Pace opus est; ex victoria cum multa mala, tum
-
-
-
+scripserit: «Pace opus est; ex victoria cum multa mala, tum
 certe tyrannus exsistet». Quae verba non multo post civilis
-
 belli exitus comprobavit.
-
-
-
 
 
 ### Cicero filius se cito vestem purarr, induturum sperat.
