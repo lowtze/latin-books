@@ -536,7 +536,7 @@ sed potius diluerent aqua calida vino immixta, quam quidem vas aeneum continebat
 
 ![cyathus]()
 
-Ciceronis temporibus nondum Romani consueverant tricliniares mensas albo linteo obtegere: ignotum adhue *mantele* erat, quo illi uti non ante Imperatorem Domitianum coeperunt. Convivae cibos digitis arreptos ad os ferebant; nullas enim
+Ciceronis temporibus nondum Romani consueverant tricliniares mensas albo linteo obtegere: ignotum adhuc *mantele* erat, quo illi uti non ante Imperatorem Domitianum coeperunt. Convivae cibos digitis arreptos ad os ferebant; nullas enim
 apud antiquos furculas fuisse satis constat: saepius igitur manus lavandae erant. Ad hoc formosiores servi semel atque catillos circumferentes aquam convivis porrigebant. Cibos iam ante famulus quidam, huius artis peritus, in singula pulmenta minuerat: *scissor* is, vel *carptor*, dicebatur.
 
 ![colum]()
@@ -1247,7 +1247,7 @@ lugentis querimonias. Custodem adlocutus: «Quid fit?», Cicero ait,
 Obmutuerat ille; ne unum quidem verbum tota die
 protulit.
 
-Cum advesperavisset, neque adhue pater, ut consueverat,
+Cum advesperavisset, neque adhuc pater, ut consueverat,
 puerum ad se adduci iussisset, vetus quaedam ancilla,
 quae absente matre matris vices sustinebat, casu Ciceroni
 obvia venit. Cui roganti quid novi afferret, paulisper prius
@@ -2277,176 +2277,68 @@ Tum magnifice domo exibat: togatam pupulam diceres.
 
 ### Quantum incommoditatis toga adferat.
 
+![Fullones.]()
 
-
-Cum Cicero quadam die ante meridiem domum revertis-
-
-set neque adhue togam deposuisset, occurrit illi in atrio vir
-
-ille maledicus, de quo supra mentionem fecimus. À quibus-
-
-dam senatoribus missus Roma Arpinum venerat ut secretas
-
+Cum Cicero quadam die ante meridiem domum revertisset neque adhuc
+togam deposuisset, occurrit illi in atrio vir
+ille maledicus, de quo supra mentionem fecimus. A quibusdam
+senatoribus missus Roma Arpinum venerat ut secretas
 litteras M. Ciceroni traderet. Quo conspecto Cicero:
-
-
 
 «Quomodo vales?» inquit.
 
-
-
 «Bene», respondet ille, «ut tempora sinunt. At nunc
-
 quod te bene valentem video gaudeo laetorque».
-
-— 78 —
-
-
 
 «At quem videre putas?».
 
 «Quem, rogas? Te, opinor, nam nemo alius hic adest».
 
-
-
 Tum Cicero:
 
 «Marcum Ciceronem vides, Marci Ciceronis filium, virum
-
-
-
 togatum».
 
-
-
-Quatit ille caput: «Toga quid sit, infelix, nondum no-
-
-sti: sescenta habet incommoda. Miseret me tui, Marce, vir
-
-togate».
-
-
+Quatit ille caput: «Toga quid sit, infelix, nondum nosti: sescenta
+habet incommoda. Miseret me tui, Marce, vir togate».
 
 Obstupuit Cicero, atque: «Non intellego quid dicas»,
-
 inquit.
 
-
-
 At ille: «Audi. Vestis ista magnifica, ut hinc incipiam,
-
-artus implicat et coercet, crura impedit, incessum tardio-
-
-rem facit. Num tu, Mar-
-
-ce, togatum hominem ce-
-
-leriter currentem vidisti
-
-unquam? Eadem pulve-
-
-rem aestate colligit, hieme
-
-lutum. Vel si mundam 1in-
-
-duisti, brevi sordescit eam-
-
-que fulloni tradas oportet
-
-detergendam aut lavan-
-
-dam. At fullones, opinor,
-
+artus implicat et coercet, crura impedit, incessum tardiorem facit.
+Num tu, Marce, togatum hominem celeriter currentem vidisti
+unquam? Eadem pulverem aestate colligit, hieme
+lutum. Vel si mundam induisti, brevi sordescit eamque fulloni tradas
+oportet detergendam aut lavandam. At fullones, opinor,
 bene nosti: pro parva
-
 opera mercedem magnam
-
-exposcunt: artifices vo-
-
-cantur, fures sunt.
-
-
+exposcunt: artifices vocantur, fures sunt.
 
 Quid, quod ardente
-
-canicula, si toga ista in-
-
-volutus ambules, in su-
-
-dorem te dissolvi necesse
-
-est? Haee vestis tamen
-
+canicula, si toga ista involutus ambules, in sudorem te dissolvi
+necesse est? Haec vestis tamen
 quae aestate tam gravis
-
 est, non satis corpus a
-
-Fullones. vento hieme defendit ; fri-
-
-gus undique admittit, cru-
-
-ra ventilando horrore perstringit, ac tam celeriter humidita-
-
-tem concipit, ut, si paullulum modo decidente imbre madefiat,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-—79 —
-
-
-
+vento hieme defendit; frigus undique admittit, crura
+ventilando horrore perstringit, ac tam celeriter humiditatem
+concipit, ut, si paullulum modo decidente imbre madefiat,
 in spongiam, ut ita dicam, conversa te toto corpore tremere
-
-ac dentibus crepare cogat. Quam saepe, fateor, plebeiis homi-
-
-nibus invideo, qui in foro atque in viis versantur sola tu-
-
-nica induti. Beati mihi videntur illi. Nos vero, ex quo togae
-
+ac dentibus crepare cogat. Quam saepe, fateor, plebeiis hominibus
+invideo, qui in foro atque in viis versantur sola tunica induti.
+Beati mihi videntur illi. Nos vero, ex quo togae
 inservire coepimus, vivendi iucunditatem amisimus. Quando
-
-enim illam deponere licet? logatus magistratus adis, toga-
-
-tus patronum comitaris, amici funus sequeris, apud praeto-
-
-ris tribunal, testis vocatus, ades. Togatus etiam, quo officio
-
-nullum miserius est, primo mane potentioris hominis in ve-
-
-stibulo inter stantes atque oscitantes clientes exspectas dum
-
-ad salutationem matutinam admittaris. Manumissus ser-
-
-vus mihi videor quotienscumque domi meae, toga deposita,
-
+enim illam deponere licet? Togatus magistratus adis, togatus patronum
+comitaris, amici funus sequeris, apud praetoris tribunal, testis
+vocatus, ades. Togatus etiam, quo officio
+nullum miserius est, primo mane potentioris hominis in vestibulo
+inter stantes atque oscitantes clientes exspectas dum
+ad salutationem matutinam admittaris. Manumissus servus mihi videor
+quotienscumque domi meae, toga deposita,
 sic tandem vivere incipio ut mihi libet».
 
-
-
-Tristis Cicero haec verba audivit nec quicquam respon-
-
-dit. At fertur ex illo die minore togae studio flagrasse.
-
-
-
-
-
+Tristis Cicero haec verba audivit nec quicquam respondit. At fertur
+ex illo die minore togae studio flagrasse.
 
 
 ### Mutata veste Cicero liberiorem vitam degit.
@@ -3120,7 +3012,7 @@ et sollicito:
 
 «Audivi», inquit, «sed quinam rerum exitus futurus sit
 
-nemo adhue providere potest. Omnia in ambiguo sunt. Vide
+nemo adhuc providere potest. Omnia in ambiguo sunt. Vide
 
 ne nimis mature laeteris. Caesar occidit; Antonius vivit.
 
