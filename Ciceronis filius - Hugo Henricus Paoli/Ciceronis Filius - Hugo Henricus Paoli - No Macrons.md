@@ -2343,25 +2343,19 @@ ex illo die minore togae studio flagrasse.
 
 ### Mutata veste Cicero liberiorem vitam degit.
 
-
-
-
-
 Mutata veste Cicero vitae quoque rationem mutavit,
-
 atque, sive Arpini erat sive in Urbe, liberius in publicum
-prodibat ac frequentioribus locis, nullo custod subsequente,
-inambulabat. S81 quando pater illum aliquot dies Romae morari permiserat, communem vitam cum aequalibus suis agere
-solebat, nec quicquam ibi gratius fatebatur esse; Iam so-
-cium sibi addiderat, cum patrueli fratre Quinto, adnibus
-
-
+prodibat ac frequentioribus locis, nullo custode subsequente,
+inambulabat. Si quando pater illum aliquot dies Romae morari permiserat, communem vitam cum aequalibus suis agere
+solebat, nec quicquam ibi gratius fatebatur esse; Iam socium sibi
+addiderat, cum patrueli fratre Quinto, adulescentem
+quendam, nomine Acidinum, cuius pater spectatis moribus
+atque insigni in re publica integritate ab omnibus
 colebatur. Ante meridianas horas cum illis in Campo Martio
-at ibique vel equitando vel cum aequalibuscertando cor-
-pus exercebat, ut se ad militiae duritiem adsuefaceret. Posmeridiem vero per vicos omnes errans serpentes multitudinisrumores et captabat et diffuIdebat.
-
-
-
+at ibique vel equitando vel cum aequalibus certando corpus exercebat,
+ut se ad militiae duritiem adsuefaceret. Posmeridiem vero per vicos
+omnes errans serpentes multitudinis
+rumores et captabat et diffundebat.
 
 
 ### Inter Pormpeianos equites Cicero apud Pharsalum pugnat.
