@@ -2005,46 +2005,20 @@ toga pura indutus ambularet.
 
 ### De Romanorum vestitu.
 
-
-
-
-
-Multum mores nostri à Romanis differunt; sed maxime
-
+Multum mores nostri a Romanis differunt; sed maxime
 in vestimentorum habitu. Id tamen nobis, recentioribus
-
 hominibus, cum antiquis commune esse constat, quod alia
-
 virorum vestimenta sunt, feminarum alia. Apud Romanos
-
-igitur viri et mulieres, ut aetate nostra, vestitu distingue-
-
-bantur, nec timendum erat ne, si quis forte M. Ciceronis
-
+igitur viri et mulieres, ut aetate nostra, vestitu distinguebantur,
+nec timendum erat ne, si quis forte M. Ciceronis
 uxorem procul vidisset, dubius haereret utrum Terentia illa
-
 esset, an M. Cicero. Nec vestimentis solum mulieres a viris
-
 differebant, sed et calceamentis et ornamentis et comendae
-
 comae ratione: ut brevi praecidam,
+toto corporis cultu.
 
-toto corporis cultu. ^g
-
-
-
-
-Virorum vestimenta erant: (íoga,
-
-lunica, plurima insuper pallhorum ge-
-
-nera. Stola pro toga mulieres uteban-
-
-tur, muliebri tunicae superinduta. Sto-
-Iam7r?cinio vel palla, tegebant.
-
-
-
+Virorum vestimenta erant: *toga*,
+*tunica*, plurima insuper *palliorum* genera. *Stola* pro toga mulieres utebantur, *muliebri tunicae* superinduta. Stolam *ricinio* vel *palla*, tegebant.
 
 
 ### De Romanorum toga.
