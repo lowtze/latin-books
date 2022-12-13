@@ -2401,64 +2401,23 @@ die vel sapientibus ac severis viris otiosis licebat esse.
 
 ### De Romanorum balineis.
 
-
+![Singulae thermarum partes.]()
 
 Extremis rei publicae temporibus, quamquam Romani
-
 cives iampridem priscis rusticisque moribus exutis mundiori
-
-— 81 —
-
-
-
-cultui studere ac frequenter in balineis publicis lavari coe-
-
-perant, nondum tamen magnificentissimae illae thermae in
-
+cultui studere ac frequenter in balineis publicis lavari coeperant,
+nondum tamen magnificentissimae illae thermae in
 urbe surgebant, quae posterius sub principatu aedificatae
-
-sunt, ut (ne omnes, quae multae sunt, enumerem) Neronia-
-
-nae thermae sub Nerone, Antoninianae sub Caracalla: illae
-
+sunt, ut (ne omnes, quae multae sunt, enumerem) Neronianae thermae
+sub Nerone, Antoninianae sub Caracalla: illae
 quod optime calefactae essent saepe ab antiquis laudatae,
-
-hae propter amplitudinem ac magnificentiam insignes. Plu-
-
-rima tamen et privata et publiea balinea erant, quae in
-
+hae propter amplitudinem ac magnificentiam insignes. Plurima tamen et
+privata et publica balinea erant, quae in
 quotidiano sermone distinguebantur, cum privata neutro
-
-
-
-
-
-
-
-
-
-Swngulae thermarum partes.
-
-
-
 genere indicarentur, publica feminino, atque altera balinea
-
-(vel potius balnea) vulgus vocaret, alteras balneas. Sum.-
-
-
-
-ptuosae thermae primum sub Augusto, Agrippa auctore,
-
+(vel potius balnea) vulgus vocaret, alteras balneas. Sumptuosae
+thermae primum sub Augusto, Agrippa auctore,
 aedificari coeptae sunt.
-
-
-
-
-
-
-
-
-
 
 
 ### De variis thermarum locis.
