@@ -2422,84 +2422,38 @@ aedificari coeptae sunt.
 
 ### De variis thermarum locis.
 
-
-
-Corporis lavandi cura cum diversa loca, tum varia ho-
-
-
-
-minum officia poscebat; ideoque singulae thermarum partes
-
+Corporis lavandi cura cum diversa loca, tum varia hominum officia
+poscebat; ideoque singulae thermarum partes
 singulis lavationis momentis apta erant.
 
-
-
-A podyterium vocabatur ea thermarum pars, ubi, nudato
-
-corpore, lavantes vestimenta deponuebant. Ad quae acci-
-
-
-
-
-
-pienda plurimi loculi in apodyterii parietibus cavati erant,
-
+*Apodyterium* vocabatur ea thermarum pars, ubi, nudato
+corpore, lavantes vestimenta deponuebant. Ad quae accipienda plurimi
+loculi in apodyterii parietibus cavati erant,
 nullo tamen ostiolo praediti, ut ditiores homines, ne fures
-
 exutas vestes auferrent neve quis ob neglegentiam mutaret,
-
 servulo illas custodiendas traderent.
 
-
-
-Locus ad frigidam lavationem aptus frigidarvwm voca-
-
-batur, ad calidam caldarvum. Sed cavendum est ne quis
-
-credat, ut falso nonnulli definiunt, fepidarvum, quo nullae
-
-thermae carebant, locum quendam esse in quo illi lavaren-
-
-tur qui tepida aqua ablui cuperent; nam eum modico ca-
-
-lore locus ille teperet sedilibusque vel scholis ubique in-
-
-structus esset, ad id unum adhibebatur, ut inter frigidam
-
+Locus ad frigidam lavationem aptus *frigidarium* vocabatur, ad calidam
+*caldarium*. Sed cavendum est ne quis
+credat, ut falso nonnulli definiunt, *tepidarvum*, quo nullae
+thermae carebant, locum quendam esse in quo illi lavarentur qui
+tepida aqua ablui cuperent; nam cum modico calore locus ille teperet
+sedilibusque vel scholis ubique instructus esset, ad id unum
+adhibebatur, ut inter frigidam
 et calidam lavationem mora aliqua interponeretur.
 
-Tepidario plerumque Laconwcum coniunctum erat, an-
-
-gusta quaedam cella, magno flammarum vapore calefacta,
-
+Tepidario plerumque *Laconicum* coniunctum erat, angusta quaedam
+cella, magno flammarum vapore calefacta,
 ut fervens aer abundantem sudorem e lavantium corporibus
+eliceret. Ideo et *assa sudatio* vocabatur.
 
-eliceret. Ideo et assa sudatio vocabatur.
+Nec deerant in thermis *piscinae natatoriae*, si quis in
+aqua frigida natare vellet, neque *unctorium*, ubi cutis unguentis
+peruncta fricabatur, neque *sphaeristerium* pila ludentibus aptum.
 
-
-
-Nec deerant in thermis p$scenae matatoriae, si quis in
-
-aqua frigida natare vellet, neque wnctoríum, ubi cutis un-
-
-guentis peruncta fricabatur, neque sphaeristerwwm. pila lu-
-
-dentibus aptum.
-
-
-
-Desidiosi viri, vel qui seniores essent aut corpore in-
-
-firmo, in labris singuli lavari malebant, vel nudo corpore
-
-solis calorem cute excipere, quod quidem apricari dicebatur.
-
-
-
-
-
-
-
+Desidiosi viri, vel qui seniores essent aut corpore infirmo, in
+labris singuli lavari malebant, vel nudo corpore
+solis calorem cute excipere, quod quidem *apricari* dicebatur.
 
 
 ### Cicero circenses ludos spectat.
