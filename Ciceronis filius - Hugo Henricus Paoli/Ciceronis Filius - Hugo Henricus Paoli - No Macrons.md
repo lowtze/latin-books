@@ -2070,60 +2070,23 @@ ratio togae induendae *cinctus Gabinius* vocabatur.
 
 ### De tunicis.
 
-
-
-Tunica duobus modis dicebatur; nam hoc verbo et lin.
-
-teus amictus significabatur quo nos quoque eutem corporis
-
-a crassiorum textilium contactu defendimus, et lanea illa ve-
-
-stis, quam viri inter tunicam interiorem induebant et togam,
-
-mulieres vero inter linteam illam tunicam et stolam. Qui se-
-
-natorii ordinis erant, latam fasciam ex purpura tunicis ad-
-
-suebant, exiliorem equites: latum clavum 1llum vocabant,
-
-hunc angustum. Duabus plaguls tunica confecta erat, qua-
-
-rum altera in virilibus tunicis usque ad genua extremis oris
-
+*Tunica* duobus modis dicebatur; nam hoc verbo et linteus
+amictus significabatur quo nos quoque cutem corporis
+a crassiorum textilium contactu defendimus, et lanea illa vestis,
+quam viri inter tunicam interiorem induebant et togam,
+mulieres vero inter linteam illam tunicam et stolam. Qui senatorii
+ordinis erant, latam fasciam ex purpura tunicis adsuebant, exiliorem
+equites: *latum clavum* illum vocabant,
+hunc *angustum*. Duabus *plagulis* tunica confecta erat, quarum altera in virilibus tunicis usque ad genua extremis oris
 descendebat, altera ad medios poplites. At contra muliebres
-
-tunicae talares erant. Viros huiusmodi tunicas induere ma-
-
-gnum dedecus ac flagitium habebatur. Quo melius tunica
-
+tunicae talares erant. Viros huiusmodi tunicas induere magnum dedecus
+ac flagitium habebatur. Quo melius tunica
 adhaereret, cingulo vel zona medio corpori adcingebatur.
-
-Nullae vero manicae hac aetate tunicis addebantur; nam ma-
-
-
-
-
-
-
-
-
-
-— T3 —
-
-
-
-nicatas tunicas habere contra bonos mores erat. Huiusmodi
-
+Nullae vero manicae hac aetate tunicis addebantur; nam manicatas
+tunicas habere contra bonos mores erat. Huiusmodi
 tunicae primum extremis imperii Romani temporibus etiam
-
-a viris honesto loco ortis indui coeptae sunt: Dalmaticae
-
-vestes, vel colobia vocabantur.
-
-
-
-
-
+a viris honesto loco ortis indui coeptae sunt: *Dalmaticae
+vestes*, vel *colobia* vocabantur.
 
 
 ### De ceteris virilibus vestimentis.
