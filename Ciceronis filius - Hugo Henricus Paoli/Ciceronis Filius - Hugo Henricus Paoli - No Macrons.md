@@ -2145,119 +2145,43 @@ illum, pro Antonino, Caracallam vocare.
 ### De Romanorum calceamentis.
 
 
-
-
-
 Quoniam de Romanorum vestitu tam
-
-
-
-! multa disseruimus, pauca de calceamentis
-
-
-
-, àddamus oportet, ne quis forte credat sena-
-
-tum populumque Romanum nudis pedibus
-
+multa disseruimus, pauca de calceamentis
+addamus oportet, ne quis forte credat senatum populumque Romanum
+nudis pedibus
 per Urbis vias ambulasse, aut nudis pedibus Ciceronem fuisse,
-
-cum diceret: «Quousque tandem Catilina...?». Calceis Ivomani
-
-utebantur et soccis et soles. Ex corio confectus calceus pe-
-
-dem totum tegebat cruribusque, quo aptius adhaereret, lo-
-
-ris quibusdam adligabatur. At socc? leviores erant lorisque
-
-omnino carebant. Soleae autem, quae sie circumcisae erant,
-
-ut pedis formam referrent, digito pollici subtilibus habenis
-
+cum diceret: «Quousque tandem Catilina...?». *Calceis* Romani
+utebantur et *soccis* et *soleis*. Ex corio confectus *calceus* pedem totum
+tegebat cruribusque, quo aptius adhaereret, loris quibusdam
+adligabatur. At *socci* leviores erant lorisque
+omnino carebant. *Soleae* autem, quae sic circumcisae erant,
+ut pedis formam referrent, digito pollici subtilibus *habenis*
 adligabantur plantasque tantum obtegebant, non ita ad
-
 arcendum frigus aptae, ut ad cutem contra soli duritiem
+muniendam. Simplici corio aliae confectae erant, concinniores aliae
+et coloratae, interdum laneis pannis intus adsutis praeditae.
+Solearum habenas antiqui scriptores *amenta*
+vocant vel *obstragula*. A soleis non multum *crepidae* (vel
+*crepidulae*) differebant, quarum usus a Graecis cum ipso
+nomine est importatus; utrique pedi aptae erant, vel dextero vel
+sinistro, atque ita confectae, ut pedis digiti non omnino nudi
+relinquerentur.
 
-muniendam. Simplici corio aliae confectae erant, concin-
-
-niores aliae et coloratae, interdum laneis pannis intus adsu-
-
-tis praeditae. Solearum habenas antiqui scriptores amenta
-
-vocant vel obstragula. A soleis non multum crepidae (vel
-
-crepidulae) differebant, quarum usus & Graecis cum 1pso
-
-nomine est importatus; utrique pedi aptae erant, vel dexte-
-
-
-
-
-
-
-
-
-
-— 75 —
-
-
-
-ro vel sinistro, atque ita confectae, ut pedis digiti non om-
-
-nino nudi relinquerentur.
-
-
-
-Militare calceamentum calíga erat, ex quo aliquot post
-
+Militare calceamentum *caliga* erat, ex quo aliquot post
 annos Imperator Caligula cognomen duxit, quod, tum etiam
-
-puer cum esset, caligatus inter milites versari coeperat. Vi-
-
-lioribus caleeamentis plebecula in urbe, rustici homines in
-
-agris utebantur, velut perontbus et sculponews. Sculponeae
-
+puer cum esset, caligatus inter milites versari coeperat. Vilioribus
+calceamentis plebecula in urbe, rustici homines in
+agris utebantur, velut *peronibus* et *sculponeis*. *Sculponeae*
 nomine lignea quaedam solea significabatur; rude corium
+pedibus atque talis advolutum *pero* erat.
 
-pedibus atque talis advolutum pero erat.
-
-
-
-Muliebria calceamenta hoc tantum a virilibus differe-
-
-bant, quod levius pedem premebant variisque coloribus in-
-
-fecta vel illita erant. Quae ditiorum mulierum pedes tege-
-
-bant, purpurea erant vel aurata, saepe etiam margaritis
-
+Muliebria calceamenta hoc tantum a virilibus differebant, quod levius
+pedem premebant variisque coloribus infecta vel illita erant. Quae
+ditiorum mulierum pedes tegebant, purpurea erant vel aurata, saepe
+etiam margaritis
 distincta atque gemmis. Namque eo tempore infimae plebis
-
-feminae rudibus calceamentis utebantur, vel omnino care-
-
-bant; honestae feminae
-
-
-
-pretiose calceatae ambu-
-
-labant.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+feminae rudibus calceamentis utebantur, vel omnino carebant; honestae
+feminae pretiose calceatae ambulabant.
 
 
 ### De calceis.
@@ -2297,21 +2221,6 @@ bant, ut patricii viri et senatores. Calceus aíricvus ruber
 erat, senatorvus niger; uterque teretibus quibusdam ocorrigiis
 
 suris adligabatur, eburneis lunulis ornabatur.
-
-
-
-
-
-
-
-
-
-
-
-
-
-— 76 —
-
 
 
 ### Quomodo Romani caput operire consuerint.
