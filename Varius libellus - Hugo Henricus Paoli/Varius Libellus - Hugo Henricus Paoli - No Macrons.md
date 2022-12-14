@@ -40,6 +40,27 @@ L'illustrazione della. copertina riproduce un'incisione di Bartolommeo
 
 ---
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [FABELLAE](#fabellae)
+  - [I. - ASINUS, BOS, MERCATOR PRAEDIVES](#i---asinus-bos-mercator-praedives)
+  - [II. - DE EQUO PROMETHEUM CULPANTE](#ii---de-equo-prometheum-culpante)
+- [�O X l](#o-x-l)
+  - [III. - DE REGIS FILIA PULCHERRIMA](#iii---de-regis-filia-pulcherrima)
+- [COLLOQUIA](#colloquia)
+  - [COLLOQUIUM I (De haedo et lupo)](#colloquium-i-de-haedo-et-lupo)
+  - [COLLOQUIUM II (De Cynegeri virtute)](#colloquium-ii-de-cynegeri-virtute)
+  - [COLLOQUIUM III (De duobus anguibus)](#colloquium-iii-de-duobus-anguibus)
+  - [COLLOQUIUM IV (Martius et Cimbricus servus)](#colloquium-iv-martius-et-cimbricus-servus)
+  - [COLLOQUIUM V (De animalibus)](#colloquium-v-de-animalibus)
+  - [COLLOQUIUM VI (Malus quidam discipulus)](#colloquium-vi-malus-quidam-discipulus)
+  - [COLLOQUIUM VII (Discipulorum rixa)](#colloquium-vii-discipulorum-rixa)
+  - [COLLOQUIUM VIII (De novis verbis Latine fingendis)](#colloquium-viii-de-novis-verbis-latine-fingendis)
+- [INDORUM PROVERBIA](#indorum-proverbia)
+
+---
+
 ## FABELLAE
 
 ### I. - ASINUS, BOS, MERCATOR PRAEDIVES
@@ -353,7 +374,8 @@ SA.
 ( [^
 (edd (A
 *
-II. - DE EQUO PROMETHEUM CULPANTE
+### II. - DE EQUO PROMETHEUM CULPANTE
+
 9
 P
 SA Pa
@@ -726,7 +748,10 @@ NS ON - ^ Ad
 
 2 N 7
 SM //
-III. - DE REGIS FILIA PULCHERRIMA
+
+
+### III. - DE REGIS FILIA PULCHERRIMA
+
 �
 Q.
 C5 && C
@@ -887,10 +912,10 @@ plerumque soleat neglegentioribus favere.
 
 e�
 0^7 da
-COLLOOUIA
-1. - PaoLI, Varius libellus,
 
-COLLOQUIUM I (De haedo et lupo)
+## COLLOQUIA
+
+### COLLOQUIUM I (De haedo et lupo)
 
 M agtster. � Exsurge,
 
@@ -988,7 +1013,8 @@ Magtsier. � Rectissime conclusisti. Conside.
 
 (e
 ZU
-COLLOQUIUM II (De Cynegwri virtute)
+
+### COLLOQUIUM II (De Cynegeri virtute)
 
 Magister. - Huc ades, Valeri, ex libello tuo quid Cyne-
 girus egerlt recita.
@@ -1041,7 +1067,8 @@ Magister. - Quo anno apud Marathona pugnatum est ?
 Valerius. - Annoquadringentesimo nonagesimo ante Chr. n.
 
 Magister. � Recte; conside.
-COLLOQUIUM III (De duobus anguibus)
+
+### COLLOQUIUM III (De duobus anguibus)
 
 Magister. � Legistine, Fabulle, narratiunculam de amore
 coniugali, quam Italice convertendam adsignavi?
@@ -1104,7 +1131,10 @@ det: dimissa femina, tibi�. liberius statim marem necari
 Iussit.
 
 Magister. � Probo, conside.
-COLLOQUIUM IV (Martius et. Cimbricus servus)
+
+
+### COLLOQUIUM IV (Martius et Cimbricus servus)
+
 Magister. - Exsurge, Gai. Recita ex libro tuo narratiun-
 culam de Mario et Cimbrico servo; sed non, ut plerumque
 in ludis fit, incondito quodam murmure aut (quod contra-
@@ -1180,7 +1210,8 @@ scriptorum numerum rettulit, caedibus, luctu, terrore totam
 Italiam implevit.
 
 Magister. � Probissime. Conside.
-COLLOOUIUM V (De amwumnaltbus)
+
+### COLLOQUIUM V (De animalibus)
 
 Magister. � Cras unusquisque vestrum ea quae de anima-
 libus in libro vestro leguntur, Italice conversa ac nitide
@@ -1337,7 +1368,10 @@ ribus vero parcit. Credo eam cum illis pacem sempiternam
 pepigisse.
 Magister. - De animalibus hodie sat diximus; ad aliam
 rem transeamus.
-COLLOQUIUM VI (Malus quidam discipulus)
+
+
+### COLLOQUIUM VI (Malus quidam discipulus)
+
 LA M agn1stexr. � Publium
 ] E hodie interrogabimus.
 HT Phaedri fabellam, quam
@@ -1420,7 +1454,9 @@ licitus sum, tibi ignoscam, ut scias numquam seram esse
 paenitentiam, si quem in ludo pigritiae suae taedere coe-
 perit. Sed memento magnam quidem esse magistrorum be-
 nignitatem, non illam tamen infinitam. I quam citissime.
-COLLOOUIUM VII (Dssctpulorum rixa)
+
+
+### COLLOQUIUM VII (Discipulorum rixa)
 
 Magister. - Rogat me per famulum praeses ut illum sta-
 tim conveniam. Spero vos, me absente, quietos fore; non
@@ -1582,7 +1618,9 @@ exsiccat ; famulo reddit). 9c fiet.
 �(CE
 LS XC]
 Cw
-COLLOQUIUM VIII (De nows verbis Latine fingendas)
+
+
+### COLLOQUIUM VIII (De novis verbis Latine fingendis)
 
 Discipulus. � Libenter, magister, hunc tibi libellum tra-
 diderim, quem nuper, festis Paschae diebus, domi otiosus
@@ -1737,7 +1775,8 @@ te dicant in Latino sermone non mediocriter esse versa-
 tum, sperne, suavissime, vanam istam exercitationem: in-
 sulsum quiddam est, mihi crede, nil nisi temporis impen-
 dium. Ciceronem legito.
-INDORUM PROVERBIA
+
+## INDORUM PROVERBIA
 
 I. Aliud divitis iter est, aliud sapientis.
 2. Silentium ignorantiae ornamentum est.
@@ -2279,74 +2318,3 @@ ila me consecuturum speravero, quis me stultior ?
 IIO. Quid vitae voluptas est? Quo tandem pacto gau-
 demus? Psittacum in felis ungues proicimus, cervam ad
 leonis fauces admovemus, equum uri cornibus opponimus.
-
-D IBP !
-,
-QCZA7S x
-
-I NDEX
-FABELLAE. . . . . . . 4... 4. c... s.s. s... .. Pag. I
-I. - Asinus, bos, mercator praedives. . . . . . . . ..... 3
-II. - De equo Prometheum culpante . . . . . . . . . . . . . I3
-III. - De regis fli�a pulcherrima . . . . . . . .. ...... 24
-COLLOQUIA . . . . . 4. 4 4 4 ee re ol re or sl or s. rl s. s.s... 20
-Colloquium I (De haedo et lupo) . . . . . . .. .. .... 3I
-Colloquium II (De Cynegi a wiriute). . . .. ........ 34
-Colloquium III (De duobus anguibus) . . . . . . .. .. .. 30
-Colloquium IV (Martius et Cimbricus seruus)... . . . . . . 38
-Colloquium V (De ammmalibus) . . . . .. ......... 40
-Colloquium VI (Malus quidam discipulus) . . . . . . . . . . 44
-Colloquium VII (Dssctpulorum vixa). . ........... 47
-Colloquium VIII (De novis verbis Latine fingendis) . . . . . . Sr
-�INDORUM PROVERBIA. . . . . . . . . s... c rs... s. s. BB
-
-Dello stesso autore:
-
-Huco HrNnicus Paorr, Ciceronis filius, puerilis narratio ad domesticos Ro-
-manorum mores illustrandos in. usum scholarum redacta, Firenze, Le
-Monnier, 5? edizione, 1961.
-
-Edizione francese (con note e vocabolario), Parigi, O.C.D.L.
-(Collection Gal).
-
-Edizione tedesca, Berna-Monaco, Francke Verlag, 29 edi-
-Zione, I9�I.
-
-Edizione americana, New York, Noble and Noble, 196o.
-
-Edizione inglese (con note e vocabolario), Londra, Long-
-mans Green & Co. (D'imminente pubblicazione).
-
-W. BuscH, Fabellae pueriles ab Hugone Henrico Paoli Latinis versibus re-
-dactae (edizione senza note e vocabolario), Firenze, Le Monnier, 1960.
-
-Edizione tedesca, Berna-Monaco, Francke Verlag.
-Edizione americana, New York, Noble and Noble.
-
-Uco ENnico PaoLr Zabe/lae pueriles, con note e vocabolario ad uso
-delle Scuole Medie, Firenze, Le Monnier, 1961.
-
-W. BuscH, Maximi et Mauritii malefacta ab Hugone Henrico Paoli Latinis
-versibus enarrata, Firenze, Le Monnier, 1959.
-
-Edizione tedesca, Berna-Monaco, Francke Verlag, 1960.
-Edizione americana, New York, Noble and Noble, 1960.
-
-H. HorrMANN, Petrus Ericius, lepidae histortolae ab Hugone Henrico Paoli
-Latinis versibus enarratae, Firenze, Le Monnier, 1960.
-
-Edizione tedesca, Berna-Monaco, Francke Verlag, 1960.
-Edizione americana, New York, Noble and Noble, 1961.
-
-Uco ENnRico Paort, 2e senectute. � Indorum sapientia, Firenze, Le Mon-
-nier, 1961.
-
-Uco ENwnico PaoLr, Carmina (pp. vi11-364), Firenze, Le Monnier, 196r.
-
-STAMPATO A FIRENZE
-NEGLI STABILIMENTI TIPOGRAFICI
-�E. ARIANI� E �L'ARTE DELLA STAMPA 5�
-
-
-"3
-Prezzo L. 450 "
