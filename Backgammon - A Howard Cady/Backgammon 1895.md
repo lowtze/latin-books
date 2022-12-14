@@ -60,6 +60,21 @@ The American Sports Publishing Co.,
 In the office of the Librarian of Congress, at Washington.
 
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Preface](#preface)
+- [BACKGAMMON.](#backgammon-1)
+  - [PART I.](#part-i)
+  - [PART II.](#part-ii)
+    - [ENGLISH BACKGAMMON.](#english-backgammon)
+    - [LAWS OF BACKGAMMON.](#laws-of-backgammon)
+    - [PROBLEMS ILLUSTRATING THE GAME.](#problems-illustrating-the-game)
+    - [RUSSIAN BACKGAMMON.](#russian-backgammon)
+    - [TURKISH BACKGAMMON.](#turkish-backgammon)
+    - [OPINIONS AND AXIOMS.](#opinions-and-axioms)
+
+
 ## Preface
 <hr align="center" width="20%">
 
