@@ -184,47 +184,83 @@ M. R.
 
 ## CONTENTS 
 
-[Iūlia](#Iūlia) - 1
-
-[Ītalia](#ītalia) - 5
-
-[Rōma](#rōma) - 6
-
-[Cerēs et Persephonē](#cerēs-et-persephonē) - 7
-
-[Rōmulus et Sabīnae](#rōmulus-et-sabīnae) - 13
-
-[Mars Rōmulum in Caelum Vocat](#mars-rōmulum-in-caelum-vocat) - 15 
-
-[Horātius Puer](#horātius-puer) - 17 
-
-[Bacchus et Pīrātae](#bacchus-et-pīrātae) - 19
-
-[Horātius Codes](#horātius-codes) - 22 
-
-[Īphigeneia](#īphigeneia) - 29 
-
-[Cȳrus, Croesus, Solōn](#cȳrus-croesus-solōn) - 34 
-
-[Mūsae et Cicādae](#mūsae-et-cicādae) - 38 
-
-[Rōmulus et Remus](#rōmulus-et-remus) - 40 
-
-[Mettius Curtius](#mettius-curtius) - 46 
-
-[Rēgulus](#rēgulus) - 48 
-
-[Hector et Andromachē](#hector-et-andromachē) - 51 
-
-[Equus Trōiānus](#equus-trōiānus) - 55 
-
-[Orpheus et Eurydicē](#orpheus-et-eurydicē) - 58 
-
-[Vocabulary of New Words in each Section](#vocabulary-of-new-words-in-each-section) - 62 
-
-[Vocabulary of Words used in Quoted Passages](#vocabulary-of-words-used-in-quoted-passages) - 80
-
-[General Vocabulary](#general-vocabulary) - 82
+- [INTRODUCTION](#introduction)
+- [PREFACE](#preface)
+- [CONTENTS](#contents)
+- [IŪLIA](#iūlia)
+  - [I](#i)
+  - [II](#ii)
+  - [III](#iii)
+  - [IV](#iv)
+- [ĪTALIA](#ītalia)
+  - [V](#v)
+- [RŌMA](#rōma)
+  - [VI](#vi)
+- [CERĒS ET PERSEPHONĒ](#cerēs-et-persephonē)
+  - [VII](#vii)
+  - [VIII](#viii)
+  - [IX](#ix)
+  - [X](#x)
+  - [XI](#xi)
+  - [XII](#xii)
+- [RŌMULUS ET SABĪNA](#rōmulus-et-sabīna)
+  - [XIII](#xiii)
+  - [XIV](#xiv)
+- [MARS RŌMULUM IN CAELUM VOCAT](#mars-rōmulum-in-caelum-vocat)
+  - [XV](#xv)
+  - [XVI](#xvi)
+- [HORĀTIUS PUER](#horātius-puer)
+  - [XVII](#xvii)
+  - [XVIII](#xviii)
+- [BACCHUS ET PĪRĀTAE](#bacchus-et-pīrātae)
+  - [XIX](#xix)
+  - [XX](#xx)
+  - [XXI](#xxi)
+- [HORĀTIUS CODES](#horātius-codes)
+  - [XXII](#xxii)
+  - [XXIII](#xxiii)
+  - [XXIV](#xxiv)
+  - [XXV](#xxv)
+  - [XXVI](#xxvi)
+  - [XXVII](#xxvii)
+- [ĪPHIGENEIA \[^7\]](#īphigeneia-7)
+  - [XXVIII](#xxviii)
+  - [XXIX](#xxix)
+  - [XXX](#xxx)
+  - [XXXI](#xxxi)
+  - [XXXII](#xxxii)
+- [CȲRUS, CROESUS, SOLŌN](#cȳrus-croesus-solōn)
+  - [XXXIII](#xxxiii)
+  - [XXXIV](#xxxiv)
+  - [XXXV](#xxxv)
+- [MŪSAE ET CICĀDAE](#mūsae-et-cicādae)
+  - [XXXVI](#xxxvi)
+  - [XXXVII](#xxxvii)
+- [RŌMULUS ET REMUS](#rōmulus-et-remus)
+  - [XXXVIII](#xxxviii)
+  - [XXXIX](#xxxix)
+  - [XL](#xl)
+  - [XLI](#xli)
+  - [XLII](#xlii)
+- [METTIUS CURTIUS](#mettius-curtius)
+  - [XLIII](#xliii)
+- [RĒGULUS](#rēgulus)
+  - [XLIV](#xliv)
+  - [XLV](#xlv)
+- [HECTOR ET ANDROMACHĒ](#hector-et-andromachē)
+  - [XLVI](#xlvi)
+  - [XLVII](#xlvii)
+- [EQUUS TRŌIĀNUS](#equus-trōiānus)
+  - [XLVIII](#xlviii)
+  - [XLIX](#xlix)
+- [ORPHEUS ET EURYDICĒ](#orpheus-et-eurydicē)
+  - [L](#l)
+  - [LI](#li)
+  - [LII](#lii)
+- [VOCABULARY OF NEW WORDS IN EACH SECTION](#vocabulary-of-new-words-in-each-section)
+- [VOCABULARY OF WORDS USED IN QUOTED PASSAGES](#vocabulary-of-words-used-in-quoted-passages)
+- [GENERAL VOCABULARY](#general-vocabulary)
+- [FOOTNOTES](#footnotes)
 
 ---
 

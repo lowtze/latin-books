@@ -184,47 +184,83 @@ M. R.
 
 ## CONTENTS 
 
-[Iulia](#Iulia) - 1
-
-[Italia](#italia) - 5
-
-[Roma](#roma) - 6
-
-[Ceres et Persephone](#ceres-et-persephone) - 7
-
-[Romulus et Sabinae](#romulus-et-sabinae) - 13
-
-[Mars Romulum in Caelum Vocat](#mars-romulum-in-caelum-vocat) - 15 
-
-[Horatius Puer](#horatius-puer) - 17 
-
-[Bacchus et Piratae](#bacchus-et-piratae) - 19
-
-[Horatius Codes](#horatius-codes) - 22 
-
-[Iphigeneia](#iphigeneia) - 29 
-
-[Cyrus, Croesus, Solon](#cyrus-croesus-solon) - 34 
-
-[Musae et Cicadae](#musae-et-cicadae) - 38 
-
-[Romulus et Remus](#romulus-et-remus) - 40 
-
-[Mettius Curtius](#mettius-curtius) - 46 
-
-[Regulus](#regulus) - 48 
-
-[Hector et Andromache](#hector-et-andromache) - 51 
-
-[Equus Troianus](#equus-troianus) - 55 
-
-[Orpheus et Eurydice](#orpheus-et-eurydice) - 58 
-
-[Vocabulary of New Words in each Section](#vocabulary-of-new-words-in-each-section) - 62 
-
-[Vocabulary of Words used in Quoted Passages](#vocabulary-of-words-used-in-quoted-passages) - 80
-
-[General Vocabulary](#general-vocabulary) - 82
+- [INTRODUCTION](#introduction)
+- [PREFACE](#preface)
+- [CONTENTS](#contents)
+- [IULIA](#iulia)
+  - [I](#i)
+  - [II](#ii)
+  - [III](#iii)
+  - [IV](#iv)
+- [ITALIA](#italia)
+  - [V](#v)
+- [ROMA](#roma)
+  - [VI](#vi)
+- [CERES ET PERSEPHONE](#ceres-et-persephone)
+  - [VII](#vii)
+  - [VIII](#viii)
+  - [IX](#ix)
+  - [X](#x)
+  - [XI](#xi)
+  - [XII](#xii)
+- [ROMULUS ET SABINA](#romulus-et-sabina)
+  - [XIII](#xiii)
+  - [XIV](#xiv)
+- [MARS ROMULUM IN CAELUM VOCAT](#mars-romulum-in-caelum-vocat)
+  - [XV](#xv)
+  - [XVI](#xvi)
+- [HORATIUS PUER](#horatius-puer)
+  - [XVII](#xvii)
+  - [XVIII](#xviii)
+- [BACCHUS ET PIRATAE](#bacchus-et-piratae)
+  - [XIX](#xix)
+  - [XX](#xx)
+  - [XXI](#xxi)
+- [HORATIUS CODES](#horatius-codes)
+  - [XXII](#xxii)
+  - [XXIII](#xxiii)
+  - [XXIV](#xxiv)
+  - [XXV](#xxv)
+  - [XXVI](#xxvi)
+  - [XXVII](#xxvii)
+- [IPHIGENEIA](#iphigeneia)
+  - [XXVIII](#xxviii)
+  - [XXIX](#xxix)
+  - [XXX](#xxx)
+  - [XXXI](#xxxi)
+  - [XXXII](#xxxii)
+- [CYRUS, CROESUS, SOLON](#cyrus-croesus-solon)
+  - [XXXIII](#xxxiii)
+  - [XXXIV](#xxxiv)
+  - [XXXV](#xxxv)
+- [MUSAE ET CICADAE](#musae-et-cicadae)
+  - [XXXVI](#xxxvi)
+  - [XXXVII](#xxxvii)
+- [ROMULUS ET REMUS](#romulus-et-remus)
+  - [XXXVIII](#xxxviii)
+  - [XXXIX](#xxxix)
+  - [XL](#xl)
+  - [XLI](#xli)
+  - [XLII](#xlii)
+- [METTIUS CURTIUS](#mettius-curtius)
+  - [XLIII](#xliii)
+- [REGULUS](#regulus)
+  - [XLIV](#xliv)
+  - [XLV](#xlv)
+- [HECTOR ET ANDROMACHE](#hector-et-andromache)
+  - [XLVI](#xlvi)
+  - [XLVII](#xlvii)
+- [EQUUS TROIANUS](#equus-troianus)
+  - [XLVIII](#xlviii)
+  - [XLIX](#xlix)
+- [ORPHEUS ET EURYDICE](#orpheus-et-eurydice)
+  - [L](#l)
+  - [LI](#li)
+  - [LII](#lii)
+- [VOCABULARY OF NEW WORDS IN EACH SECTION](#vocabulary-of-new-words-in-each-section)
+- [VOCABULARY OF WORDS USED IN QUOTED PASSAGES](#vocabulary-of-words-used-in-quoted-passages)
+- [GENERAL VOCABULARY](#general-vocabulary)
+- [FOOTNOTES](#footnotes)
 
 ---
 
