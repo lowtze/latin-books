@@ -46,7 +46,6 @@ L'illustrazione della. copertina riproduce un'incisione di Bartolommeo
 - [FABELLAE](#fabellae)
   - [I. - ASINUS, BOS, MERCATOR PRAEDIVES](#i---asinus-bos-mercator-praedives)
   - [II. - DE EQUO PROMETHEUM CULPANTE](#ii---de-equo-prometheum-culpante)
-- [�O X l](#o-x-l)
   - [III. - DE REGIS FILIA PULCHERRIMA](#iii---de-regis-filia-pulcherrima)
 - [COLLOQUIA](#colloquia)
   - [COLLOQUIUM I (De haedo et lupo)](#colloquium-i-de-haedo-et-lupo)
@@ -537,7 +536,7 @@ instituere meditatur, ut, si quis asinino ingenio ceteris asi-
 nis longe anteierit, maximis ile apud asinos honoribus
 [ruatur.
 
-� An hominem me pluris facis? hominem illum, qui (re-
+An hominem me pluris facis? hominem illum, qui (re-
 ferre pudet!), dum tigridem crudelitate, vulpem dolis, lupum
 rapacitate, cuniculum ignavia aemulatur, si bene illius na-
 turam consideraveris, asini est simillimus? Diceris illius sol-
@@ -545,16 +544,6 @@ lertia summopere delectari; at qui sit, bene ipse novi. Nonne
 vides, pater, quam stulte, quam ridicule se gerat? Verbis
 gaudet, inani garrulitate delectatur seque universi mundi
 dominum profitetur esse, ob 1d unum quod sermone sit prae-
-� I8 �
-e
-EN
-y
-, INA
-; | � - |
-�O X l
--
-RS
-
 ditus. Homine nihil infirmius in terris exstitisse arbitror,
 quem sic natura formavit, ut et frigora horreret, et aestivis
 caloribus extenuaretur et innumerabilibus morbis circum-
