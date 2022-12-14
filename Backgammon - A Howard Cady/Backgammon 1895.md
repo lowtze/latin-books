@@ -1238,7 +1238,7 @@ thirty-six chances the points are:
 ![In these
 thirty-six chances the points are](./images/calc-of-36-chances.PNG)
 
-Thus we se e that 294 divided by 36 gives 8 and a little more as
+Thus we see that 294 divided by 36 gives 8 and a little more as
 the average throw with two dice.
 
 The chances upon two dice are calculated as follows:
