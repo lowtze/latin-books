@@ -191,199 +191,189 @@ obliviscar».
 
 Sic asinus; simulatisque lacrimis fictum eftundebat maerorem.
 
-# end p7
-
-Tum dominus: � Vater est asinus meus, inquit; quam
-bene callet!�; atque magna cachinnatione exagitari subito
+Tum dominus: «Vater est asinus meus, inquit; quam
+bene callet!»; atque magna cachinnatione exagitari subito
 coepit.
 
 Forte mercatoris uxor aderat, quae, mulier cum esset,
 importuna semper curiositate sollicitabatur; tum vero, cum
-rsu tam immoderato illum concuti videret, tam effusae
+risu tam immoderato illum concuti videret, tam effusae
 hilaritatis causam rogare instantissime coepit.
 
-Imprudens ille: � Quis enim, inquit, risu abstineat, si
-talia asinum loquentem audierit ? �.
+Imprudens ille: «Quis enim, inquit, risu abstineat, si
+talia asinum loquentem audierit?».
 
-At ila: � Quidnam tandem locutus est ? v.
+At illa: «Quidnam tandem locutus est?».
 
-. Sensit mercator temere se ea verba iecisse, ac diu obnu-
-bilata fronte reticuit. �At mulier primum labellum ducere,
-�8�
-deinde molliter virum suum rogare, permulcere, nullis blan-
-ditiis abstinere; cum tamen nihil hac via proficeret, tum
+![uxor mercatoris]()
+
+Sensit mercator temere se ea verba iecisse, ac diu obnubilata fronte
+reticuit. At mulier primum labellum ducere,
+deinde molliter virum suum rogare, permulcere, nullis blanditiis
+abstinere; cum tamen nihil hac via proficeret, tum
 vocem asperam tollere, imperiose se gerere; verbis eadem
 doctissimis uti, mirum unde petitis: velle
 sese rem bene compertam habere; hanc
-^ esse primam connubii legem, ut ne quid
-v. alter alteram celet; arcana neminem pro-
-�MN diturum, uni si uxori suae ea aperuerit,
-| quacum iure matrimon� omnium huma-
-c�; * narum ac divinarum rerum in consortio
-vivere sit necesse. Haec omnia erecto col-
-lo, fixo ac severo obtutu pronuntiabat: sic
-| Pythiam oracula edidisse credimus.
-' Denique, cum idem semper percontando
-N / moleste urgeret ac premeret, mercator tan-
-^ dem:
-� Ne amplius, mulier, quaesieris, inquit ;
-� nefas mihi esse scito, si cui aperiam quid
-Ipse audierim �.
-�Loquere, tamen; sic volo; piget me, ut bene nosti,
-saepius quod semel dixi iterare �.
+esse primam connubii legem, ut ne quid
+alter alteram celet; arcana neminem proditurum, uni si uxori
+suae ea aperuerit,
+quacum iure matrimonii omnium humanarum ac divinarum rerum in
+consortio
+vivere sit necesse. Haec omnia erecto collo, fixo ac severo obtutu
+pronuntiabat: sic
+Pythiam oracula edidisse credimus.
+
+Denique, cum idem semper percontando
+moleste urgeret ac premeret, mercator tandem:
+
+«Ne amplius, mulier, quaesieris, inquit;
+nefas mihi esse scito, si cui aperiam quid
+ipse audierim».
+
+«Loquere, tamen; sic volo; piget me, ut bene nosti,
+saepius quod semel dixi iterare».
+
 Cui ille paulisper cunctatus:
-�Frustra rogas, inquit; si locutus ero, moriar statim.
+
+«Frustra rogas, inquit; si locutus ero, moriar statim.
 Desine tandem tam pertinaci animo
-la ex me quaerere, quod mihi proferre /
-non licet �. S SS
-At magis illa suscensuit, virumque N NUN
-suum convicus ac maledictis consec- j
-tari coepit: n
-� Mendax es, vir pessime, uxorem- |
-que tuam vix ferenda superbia con-
-temnis �.
+id ex me quaerere, quod mihi proferre
+non licet».
+
+![mercator]()
+
+At magis illa suscensuit, virumque
+suum convicus ac maledictis consectari coepit:
+
+«Mendax es, vir pessime, uxoremque
+tuam vix ferenda superbia contemnis».
+
 Longum est enarrare quam multa
 mercatoris uxor experta sit, ut asini
-verba sibi vir proderet; omnes illa  . |
-artes adhibuit quibus mulieres uti so- pe
-lent, si quid sibi proposuerint, quod TS
-� O ��
-quacumque ratione adsequi deliberatum statutumque ha-
-beant. Sic enim natura mulierum animos finxit, ut, quam-
-quam summa est in illis levitas, nulla tamen in re contu-
-macius perstent, quam cum aliquid perverse agant.
+verba sibi vir proderet; omnes illa
+artes adhibuit quibus mulieres uti solent,
+si quid sibi proposuerint, quod
+quacumque ratione adsequi deliberatum statutumque habeant. Sic enim
+natura mulierum animos finxit, ut, quamquam summa est in illis
+levitas, nulla tamen in re contumacius perstent, quam cum aliquid
+perverse agant.
+
 Postquam enim viri animum obduruisse intellexit, nec
 quicquam illum, nec preces, aut minas, aut blandimenta
-auribus accipere, infelicem uxorem agere coepit: cibo absti-
-nebat, conclave se negabat relicturam, diemque totum in-
-compto capillo, sordida, hirsuta, squalenti facie inlacrimis
-ac maerore fluere sinebat. lta ut
-tandem mercator: � Peream igitur,
-exclamaverit, potius quam talia co-
-tidie patiar �; uxorique renuntiari ; ZZ
-lussit se morem 1lli gerere paratum I) � 9 es
+auribus accipere, infelicem uxorem agere coepit: cibo abstinebat,
+conclave se negabat relicturam, diemque totum incompto capillo,
+sordida, hirsuta, squalenti facie in lacrimis
+ac maerore fluere sinebat. Ita ut
+tandem mercator: «Peream igitur,
+exclamaverit, potius quam talia cotidie
+patiar»; uxorique renuntiari
+iussit se morem 1lli gerere paratum
 esse.
-lalia dicentem forte gallus in " | SS
-gallinario audivit, qui sic canem ' | d
-adlocutus est: h | K^ oai
-�Stultos homines, inquit, mul-
-tos equidem vidi; domino tamen nostro stultiorem nemi-
-nem; vere illum furiosum ac mente captum dicas, qui in
+
+![gallus et gallina]()
+
+Talia dicentem forte gallus in
+gallinario audivit, qui sic canem
+adlocutus est:
+
+![tympana]()
+
+«Stultos homines, inquit, multos
+equidem vidi; domino tamen nostro stultiorem neminem; vere illum
+furiosum ac mente captum dicas, qui in
 eam usque vecordiam processerit, ut vitam relinquere malit,
 quam maritalia 1ura, ut fas est, exercere. Gallinis ipse meis
-sic imperito, ut, quicquid dixi, vel etiam nutu tantum prae-
-cepi, statim 1llae facessant. Metu feminae coercentur, vi do-
-mantur, utpote quae bonas artes vel morum
-facilitatem pro animi infirmitate ducant. Do-
-minus ego si essem, non verbis ac persuasione
-f rem agerem, sed baculo. �n ignoras quid ve-
-teres sapientes de hac re statuerint? Asinos,
-�s tympana, feminas crebro qui pulsat, bene ille,
-C0 L7 ut aiunt, baculo utitur. Verberibus mulieres,
-| ' non blandimentis aut mellitis voculis leniores
+sic imperito, ut, quicquid dixi, vel etiam nutu tantum praecepi,
+statim illae facessant. Metu feminae coercentur, vi domantur, utpote
+quae bonas artes vel morum
+facilitatem pro animi infirmitate ducant. Dominus ego si essem, non
+verbis ac persuasione
+rem agerem, sed baculo. An ignoras quid veteres sapientes de hac re
+statuerint? Asinos,
+tympana, feminas crebro qui pulsat, bene ille,
+ut aiunt, baculo utitur. Verberibus mulieres,
+non blandimentis aut mellitis voculis leniores
 fiunt. Sed, video, eximiam gallorum indolem
-natura hominibus negavit �.
-: Sic ait, ac bene sibi placens longum ac lae-
-NULL tissimum edidit � kikiriki �.
-� IO �
+natura hominibus negavit».
 
-Mercator non longe aberat, nec verba illa irrita cecide-
-runt. Ouid multa? Nulla mora interposita, gallo spectante
+Sic ait, ac bene sibi placens longum ac laetissimum edidit «kikiriki».
+
+Mercator non longe aberat, nec verba illa irrita ceciderunt.
+Quid multa? Nulla mora interposita, gallo spectante
 atque alis plaudente, famulis imperavit ut baculum sibi
-statim adferrent. Quo arrepto, minaci vultu thalamum in-
-gressus est.
+statim adferrent. Quo arrepto, minaci vultu thalamum ingressus est.
+
+![mercator cum baculo uxorem verberat]()
 
 Quem ubi primum ancillae advenientem conspexerunt
-intentis oculis, obdurata facie baculumque manu horribi-
-
-uu j T
-. ^ /
-A) ! N�.
-f oC f
-SN
-/ S -
-V X, iN �
-p^ PA
-hter quatientem, magnus statim clamor ortus est, magna
+intentis oculis, obdurata facie baculumque manu horribliter
+quatientem, magnus statim clamor ortus est, magna
 ac miserabilis eiulatio; diffugere miserae, quiritare, pectora
-sibi plangere. Nihil ille movetur, sed uxorem intuens: � Visne,
+sibi plangere. Nihil ille movetur, sed uxorem intuens: «Visne,
 optima femina, inquit, quid asinus me audiente dixerit bene
-Scire ? �.
+scire?».
 
-Ac subito saeva verbera 1ta 1nsonare coeperunt, ut con-
-clave totum concuteretur. Frustra mulier virum exorare co-
-natur; frustra clamitat, singultit, rabie ac dolore tota agi-
-� II �
-tatur, dum lacrimas fundit, preces, minas, contumelias mi-
-scet. Baculum rem suam facit. Haec vero interdum audie-
-bantur:
+Ac subito saeva verbera ita 1nsonare coeperunt, ut conclave totum
+concuteretur. Frustra mulier virum exorare conatur; frustra clamitat,
+singultit, rabie ac dolore tota agitatur, dum lacrimas fundit,
+preces, minas, contumelias miscet. Baculum rem suam facit. Haec vero
+interdum audiebantur:
 
-� Quam.indigne vapulo, heu! Nec quisquam 1nfelici mihi
-subvenit �.
+«Quam indigne vapulo, heu! Nec quisquam infelici mihi
+subvenit».
 
-�Habes quod merita es �.
+«Habes quod merita es».
 
-�Necas verberibus, sceleste: oh, malum facinus! Moriar,
-misella �.
+«Necas verberibus, sceleste: oh, malum facinus! Moriar,
+misella».
 
-�Quid ad me, mulier? Susque deque �.
+«Quid ad me, mulier? Susque deque».
 
 Ac deinde:
 
-� Mitior fiam �.
+«Mitior fiam».
 
-� Cuinam id persuadeas? An me putas muliebrem falla-
-clam prorsus ignorare ? �.
+«Cuinam id persuadeas? An me putas muliebrem fallaciam prorsus ignorare?».
 
-� Morem tibi geram �.
+«Morem tibi geram».
 
-� Credamne? mulier es: pestiferum genus mulieres, et
-perfidum et contumax. En, accipe et haec! �.
+«Credamne? mulier es: pestiferum genus mulieres, et
+perfidum et contumax. En, accipe et haec!».
 
 Postremo, infelix, verberibus fracta, cum partem nullam
-in dorso gereret, quae non vibicibus liveret, umeri tume-
-facti rubescerent passique capill fugere conantem horren-
-dam facerent et miserabilem, eo tandem adducta est, ut
-diceret :
+in dorso gereret, quae non vibicibus liveret, umeri tumefacti
+rubescerent passique capilli fugere conantem horrendam facerent et
+miserabilem, eo tandem adducta est, ut
+diceret:
 
-� Nihil amplius quaeram de asino; iuro me verbum nul-
-lum de hac re in posterum facturam; linguam coercebo, cu-
-riositatem totam deponam. kt vir mihi eris et dominus.
+«Nihil amplius quaeram de asino; iuro me verbum nullum de hac re in
+posterum facturam; linguam coercebo, curiositatem totam deponam. Et
+vir mihi eris et dominus.
 Mulierem me esse fateor, infirmius quiddam: ignosce mihi.
-Peccavi equidem; sine tamen te exorari �.
+Peccavi equidem; sine tamen te exorari».
 
-Tum demum mulieris verba asperum viri animum flec-
-tunt. Baculum ille seposuit, pax inter coniuges rediit.
+Tum demum mulieris verba asperum viri animum flectunt. Baculum ille
+seposuit, pax inter coniuges rediit.
 
 Tradunt veteres Persarum annales, unde lepidam hanc
-fabellam sumpsimus, nihil unquam posterius illorum co-
-niugum concordiam turbasse; quiete eos et iucunde usque
-ad extremam senectutem vixisse; baculum vero in remo-
-tissimo aedium angulo inter mures et araneas non sine qua-
-dam tristitia iners consenuisse.
+fabellam sumpsimus, nihil unquam posterius illorum coniugum
+concordiam turbasse; quiete eos et iucunde usque
+ad extremam senectutem vixisse; baculum vero in remotissimo aedium
+angulo inter mures et araneas non sine quadam tristitia iners
+consenuisse.
 
-Fabula haec tria docet: minimam saepe adhibitam pru-
-dentiam magnas calamitates prohibere; illud etiam: nihil
-� I2 �
-bonas artes apud mulieres valere, quae quidem nisi vapu-
-lando rectos mores discere nequeant; postremum denique,
+Fabula haec tria docet: minimam saepe adhibitam prudentiam magnas
+calamitates prohibere; illud etiam: nihil
+bonas artes apud mulieres valere, quae quidem nisi vapulando rectos
+mores discere nequeant; postremum denique,
 quod tertium et maximum est, homines, nisi deo quodam
 auxiliante, plus quam asinos sapere fas non esse.
-SA.
-( [^
-(edd (A
-*
+
+![gallus]()
+
 ### II. - DE EQUO PROMETHEUM CULPANTE
 
-9
-P
-SA Pa
-9�/ �
--) 4
-S - b
-S (o MP
-
-lradunt Iovem quondam edixisse ut singula animan-
+Tradunt Iovem quondam edixisse ut singula animan-
 tium genera praestituta die ad se congregarentur. Velle sese,
 adstante Prometheo, viventes greges coram recensere, quo
 diligentius procreatoris opus inspiceret atque vel collauda-
