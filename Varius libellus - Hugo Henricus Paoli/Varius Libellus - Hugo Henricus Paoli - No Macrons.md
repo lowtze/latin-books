@@ -954,67 +954,70 @@ apud Marathona fortiter pugnavit.
 
 *Magister.* — Recte; conside.
 
+
 ### COLLOQUIUM III (De duobus anguibus)
 
 *Magister.* — Legistine, Fabulle, narratiunculam de amore
 coniugali, quam Italice convertendam adsignavi?
 
-Fabullus. � Legi.
+*Fabullus.* — Legi.
 
-Magsster. � Quid Tiberio Graccho evenit ?
+*Magister.* — Quid Tiberio Graccho evenit?
 
-Fabullus. � Duos angues domi deprehendit.
+*Fabullus.* — Duos angues domi deprehendit.
 
 *Magister.* — Quid postea fecit?
 
-Fabullus. - Haruspicem adiit, eumque consuluit.
+*Fabullus.* — Haruspicem adiit, eumque consuluit.
 
 *Magister.* — Quid ille?
 
-Plabullus. � Respondit, si mas dimissus esset, Tiberii uxo-
-rem perituram; si femina, ipsi Tiberio mortem instare.
+*Fabullus.* — Respondit, si mas dimissus esset, Tiberii uxorem
+perituram; si femina, ipsi Tiberio mortem instare.
 
-- M agtster. � Quomodo, hoc responso
-C S w^ audito, Tiberius se gessit ?
-SEEK Fabullus. � Feminam dimitti iussit.
-- I�, *Magister.* — Clarum igitur exem-
-in plum amoris coniugalis edidit.
-p ^) Fabullus. � At non aliter illi facien-
+![anguis]()
 
-MT dum erat.
+*Magister.* — Quomodo, hoc responso
+audito, Tiberius se gessit?
 
-Magtster. � Quomodo dicis?
-babullus. � An debuit ille, mare dimisso feminaque ne-
-cata, uxorem ipse suam interficere ?
+*Fabullus.* — Feminam dimitti iussit.
 
-*Magister.* — (Ridet). In hoc tamen laudandus est, quod
+*Magister.* — Clarum igitur exemplum amoris coniugalis edidit.
+
+*Fabullus.* — At non aliter illi faciendum erat.
+
+*Magister.* — Quomodo dicis?
+
+*Fabullus.* — An debuit ille, mare dimisso feminaque necata,
+uxorem ipse suam interficere?
+
+*Magister.* — (*Ridet*). In hoc tamen laudandus est, quod
 pro salute uxoris suam ipsius vitam spreverit. Nunc totam
 narrationem expone.
 
-PFabullus. � (Celerrime). Tiberius Gracchus duos angues,
+*Fabullus.* — (*Celerrime*). Tiberius Gracchus duos angues,
 marem et feminam, deprehendit. Haruspicem....
 
-*Magister.* — (Manu ut deststat imperat). Nihil prorsus in-
-tellego; tanta est enim tua celeritas in dicendo. Dixi sescen-
-ties: articulatim verba proferenda sunt, clare, distincte, non
-sine aliqua gravitate, cui nil tantum obest quam pronun-
-tiandi concitatio. Narrationem igitur de integro resume, sed
+*Magister.* — (*Manu ut deststat imperat*). Nihil prorsus intellego;
+tanta est enim tua celeritas in dicendo. Dixi sescenties: articulatim
+verba proferenda sunt, clare, distincte, non
+sine aliqua gravitate, cui nil tantum obest quam pronuntiandi
+concitatio. Narrationem igitur de integro resume, sed
 pressius loquere.
 
-Fabullus. � � I1. Gracchus, anguibus domi suae mare ac
+*Fabullus.* — «Ti. Gracchus, anguibus domi suae mare ac
 femina deprehensis, certior factus ab haruspice mare dimisso
-uxori eius, femina ipsi celerem obitum instare, salutarem co-
-niugi potius quam sibi partem augurii secutus, marem ne-
-cari, feminam dimitti iussit, sustinuitque in conspectu suo
-se ipsum interitu serpentis occidi �.
+uxori eius, femina ipsi celerem obitum instare, salutarem coniugi
+potius quam sibi partem augurii secutus, marem necari, feminam
+dimitti iussit, sustinuitque in conspectu suo
+se ipsum interitu serpentis occidi».
 
 *Magister.* — Nunc id ipsum verbis tuis enarres velim.
 
-Fabullus. � Cum Tiberius Gracchus duos angues, ma-
-rem et feminam, deprehendisset, haruspicem consuluit. [lle,
-re explorata: � Mare dimisso, ait, mors uxorl tuae impen-
-det: dimissa femina, tibi�. liberius statim marem necari
-Iussit.
+*Fabullus.* — Cum Tiberius Gracchus duos angues, marem et feminam,
+deprehendisset, haruspicem consuluit. Ille,
+re explorata: «Mare dimisso, ait, mors uxori tuae impendet: dimissa
+femina, tibi». Tiberius statim marem necari iussit.
 
 *Magister.* — Probo, conside.
 
