@@ -376,120 +376,117 @@ auxiliante, plus quam asinos sapere fas non esse.
 
 ![camelus et equus]()
 
-Tradunt Iovem quondam edixisse ut singula animan-
-tium genera praestituta die ad se congregarentur. Velle sese,
+Tradunt Iovem quondam edixisse ut singula animantium genera
+praestituta die ad se congregarentur. Velle sese,
 adstante Prometheo, viventes greges coram recensere, quo
-diligentius procreatoris opus inspiceret atque vel collauda-
-ret vel, si quid ille in animalibus fingendis deliquisset, locus
+diligentius procreatoris opus inspiceret atque vel collaudaret vel,
+si quid ille in animalibus fingendis deliquisset, locus
 esset emendandi. Latam quandam planitiem raris consitam
-arboribus, nonnumquam etiam con�ragosis locis interrup-
-tam designavit, utpote quae ad id aptissima videretur: eo
+arboribus, nonnumquam etiam confragosis locis interruptam designavit,
+utpote quae ad id aptissima videretur: eo
 omnibus conveniendum erat.
 
-![simia anasque susque]()
+![simia anasque aperque]()
 
-Die dicta convocati animantes aderant variaque arte vir-
-tutes suas ostentabant atque, id ipsum cum facerent, erat
-in illis naturalis quaedam delectatio: rictabant leopardi, ru-
-giebant leones, audacissimo saltu corpora interdum tollentes ;
-suavi voce canebant aves summosque arborum ramos cir-
-cumvolitantes pinnarum nitorem in lucem proferebant; pla-
-cide anates in parvo lacu innatabant; gaudebant oves bene
+Die dicta convocati animantes aderant variaque arte virtutes suas
+ostentabant atque, id ipsum cum facerent, erat
+in illis naturalis quaedam delectatio: rictabant leopardi, rugiebant
+leones, audacissimo saltu corpora interdum tollentes;
+suavi voce canebant aves summosque arborum ramos circumvolitantes
+pinnarum nitorem in lucem proferebant; placide anates in parvo lacu
+innatabant; gaudebant oves bene
 pexa vellera exhibere, cornua tauri, caudas vulpes, dentes
-apri, plumas pavones, longas pilosasque aures asini. Gra-
-viter incedebat elephantus magnitudine corporis iure super-
-biens. Ipsae serpentes sinuosis flexibus arenam describendo,
+apri, plumas pavones, longas pilosasque aures asini. Graviter
+incedebat elephantus magnitudine corporis iure superbiens. Ipsae
+serpentes sinuosis flexibus arenam describendo,
 frequentibus editis sibilis linguisque bisulcis saepe iactatis,
 se venditare conabantur.
 
-Eo homo etiam se contulerat cum femina sua; sed con-
-temptui omnibus atque irrisioni erat. Illum tarde gradien-
-tem cervi et lepores despiciebant, cornibus atque ungulis
+Eo homo etiam se contulerat cum femina sua; sed contemptui omnibus
+atque irrisioni erat. Illum tarde gradientem cervi et lepores
+despiciebant, cornibus atque ungulis
 carentem boves, volandi inscium aves, infirmis dentibus ac
 parum validis unguibus praeditum leones, nuda mollique
-cute tectum ursi atque elephanti, se alteri velleribus suis iac-
-tantes, alteri bene duratis coris. Mirari se psittacus aiebat
-quod homo, quamquam vocis sonum aptius ederet ac di-
-stinctius quam cetera animalia, eo praeclaro naturae munere
+cute tectum ursi atque elephanti, se alteri velleribus suis iactantes, alteri bene duratis coris. Mirari se psittacus aiebat
+quod homo, quamquam vocis sonum aptius ederet ac distinctius quam
+cetera animalia, eo praeclaro naturae munere
 ad id tantum uteretur, ut de se uno usque ad fastidium
-praedicaret. Simius vero, dum cauda celsioribus ramis arbo-
-rs advolvitur ac pendulus in aere huc illuc convicia fun-
-dit, clamitans ex omnibus quaerebat, quidnam causae esset
-cur, cum apud omnia animalia mares feminis firmiter im-
-peritarent, vir unus idem non posset.
+praedicaret. Simius vero, dum cauda celsioribus ramis arbors
+advolvitur ac pendulus in aere huc illuc convicia fundit, clamitans
+ex omnibus quaerebat, quidnam causae esset
+cur, cum apud omnia animalia mares feminis firmiter imperitarent, vir
+unus idem non posset.
 
 ![ursi pardusque elephantusque]()
 
-Despectus homo, sed nobilitatis suae bene conscius bi-
-lem tacitus concoquebat, nihil id eius uxore curante, quae
-amoenissimum lacum nacta molliter inripis adsidebat seque
+Despectus homo, sed nobilitatis suae bene conscius bilem
+tacitus concoquebat, nihil id eius uxore curante, quae
+amoenissimum lacum nacta molliter in ripis adsidebat seque
 interdum in aquarum speculo mirabatur, corde suo tacita
 gaudens quod tam pulcra facies sibi contigisset.
 
-![mulier se sub aqua spectat]()
+![uxor se in aquarum speculo miratur]()
 
 Diceres tamen animalibus omnibus condicionem suam
-satis probari, nec quicquam illa, quod quidem ad se perti-
-neret, in Promethei vituperationem adducere. At furore quo-
-dam agebatur equus, opificemque suum, tamquam si magna
-iniuria esset adfectus, obliquis oculis intuebatur; flere inter-
-dum, suspiria ducere, iniquum animum pluribus modis ef-
-ferre. Ouem Iuppiter, ubi tam graviter commotum animad-
-vertit, appropinquare iussit rogavitque
-simul quare tanta ille ira exacerba-
-�, retur ac sic efferatus fureret.
+satis probari, nec quicquam illa, quod quidem ad se pertineret, in
+Promethei vituperationem adducere. At furore quodam agebatur equus,
+opificemque suum, tamquam si magna
+iniuria esset adfectus, obliquis oculis intuebatur; flere interdum,
+suspiria ducere, iniquum animum pluribus modis efferre. Quem
+Iuppiter, ubi tam graviter commotum animadvertit, appropinquare
+iussit rogavitque
+simul quare tanta ille ira exacerbaretur ac sic efferatus fureret.
 
-lum ille: � Rogitas, hominum deo-
-rumque pater? Nonne vides quanta
-P elegantia et velocitate delphinus in
-mari iuveniliter ludens naves celerri-
-mas nando superet atque cursu et sa-
-�endo argenteis squamis nitentibus corporis venustatem
-exhibeat * Ut magnifice et quasi regaliter elephantus ince-
-dat, patiens idem animal ac
-fortissimum ? Aquilarum con-
-formationem ac figuram con-
-sidera: tutae illae in. sum- NS
-mis montium  cacuminibus NV P
-nidificant ac, validissimis Z
-alis praeditae, tamquam aeria |
-navigia nubes tranant, pro- a
-cellas contemnunt, in caele- �
-stia spatia dominantur; ipsae S
+![delphinus]()
+
+![elephantus]()
+
+Tum ille: «Rogitas, hominum deorumque pater? Nonne vides quanta
+elegantia et velocitate delphinus in
+mari iuveniliter ludens naves celerrimas nando superet atque cursu et
+saliendo argenteis squamis nitentibus corporis venustatem
+exhibeat? Ut magnifice et quasi regaliter elephantus incedat,
+patiens idem animal ac
+fortissimum? Aquilarum conformationem ac figuram considera: tutae
+illae in summis montium  cacuminibus
+nidificant ac, validissimis
+alis praeditae, tamquam aeria
+navigia nubes tranant, procellas contemnunt, in caelestia
+spatia dominantur; ipsae
 acerrimis oculis praedam vel
-procul volantem adspiciunt, unguibus deprehendunt ac la-
-niant, rostro necant, pastum pullis suis futuram. Quid de
-testudine dicam una cum domo sua ambulante, contra om-
-nium animalium insidias naturali clipeo undique tecta?
-Ouid de rhinocerote, quem acutum cornu ipsumque cor-
-poris pondus terribilem facit atque invictum ? Adspice, Iup-
-piter, quam varium, quam amoenum sit avium genus; quanta
+procul volantem adspiciunt, unguibus deprehendunt ac laniant, rostro
+necant, pastum pullis suis futuram. Quid de
+testudine dicam una cum domo sua ambulante, contra omnium animalium
+insidias naturali clipeo undique tecta?
+Quid de rhinocerote, quem acutum cornu ipsumque corporis pondus
+terribilem facit atque invictum? Adspice, Iuppiter, quam varium,
+quam amoenum sit avium genus; quanta
 celeritate hirundines, quibus nihil ingeniosius Prometheus
-commentus est, vacuum aera laetae atque alacres percur-
-rant: dum vibrantibus alis ac stridula voce sursum deor-
-sum vagantur, nullum certum iter secutae, sed cursum per-
-petuo inflectentes, viventium sagittarum simillhimae nunc
+commentus est, vacuum aera laetae atque alacres percurrant: dum
+vibrantibus alis ac stridula voce sursum deorsum vagantur, nullum
+certum iter secutae, sed cursum perpetuo inflectentes, viventium
+sagittarum simillimae nunc
 sublimia petunt, nunc hominum tecta radunt, ita ut, cum
-ineunte autumno illae, ut adsolent, in diversas terras trans-
-migraverunt, caelum, vel vespertina serenitate, mutum atque
-omni varietate carens torpescere videatur. Simius ipse, per-
-petua vivens inlaetitia, agili ac pernici cor-
-pore fretus, summos arborum ramos nullo
-labore adtingens paene infinta libertate
-fruitur, ac mira quadam petulantia in. om-
-nes iocatur. Quotquot animalia sunt, nihil ^, 7
-est quod illa iure desiderent. Mirarisne igi- (
-tur me indigne habitum dolere ac queri,
+ineunte autumno illae, ut adsolent, in diversas terras transmigraverunt, caelum, vel vespertina serenitate, mutum atque
+omni varietate carens torpescere videatur. Simius ipse, perpetua
+vivens inlaetitia, agili ac pernici corpore fretus, summos arborum
+ramos nullo labore adtingens paene infinta libertate
+fruitur, ac mira quadam petulantia in omnnes
+iocatur. Quotquot animalia sunt, nihil
+est quod illa iure desiderent. Mirarisne igitur
+me indigne habitum dolere ac queri,
 quod Prometheus, artifex ille egregius, cum
-in singulis animantibus fingendis dilgen- |
-tissime elaboraverit, in me uno opus im-
-perfectum ac prope mancum reliquerit ? �n potes tu, iustis-
-simum numen, tantam iniquitatem non improbare? Id te
-pati aequum est ? Sed pateris, Iuppiter; hoc video et doleo:
+in singulis animantibus fingendis dilgentissime
+elaboraverit, in me uno opus imperfectum
+ac prope mancum reliquerit? An potes tu, iustissimum
+numen, tantam iniquitatem non improbare? Id te
+pati aequum est? Sed pateris, Iuppiter; hoc video et doleo:
 adeo me contemnendum putas. At cur?
 
+![simius]()
+
 «Asinum mihi forsitan, ut iamdiu suspicor, anteponas;
-quanam, quaeso, de causa? �n quod rudendo ac calcitrando
+quanam, quaeso, de causa? An quod rudendo ac calcitrando
 omnium animos in se convertere studet atque, ne quis se
 ignorare dicat, iter suum grandioribus stercoris globulis
 spargit ac distinguit, viamque totam tam belle decorando
@@ -497,75 +494,75 @@ subsultim procedit? At quod animal, Iuppiter! Prudentiam
 vocat baculo tantum parere ac philosophorum more quovis
 cibo contentum esse. Putidam ille vanitatem humilitatis
 specie obtegit; nunc vero, ut audio, asinorum academiam
-instituere meditatur, ut, si quis asinino ingenio ceteris asi-
-nis longe anteierit, maximis ile apud asinos honoribus
-[ruatur.
+instituere meditatur, ut, si quis asinino ingenio ceteris asinis
+longe anteierit, maximis ille apud asinos honoribus fruatur.
 
-«An hominem me pluris facis? hominem illum, qui (re-
-ferre pudet!), dum tigridem crudelitate, vulpem dolis, lupum
-rapacitate, cuniculum ignavia aemulatur, si bene illius na-
-turam consideraveris, asini est simillimus? Diceris illius sol-
-lertia summopere delectari; at qui sit, bene ipse novi. Nonne
+![asinus et homo]()
+
+«An hominem me pluris facis? hominem illum, qui (referre
+pudet!), dum tigridem crudelitate, vulpem dolis, lupum
+rapacitate, cuniculum ignavia aemulatur, si bene illius naturam
+consideraveris, asini est simillimus? Diceris illius sollertia
+summopere delectari; at qui sit, bene ipse novi. Nonne
 vides, pater, quam stulte, quam ridicule se gerat? Verbis
 gaudet, inani garrulitate delectatur seque universi mundi
-dominum profitetur esse, ob id unum quod sermone sit prae-
-ditus. Homine nihil infirmius in terris exstitisse arbitror,
+dominum profitetur esse, ob id unum quod sermone sit praeditus.
+Homine nihil infirmius in terris exstitisse arbitror,
 quem sic natura formavit, ut et frigora horreret, et aestivis
-caloribus extenuaretur et innumerabilibus morbis circum-
-ventus saepe languesceret. Animo idem parum valet: mor-
-tis metu laborat, superstitionibus transversus agitur ac miser
-fit, invidia maceratur, quod malum ceteris animantibus pae-
-ne ignotum est; vitiis vero suis adeo indulget, ut exquisitas
+caloribus extenuaretur et innumerabilibus morbis circumventus saepe
+languesceret. Animo idem parum valet: mortis metu laborat,
+superstitionibus transversus agitur ac miser
+fit, invidia maceratur, quod malum ceteris animantibus paene ignotum
+est; vitiis vero suis adeo indulget, ut exquisitas
 voluptates inexpleto animo expetat hauriatque. Praeterea,
-quo nihil turpius videri potest, dum foris iactantior ac glo-
-riarum plenus incedit, intra domesticos parietes, omni depo-
-sita adrogantia, femineis imperiis demisse, ne dicam suppli-
-citer, paret.
+quo nihil turpius videri potest, dum foris iactantior ac gloriarum
+plenus incedit, intra domesticos parietes, omni deposita adrogantia,
+femineis imperiis demisse, ne dicam suppliciter, paret.
 
-«Perfidus ac fraudulentus amicos prodere, socios circum-
-venire, dolis ac fallaciis familiarium pecuniam ad se trahere
+«Perfidus ac fraudulentus amicos prodere, socios circumvenire,
+dolis ac fallaciis familiarium pecuniam ad se trahere
 obstinato animo semper quaerit. Hae sunt illius virtutes,
 quibus gloriatur, quas ostentat, tamquam si magni ingenii
 indicia sint vel summae sagacitatis.
 
+![leo pardusque tigrisque]()
+
 «Quid, quod insimiles suos rabido semper odio rapitur
-perpetuisque inrixis versatur? Nullum animal, unum si ho-
-minem exceperis, eo usque
-insanit, ut bella per se ipsa d
-diligat; ferae immanesque Xe
-beluae aut fame aut defen- My: !
-dendi sui necessitate aut .
-amore feminarum vel prolis y RC
-tutela ad caedem trahun- a TEN o
-tur: bene pasti leones etiam X NM
-agnis parcunt; tigres, sa- PC
-tiato ventre, tamquam lan- --
-guidae feles otiosi dormi-
-tant; vipera, nisi eam pede presseris, quiescit nec cuiquam
-venenati dentis morsum ultro minatur. At homo sponte ne-
-cat, sanguine gaudet, armorum fragore exstimulatur, odio-
-rumque concitamenta in semetipso libens exasperat. Artem
-ille interficiendi repperit et diuturno studio semper coluit ;
+perpetuisque inrixis versatur? Nullum animal, unum si hominem
+exceperis, eo usque
+insanit, ut bella per se ipsa
+diligat; ferae immanesque
+beluae aut fame aut defendendi sui necessitate aut
+amore feminarum vel prolis
+tutela ad caedem trahuntur: bene pasti leones etiam
+agnis parcunt; tigres, satiato ventre, tamquam
+languidae feles otiosi dormitant;
+vipera, nisi eam pede presseris, quiescit nec cuiquam
+venenati dentis morsum ultro minatur. At homo sponte necat, sanguine
+gaudet, armorum fragore exstimulatur, odiorumque concitamenta in
+semetipso libens exasperat. Artem
+ille interficiendi repperit et diuturno studio semper coluit;
 huc omnes animi vires intendit, neque unquam tantopere
-sibl placet, quam si nova atque exquisita mortis instrumenta
-ad terrorem et internecionem similium suorum callidus in-
-venerit. Nihil ei tantae est curae; nefarius ille ex aliorum
+sibi placet, quam si nova atque exquisita mortis instrumenta
+ad terrorem et internecionem similium suorum callidus invenerit.
+Nihil ei tantae est curae; nefarius ille ex aliorum
 caede sceleratam quandam capit voluptatem. Impium et
-ferum et exsecrabile animal Prometheus finxit cum homi-
-nem creavit.
+ferum et exsecrabile animal Prometheus finxit cum hominem creavit.
+
+![vir uxorque monstrumque]()
 
 «Hunc tamen divina mente praeditum esse voluisti; huic
-tantum ingenii datum est, ut sidera numeraret, oceanum pe-
-ragraret, urbes aedificaret, artibus idem ac mercaturis re-
-pertis omnibus orbis terrarum bonis frueretur ; ut cibus coti-
-dianus, neque is vulgaris, numquam eum deficeret, et aqua
+tantum ingenii datum est, ut sidera numeraret, oceanum peragraret,
+urbes aedificaret, artibus idem ac mercaturis repertis omnibus orbis
+terrarum bonis frueretur; ut cibus cotidianus, neque is vulgaris,
+numquam eum deficeret, et aqua
 abundaret, et frigora pelleret. Ipsa fulgura ad utilitatem
 suam aliquando flectet, neque tu ignoras, cui fata in aperto
 sint; innumerabiles voces ita per aera errantes, ut nullo
 sensu percipi possint, scite captabit ac distinctas audiet.
 Quid plura? Quem nunc aves ob volandi inscitiam irrident,
 alis olim non suis super nubes volabit montiumque iuga,
-aquilarum regna, sublimis despiciet. lantum, Iuppiter, huic
+aquilarum regna, sublimis despiciet. Tantum, Iuppiter, huic
 naturae monstro dedisti! Me, contra, generosum animal,
 Prometheus, postquam fingendum suscepit, intermissa opera,
 neque absolutum neque exactum reliquit».
@@ -575,13 +572,13 @@ tuam tam iniquo animo ferre. Loquere tamen; nam, si quid
 emendandum in natura tua conspexero, nihil est cur quod
 desit non addam, quod vitiosum sit non corrigam».
 
-Laetatus est equus atque: «Celeritati meae, inquit, Iup-
-piter, id obstat, quod crura nec satis longa sunt, nec gra-
-cilia satis. Lecti cibi necessitas atque sitis impatientia ope-
-rae meae utilitatem imminuunt. Hominem tergore gerere
+Laetatus est equus atque: «Celeritati meae, inquit, Iuppiter, id
+obstat, quod crura nec satis longa sunt, nec gracilia satis. Lecti
+cibi necessitas atque sitis impatientia operae meae utilitatem
+imminuunt. Hominem tergore gerere
 iamdiu didici; pudet me tamen adligatis ephippiis semper
-premi, quae agaso cingulis et fibulis recalcitranti atque anhe-
-lanti mihi cotidie aptat. Ouantulum erat longiora mihi crura
+premi, quae agaso cingulis et fibulis recalcitranti atque anhelanti
+mihi cotidie aptat. Quantulum erat longiora mihi crura
 largiri, naturalia ephippia addere! Cur autem venter meus
 tam multa postulat? Cur sitim ferre parum valeo?»
 
