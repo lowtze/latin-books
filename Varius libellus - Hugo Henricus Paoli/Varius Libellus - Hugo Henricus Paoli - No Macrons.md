@@ -51,7 +51,7 @@ L'illustrazione della. copertina riproduce un'incisione di Bartolommeo
   - [COLLOQUIUM I (De haedo et lupo)](#colloquium-i-de-haedo-et-lupo)
   - [COLLOQUIUM II (De Cynegeri virtute)](#colloquium-ii-de-cynegeri-virtute)
   - [COLLOQUIUM III (De duobus anguibus)](#colloquium-iii-de-duobus-anguibus)
-  - [COLLOQUIUM IV (Martius et Cimbricus servus)](#colloquium-iv-martius-et-cimbricus-servus)
+  - [COLLOQUIUM IV (Marius et Cimbricus servus)](#colloquium-iv-marius-et-cimbricus-servus)
   - [COLLOQUIUM V (De animalibus)](#colloquium-v-de-animalibus)
   - [COLLOQUIUM VI (Malus quidam discipulus)](#colloquium-vi-malus-quidam-discipulus)
   - [COLLOQUIUM VII (Discipulorum rixa)](#colloquium-vii-discipulorum-rixa)
@@ -1022,83 +1022,78 @@ femina, tibi». Tiberius statim marem necari iussit.
 *Magister.* — Probo, conside.
 
 
-### COLLOQUIUM IV (Martius et Cimbricus servus)
+### COLLOQUIUM IV (Marius et Cimbricus servus)
 
-Magister. - Exsurge, Gai. Recita ex libro tuo narratiun-
-culam de Mario et Cimbrico servo; sed non, ut plerumque
-in ludis fit, incondito quodam murmure aut (quod contra-
-rium est vitium, sed aeque improbandum) nimis intente in-
-stanterque pronuntiando, voce quam decet editiore, tam-
-quam si incontione potius quam in ludo quis loquatur. Apte,
-sapienter dicendum est, pausis notatis, voce, prout res po-
-stulat, nunc intenta, nunc remissa, ut ipsa sonorum varie-
-tate sententia plane colligatur.
-Gat?4s. � �Marius post sextum consulatum annumque
+*Magister.* — Exsurge, Gai. Recita ex libro tuo narratiunculam de
+Mario et Cimbrico servo; sed non, ut plerumque
+in ludis fit, incondito quodam murmure aut (quod contrarium est
+vitium, sed aeque improbandum) nimis intente instanterque
+pronuntiando, voce quam decet editiore, tamquam si incontione potius
+quam in ludo quis loquatur. Apte,
+sapienter dicendum est, pausis notatis, voce, prout res postulat,
+nunc intenta, nunc remissa, ut ipsa sonorum varietate sententia plane
+colligatur.
+
+![Marius]()
+
+*Gaius.* — «Marius post sextum consulatum annumque
 septuagesimum nudus ac limo obrutus, oculis tantummodo
 ac naribus eminentibus, extractus
 arundineto circa paludem Maricae,
 in quam fugiens consectantes Sullae
-
-/ equites se abdiderat, iniecto in col-
-
-"WM | lum loro, incarcerem perductus est.
+equites se abdiderat, iniecto in collum
+loro, incarcerem perductus est.
 Ad quem interficiendum missus est
 cum gladio servus publicus, natione
+Germanus, qui forte ab eo imperatore
+bello Cimbrico captus erat; ille
+vero ut agnovit Manum, magno
+eiulatu exprimens indignationem casus
+tanti viri, abiecto gladio, profugit e carcere».
 
-| Germanus, qui forte ab eo impera-
-
-| � tore bello Cimbrico captus erat; ille
-
-Na vero ut agnovit Manum, magno
-
-| )2] eiulatu exprimens indignationem ca-
-
-S sus tanti viri, abiecto gladio, pro-
-�UC� fugit e carcere �.
-
-m a M agisitey. � Recte, puer. Nunc
+*Magister.* — Recte, puer. Nunc
 velim ea quae recitasti verbis tuis
 exponere coneris.
 
-Gaius. � Marius, cum Sullae equi-
-tes fugeret, in palude delituit. Deprehensus est atque in
-carcerem abductus. Ad eum interficiendum servus publi-
-� 39 �
-cus, natione Germanus, missus est. Ille vero, qui bello Cim-
-brico captus erat, Marium agnovit atque, abiecto gladio, e
+*Gaius.* — Marius, cum Sullae equites
+fugeret, in palude delituit. Deprehensus est atque in
+carcerem abductus. Ad eum interficiendum servus publicus,
+natione Germanus, missus est. Ille vero, qui bello Cimbrico
+captus erat, Marium agnovit atque, abiecto gladio, e
 carcere profugit.
 
-Magister. � Elegantius poteras; sed nusquam errasti; in
+*Magister.* — Elegantius poteras; sed nusquam errasti; in
 ludis id primum est. Nunc vero Marius ille qui fuerit scire
-CUpIlO.
+cupio.
 
-Gav4s. � Magnus Romanorum imperator. Bellum Iu-
-gurthinum confecit; Cimbros Teutonosque gravissima clade
+*Gaius.* — Magnus Romanorum imperator. Bellum Iugurthinum
+confecit; Cimbros Teutonosque gravissima clade
 reppulit; magnam illorum multitudinem concidit, maximo
 periculo Italiam liberavit. Memini superiore anno tecum in
-Eutropu Breviario nos legisse natum illum agresti loco, hir-
-tum atque horridum vitaque sanctum, quantum bello opti-
-mum, tantum pace pessimum fuisse.
+Eutropii *Breviario* nos legisse natum illum agresti loco, hirtum
+atque horridum vitaque sanctum, quantum bello optimum,
+tantum pace pessimum fuisse.
 
-Magister. � Ipsa Eutropi verba sunt; nihil desideratur.
+*Magister.* — Ipsa Eutropi verba sunt; nihil desideratur.
 
-Gai4s. � Memoriter enim didici; saepius enim nos admo-
-nuist� ut, si quid in Latino sermone proficere vellemus,
+*Gaius.* — Memoriter enim didici; saepius enim nos admonuisti
+ut, si quid in Latino sermone proficere vellemus,
 quam plurima memoriae mandaremus.
 
-M agister. � Nec quicquam aliud instantius commenda-
-verim. At cur Eutropius Marium pace pessimum iudicet
+*Magister.* — Nec quicquam aliud instantius commendaverim.
+At cur Eutropius Marium pace pessimum iudicet
 non video.
 
-Gawus. � Nulli tale iudicium aptius congruit; nam cum
-eo tempore duae factiones cives Romanos distinerent, Ma-
-rius, populari causa suscepta, victoriam plebis superbe
+*Gaius.* — Nulli tale iudicium aptius congruit; nam cum
+eo tempore duae factiones cives Romanos distinerent, Marius,
+populari causa suscepta, victoriam plebis superbe
 atque atrociter exercuit. Adversariorum factionem oppressit,
-principes eorum qui optimatium causae favebant in pro-
-scriptorum numerum rettulit, caedibus, luctu, terrore totam
+principes eorum qui optimatium causae favebant in proscriptorum
+numerum rettulit, caedibus, luctu, terrore totam
 Italiam implevit.
 
-Magister. � Probissime. Conside.
+*Magister.* — Probissime. Conside.
+
 
 ### COLLOQUIUM V (De animalibus)
 
