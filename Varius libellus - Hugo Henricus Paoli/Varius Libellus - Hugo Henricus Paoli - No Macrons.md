@@ -904,61 +904,59 @@ excitaturum haedus probe intellexerat, lupus minime suspicatus est.
 
 ### COLLOQUIUM II (De Cynegeri virtute)
 
-Magister. - Huc ades, Valeri, ex libello tuo quid Cyne-
-girus egerlt recita.
+*Magister.* — Huc ades, Valeri, ex libello tuo quid Cynegirus
+egerit recita.
 
-Valerius. � � Cynegiri, militis Atheniensis, gloria magnis
+*Valerius.* — «Cynegiri, militis Atheniensis, gloria magnis
 scriptorum laudibus celebrata est, qui in pugna Marathonia,
-post proeli innumeras caedes cum fugientes hostes ad na-
-ves egisset, onustam navem dextera manu tenuit nec prius
+post proeli innumeras caedes cum fugientes hostes ad naves
+egisset, onustam navem dextera manu tenuit nec prius
 dimisit quam manum amitteret; tum quoque, amputata
 dextra, navem sinistra comprehendit, quam et ipsam cum
-amisisset, ad postremum morsu navem detinuit �.
+amisisset, ad postremum morsu navem detinuit».
 
-Magister. � Idem verbis tuis enarra.
+*Magister.* — Idem verbis tuis enarra.
 
-Valerius. � Cynegirus Atheniensis apud Marathona fortis-
-sime pugnavit; fugientes hostes ad naves insecutus est; na-
-vem unam manu detinere conatus est. Deinde, cum hostes
+*Valerius.* — Cynegirus Atheniensis apud Marathona fortissime
+pugnavit; fugientes hostes ad naves insecutus est; navem
+unam manu detinere conatus est. Deinde, cum hostes
 utramque manum illi amputassent, dentibus.
 
-Magtster. � Quid de hac re sentis?
+*Magister.* — Quid de hac re sentis?
 
-Valervus. � Quod vix credibile est, fidem habere nequit.
+*Valerius.* — Quod vix credibile est, fidem habere nequit.
 
-QV reU ege ehe ems NET,
-2o racc eed 442 24274:2.2. 42440" :
-/7 BLUR KAPPA CIT ll
-/
+![navis plena virorum]()
 
-M agisster. � Sed constat Cynegirum illum strenuum auda-
-cemque in proelio fuisse.
+*Magister.* — Sed constat Cynegirum illum strenuum audacemque
+in proelio fuisse.
 
-Valerw4s. � Fuerit sane; at hominem onustam navem
-dentibus detinentem quis unquam vidit ?
+*Valerius.* — Fuerit sane; at hominem onustam navem
+dentibus detinentem quis unquam vidit?
 
-Magister. � Quis Cynegirus fuit?
-Valerius. � Aeschyli frater.
+*Magister.* — Quis Cynegirus fuit?
 
-Magister. � Unde scis?
+*Valerius.* — Aeschyli frater.
 
-Valerius. � Ex adnotationibus, quibus liber noster est
+*Magister.* — Unde scis?
+
+*Valerius.* — Ex adnotationibus, quibus liber noster est
 instructus.
 
-Magister. � Quis Aeschylus?
+*Magister.* — Quis Aeschylus?
 
-Valerius. � lTragoediarum scriptor clarissimus, qui et ipse
+*Valerius.* — Tragoediarum scriptor clarissimus, qui et ipse
 apud Marathona fortiter pugnavit.
 
-Magister. - Quo anno apud Marathona pugnatum est ?
+*Magister.* — Quo anno apud Marathona pugnatum est?
 
-Valerius. - Annoquadringentesimo nonagesimo ante Chr. n.
+*Valerius.* — Anno quadringentesimo nonagesimo ante Chr. n.
 
-Magister. � Recte; conside.
+*Magister.* — Recte; conside.
 
 ### COLLOQUIUM III (De duobus anguibus)
 
-Magister. � Legistine, Fabulle, narratiunculam de amore
+*Magister.* — Legistine, Fabulle, narratiunculam de amore
 coniugali, quam Italice convertendam adsignavi?
 
 Fabullus. � Legi.
@@ -967,11 +965,11 @@ Magsster. � Quid Tiberio Graccho evenit ?
 
 Fabullus. � Duos angues domi deprehendit.
 
-Magister. � Quid postea fecit?
+*Magister.* — Quid postea fecit?
 
 Fabullus. - Haruspicem adiit, eumque consuluit.
 
-Magister. � Quid ille?
+*Magister.* — Quid ille?
 
 Plabullus. � Respondit, si mas dimissus esset, Tiberii uxo-
 rem perituram; si femina, ipsi Tiberio mortem instare.
@@ -979,7 +977,7 @@ rem perituram; si femina, ipsi Tiberio mortem instare.
 - M agtster. � Quomodo, hoc responso
 C S w^ audito, Tiberius se gessit ?
 SEEK Fabullus. � Feminam dimitti iussit.
-- I�, Magister. � Clarum igitur exem-
+- I�, *Magister.* — Clarum igitur exem-
 in plum amoris coniugalis edidit.
 p ^) Fabullus. � At non aliter illi facien-
 
@@ -989,14 +987,14 @@ Magtster. � Quomodo dicis?
 babullus. � An debuit ille, mare dimisso feminaque ne-
 cata, uxorem ipse suam interficere ?
 
-Magister. � (Ridet). In hoc tamen laudandus est, quod
+*Magister.* — (Ridet). In hoc tamen laudandus est, quod
 pro salute uxoris suam ipsius vitam spreverit. Nunc totam
 narrationem expone.
 
 PFabullus. � (Celerrime). Tiberius Gracchus duos angues,
 marem et feminam, deprehendit. Haruspicem....
 
-Magister. � (Manu ut deststat imperat). Nihil prorsus in-
+*Magister.* — (Manu ut deststat imperat). Nihil prorsus in-
 tellego; tanta est enim tua celeritas in dicendo. Dixi sescen-
 ties: articulatim verba proferenda sunt, clare, distincte, non
 sine aliqua gravitate, cui nil tantum obest quam pronun-
@@ -1010,7 +1008,7 @@ niugi potius quam sibi partem augurii secutus, marem ne-
 cari, feminam dimitti iussit, sustinuitque in conspectu suo
 se ipsum interitu serpentis occidi �.
 
-Magister. � Nunc id ipsum verbis tuis enarres velim.
+*Magister.* — Nunc id ipsum verbis tuis enarres velim.
 
 Fabullus. � Cum Tiberius Gracchus duos angues, ma-
 rem et feminam, deprehendisset, haruspicem consuluit. [lle,
@@ -1018,7 +1016,7 @@ re explorata: � Mare dimisso, ait, mors uxorl tuae impen-
 det: dimissa femina, tibi�. liberius statim marem necari
 Iussit.
 
-Magister. � Probo, conside.
+*Magister.* — Probo, conside.
 
 
 ### COLLOQUIUM IV (Martius et Cimbricus servus)
