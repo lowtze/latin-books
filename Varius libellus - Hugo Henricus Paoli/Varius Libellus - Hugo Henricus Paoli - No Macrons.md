@@ -803,102 +803,104 @@ plerumque soleat neglegentioribus favere.
 
 ### COLLOQUIUM I (De haedo et lupo)
 
-M agtster. � Exsurge,
+![lupus]()
 
-Paule; quaere in libello SN |
-scholastico tuo eam fabel- EE
+*Magister.* — Exsurge,
+Paule; quaere in libello
+scholastico tuo eam fabellam
+quae inscribitur: De haedo et lupo.
 
-lam quae inscribitur: De EMEN
-haedo et lupo. UE cM
+*Paulus.* — Inveni illam. Quid tum?
 
-Paulus. � Inven illam. ! ON
-Quid tum? ; | A
-
-M agsster. - Eam fabel- | 2i
-lam recita, elata voce, ac 5
+*Magister.* — Eam fabellam
+recita, elata voce, ac
 tam plane, tam distincte,
 ut omnes condiscipuli tui
 audire possint. Ceteri discipuli, dum Paulus recitat, clauso
 libello quid in fabella enarratum sit intellegere conentur.
 
-Paulus. � (Csto ac confuso ore recitans): � Haedus, quem
-derelictum a grege, lupus persequebatur.... �.
+*Paulus.* — (*Cito ac confuso ore recitans*): «Haedus, quem
+derelictum a grege, lupus persequebatur....».
 
-Magister. - Ohe! Nimis submisse loqueris, litteras vero
-neglegentius exprimis. Quomodo ill quod recitas intelle-
-gant? Verba ita exprimas oportet, ut singulas litteras elate
+*Magister.* — Ohe! Nimis submisse loqueris, litteras vero
+neglegentius exprimis. Quomodo illi quod recitas intellegant?
+Verba ita exprimas oportet, ut singulas litteras elate
 ac nulla obscuritate enunties. Rursus ergo incipe.
 
-Paulus. - Recte suades: experiar: � Haedus, quem dere-
-lhctum a grege lupus persequebatur, conversus ad illum:
-.O lupe, inquit, quoniam video me tuum cibum futurum,
-ne iniucunde moriar, cane tibiis, ut saltem '. Cum autem et
-lupus tibiis caneret et haedus saltaret, canes audiverunt sta-
-timque lupum persecuti sunt. Tum lupus: ' Merito, inquit,
+*Paulus.* — Recte suades: experiar: «Haedus, quem derelictum
+a grege lupus persequebatur, conversus ad illum:
+'O lupe, inquit, quoniam video me tuum cibum futurum,
+ne iniucunde moriar, cane tibiis, ut saltem'. Cum autem et
+lupus tibiis caneret et haedus saltaret, canes audiverunt statimque
+lupum persecuti sunt. Tum lupus: 'Merito, inquit,
 haec mihi fiunt; oportebat enim me, cocus cum essem, tibi-
-cinem non agere ' �.
-Magister. � (Ad altum dascipulum
-ens conversus): Audivisti, Petre, quod
-UN 3) Paulus recitavit ?
-nd di Petrus. � Audivi equidem, ac lt-
-/, S p^ bentissime; nam iu-
-7l p E] � cunda ea fabula est
-T et recte nos admonet.
-a . ) 4 2 Magister. � Quid-
-� o "v J nam admonet?
-em Petrus. � Periculo-
-wy sum esse artem, quam
-Vi. ii. non didiceris, exer-
-(^ cere.
-T e. 2 | Magister. � Opt-
-) ! !
-T me. Quid vero in ea
-| fabella narratur?
-Petrus. � Haec fere.
-Haedus, cum insequentem lupum nullo modo effugere pos-
-set, illum rogavit ut tibiis caneret, quo ipse iucundius mo-
-reretur. Lupus igitur ill, ut morituro, morem gessit. At
+cinem non agere'».
+
+![magister ad alium discipulum conversus]()
+
+*Magister.* — (*Ad alium discipulum conversus*):
+Audivisti, Petre, quod Paulus recitavit?
+
+*Petrus.* — Audivi equidem, ac libentissime;
+nam iucunda ea fabula est
+et recte nos admonet.
+
+Magister. — Quidnam admonet?
+
+*Petrus.* — Periculosum esse artem, quam
+non didiceris, exercere.
+
+*Magister.* — Optime. Quid vero in ea
+fabella narratur?
+
+*Petrus.* — Haec fere.
+Haedus, cum insequentem lupum nullo modo effugere posset,
+illum rogavit ut tibiis caneret, quo ipse iucundius moreretur.
+Lupus igitur illi, ut morituro, morem gessit. At
 canes audiverunt, quod quidem fore haedus speraverat;
 adcurrerunt, lupusque fugere coactus est.
-Magister. �- Recte; conside. (Ad altum discipulum conver-
-sus): Visne, Carole, eandem rem alius verbis exponere?
-Carolus. � Utique. Lupus haedum insequebatur. Oui
+
+*Magister.* — Recte; conside. (*Ad alium discipulum conversus*):
+Visne, Carole, eandem rem alius verbis exponere?
+
+![lupus]()
+
+*Carolus.* — Utique. Lupus haedum insequebatur. Qui
 quidem, cum nullam viam salutis sibi videret superesse,
-lupum ut tibns caneret oravit, ne
-Ipse iniucunde, ut aiebat, morere- E
-tur. �dnuit lupus, tibiisque canere bs
-coepit; at canes venaticl, cantu exci- SON
-tati, ipsum lupum insecuti sunt. Bh
-lum fera, haedo dimisso, infugam 28
-est conversa. "5 | "M �
-Magister. � Quid tum lupus CO TEE ,
-exclamavit ? j
-Carolus. �� Oportebat me, coquus
-cum essem, tibicinem non agere �.
-� 33 �
+lupum ut tibiis caneret oravit, ne
+ipse iniucunde, ut aiebat, moreretur.
+Adnuit lupus, tibiisque canere bs
+coepit; at canes venatici, cantu excitati,
+ipsum lupum insecuti sunt.
+Tum fera, haedo dimisso, infugam
+est conversa.
 
-Magister. - Quid aliud ex hac fabula colligi potest ?
+*Magister.* — Quid tum lupus exclamavit?
 
-Carolus. � Nil adiciendum puto.
+*Carolus.* — «Oportebat me, coquus
+cum essem, tibicinem non agere».
 
-Magister. � (Omnes discipulos adlocutus): Nemo quicquam
-respondebit ?
+*Magister.* — Quid aliud ex hac fabula colligi potest?
 
-Unus ex 1hs. � Ipse, s licet.
+*Carolus.* — Nil adiciendum puto.
 
-Magister. � Dic, age.
+*Magister.* — (*Omnes discipulos adlocutus*): Nemo quicquam
+respondebit?
 
-Discipulus. �- Fabella de haedo et lupo illud etiam docet,
-fieri nonnumquam ut, qui viribus vincuntur, fortiores calli-
-ditate superent; ideoque corporis vires, si prudentia absit,
+*Unus ex illis.* — Ipse, si licet.
+
+*Magister.* — Dic, age.
+
+*Discipulus.* — Fabella de haedo et lupo illud etiam docet,
+fieri nonnumquam ut, qui viribus vincuntur, fortiores calliditate
+superent; ideoque corporis vires, si prudentia absit,
 null utilitati esse. Tibiarum enim cantum canes venaticos
-excitaturum haedus probe intellexerat, lupus minime su-
-spicatus est.
+excitaturum haedus probe intellexerat, lupus minime suspicatus est.
 
-Magtsier. � Rectissime conclusisti. Conside.
+*Magister.* — Rectissime conclusisti. Conside.
 
-(e
-ZU
+![lupus ululat]()
+
 
 ### COLLOQUIUM II (De Cynegeri virtute)
 
