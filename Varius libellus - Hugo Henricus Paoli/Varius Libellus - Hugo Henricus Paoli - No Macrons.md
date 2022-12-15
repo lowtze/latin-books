@@ -2080,7 +2080,7 @@ cursu venatorum sagittas vita- 0
 vit, ipsos praeteriit. Quid tum? 4^ 7
 In puteum delapsa perit.
 
-90. Sandalu lignum vel adsi-
+9o. Sandalu lignum vel adsi-
 due contritum suave quiddam
 olet; sacchari calamus, licet il-
 jum minutatim seces, nativam |
@@ -2088,117 +2088,101 @@ dulcedinem retinet, qua imbutus sponte edentibus blandi-
 tur; aurum in ignem proice: nigrescere nescit. Sic magnus
 viri nobilis animus in ipsa morte non mutatur.
 
-9r. Quid maledici homines non carpunt? Te, si mode-
-stus eris, stultum vocabunt; si probus, callidum; si deos ad-
-sidue colas, simulatorem; si huius mundi vanitates spreve-
-ris, dementem; iidem si comiter te cum omnibus agentem
-viderint, tamquam pusillum quendam |
-irridebunt ; fortem indolem tuam adro- oc YA. fL gal
-gantiam vel fastidium esse dicent, elo- . WorrA- e L^
-quentiam loquacitatem, laborum tole- *& ra ^ NASA NS N
-rantiam animi infirmitatem. 5 rn ) a
+91. Quid maledici homines non carpunt? Te, si modestus
+eris, stultum vocabunt; si probus, callidum; si deos adsidue
+colas, simulatorem; si huius mundi vanitates spreveris,
+dementem; iidem si comiter te cum omnibus agentem
+viderint, tamquam pusillum quendam
+irridebunt; fortem indolem tuam adrogantiam
+vel fastidium esse dicent, eloquentiam
+loquacitatem, laborum tolerantiam
+animi infirmitatem.
 
-92. Bonorum societas improbos me- (9x b iN e
-liores reddit, nec tamen societas ma- . �222� 45
-lorum bonos homines corrumpit. Flo- C
-rum odor ipsum vas fictile circumtundit
-in quo illi creverunt ; num flores testam r��
-olent ?
+![flores]()
 
-903. Arbor virens fructibus suis aves multas satiaverat,
+92. Bonorum societas improbos meliores
+reddit, nec tamen societas malorum
+bonos homines corrumpit. Florum
+odor ipsum vas fictile circumtundit
+in quo illi creverunt; num flores testam olent?
+
+![arborem fluvius rapuit]()
+
+93. Arbor virens fructibus suis aves multas satiaverat,
 locumque iisdem dederat, ubi inter folia securae ac placidae
 dormirent. Eradicatam tandem fluvius rapuit, undisque mi-
+serrime iactatam caenoque involutam trahebat.
+Quid illae ? Spectabant
+lentae quiescebantque.
 
-serrime iactatam caeno-
+94. Si sacerdos ac rex
+una ambulantes tibi obviam
+fiant, quorum alter
+decimum annum agat, alter
+centesimum, te patrem
+cum filio vidisse reputa.
+Pater uter? Sacerdos.
 
-� er f. que involutam trahebat.
-
-SN wA V/V V C" Quid illae ? Spectabant
-NS ZC"  J]entae quiescebantque.
-
-X V en 04. Si sacerdos ac rex
-
-�7 1l� ���� una ambulantes tibi ob-
-
-Q (o viam fiant, quorum alter
-
-^ � decimum annum agat, al-
-
-t p A ter centesimum, te patrem
-
-LA. | cum filio vidisse reputa.
-AID � Pater uter? Sacerdos.
-
--� 95. Languet sine pu-
-
-M e gna virtus, sed dubiis in
-
-rebus quid possit osten-
-
-dit: numquam aloes lignum suavius �let, quam si illud in
-
-Ignem proieceris.
+95. Languet sine pugna virtus, sed dubiis in
+rebus quid possit ostendit: numquam aloes lignum suavius olet, quam si illud in ignem proieceris.
 
 96. Speculum adsidue contritum splendescit; ne mens
 obtundatur, doctrina cotidie excolenda est.
 
-97. Doctrina qui perverse utitur, lac matris in vene-
-num convertit.
-� 68 �
-f ,. ^
-(C SD
-| S i
-(uU UT 9
-2
+97. Doctrina qui perverse utitur, lac matris in venenum convertit.
+
+![asini cervusque lampasque]()
+
 98. Asinos et porcos quid cibi lectissimi
-iuvant ? Quid margaritarum monilia cervos ?
-^ Ouid lampas caecum vel fidium cantus sur-
-"� dum? Quid ebrios homines docti librorum
-commentarli ?
+iuvant? Quid margaritarum monilia cervos?
+Quid lampas caecum vel fidium cantus surdum?
+Quid ebrios homines docti librorum
+commentarii?
+
+![homo ebrius]()
 
 99. Libri nihil docent, si hominis animus
 ignoretur.
 
-IOO. Sapientium animos occasio mutat;
+100. Sapientium animos occasio mutat;
 unus calamus, qui vacuus est et corde caret,
 immutari nescit.
 
-IOI. �nimicos tuos superare numquam
-valebis, nisi par ilis virtute eris; ferrum
-limatur ferro, margaritae adamante perto-
-rantur.
+101. Inimicos tuos superare numquam
+valebis, nisi par illis virtute eris; ferrum
+limatur ferro, margaritae adamante pertorantur.
 
-IO2. Nihil fata sponte possunt, sed ipsis hominibus adiu-
-vantibus implentur. An putas cuiquam currentes bigas
+102. Nihil fata sponte possunt, sed ipsis hominibus adiuvantibus
+implentur. An putas cuiquam currentes bigas
 agere licere, altera si rota desit?
 
-I03. Canem vel equum si verberaveris, minimus dolor
+103. Canem vel equum si verberaveris, minimus dolor
 plagam sequetur. Quid si asinos?
 
-IO4. Amor dolorem parit; nam quicquid dilexisti, amit-
-tendum est.
+104. Amor dolorem parit; nam quicquid dilexisti, amittendum est.
 
-IOS. Lignum ligno in mari immenso occurrit: collidun-
-tur, discedunt, procul errant. Quid aliud hominibus in vita
+105. Lignum ligno in mari immenso occurrit: colliduntur,
+discedunt, procul errant. Quid aliud hominibus in vita
 evenire putas?
-� 69 �
 
-IO6. Perfidus homo et anguem improbitate vincit; hic
+106. Perfidus homo et anguem improbitate vincit; hic
 suo tempore mordet, ille semper.
 
-IO07. Horae cedunt, dies occidunt, tempus delabitur;
+107. Horae cedunt, dies occidunt, tempus delabitur;
 unde orti sumus eo revertimur. Vita tamquam amnis fluit,
 neque homo hominem curat.
 
-IO8. Et dies et noctes cursu perpetuo fluunt hominum-
-que vitam secum silentio rapiunt.
+108. Et dies et noctes cursu perpetuo fluunt hominumque
+vitam secum silentio rapiunt.
 
-IOO. Cito nubis umbra evanescit ; cito litoris arena, quam
+109. Cito nubis umbra evanescit; cito litoris arena, quam
 maris unda adluerit, disicitur ac dissipatur; neque diutius
-iuventus aut divitiae manent. Fallax somnium vita est, va-
-cuum quiddam nocturnis tenebris circumfusum ; si quid in
-ila me consecuturum speravero, quis me stultior ?
+iuventus aut divitiae manent. Fallax somnium vita est, vacuum
+quiddam nocturnis tenebris circumfusum; si quid in
+illa me consecuturum speravero, quis me stultior?
 
-IIO. Quid vitae voluptas est? Quo tandem pacto gau-
-demus? Psittacum in felis ungues proicimus, cervam ad
+110. Quid vitae voluptas est? Quo tandem pacto gaudemus?
+Psittacum in felis ungues proicimus, cervam ad
 leonis fauces admovemus, equum uri cornibus opponimus.
+
+![felis avem interfecit]()
