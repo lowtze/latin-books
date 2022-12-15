@@ -682,91 +682,74 @@ magni animi appellatione obtegimus.
 Regiam puellam quattuor adulescentuli, summo genere
 orti, misere perditeque amabant.
 
-Par omnibus nobilitas, forma, ingenium, virtus in ar-
-mis, luventutis decus; pari in puellam amore deperibant ;
-par studio illhus connubium exoptabant. Quae, cum diu,
-cui nuberet, dubia atque incerta fuisset, gravi morbo cor-
-repta paucis diebus periit.
+Par omnibus nobilitas, forma, ingenium, virtus in armis,
+iuventutis decus; pari in puellam amore deperibant;
+pari studio illius connubium exoptabant. Quae, cum diu,
+cui nuberet, dubia atque incerta fuisset, gravi morbo correpta
+paucis diebus periit.
 
 ![corpus mortua virgini in rogo est impositum]()
 
-Postquam autem, perfectis exsequiis, corpus mortuae vir-
-ginis in rogo est impositum flammisque involutum ardere
+Postquam autem, perfectis exsequiis, corpus mortuae virginis
+in rogo est impositum flammisque involutum ardere
 coepit, unus ex illis adulescentulis inignem periturus se
-� 25 �
-PA
-uz
-UE
-N A^ C7. (Z^ : -
-SCN df?
-LL Nd A
-C. �� ^ f, j.
-��� - [(E����� ���� f
-1 A
-Ae AC O0CMX OOZ
---�� M M
-e JC
-proiecit, ut�, quandoquidem spem nuptiarum mors ademisset,
+proiecit, ut, quandoquidem spem nuptiarum mors ademisset,
 uno dumtaxat eodemque monumento cum puella conderetur.
+
 Ubi vero omnia combusta sunt flammaeque resederunt,
 alter illorum iuvenum, cineribus dihgentissime collectis,
 splendidum mortuae puellae sepulcrum exstruxit, idque
 area circumdedit pretiosis arboribus exquisitisque floribus
 consita, quam summa diligentia ac pietate cotidie colebat,
 multoque aquarum rore, multis lacrimis perfundebat.
+
+![navis]()
+
 Tertius vero adulescentulus statim peregre profectus est,
 ceterisque curis posthabitis totum orbem terrarum curribus
-et navibus pervagabatur, studiosissime quaerens num vesti-
-gando et perscrutando omnia remedium aliquod invenire
+et navibus pervagabatur, studiosissime quaerens num vestigando
+et perscrutando omnia remedium aliquod invenire
 posset, quo adhibito puella ad vitam revocaretur.
-� 260 �
-Unus tantum ex quattuor, quamquam et ipse gravi mae-
-rore adficiebatur, seu quod blandius puellam amaverat, sive
-eo quod tribus illis, ut suspicari licet, sapien-
-tor erat, nullum amoris pietatisve docu-
-mentum edidit: domi mansit, lacrimis tem-
-a peravit, negotia sua gessit.
-� Accidit vero ut ille, qui eo animo in exter-
-nis regionibus peregrinabatur, ut regis filiae
-MN vitam redderet, ignotum quoddam Indiae
-| oppidulum casu ingressus id tandem reme-
-dium inveniret, quod diuturno labore requi-
-rere non desierat: pulvis erat magicus, mira
-A - efficacia, vel adversus mortem praestantis-
-simus: � pimpirimpinus � appellabatur.
+
+Unus tantum ex quattuor, quamquam et ipse gravi maerore adficiebatur,
+seu quod blandius puellam amaverat, sive
+eo quod tribus illis, ut suspicari licet, sapientor erat, nullum
+amoris pietatisve documentum edidit: domi mansit, lacrimis temperavit, negotia sua gessit.
+
+Accidit vero ut ille, qui eo animo in externis regionibus
+peregrinabatur, ut regis filiae
+vitam redderet, ignotum quoddam Indiae
+oppidulum casu ingressus id tandem remedium inveniret, quod
+diuturno labore requirere non desierat: pulvis erat magicus, mira
+efficacia, vel adversus mortem praestantissimus:
+«pimpirimpinus» appellabatur.
+
+![pulvis erat magicus]()
+
 Forte eum pulverem mercator, illius regionis incola, dum
 in longinquas terras nullo comite iter facit, in ipsa via
 temere effusum nactus
-erat, tantoque fortunae ,^ "uud 4
-munere vehementer ga- EM M2 -
-visus cupide exspecta- ge M" "RE Y
-bat, si quis illum magna �c V x
-pecunia accipere vellet. �uL � U� / JL
-Non cunctatus est adu- 9
-lescentulus ingenti pretio |
-oblatum medicamentum ARS B ; N
-emere; deinde, nula /. ��7 N
-mora interposita, redi-
-tum parare coepit. t / N
-Domum ergo quam B
-celerrime reversus, pe-
-nates suos tandem revi-
-sit, pulverem secum adferens, quo nihil pretiosius aiunt
+erat, tantoque fortunae
+munere vehementer gavisus
+cupide exspectabat, si quis illum magna
+pecunia accipere vellet.
+Non cunctatus est adulescentulus ingenti pretio
+oblatum medicamentum
+emere; deinde, nulla
+mora interposita, reditum parare coepit.
+
+![cineres animantur]()
+
+Domum ergo quam
+celerrime reversus, penates suos tandem revisit,
+pulverem secum adferens, quo nihil pretiosius aiunt
 in his terris inveniri posse. Ne multis: puellae sepulcrum
 adiit statimque vim pulveris experiri constituit. Quid tum?
-O rem mirandam! Terra movetur ; sepulcrum nutat, dehiscit,
+O rem mirandam! Terra movetur; sepulcrum nutat, dehiscit,
 corruit; urna ipsa recluditur, patefit; cineres animantur:
 dicto citius mortua virgo atque una amans ille miserrimus,
-iN
-^p. *
-d e e "
-er rt� |
-/ A num" d N
-� l wx | S
-J /
-
-qui iisdem flammis consumptus eodem monumento, per-
-mixtis cineribus, conditus erat, incredibili omnium gaudio
+qui iisdem flammis consumptus eodem monumento, permixtis
+cineribus, conditus erat, incredibili omnium gaudio
 ad vitam redditi sunt.
 
 Sed rursus, ut sunt adulescentuli inamando obstinati,
@@ -775,62 +758,46 @@ quisque fieri cupiebat. Neque longe res aberat ab armis et
 sanguine, atroxque certamen exarsurum erat, nisi puellae
 pater, rex idem summa prudentia praeditus, adulescentulis
 persuasisset, ut sapientissimum quendam senem adirent ab
-eoque ea lege sententiam acciperent, ut quicquid ille statuis-
-set, ratum omnes haberent. Placuit consilium, atque arctis-
-simo se iureiurando obligaverunt nihil quemquam contra
-� 28 �
-senis illius sententiam ausurum. Qui quidem, cum diu mul-
-tumque rem consideravisset, haec fertur edidisse:
+eoque ea lege sententiam acciperent, ut quicquid ille statuisset,
+ratum omnes haberent. Placuit consilium, atque arctissimo
+se iureiurando obligaverunt nihil quemquam contra
+senis illius sententiam ausurum. Qui quidem, cum diu multumque
+rem consideravisset, haec fertur edidisse:
 
-�Qui pulveris virtute puellam ad vitam revocavit, cum
-patris munere functus sit (pater est enim quicumque mor-
-tali homini vitam tribuit), patris loco est habendus. Desistat
-
+«Qui pulveris virtute puellam ad vitam revocavit, cum
+patris munere functus sit (pater est enim quicumque mortali
+homini vitam tribuit), patris loco est habendus. Desistat
 igitur puellae nuptias
+adpetere: parentes a liberorum connubio leges
+omnes arcent et humanae et divinae.
 
-9: adpetere: parentes a li-
+![qui aream diligenter consitam adsidue coluit]()
 
-N f j berorum connubio le-
+«Qui vero eiusdem
+patris opera et consilio
+una cum illa revixit,
+frater est: fratri sororem nubere nefas.
 
-J ges omnes arcent et
-
-. humanae et divinae.
-
-: �Qui vero eiusdem
-
-�N patris opera et consilio
-
-t una cum illa revixit,
-
-C2 frater est: fratri soro-
-N ? y B rem nubere nefas.
-
-| Xo? � Qui, sepulcro
-
-SS P$ ^^, Jexstructo, aream dili-
-
-� ON Y s genter consitam  adsi-
-
-. J due coluit, servi ille
-
-operam virgini navavit, non sponsi. Regiam puellam apud
+«Qui, sepulcro
+exstructo, aream diligenter consitam adsidue coluit,
+servi ille operam virgini navavit, non sponsi. Regiam puellam apud
 servum collocare et lex vetat et mores non patiuntur.
 
-� Quid contra impediverit quominus unus ille qui, amissa
+«Quid contra impediverit quominus unus ille qui, amissa
 puella, sibi morem gessit, res suas non neglexit, mortuos
 lacere iussit, cum neque pater sit neque frater neque servus,
 domum virginem ducat? Huic uni igitur rex filiam suam
-despondeat oportet �.
+despondeat oportet».
 
-Omnes consenserunt sapientem illum rem optime diiudi-
-casse, sanctissimeque iusiurandum servaverunt.
+Omnes consenserunt sapientem illum rem optime diiudicasse,
+sanctissimeque iusiurandum servaverunt.
 
 Haec fabula monet ne nimis in re ulla, si quid cupimus,
 desudemus, cum fortuna, ut multis ex rebus colligi potest,
 plerumque soleat neglegentioribus favere.
 
-e�
-0^7 da
+![vir positus]()
+
 
 ## COLLOQUIA
 
