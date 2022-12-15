@@ -1087,7 +1087,85 @@ Mentre Pia e Maria vanno nel bagno per lavarsi le mani, Teresa Rossi dice a Piet
 
 Dopo i bambini, sono i genitori che si lavano le mani: prima la madre, poi il padre. Dopo che Teresa Rossi si è lavata le mani, essa se le asciuga. Se le asciuga coll'asciugamano. (Nella stanza da bagno ci sono tre asciugamani). Poi esce dal bagno, e prima di andare in sala da pranzo va in cucina, mentre il padre, dopo che si è lavato e asciugato le mani ed è uscito dal bagno, va in sala da pranzo, dove sono i bambini. Cinque minuti dopo, tutta la famiglia è in sala da pranzo e si mette a tavola.
 
-# [[MISSING SIGNIFICANT PORTION OF CAPITOLO 11]]
+
+Pia si siede sulla sedia alta, a sinistra della mamma,
+e la mamma, prima di sedersi anche lei, dice a Pietro:
+«Tu siediti lì, a destra!». «E noi, sediamoci qui!»,
+dice Maria a Bruno, ed essi si siedono a destra del
+papa. Allora Amelia apre la porta ed entra in sala
+da pranzo. Amelia porta un gran piatto di pasta
+e lo mette in mezzo alla tavola.
+
+La signora Teresa da molta pasta a suo marito e ne
+dà più ancora a Bruno. Essi mangiano più degli
+altri. Maria e la sua mamma mangiano meno di loro, a
+però anch'esse mangiano un bel piatto di pasta oggi,
+perché oggi hanno fame anche loro, e quando si ha
+fame si mangia molto.
+
+Dopo avere mangiato la pasta che gli ha dato la
+mamma, Bruno dice: «Vuoi darmi ancora un po’ di
+pasta, mamma? Ho ancora fame». «Sì, ma domandiamo
+prima al papà se ne vuole ancora anche lui»,
+risponde Teresa Rossi. Poi domanda a suo marito:
+«Devo darti ancora un po’ di pasta, Carlo?». «No,
+grazie! Non ho molta fame oggi», risponde suo marito.
+La signora Rossi prende allora il piatto di Bruno
+per dargli la pasta. Poi domanda agli altri bambini
+se deve dar loro ancora un po’ di pasta: «Devo darvi
+dare ancora un po’ di pasta anche a voi?», «No, grazie,
+mammina!», rispondono Pietro e le due bambine.
+
+Quando Bruno ha mangiato la sua pasta, Amelia
+prende i piatti sporchi e mette un piatto pulito davanti
+a ogni persona, e Teresa Rossi le dice: «Vuoi
+portarci il pollo?». «Sì, signora!», risponde Amelia,
+e un momento dopo, essa entra in sala da pranzo
+con un bellissimo pollo. Prima di metterlo in tavola
+lo mostra a tutta la famiglia.
+
+Quando Amelia è uscita dalla sala da pranzo dopo
+avere messo i piatti puliti in tavola, Pietro e Pia dicono:
+«Mamma, vuoi darci un pezzo di pane?», e la
+signora Rossi da loro un pezzo di pane. Il signor
+Rossi prende il coltello e domanda a sua moglie: «Che
+pezzo vuoi, Teresa? Vuoi un po’ di petto?». «Sì, un
+po’ di petto, grazie», risponde la signora Rossi. Suo
+marito le dà un bel pezzo di pollo (il petto è la parte
+del pollo che piace di più a Teresa Rossi), e poi, dopo
+aver preso un po’ di petto anche lui, Carlo Rossi dà
+un pezzo a ciascuno dei bambini. È un pollo molto,
+molto buono, e quando Bruno ha mangiato il suo
+pezzo, dice: «Mamma, c’è un bel pezzo lì in mezzo
+al piatto, me lo dai?». Teresa Rossi: «Te lo do solo
+se non vuole mangiarlo il papa». Ma Carlo Rossi dice
+che non vuole quel pezzo perché non ha più fame, e
+Teresa Rossi allora lo dà a Bruno.
+
+Quando i Rossi hanno mangiato il pollo, chiamano
+dice la donna per dirle: «Com’é buono il pollo, Amelia!».
+«Grazie, grazie!», dice Amelia. Poi, come ha fatto
+prima, porta in cucina i piatti sporchi e mette un
+piatto pulito davanti a ciascuno dei Rossi. Poi esce
+un momento, e quando entra, porta un gran piatto di
+frutta: arance e mandarini. Siccome i Rossi hanno
+mangiato molto, non han più fame, però mangiano
+ciascuno un frutto. La frutta piace molto ai Rossi.
+Pia vede una bella arancia e dice alla mamma: «Che
+bella arancia, mammina! Me la dai?». Teresa Rossi:
+«Sì, se non vuole mangiarla tua sorella, te la do».
+Maria non la vuole, e Pia, contentissima, mangia
+la sua bella arancia. Quando nel piatto non ci sono
+più che due mandarini, Pietro domanda: «Mamma,
+se non vogliono mangiarli Pia e Maria, me li dai,
+quei mandarini?». Teresa Rossi: «Sì, se non li vogliono
+le tue sorelle, te li do». Poi domanda: «Pia e
+Maria, volete quei mandarini?». Pia e Maria: «No,
+grazie, mammina, non li vogliamo!». Allora Teresa
+Rossi dà gli ultimi mandarini a Pietro, e quando
+Pietro ha mangiato anche quelli, tutta la famiglia
+esce dalla sala da pranzo e va in salotto, dove si beve
+il caffè.
 
 
 ## Capitolo dodici (12): LA CENA
