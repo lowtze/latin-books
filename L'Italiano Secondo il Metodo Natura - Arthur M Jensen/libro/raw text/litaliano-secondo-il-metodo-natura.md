@@ -53,7 +53,7 @@ Il primo figlio di Carlo Rossi è Bruno, il secondo figlio è Pietro.
 Bruno e Pietro sono figli anche di Teresa Rossi: i due bambini sono
 figli di Carlo e Teresa Rossi.
 
-Maria è figlia di Carlo Rossi. Anche Pia è figlia di Carlos Rossi. Le
+Maria è figlia di Carlo Rossi. Anche Pia è figlia di Carlo Rossi. Le
 due bambine, Maria e Pia, sono figlie di Carlo Rossi. La prima figlia di
 Carlo Rossi è Maria, la seconda figlia è Pia. Maria e Pia sono figlie
 anche di Teresa Rossi: le due bambine sono figlie di Carlo e Teresa
@@ -104,7 +104,7 @@ Rossi.
 
 Chi sono Bruno e Pietro? Sono i figli di Carlo e Teresa Rossi. Chi sono
 Maria e Pia? Sono le figlie di Carlo e Teresa Rossi. Carlo e Teresa
-Rossi sono i gentiori di Bruno e di Pietro. Carlo e Teresa Rossi sono
+Rossi sono i genitori di Bruno e di Pietro. Carlo e Teresa Rossi sono
 anche i genitori di Maria e di Pia. Il padre, la madre, i due figli e le
 due figlie sono una famiglia.
 
@@ -226,7 +226,7 @@ chiamano Maria e Pia. Chi sono i figli della signora Rossi? I suoi
 figli sono Bruno e Pietro, Chi
 è il marito della signora Rossi? Suo marito è il signor Carlo Rossi.
 
-Il signor Rossi chiama sua moglie «Teresa» e la signora Rossia chiama
+Il signor Rossi chiama sua moglie «Teresa» e la signora Rossi chiama
 suo marito «Carlo». I bambini non chiamano il loro padre e la loro
 madre «Carlo» e «Teresa», ma «papà» e «mamma». Come si chiamano i
 figli dei signori Rossi? I loro figli si chiamano Bruno e Pietro. E
@@ -300,7 +300,7 @@ Il mese di aprile ha trenta giorni, e il mese di maggio ha trentun
 giorni. Maggio è più lungo di aprile, aprile è meno lungo di maggio.
 Settembre è meno lungo di ottobre, e novembre è meno lungo di dicembre.
 Febbraio ha solo ventotto o ventinove giorni. Febbraio è più corto di
-gennaio, di marzo e degli altri mesis dell'anno: febbraio è il più corto
+gennaio, di marzo e degli altri mesi dell'anno: febbraio è il più corto
 dei dodici mesi dell'anno. In un mese ci sono quattro settimane. E in
 una settimana ci sono sette giorni. Come si chiamano i sette giorni
 della settimana? I sette giorni della settimana si chiamano: lunedì,
@@ -399,7 +399,7 @@ d'estate. Però ci sono fiori anche in autunno. C'è molta erba d'inverno?
 No, d'inverno c'è poca erba. C'è poco sole in luglio, in Italia? No, in
 luglio c'è molto sole in Italia.
 
-Lìerba è verde, e in primavera e d'estate anche le foglie degli alberi
+L'erba è verde, e in primavera e d'estate anche le foglie degli alberi
 sono verdi. Ma in autunno, nel mese di novembre, le foglie degli alberi
 non sono verdi. Però l'erba è verde anche in autunno e d'inverno. L'erba
 è verde tutto l'anno. Il verde è il colore dell'erba ed è anche il
@@ -424,7 +424,7 @@ la pera è un frutto. Nel giardino dei Rossi ci sono molte pere e molte
 mele. La mela è un frutto di agosto e settembre. Anche la pera è un
 frutto di agosto e settembre.
 
-Un altro frutto italian è la ciliegia. Di che colore sono le ciliege? Le
+Un altro frutto italiano è la ciliegia. Di che colore sono le ciliege? Le
 ciliege sono rosse. Anche molte rose sono rosse, come le ciliege. Però
 non tutte le rose sono rosse. Molte rose sono gialle, come i limoni. Il
 giallo è il colore dei limoni. Il verde, il rosso, il giallo sono
@@ -438,7 +438,7 @@ dell'Europa? Sì, ma non in tutti i paesi dell'Europa.
 
 Cosa c'è sui rami degli alberi in primavera? Ci sono dei fiori. E ci
 sono anche delle foglie; ci sono molti fiori e molte foglie. Gli alberi
-hanno delle foglie dalla primavera all'autunno; dall'inverno all
+hanno delle foglie dalla primavera all'autunno; dall'inverno alla
 primavera non ci sono né foglie né frutti sugli alberi. Ma d'estate ci
 sono molti frutti sugli alberi. In che mesi ci sono delle pere in
 Italia? Ci sono in agosto e in settembre. In che stagione ci sono degli
@@ -462,7 +462,7 @@ stelle. Alcune volte, c'è la luna nel cielo anche di giorno, e altre
 volte non c'è di notte. Ma le stelle ci sono solo di notte.
 
 Un'ora dura sessanta minuti e un minuto dura sessanta secondi. Trenta
-secondi sono mezzo minuto e trenta minuti sono mezz'orra. Quindici
+secondi sono mezzo minuto e trenta minuti sono mezz'ora. Quindici
 minuti sono un quarto d'ora. Quante ore dura il giorno il ventun marzo?
 Il ventun marzo, il giorno dura quanto la notte: dodici ore. E quanto
 dura il ventitré settembre? Anche il ventitré settembre dura quanto la
@@ -517,7 +517,7 @@ giovedì come si chiama? Si chiama mercoledì. E il giorno dopo? Si chiama
 venerdì. Che ore sono un quarto d'ora dopo mezzogiorno? Un quarto d'ora
 dopo mezzogiorno è mezzogiorno e un quarto. E mezz'ora dopo mezzogiorno
 che ora è? È mezzogiorno e mezzo. Che ora è un quarto d'ora prima di
-mezzanotte? È mezzanotte meno un quarto. E mezz'ora prima di mezzanotta
+mezzanotte? È mezzanotte meno un quarto. E mezz'ora prima di mezzanotte
 sono le undici e mezzo. Che ore sono dieci minuti dopo le due? Dieci
 minuti dopo le due sono le due e dieci. E dieci minuti prima delle due
 sono le due meno dieci. Che ora è venti minuti dopo l'una? Venti minuti
@@ -578,7 +578,7 @@ bambini dormono. Però non dormono tutti. Bruno e Pietro dormono ancora,
 Maria dorme anche lei, ma Pia non dorme più. Pia dorme dalle otto
 di sera alle sei o alle sei e mezzo di mattina. Quanto dorme Pia? Dorme
 dieci ore. Pietro, che ha cinque anni più di Pia, non dorme che nove
-ore: dalle dieci alle sette. Bruno e Maria non dormono che otte ore
+ore: dalle dieci alle sette. Bruno e Maria non dormono che otto ore
 e mezzo. Vanno a letto alle dieci e mezzo di sera e dormono fino alle
 sette di mattina. La madre dei bambini, la signora Rossi, non dorme che
 sette ore: insieme con suo marito va a letto alle undici e dorme solo
@@ -590,7 +590,7 @@ nella stanza dei due fratelli, quelli di Maria e di Pia sono nella
 stanza delle due sorelle. Le stanze dove stanno i letti si chiamano
 stanze da letto. I rossi hanno tre stanze da letto: una per i genitori e
 due per i bambini. Nella stanza dei genitori non c'è che un letto, però
-è molto grande. Nelle stanze dei bambini ci sono dei letti motlo più
+è molto grande. Nelle stanze dei bambini ci sono dei letti molto più
 piccoli di quello dei genitori. Ma il letto di bruno è più grande di
 quello di Pia, perché Bruno è più grande di Pia. Il letto dei genitori è
 molto grande perché ci I Rossi
@@ -609,7 +609,7 @@ alza anche lui? No, lui non si alza alle sei. Lui non si alza che alle
 sette. Hanno una sveglia anche i bambini? No, loro non hanno
 sveglia. Alle sette di mattina, la mamma dei bambini entra nella
 stanza di Bruno e Pietro e sveglia i due fratelli. Dopo, la mamma
-entra nella stanza dell bambine e sveglia Maria. Perché non sveglia
+entra nella stanza delle bambine e sveglia Maria. Perché non sveglia
 anche Pia? Perché Pia alle sette non dorme più. Pia alle sette è
 sveglia. (Una persona che non dorme è sveglia). Maria però non è
 ancora sveglia alle sette. E i due fratelli? Neanche loro
@@ -617,7 +617,7 @@ non sono svegli alle sette. Alle sette è sveglia solo la piccola
 Pia.
 
 Cos'è una sveglia? È un orologio. E cosa fa una sveglia? Suona e sveglia
-qualli che dormono. A che ora suona la sveglia dei Rossi? Suona alle sei
+quelli che dormono. A che ora suona la sveglia dei Rossi? Suona alle sei
 e sveglia la signora Rossi. Cosa fa la signora Rossi quando suona la
 sveglia? Si alza. E alle sette cosa fa? Entra nella stanza dei bambini e
 sveglia i due fratelli. E poi cosa fa? Poi entra nella stanza
@@ -645,8 +645,8 @@ Alle sette, la mamma sveglia i fratelli. E poi, cosa fa? Sveglia le due
 bambine? No, non le Sveglia solo Maria,
 perché Pia è già sveglia quando entra la mamma. Dopo i bambini, la
 signora Rossi sveglia suo marito. E alle sette e cinque tutti e quattro
-i bambini sono svegl, è sveglio il padre, è sveglia tutta la famiglia.
-Cosa fa Maria quando è sveglia? Si alze e va nella stanza da bagno. E
+i bambini sono svegli, è sveglio il padre, è sveglia tutta la famiglia.
+Cosa fa Maria quando è sveglia? Si alza e va nella stanza da bagno. E
 cosa fa nella stanza da bagno? Nella stanza da bagno Maria si
 lava. Prima si lava Maria, poi la mamma lava Pia. Dopo le bambine
 si lavano i due fratelli. La mamma lava Pia, ma non lava Pietro. Pietro
@@ -655,9 +655,9 @@ sette e dieci. Alle sette e dieci Maria si veste, poi veste Pia:
 Pia non si veste da sola. Dopo le bambine si vestono i due fratelli.
 
 Chi lava Pia? È Maria? No, non è Maria che la lava, è la mamma. La mamma
-lava anche Maria? No, la momma non la lava più. Maria è troppo grande:
+lava anche Maria? No, la mamma non la lava più. Maria è troppo grande:
 ha tredici anni. Le mamme lavano i bambini piccoli, non quelli grandi.
-Non lava neanche Pietro la signora Rossi? No, la momma non lo lava
+Non lava neanche Pietro la signora Rossi? No, la mamma non lo lava
 neanche lui. Bruno, Maria e Pietro sono troppo grandi tutti e tre e la
 mamma non li lava più. Chi è che veste le bambine? È la mamma? No,
 non è la mamma che le veste. Maria si veste da sola e veste anche Pia.
@@ -677,7 +677,7 @@ alle sette.
 Pia non va ancora a scuola perché ha solo cinque anni. Ma quando Pia
 avrà sette anni, andrà a scuola anche lei. Quando avrà sette anni
 Pia? Pia avrà sette anni fra due anni. Fra due anni, Bruno avrà
-diciasette anni. Andrà a scuola a diciasette anni Bruno? No, non
+diciassette anni. Andrà a scuola a diciassette anni Bruno? No, non
 andrà più a scuola. E Maria, quanti anni avrà fra due anni? Ne avrà
 quindici, e andrà ancora a scuola. Pietro ha dieci anni.
 Quattr'anni fa, ne aveva solo sei. Andava a scuola a sei anni
@@ -686,9 +686,9 @@ fratello Bruna andava a scuola, con la
 mamma e con Pia. Quanti anni aveva Maria quattr'anni fa? Ne aveva
 nove. Andava già a scuola? Sì, ci andava insieme con Bruno. Bruno andava
 già a scuola otto anni fa. Otto anni fa, quando Bruno andava a scuola,
-Maria stava a casa con la mamma e col picollo Pietro. Andrà ancora
+Maria stava a casa con la mamma e col piccolo Pietro. Andrà ancora
 a scuola fra un anno Bruno? Fra un anno sì, però fra due anni no, non ci
-andrà più. Dieci anni fa, Pietro non c'era ancora, non c'era neacnhe
+andrà più. Dieci anni fa, Pietro non c'era ancora, non c'era neanche
 Pia, e Bruno aveva che cinque anni e stava a casa con la mamma e la
 piccola Maria di tre anni.
 
@@ -742,7 +742,7 @@ Pia beve un bicchiere di latte a colazione, e molte volte ne beve
 un bicchiere a pranzo. Poi, ne beve ancora alle quattro o alle
 cinque del pomeriggio. Quanto latte beve Pia nel pomeriggio? Ne
 beve uno o due bicchieri. I genitori non bevono latte a colazione.
-Che coasa bevono a colazione? Bevono una tazza di caffè o due. A
+Che cosa bevono a colazione? Bevono una tazza di caffè o due. A
 colazione, molti italiani mettono del latte nel caffè: un quarto
 di caffè e tre quarti di latte, oppure metà latte e metà caffè. Il
 caffè con molto latte si chiama «caffè e latte» o «caffellatte». A
@@ -759,13 +759,13 @@ pranzo e nel pomeriggio si beve del caffè nero. Il caffè si chiama
 «nero» Il caffè
 con un poco di latte o di panna si chiama «cappuccino».
 
-Di che colore è il caffè? Ilc affè senza latte è nero. Il
+Di che colore è il caffè? Il caffè senza latte è nero. Il
 cappuccino non è nero, ma bruno. Di che colore è il latte? Il latte è
 bianco. Anche il pane è bianco in Italia. Con la panna del latte si fa
 il burro.
 Che cosa si fa col latte? Col latte si fa il formaggio e altre cose. In
 Italia si fa molto formaggio. Anche in altri paesi si fa molto
-formaggio. In Italia, il formoaggio non si mangia di mattina, ma
+formaggio. In Italia, il formaggio non si mangia di mattina, ma
 si mangia a pranzo e a cena.
 
 Che cosa mette il signor Rossi nel suo caffè? Ci mette dello
@@ -792,8 +792,8 @@ Dove sono il coltello, la forchetta e il cucchiaio? Sono sopra la
 tovaglia, a destra e a sinistra del piatto: il coltello e il cucchiaio a
 destra, la forchetta a sinistra. E molte volte, i tovaglioli sono sopra
 i piatti. A pranzo e a cena, c'è anche un fiasco sulla tavola. Che
-coase c'è nel fiasco? Nel fiasco c'è del vino. Quanto vino c'è in un
-fiasco? In un fiasco piccolo non cìè che un litro di vino, ma in un
+cosa c'è nel fiasco? Nel fiasco c'è del vino. Quanto vino c'è in un
+fiasco? In un fiasco piccolo non c'è che un litro di vino, ma in un
 fiasco grande ce ne sono due.
 
 Il signor Rossi versa del vino nel suo bicchiere, nel bicchiere di sua
@@ -837,9 +837,9 @@ chiamano «Bruno! Pietro!». Prima, i due fratelli non rispondono alle
 loro sorelle, perché dormono e non le sentono; ma poi, quando le bambine
 chiamano ancora una volta, Bruno si sveglia e domanda: «Che cosa c'è?».
 Pia: «È il compleanno della mamma e tu dormi ancora!». Bruno: «Ma io non
-dormo! Io sono sveglio!». Pia: «E Pietro?». Pietro: «Aah...». Pia: «Tu
+dormo! Io sono sveglio!». Pia: «E Pietro?». Pietro: «Aaah...». Pia: «Tu
 non sei sveglio, Pietro!». «Sì; sono sveglio. Ma perché non è la mamma
-che ci sveglia oggi?». maria: «Non è lei che vi sveglia perché oggi è il
+che ci sveglia oggi?». Maria: «Non è lei che vi sveglia perché oggi è il
 suo compleanno.» Allora i due fratelli si alzano anche loro, perché è
 molto tardi. Poi Bruno domanda a Maria: «Chi va prima nella stanza da
 bagno? Ci vai tu o vi vado io?». Maria: «Ci vado io con Pia. Alle sette
@@ -941,7 +941,7 @@ ride anche lei, e allora Carlo Rossi domanda: «Ma perché ridete?».
 Teresa Rossi: «Ridiamo perché la tua domanda è la domanda di un uomo!
 Cosa fate, voi altri uomini, quando siete in via del Corso?». Carlo
 Rossi: «Ma ... guardiamo la gente, i negozi ...». Teresa Rossi: «Carlo
-guarda la gente e i negozi. Facciamo come Carlo: guardiamo la gente e it
+guarda la gente e i negozi. Facciamo come Carlo: guardiamo la gente e i
 negozi anche noi!». Carlo Rossi, che ora ride anche lui: «Oggi è il tuo
 compleanno, Teresa, e facciamo ciò che vuoi tu!». Emma Benelli: «Sei un
 buon marito, Carlo! Facciamo tutto quello che vuole Teresa!». Carlo
