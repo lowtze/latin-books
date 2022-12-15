@@ -582,17 +582,18 @@ mihi cotidie aptat. Quantulum erat longiora mihi crura
 largiri, naturalia ephippia addere! Cur autem venter meus
 tam multa postulat? Cur sitim ferre parum valeo?»
 
+![equus]()
+
 «Adde quod nescio qui terror sublatet in animo meo
 atque occulta perpetuaque anxietate me suspensum tenet.
 Qui belli discrimina fortissime
 obire soleam, neque armorum
 tumultum reformidem, quin
-etiam hostium impetum, vul-
-nerum atrocitatem, plagarum
+etiam hostium impetum, vulnerum atrocitatem, plagarum
 ictus elato animo excipiam,
 minimis idem de causis pavore
-lymphatus praeceps agor. Sae-
-pe enim vel foliorum strepitus, vel leviter commota saepes,
+lymphatus praeceps agor. Saepe
+enim vel foliorum strepitus, vel leviter commota saepes,
 vel linteolum album in herba expansum eo usque mentem
 meam perturbant, ut insana fuga in quodvis obstaculum
 caecus incurram, meque equitemque meum in perniciem
@@ -600,56 +601,56 @@ traham. Deme, precor, Iuppiter, hanc terroris nubem, neve
 patiaris nobile animal tam vacuae formidini obnoxium esse.
 Me fortem semper fortiter facere aequum est».
 
-Postquam equus finem loquendi fecit, diu Iuppiter co-
-gitabundus reticuit. At. tandem:
+Postquam equus finem loquendi fecit, diu Iuppiter cogitabundus
+reticuit. At tandem:
 
 «Vide, sis, inquit, ne quid temere contra te ipse petas;
-cito spectabis inquam speciem et figuram te sim conversu-
-rus, si preces tuas exaudiero».
+cito spectabis inquam speciem et figuram te sim conversurus,
+si preces tuas exaudiero».
 
-statimque tantum sibi luti adferri iussit, quantum ma-
-nus caperet; quo accepto, divina quaedam verba demisso
+![camelus]()
+
+Statimque tantum sibi luti adferri iussit, quantum manus caperet; quo
+accepto, divina quaedam verba demisso
 capite immurmuravit. Nec mora ulla: camelus creatus est.
-Piger ille, pilis horridus, longumque collum lentus incur-
-vans, ubi primum vitales auras hausit, diductis labiis abso-
-num quendam gemitum emisit, ita ut
-undique magna omnium cachinnatio
-orta sit. Ium luppiter, equum adlo-
-cutus:
+Piger ille, pilis horridus, longumque collum lentus incurvans, ubi
+primum vitales auras hausit, diductis labiis absonum quendam gemitum
+emisit, ita ut undique magna omnium cachinnatio
+orta sit. Tum luppiter, equum adlocutus:
 
-«Ecce, optime, inquit, quod in ani-
-mal mutari vis. Quae optas, camelus
+«Ecce, optime, inquit, quod in animal
+mutari vis. Quae optas, camelus
 factus habebis omnia: nonne belua ista
 exilibus cruribus praedita est? Nonne
 naturalia ephippia in dorso ipsa gerit? Scito etiam nullum
 animal tam parvo cibo contentum fore, sitim nullum, vel
 in aridis ardentibusque arenis, tolerantius laturum. Vanos
-illos terrores, quibus tu interdum exagitaris, prorsus igno-
-rat. Mitis est camelus et utilis et patiens. Adnuas tantum
+illos terrores, quibus tu interdum exagitaris, prorsus ignorat.
+Mitis est camelus et utilis et patiens. Adnuas tantum
 oportet, camelus fies».
 
 Fremere equus, frigidoque tremore toto corpore corripi;
-nec verbum ullum proferre. Nam, ubi primum deforme il-
-lud animal adspexit, horrore atque odio quodam captus diu
+nec verbum ullum proferre. Nam, ubi primum deforme illud
+animal adspexit, horrore atque odio quodam captus diu
 obmutuit. Cum vero vocem rumpere valuit:
 
 «Apage, inquit, Iuppiter, foedum istud monstrum, ne
 diutius id naturae dedecus intueri cogar. Erravi, fateor,
 meque temeritatis meae paenitet pigetque; stultus ac levis
-condicionem meam non recte aspernatus sum, nec iam quic-
-quam habeo, cur Prometheo neglegentiam obiciam. Falso
-illum culpavi. Id unum te rogo, ut posthac quibus inregio-
-nibus equus vivere soleat, inde camelus absit. Alias ille pla-
-gas incolat, sub alio caelo versetur, longinquis in terris ser-
-vitutem suam hominibus praestet. Semper enim, conspecto
+condicionem meam non recte aspernatus sum, nec iam quicquam habeo,
+cur Prometheo neglegentiam obiciam. Falso
+illum culpavi. Id unum te rogo, ut posthac quibus inregionibus equus
+vivere soleat, inde camelus absit. Alias ille plagas incolat, sub
+alio caelo versetur, longinquis in terris servitutem suam hominibus
+praestet. Semper enim, conspecto
 camelo, torpore hebetabor ac viribus frangar».
 
-Adnuit Iuppiter, camelumque deserta in loca relegavit ;
+Adnuit Iuppiter, camelumque deserta in loca relegavit;
 laeta prata, agros, hominum urbes equo reliquit.
 
-Aiunt equum etiam nunc, si forte camelum adspexertt,
-tremere per omnes artus atque horrescere. Pristinae stulti-
-tiae suae profecto reminiscitur.
+Aiunt equum etiam nunc, si forte camelum adspexerit,
+tremere per omnes artus atque horrescere. Pristinae stultitiae
+suae profecto reminiscitur.
 
 Nonne quod equus fecit, id nimis saepe ab ipsis hominibus
 fieri solet, quotienscumque illi, contemptis bonis quae natura
@@ -676,17 +677,9 @@ magni animi appellatione obtegimus.
 
 ### III. - DE REGIS FILIA PULCHERRIMA
 
-�
-Q.
-C5 && C
-S pa AN i
-D (4 "Hee
-LA |/ 3
-N
-? AA Ne 7 S / |
-96
+![regia puella et quattor adulescenti]()
 
-HKegiam puellam quattuor adulescentuli, summo genere
+Regiam puellam quattuor adulescentuli, summo genere
 orti, misere perditeque amabant.
 
 Par omnibus nobilitas, forma, ingenium, virtus in ar-
@@ -694,6 +687,8 @@ mis, luventutis decus; pari in puellam amore deperibant ;
 par studio illhus connubium exoptabant. Quae, cum diu,
 cui nuberet, dubia atque incerta fuisset, gravi morbo cor-
 repta paucis diebus periit.
+
+![corpus mortua virgini in rogo est impositum]()
 
 Postquam autem, perfectis exsequiis, corpus mortuae vir-
 ginis in rogo est impositum flammisque involutum ardere
