@@ -5,7 +5,7 @@ publisher:
 year: 1961
 lang: la
 cover-image: "./images/cover.png"
-version: 0.4
+version: 0.7
 ---
 
 # Varius Libellus
