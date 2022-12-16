@@ -1097,160 +1097,153 @@ Italiam implevit.
 
 ### COLLOQUIUM V (De animalibus)
 
-Magister. � Cras unusquisque vestrum ea quae de anima-
-libus in libro vestro leguntur, Italice conversa ac nitide
+*Magister.* — Cras unusquisque vestrum ea quae de animalibus in libro
+vestro leguntur, Italice conversa ac nitide
 exscripta mihi tradet. Id pro penso erit. Aliquot capitula
-sunt; brevia, neque ea difficilia. Quin etiam spero iucun-
-dum vobis fore tam multa de animalibus cognoscere. At ca-
-vetote ne omnia credatis; multa a veri similitudine absunt;
-nonnulla vero falsa et commenticia ibi commemorantur, pra-
-vae vulgi opiniones.
+sunt; brevia, neque ea difficilia. Quin etiam spero iucundum vobis
+fore tam multa de animalibus cognoscere. At cavetote ne omnia
+credatis; multa a veri similitudine absunt;
+nonnulla vero falsa et commenticia ibi commemorantur, pravae vulgi
+opiniones.
 
-Dascipulus. � Quid igitur opus est ea nos discere, quae
+*Discipulus.* — Quid igitur opus est ea nos discere, quae
 a vero aversa sunt?
 
-M agsster. � Dicam ; qui antiquitatis notitiam adfectat, eum
+*Magister.* — Dicam; qui antiquitatis notitiam adfectat, eum
 illud etiam pervestigare atque exquirere oportet, quae veteres
 homines crediderint, vel si contra veritatem crediderint. An
 ignoras Dantem nostrum solem circa terram circumferri falso
-putasse? Quod qui non noverit, putasne Dantis illum car-
-mina probe intellegere posse ? Nunc, quoniam de animalibus
+putasse? Quod qui non noverit, putasne Dantis illum carmina
+probe intellegere posse? Nunc, quoniam de animalibus
 mentio incidit, quaero ex vobis quae inter animalia maximae
 hominibus utilitati esse putetis.
 
-Discipulus. � Ante omnia bovem; nam et agros arat et
-currum trahit et agricolis in. omnibus operibus est adiu-
-mento. Idem carnibus suis cibum optimum praebet, corio-
-que, quo tegitur, calceamentis materiam suppeditat. Eius
-femina, quae vacca vocatur, lac bubulum dat, quod ho-
-minibus gratum ac salubre alimentum est, pueris vero et
+*Discipulus.* — Ante omnia bovem; nam et agros arat et
+currum trahit et agricolis in. omnibus operibus est adiumento. Idem
+carnibus suis cibum optimum praebet, corioque, quo tegitur,
+calceamentis materiam suppeditat. Eius
+femina, quae vacca vocatur, lac bubulum dat, quod hominibus gratum ac
+salubre alimentum est, pueris vero et
 aegrotis et senibus paene necessarium; eorum victus enim
 maxime in lacte consistit.
 
-Discipulus alter. - Si de carnis suavitate disserere opor-
-tet, iniquum est nullam de porco mentionem facere; quam
-� 4I �
+*Discipulus alter.* — Si de carnis suavitate disserere oportet,
+iniquum est nullam de porco mentionem facere; quam
 multis enim deliciis suilla caro hominum mensas instruit!
-Si quis gutturi ac ventri indulgere solet, paene innumera-
-biles voluptates capit?ex illa; nihil exquisitius aut tam
+Si quis gutturi ac ventri indulgere solet, paene innumerabiles
+voluptates capit ex illa; nihil exquisitius aut tam
 varium natura gulosis viris obtulit, nihil delicatius.
 
-Magister. � Iure id addidisti. Etiam veteres scriptores
+![porci]()
+
+*Magister.* — Iure id addidisti. Etiam veteres scriptores
 suillae carnis suavitatem laudibus efferunt; quin etiam
-Plinius ille, quo nullus curiosior na-
-turaliuum rerum indagator exstitit, ;
-quinquaginta sapores aetatis suae 9 :
-coquos in carne suilla invenisse re- ^
-fert. At dic: ubi caro vitulina ac bo- 7 0 )
-vina venit?
+Plinius ille, quo nullus curiosior naturaliuum
+rerum indagator exstitit,
+quinquaginta sapores aetatis suae
+coquos in carne suilla invenisse refert.
+At dic: ubi caro vitulina ac bovina venit?
 
-Discipulus. - Apud lanium.
+*Discipulus.* — Apud lanium.
 
-Magister. � Ubi veneunt et pernae, et farcimina suillae
+*Magister.* — Ubi veneunt et pernae, et farcimina suillae
 carnis ut lucanicae, isicia, botuli?
 
-Discipulus. - Apud salsamentarium.
+*Discipulus.* — Apud salsamentarium.
 
-Magister. � Recte; sed ad bovem revertamur; quis ex
-corio calceos efficit curatque ut ad pedes habiles apti-
-que sint?
+*Magister.* — Recte; sed ad bovem revertamur; quis ex
+corio calceos efficit curatque ut ad pedes habiles aptique sint?
 
-Dascibulus. � Sutor.
+*Discipulus.* — Sutor.
 
-Magister. �- Ubinam?
+*Magister.* — Ubinam?
 
-LDascipulus. � In sutrina.
+*Discipulus.* — In sutrina.
 
-M agister. � Quis boum tergora subigit coriumque perficit ?
+*Magister.* — Quis boum tergora subigit coriumque perficit?
 
-LDA4scibulus. � Coriarius.
+*Discipulus.* — Coriarius.
 
-Magister. � Quod animal post bovem utilius ?
+*Magister.* — Quod animal post bovem utilius?
 
-Discipulus. � Ovis.
+*Discipulus.* — Ovis.
 
-Magister. � Quasnam utilhtates ex ove percipimus ?
+*Magister.* — Quasnam utilhtates ex ove percipimus?
 
-LDascipulus. � Ovis villi lanam prae-
-bent; ipsa cotidie ad mulctram venit
+![oves]()
+
+*Discipulus.* — Ovis villi lanam praebent;
+ipsa cotidie ad mulctram venit
 ex eiusque lacte caseus optimus fit.
-| Agnis quoque quos illa parit pro cibo
-: utimur.
-M Discipulus alter. � Sic igitur ea mu-
-nera pensamus! Lanam illa et caseum
-suppeditat, nos tanti beneficii memo-
-res illius prolem iugulamus atque comedirnus. Malum genus
+Agnis quoque quos illa parit pro cibo
+utimur.
+
+*Discipulus alter.* — Sic igitur ea munera pensamus! Lanam illa et caseum
+suppeditat, nos tanti beneficii memores illius prolem iugulamus atque comedirnus. Malum genus
 homines, semper beneficiorum acceptorum immemor!
-� 42 �
 
-Magister. � Tace, philosophe, atque, si libet, oleribus ve-
-scere. Vel potius dic: quibus modis lana tractatur, ut ad
-quotidianos usus sufficiat ?
+*Magister.* — Tace, philosophe, atque, si libet, oleribus vescere.
+Vel potius dic: quibus modis lana tractatur, ut ad
+quotidianos usus sufficiat?
 
-Discipulus. � Ante omnia lana nendo in filum ducitur.
+*Discipulus.* — Ante omnia lana nendo in filum ducitur.
 Nebant olim ancillae, aniculae; quibusdam locis mulieres
 omnes; colu et fusis nebant, lanae pensa instamina ducentes.
 Nostris vero temporibus hominum industria nendi operam
 a mulieribus ad machinas transtulit.
 
-Magister. � Bene habet; sic pergito.
+*Magister.* — Bene habet; sic pergito.
 
-Discipulus. � Lanae staminibus texturae conficiuntur,
+*Discipulus.* — Lanae staminibus texturae conficiuntur,
 quibus utimur vel corporis tegumentis vel lectorum stragulis.
 
-Magister. - Ubi lanae texuntur?
+*Magister.* — Ubi lanae texuntur?
 
-Discipulus. � A textoribus vel a textricibus in textrinis.
+*Discipulus.* — A textoribus vel a textricibus in textrinis.
 
-Magister. � Quid haec vox significat, zextrynum ?
+*Magister.* — Quid haec vox significat, *textrinum*?
 
-Discipulus. - Duplicem vim habet: nam et locum, ubi
+*Discipulus.* — Duplicem vim habet: nam et locum, ubi
 lana texitur, significat et artem ipsam texendi.
 
-Magister. � Suntne alia animalia quae hominum com-
-moditatibus inserviant ?
+*Magister.* — Suntne alia animalia quae hominum commoditatibus inserviant?
 
-Discipulus. �- Sunt profecto, eaque complura. Canis in
-primis, qui ob fidelitatem obsequiumque amicus hominis ap-
+![canis]()
 
-pellatur. Nullum animal in officio per-
-
-pu solvendo constantius est: aedes ille cu-
-
--^ CWA] sstodit, greges servat, venatoribus etiam
-
+*Discipulus.* — Sunt profecto, eaque complura. Canis in
+primis, qui ob fidelitatem obsequiumque amicus hominis appellatur.Nullum animal in officio persolvendo constantius est: aedes ille custodit, greges servat, venatoribus etiam
 atque aucupibus tantae utilitati est, ut,
-
-nis] canis operam suam tam strenue ho-
-
-mini navaret, nulla ars venatoria esset,
+nisi canis operam suam tam strenue homini
+navaret, nulla ars venatoria esset,
 nullum aucupium.
 
-Magister. � Scisne quid venatio ab aucupio differat ?
+*Magister.* — Scisne quid venatio ab aucupio differat?
 
-Discipulus. � Ante equidem ignorabam; sed memini te
-nuper dicere aves captare aucupium esse, lepores vero maio-
-resque feras insectari eam esse venationem.
+*Discipulus.* — Ante equidem ignorabam; sed memini te
+nuper dicere aves captare aucupium esse, lepores vero maioresque
+feras insectari eam esse venationem.
 
-Magister. � Probissime; pergito.
+*Magister.* — Probissime; pergito.
 
-Discipulus. - Longum est usus omnes persequi, quos ani-
-malia ad humanam vitam adferunt ; ut asini, patientissimum
+*Discipulus.* — Longum est usus omnes persequi, quos animalia ad
+humanam vitam adferunt; ut asini, patientissimum
 genus, ad onera ferenda maxime idoneum; ut bombyces,
 qui bombycem pariunt, unde sericae (vel bombycinae) vestes
 parantur; ut apes, quae mel colligunt atque condunt; ut,
-� 43 �
-si volumus, feles etiam, quae mu-
-res insectatur atque domos obsce- i�
-nis illis hospitibus purgat. (9
-Discipulus tertius. � (Submas- N R 1
-se). Feles mea, fateor, nihil aliud t |
-agit nisi lac sorbet, dormitat, N j
-stertit. Carnem illa quidem, si oc-
-casio detur, arripit voratque; mu-
-ribus vero parcit. Credo eam cum illis pacem sempiternam
+si volumus, feles etiam, quae mures insectatur atque domos
+obscenis illis hospitibus purgat.
+
+![bos]()
+
+*Discipulus tertius.* — (*Submisse*). Feles mea,
+fateor, nihil aliud
+agit nisi lac sorbet, dormitat,
+stertit. Carnem illa quidem, si occasio
+detur, arripit voratque; muribus
+vero parcit. Credo eam cum illis pacem sempiternam
 pepigisse.
-Magister. - De animalibus hodie sat diximus; ad aliam
+
+*Magister.* - De animalibus hodie sat diximus; ad aliam
 rem transeamus.
 
 
@@ -1271,7 +1264,7 @@ EAE poeta ait, �rupto iacuit
 de NS edidicisti
 bs e SN ! Publius. � (Emungit
 nares ; lacet).
-Magister. � Praeclare responsum!
+*Magister.* � Praeclare responsum!
 Publius. � & vis, incipiam.
 Magister. � Quidni? id ipsum volo. Distincte atque
 clare profer.
