@@ -1249,93 +1249,98 @@ rem transeamus.
 
 ### COLLOQUIUM VI (Malus quidam discipulus)
 
-LA M agn1stexr. � Publium
-] E hodie interrogabimus.
-HT Phaedri fabellam, quam
-| her ltalice convertimus,
-n - tu, Publi, memoriter, ut
-| J) praecepi, recitabis. De ra-
-� e xS na rupta agebatur, quae,
-NM Lov� 2H dum bovis magnitudinem
-NSQNE Jj J/ | consequi vult, nimis rugo-
-922 "v sam cutem intendendo, ut
-EAE poeta ait, �rupto iacuit
-; "D: : I! corpore � An versus illos
-de NS edidicisti
-bs e SN ! Publius. � (Emungit
-nares ; lacet).
-*Magister.* � Praeclare responsum!
-Publius. � & vis, incipiam.
-Magister. � Quidni? id ipsum volo. Distincte atque
+*Magister.* — Publium
+hodie interrogabimus.
+Phaedri fabellam, quam
+heri Italice convertimus,
+tu, Publi, memoriter, ut
+praecepi, recitabis. De rana rupta agebatur, quae,
+dum bovis magnitudinem
+consequi vult, nimis rugosam
+cutem intendendo, ut
+poeta ait, «rupto iacuit
+corpore». An versus illos
+edidicisti?
+
+*Publius.* — (*Emungit nares; tacet*).
+
+*Magister.* — Praeclare responsum!
+
+*Publius.* — Si vis, incipiam.
+
+*Magister.* — Quidni? id ipsum volo. Distincte atque
 clare profer.
-Publsus. � (Biss terque balbutit): � In prato quondam.... �.
-Magister. � Nil aliud? Exspecto quae sequuntur.
-Publius. � (Caput scabit; tandem. haesitante hngua  pro-
-nuntiat): �In prato quondam.... �.
-Magister. � Siccine satis? Perge.
-Publius. � Facerem, sed.... nil memini.
-Magister. � An potest quisquam quae numquam didice-
-rt meminisse? Quod nil reminisceris, voluntatis vitium est,
+
+*Publius.* — (*Bis terque balbutit*): «In prato quondam....».
+
+*Magister.* — Nil aliud? Exspecto quae sequuntur.
+
+*Publius.* — (*Caput scabit; tandem haesitante lingua pronuntiat*):
+«In prato quondam....».
+
+*Magister.* — Siccine satis? Perge.
+
+*Publius.* — Facerem, sed.... nil memini.
+
+*Magister.* — An potest quisquam quae numquam didicerit
+meminisse? Quod nil reminisceris, voluntatis vitium est,
 non memoriae.
-Publius. - Nescio quid nunc memoriae officit; sed expe-
-riar: �In prato quondam.... rana... conspexit bovem.... �;
-dixiigitur:... � conspexit bovem.... �. (4d quendam conversus,
-submissa voce): Subice, quaeso. (D�storquet oculos; digitis
-significat ut aliquas sibi subvenaat).
 
-Magister. - �n putas me quid submisse dicas non audire,
+*Publius.* — Nescio quid nunc memoriae officit; sed expe-
+riar: «In prato quondam.... rana... conspexit bovem....»;
+dixi igitur:... «conspexit bovem....». (*Ad quendam conversus,
+submissa voce*): Subice, quaeso. (*Distorquet oculos; digitis
+significat ut aliquas sibi subveniat*).
+
+*Magister.* — An putas me quid submisse dicas non audire,
 manusque tuas non videre? Cur potius non fateris pensum,
-quod accepisti, te neglexisse ?
+quod accepisti, te neglexisse?
 
-Pubitus. � Fateor; sed me reprehendere noli: valetudine
+*Publius.* — Fateor; sed me reprehendere noli: valetudine
 impeditus sum.
 
-Magsster. � Credam?
+*Magister.* — Credam?
 
-Publius. � Totum diem heri ex capite laboravi.
+*Publius.* — Totum diem heri ex capite laboravi.
 
-Magister. � Cur te mentiri suspicer?^ Cedo tamen libel-
-lum tuum, ut inspiciam quomodo
+*Magister.* — Cur te mentiri suspicer? Cedo tamen libellum
+tuum, ut inspiciam quomodo
 praeterita pensa emendaveris.
 
-Publius. �- Domi libellum re-
-liqui. (Ut
+![publius]()
 
-Magister. � Haec quidem
-summa neglegentia est. Quid ? si � y] p 7/ L
-miles eris, armis te instruere obli- a (
-VIsCeris ?. N Zw. c- 74
+*Publius.* — Domi libellum reliqui.
 
-Publius. � Peccavi, fateor;
-sed libellus meus atramenti ma- C!
-culis scatebat; exscribere in ani- Gm
-mo erat; ignoscas.
+*Magister.* — Haec quidem
+summa neglegentia est. Quid? si
+miles eris, armis te instruere oblisceris?
 
-Magister. � lgnoscam; audi
-tamen. Desidiosus es, puer; offi- P V ] L | V e
-cla scholastica semper neglegis.
+*Publius.* — Peccavi, fateor;
+sed libellus meus atramenti maculis
+scatebat; exscribere in animo erat; ignoscas.
 
-Quinque iam menses hunc ludum i�requentas et me audis,
+*Magister.* — Ignoscam; audi
+tamen. Desidiosus es, puer; officia
+scholastica semper neglegis.
+Quinque iam menses hunc ludum frequentas et me audis,
 sed quidnam ex verbis meis profeceris nondum video. Id
 unum scis, plorare; nam, postquam pagellam scholasticam
 pessimis notis distinctam accepisti, tum, ecce, puellarum
 more eiulas: profluvium est lacrimarum; tragoedia mera.
-Negas ea omnia tua culpa fieri; mala fata incusas et prae-
-ceptorum severitatem et magnum viae clamorem, ad quam
+Negas ea omnia tua culpa fieri; mala fata incusas et praeceptorum
+severitatem et magnum viae clamorem, ad quam
 ludus spectat. Coniurant omnia in te, miselle. Tu innocens
 es, diligens, attentus, discipulorum optimus. Redi nunc ad
-4. " PAoL1, Varius libellus,
-� 46 �
-scamnum tuum; cras iterum interrogaberis; hodie, ut pol-
-licitus sum, tibi ignoscam, ut scias numquam seram esse
-paenitentiam, si quem in ludo pigritiae suae taedere coe-
-perit. Sed memento magnam quidem esse magistrorum be-
-nignitatem, non illam tamen infinitam. I quam citissime.
+scamnum tuum; cras iterum interrogaberis; hodie, ut pollicitus
+sum, tibi ignoscam, ut scias numquam seram esse
+paenitentiam, si quem in ludo pigritiae suae taedere coeperit.
+Sed memento magnam quidem esse magistrorum benignitatem,
+non illam tamen infinitam. I quam citissime.
 
 
 ### COLLOQUIUM VII (Discipulorum rixa)
 
-Magister. - Rogat me per famulum praeses ut illum sta-
+*Magister.* - Rogat me per famulum praeses ut illum sta-
 tim conveniam. Spero vos, me absente, quietos fore; non
 diu abero. Tu, Gai, qui classi ob diligentiam praepositus es,
 condiscipulos tuos regendos susceperis; iura disciplinae, tam-
@@ -1351,7 +1356,7 @@ babitur, ipsum me magister reprehendet.
 
 LDascipulus quidam. � Iure id precatur.
 
-LDascipulus alter. � (Ad Gavwum). Dic potius: � Quousque
+LDascipulus alter. — (Ad Gavwum). Dic potius: � Quousque
 tandem patientia mea abutemini? �. Mihi crede, nobilius
 sonat.
 
