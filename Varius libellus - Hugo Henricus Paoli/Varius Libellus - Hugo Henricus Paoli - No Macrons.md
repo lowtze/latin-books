@@ -1512,159 +1512,164 @@ emendaverint, fore ut maioribus poenis plectantur».
 
 ### COLLOQUIUM VIII (De novis verbis Latine fingendis)
 
-Discipulus. � Libenter, magister, hunc tibi libellum tra-
-diderim, quem nuper, festis Paschae diebus, domi otiosus
-composui. Ineptiae sunt, fateor; sed, nescio quomodo, tan-
-topere me delectant, ut quid de toto hoc genere sentias scire
+*Discipulus.* — Libenter, magister, hunc tibi libellum tradiderim,
+quem nuper, festis Paschae diebus, domi otiosus
+composui. Ineptiae sunt, fateor; sed, nescio quomodo, tantopere
+me delectant, ut quid de toto hoc genere sentias scire
 vehementer cupiam.
 
-*Magister.* — Haud sane intellego quidnam inlibello tuo
-scripseris; ostende, quaeso. $i consilium quaeris, quantum
+*Magister.* — Haud sane intellego quidnam in libello tuo
+scripseris; ostende, quaeso. Si consilium quaeris, quantum
 in me est, non gravate tibi adero. Meum enim officium est
 et docendi et admonendi.
 
-Discipulus. � Vide, igitur. Haec interdum mihi cogitatio
+*Discipulus.* — Vide, igitur. Haec interdum mihi cogitatio
 incidit, quod quidem plerisque accidisse suspicor, quam
 multa nostrae aetatis homines reppererint, quae antiquitati
 penitus ignota fuerunt. Quae si veteres illi scriptores patrio
-sermone significare vellent, quibus verbis uterentur? Id igi-
-tur expertus sum, si qua nostrae aetatis verba, quae recen-
-tissima essent, recte Latine converti possent.
+sermone significare vellent, quibus verbis uterentur? Id igitur
+expertus sum, si qua nostrae aetatis verba, quae recentissima
+essent, recte Latine converti possent.
 
-Magister. - Ede exemplum.
+*Magister.* — Ede exemplum.
 
-LDascipulus. � Audi. Eam tabernam, quam saepe ingre-
-dimur, ut stantes fabae Arabicae sucum ducere, vel cer-
-visiae poculum haurire possimus, ut nos barbarico verbo
+*Discipulus.* — Audi. Eam tabernam, quam saepe ingre-
+dimur, ut stantes fabae Arabicae sucum ducere, vel cervisiae
+poculum haurire possimus, ut nos barbarico verbo
 (prosunt enim et verba externa, si brevitas illa commendet)
-bar ' appellamus, tabernam botoriam Latine dicendam puto.
-Probasne ?
+'*bar*' appellamus, *tabernam potoriam* Latine dicendam puto.
+Probasne?
 
-Magister. � Minime.
+*Magister.* — Minime.
 
-LDascipulus. � Cur?
+*Discipulus.* — Cur?
 
-Magister. � Erras enim et vehementer tu, cum credas
+*Magister.* — Erras enim et vehementer tu, cum credas
 nullas potorias tabernas veteribus fuisse. Nil apud illos tam
-frequens, tam usitatum fuit. Graeco nomine Zhermopolia vo-
-cabant. Idem igitur fuit apud Graecos et Romanos /Aermo-
-� 52 �
-solium quod ' bay ' apud nos. Quod cum ita sit, quid attinet
-nova vocabula fingere? Nisi forte libeat in antiquorum no-
-minum locum recentiores locutiones temere subicere, ita ut
-pro /heatro ' spectandi locus ' dicatur,
-pro b:bhotheca ' aedificium librorum
-e armaria adservans ', pro Aave�tra ' sa-
-7 gittarum custodia '. Quo quid stultius
+frequens, tam usitatum fuit. Graeco nomine *thermopolia* vocabant.
+Idem igitur fuit apud Graecos et Romanos *thermopolium*
+quod '*bar*' apud nos. Quod cum ita sit, quid attinet
+nova vocabula fingere? Nisi forte libeat in antiquorum nominum
+locum recentiores locutiones temere subicere, ita ut
+pro *theatro* 'spectandi locus' dicatur,
+pro *bibliotheca* 'aedificium librorum
+armaria adservans', pro *pharetra* 'sagittarum
+custodia'. Quo quid stultius
+fingi potest?
 
-fingi potest ?
-zz Dascipulus. - At multa sunt, quibus
+*Discipulus.* - At multa sunt, quibus
+veteres procul dubio caruerunt.
 
-C ei veteres procul dubio caruerunt.
+*Magister.* — Certe; cedo igitur libellum,
+ut diligenter inspiciam. Vel potius, ipse recita.
 
-im C Magister. � Certe; cedo igitur li-
+*Discipulus.* — «Sigaro», *nicotiniana*
+*folia in bacilli formam convoluta*. Probasne?
 
-( N N bellum, ut diligenter inspiciam. Vel po-
+*Magister.* — Non satis; nam tu, dum
+«sigaro» Latine reddere conaris, Iliadem
+paene scripsisti. Quam multis verbis enim usus es ut
+rem unam significares! An credas, si apud Romanos mos
+hic invaluisset, ut, tabaci fumum sugerent. hac, ut ita dicam,
+periphrasi usuros fuisse? In novis vocabulis fingendis
+nimis longae verborum circuitiones vitandae sunt. Simplicitate
+est opus, quae praecipua virtus habetur in loquendo.
+Ut melius Antonius Bacci, qui vir singulari doctrina ac peritia
+id sibi proposuit ut, quae vocabula Romanis prorsus
+ignota nostra tempora postulant, ea Latine redderet, «sigaro» 
+*tortile tabacum* vocavit!
 
-j| 2 ( | tius, ipse recita.
+![birota]()
 
-x CM Discipulus. � � Sigaro �, nicotintana
-folia inbacis formam convoluta. Pro-
-basne?
+*Discipulus.* — 'Bicicletta' *bicyclula*, *birota*.
 
-Magister. - Non satis; nam tu, dum
-�sigaro � Latine reddere conaris, Ilia-
-dem paene scripsisti. Quam multis verbis enim usus es ut
-rem unam significares! �n credas, si apud Romanos mos
-hic invaluisset, ut, tabaci fumum sugerent. hac, ut ita di-
-cam, periphrasi usuros fuisse? In novis vocabulis fingendis
-nimis longae verborum circuitiones vitandae sunt. Simplici-
-tate est opus, quae praecipua virtus habetur in loquendo.
-Ut melius Antonius Bacci, qui vir singulari doctrina ac pe-
-ritia id sibi proposuit ut, quae vocabula Romanis prorsus
-ignota nostra tempora postulant, ea Latine redderet, � si-
-garo � �orale tabacum vocavit!
-
-LDascibulus. � ' Bicicletta" bicyciula, bota.
-
-Magister. - Utrumque vocabulum probo; alterum enim
+*Magister.* — Utrumque vocabulum probo; alterum enim
 Aloisius Graziani eleganti atque vulgatissimo carmine sanxit
 et quasi publico iure fecit, alterum Maurus Ricci lepidis
 quibusdam versiculis. Perge, quaeso.
 
-Discipulus. � ' Andare in bicicletta ' boota ire, incedere.
+*Discipulus.* — 'Andare in bicicletta' *birota ire*, *incedere*.
 
-Magister. � Falso! Nam re quid esset, sescenties dixi:
-pedes incedendo vel ambulando alternare, gradum gradui ad-
-dere, id illud est quod recte :xe dixeris. Quisquis vero vehiculo
-� 83 �
+*Magister.* — Falso! Nam *ire* quid esset, sescenties dixi:
+pedes incedendo vel ambulando alternare, gradum gradui addere,
+id illud est quod recte *ire* dixeris. Quisquis vero vehiculo
 fertur, sive navem conscendit, sive currum agit, vel birotae
-insidet, velitur ile, non i. Hoc loco igitur libellum tuum
-sic emendes oportet: birota vehi. Nunc recita quae sequuntur.
+insidet, *vehitur* ille, non *it*. Hoc loco igitur libellum tuum
+sic emendes oportet: *birota vehi*. Nunc recita quae sequuntur.
 
-Discipulus. � ' La radio" radvophonum, ' Automobile '
-autocinetum.
+*Discipulus.* — 'La radio' *radiophonum*, 'Automobile'
+*autocinetum*.
 
--� g
+![autocinetum]()
 
-Magister. � Ficta ista verba sunt; neque tamen dam-
-nanda mihi videntur. Nam quid opus est per verborum
+*Magister.* — Ficta ista verba sunt; neque tamen damnanda
+mihi videntur. Nam quid opus est per verborum
 ambitum recentiora inventa significare, cum
-Graeco sermone multa quae nostrae aetatis �� -��
-sint ita exprimere possimus ut singulis ver- (^ E
-bis singulae res significentur? 5o gy,
+Graeco sermone multa quae nostrae aetatis
+sint ita exprimere possimus ut singulis verbis
+singulae res significentur?
 
-Dascipulus. � ' Gelato di panna montata j- i4
-nivea lac�s flors sorbilio. d ;
+![puer niveam lactis sorbitionem edit]()
 
-Discipulus alter. � (Submassa voce). Sor- Y - 4 f
-bere malo quam Latine conversam audire. SM ^5
+*Discipulus.* — 'Gelato di panna montata'
+*nivea lactis floris sorbitio*.
 
-Discipulus. � ' Cartoni. animati ^ veventes
-Wnagines, ' Commissione di esami di 5tato '
-septemvii discipulis bublace vudtcandas. /
+*Discipulus alter.* — (*Submissa voce*). Sorbere
+malo quam Latine conversam audire.
 
-Discipula quaedam. � Quod di avertant!
+*Discipulus.* — 'Cartoni. animati' *viventes*
+*imagines*, 'Commissione di esami di Stato'
+*septemviri discipulis publice iudicandis*.
 
-M agister. � St! Condiscipulum loquentem v
+*Discipula quaedam.* — Quod di avertant!
+
+*Magister.* — St! Condiscipulum loquentem
 interpellare non licet.
 
-DAsctpula. � lgnosce, quaeso; sed, nescio |
-cur, verba illa timorem quendam in animum L
-meum iniciunt. 2
+*Discipula.* — Ignosce, quaeso; sed, nescio |
+cur, verba illa timorem quendam in animum
+meum iniciunt.
 
-Magister. (Subridens). � Si quis dili-
-genter in studia incubuerit, nihil ilh a iudicibus est ti-
-mendum.
-Discipula. � 91c aiunt; sed...
-Magister. - Visne aliquando, puella, linguam tuam con-
-tinere ?
-(Ad discipulum conversus). � At tu quae sequuntur recita.
-Discipulus. � ' Portalettere ' Publtcus tabellarius, ' Cara-
-mella ' concretum saccharon, * Pianola ' machinale cymbalum,
-* Partita di calcio" fedibus folltculo ludenttum. certamen.
-Magister. � Iam satis est. Nunc probe intellexi quid tibi
-proposueris. Cedo libellum; domi legam. Cras tibi adnota-
-tionibus instructum restituam.
-Discipulus. � (Libellum tradat).
-Magister. - Ingenium tuum admiror, diligentiam laudo;
-vocabula ipsa probo acumine quodam et mentis sollertia re-
-perta. Sed illud te monitum volo: vereor,
-K puer, ne nimis et temporis et laboris insu-
-d.i f ecsoc- !!" mas in opere vano; nam quae praeterita
-� m /6 aetate nulla erant, nomen iis addere arbi-
-" v trium est. locus est iste puerilis, res vete-
-| ribus prorsus ignotas velle ipsorum voca-
-bulis significare. $i Latinum sermonem
+*Magister.* (*Subridens*). — Si quis diligenter
+in studia incubuerit, nihil illi a iudicibus est timendum.
+
+*Discipula.* — Sic aiunt; sed....
+
+*Magister.* — Visne aliquando, puella, linguam tuam continere?
+
+(*Ad discipulum conversus*). — At tu quae sequuntur recita.
+
+*Discipulus.* — 'Portalettere' *publicus tabellarius*, 'Caramella'
+*concretum saccharon*, 'Pianola' *machinale cymbalum*,
+'Partita di calcio' *pedibus folliculo ludentium certamen*.
+
+*Magister.* — Iam satis est. Nunc probe intellexi quid tibi
+proposueris. Cedo libellum; domi legam. Cras tibi adnotationibus
+instructum restituam.
+
+*Discipulus.* — (*Libellum tradit*).
+
+![magister dicit: 'ciceronem legito'.]()
+
+*Magister.* — Ingenium tuum admiror, diligentiam laudo;
+vocabula ipsa probo acumine quodam et mentis sollertia reperta.
+Sed illud te monitum volo: vereor,
+puer, ne nimis et temporis et laboris insumas
+in opere vano; nam quae praeterita
+aetate nulla erant, nomen iis addere arbitrium
+est. locus est iste puerilis, res veteribus
+prorsus ignotas velle ipsorum vocabulis
+significare. Si Latinum sermonem
 diligis, si proavorum nostrorum lingua
 tantopere tibi cordi est, si magnam hanc
 laudem adfectas (quam, fateor, et ipse
-EZ semper concupivi, atque utinam vel mini-
-mam partem sim consecutus!), ut omnes
-te dicant in Latino sermone non mediocriter esse versa-
-tum, sperne, suavissime, vanam istam exercitationem: in-
-sulsum quiddam est, mihi crede, nil nisi temporis impen-
-dium. Ciceronem legito.
+semper concupivi, atque utinam vel minimam
+partem sim consecutus!), ut omnes
+te dicant in Latino sermone non mediocriter esse versatum,
+sperne, suavissime, vanam istam exercitationem: insulsum
+quiddam est, mihi crede, nil nisi temporis impendium.
+Ciceronem legito.
+
 
 ## INDORUM PROVERBIA
 
