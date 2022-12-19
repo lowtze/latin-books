@@ -1340,166 +1340,172 @@ non illam tamen infinitam. I quam citissime.
 
 ### COLLOQUIUM VII (Discipulorum rixa)
 
-*Magister.* - Rogat me per famulum praeses ut illum sta-
-tim conveniam. Spero vos, me absente, quietos fore; non
+*Magister.* — Rogat me per famulum praeses ut illum statim conveniam.
+Spero vos, me absente, quietos fore; non
 diu abero. Tu, Gai, qui classi ob diligentiam praepositus es,
-condiscipulos tuos regendos susceperis; iura disciplinae, tam-
-quam si magister sis, exerceto. (Ab).
+condiscipulos tuos regendos susceperis; iura disciplinae, tamquam si
+magister sis, exerceto. (*Abit*).
 
-Undique submassa murmura audvuntur ; buellae statim ala-
-criter, ut adsolent, confabular vncipyunt ; hic ridet, alle blum-
-bum acu; monnull: oscitant. Ius, discipulorum besswmus,
-brachium. [ule carpit; hac aegre vocem bremat..
+*Undique submissa murmura audiuntur; puellae statim alacriter,*
+*ut adsolent, confabulari incipiunt; hic ridet, ille plumbum*
+*acuit; monnulli oscitant. Titus, discipulorum pessimus,*
+*brachium Iulii carpit; hic aegre vocem premit.*
 
-Gawus. � St! Vos oro ut silentium teneatis; si quid tur-
-babitur, ipsum me magister reprehendet.
+*Gaius.* — St! Vos oro ut silentium teneatis; si quid turbabitur,
+ipsum me magister reprehendet.
 
-LDascipulus quidam. � Iure id precatur.
+*Discipulus quidam.* — Iure id precatur.
 
-LDascipulus alter. — (Ad Gavwum). Dic potius: � Quousque
-tandem patientia mea abutemini? �. Mihi crede, nobilius
+*Discipulus alter.* — (*Ad Gaium*). Dic potius: «Quousque
+tandem patientia mea abutemini?». Mihi crede, nobilius
 sonat.
 
-Ius. � (Gavum brocaciter antuens). Salve, magister op-
-time; magister et domine, salve.
+*Titus.* — (*Gaium procaciter intuens*). Salve, magister optime;
+magister et domine, salve.
 
-Gaius. � (Radens). Et te salvere iubeo; sed tace.
+*Gaius.* — (*Ridens*). Et te salvere iubeo; sed tace.
 
-Tus. � Dic mihi, doctissime: licetne paululum exire?
+*Titus.* — Dic mihi, doctissime: licetne paululum exire?
 
-Gawws. � Non licet.
+*Gaius.* — Non licet.
 
-Ius. � Sed necessitas quaedam impellit ut exeam.
+*Titus.* — Sed necessitas quaedam impellit ut exeam.
 
-Gaius. � Credo; sed cito magister revertetur; tum, si ille
+*Gaius.* — Credo; sed cito magister revertetur; tum, si ille
 permiserit, exibis. Nunc tace.
 
-litus. � (Cantitat, manus sw agtans, velut si cithara
-[udat).
+*Titus.* — (*Cantitat, manus sic agitans, velut si cithara*
+*ludat*).
 
-Vice magistri fungitur;
-Gerit quatitque ferulam;
-Discipulis imperitat,
-Formidulosus omnibus.
-� 48 �
-Adspectu venerabilis,
-Quamvis pusillo corpore,
-27 Infirmo quamvis latere,
-^. S Pallente quamvis facie.
-Y z Magistri sedem occupat;
-Magistri tenet cathedram.
-O casus iucundissimus!
-(Cachinnat)
-S ^ Asellos regit.... asinus.
-T | T V G Fadent omnes ; unus. Valerius
-jrontem. contrahi, el. capite nutat.
-lI12tus. � Cur, Valeri, me ca-
-nente abnuis? Novi mores tuos; oboedientior es quam decet.
-o5cholasticam modestiam nimis servas; ludi disciplinam ultra
+![Titus]()
+
+> Vice magistri fungitur;
+> Gerit quatitque ferulam;
+> Discipulis imperitat,
+> Formidulosus omnibus.
+>
+> Adspectu venerabilis,
+> Quamvis pusillo corpore,
+> Infirmo quamvis latere,
+> Pallente quamvis facie.
+>
+> Magistri sedem occupat;
+> Magistri tenet cathedram.
+> O casus iucundissimus!
+(*Cachinnat*)
+> Asellos regit.... asinus.
+
+*Rident omnes; unus. Valerius frontem.contrahit, et capite nutat.*
+
+*Titus.* — Cur, Valeri, me canente
+abnuis? Novi mores tuos; oboedientior es quam decet.
+Scholasticam modestiam nimis servas; ludi disciplinam ultra
 modum amas. Sed ficta est atque adsimulata ista tua virtus,
-fictum istud disciplinae studium. Omnium inobsequio vivis,
+fictum istud disciplinae studium. Omnium in obsequio vivis,
 miserrime. Magistro adsentaris; praesidem cernuus, obtorto
-collo oculisque demissis, tamquam supplex, adloqueris; ip-
-sum ludi famulum catelli more
-adularis. Atqui boni discipuli p
-munera haec tria sunt: discipli- (
-nam odisse, magistros contem- ^
-nere, aliena pensa exscribere. 9 32s !
-(Fdet alaquas ; ceteri yndagnantur ). A^ �
-Discipulus quidam. � Visne CN, �
-tacere? [aedet nos omnes im- pA
-portunae istius loquacitatis.
-I ullius. � Patere; stultus est. N
-Qui stultus nascitur, stulte lo-
-quitur, stulte agit, insuaque stul-
-titia involutus, tamquam sus in I V | a | V -
+collo oculisque demissis, tamquam supplex, adloqueris; ipsum
+ludi famulum catelli more
+adularis. Atqui boni discipuli
+munera haec tria sunt: disciplinam
+odisse, magistros contemnere,
+aliena pensa exscribere.
+(*Ridet aliquis; ceteri indignantur*).
+
+![Tullius]()
+
+*Discipulus quidam.* — Visne
+tacere? Taedet nos omnes importunae
+istius loquacitatis.
+
+*Tullius.* — Patere; stultus est.
+Qui stultus nascitur, stulte loquitur,
+stulte agit, insuaque stultitia
+involutus, tamquam sus in
 coeno, vivit. Dies veniet: stulte
 peribit. In ludo iste nil proficit; mente parum validus cum
 sit, lingua tantum valet, mirae loquacitatis adulescentulus.
 Ceterum nescit quot digitos in manu habeat.
-� 49 �
 
-Titus. � Heus tu! Quid submurmuras? Quid me vana
-ista garrulitate incessis ? Audivi equidem quid diceres. Stul-
-tus ego? Tu, credo, unus sapis. Mirum quantum! Poeta es;
-id quis ignorat? Tamquam Musarum adflatu instinctus in-
-tueris; sollemniter incedis; capillos insuper innumerabiles
+*Titus.* — Heus tu! Quid submurmuras? Quid me vana
+ista garrulitate incessis? Audivi equidem quid diceres. Stultus
+ego? Tu, credo, unus sapis. Mirum quantum! Poeta es;
+id quis ignorat? Tamquam Musarum adflatu instinctus intueris;
+sollemniter incedis; capillos insuper innumerabiles
 seris. Capillos dixi? Silva est potius; eaque tam densa, quam
 ne Orpheus quidem, collega ille tuus, lyrae cantu deduceret.
 Sed audi me, pupule, audi, bellissime: timeo, vehementer
-timeo � quid? -, ne incondita ista silva incolas plurimos
-alat. (Cachinnat).
+timeo — quid? —, ne incondita ista silva incolas plurimos
+alat. (*Cachinnat*).
 
-Gai4us. � Finem tandem facito protervis istis dictis; nisi
+*Gaius.* — Finem tandem facito protervis istis dictis; nisi
 conticueris, famulum arcessam magistrumque per illum orabo
 ut statim redeat.
 
-Iulhus. Ego vero ne magistrum quidem exspectabo,
+*Tullius.* — Ego vero ne magistrum quidem exspectabo,
 at, si verbum amplius addideris, colaphum tibi impingam.
 Reminiscere: hi mei versus sunt, haec carmina cano.
 
-I1tus. � O Parnasi decus, o caput Musis pediculisque di-
-lectum, credisne te unum manus habere? Pugnis tam bene
+*Titus.* — O Parnasi decus, o caput Musis pediculisque dilectum,
+credisne te unum manus habere? Pugnis tam bene
 utor quam lingua: experire, vapulabis.
 
-Iullus. � Tu potius: en, accipe! (Os 9/IA contundat).
+*Tullius.* — Tu potius: en, accipe! (*Os illi contundit*).
 
-I1tus. � Accipe et tu. (Pugnwum qn. Iulia caput ympiangit).
+*Titus.* — Accipe et tu. (*Pugnum in Tullii caput impingit*).
 
-Graws ium oritur tumultus el buellarum quwiatio ; con-
-clave totum clamoribus bersonat; qu omnibus scamnas turba-
-(ur. De improviso magister n. lymine vnssstens. conspacitur :
-magnum fi sWentwm.
+*Gravis tum oritur tumultus et puellarum quiriatio; conclave*
+*totum clamoribus personat; in omnibus scamnis turbatur.*
+*De improviso magister in limine insistens conspicitur:*
+*magnum fit silentium.*
 
-Magister. � Optime! laudo; ita scilicet ludi disciplina
-servatur. (Cathedram 4nscendit ; sedet). Considite. Tu, Gai,
-famulum voca. Praesidem ille cum duobus istis belligeran-
-tibus adeat. Tu illos comitabere; rem omnem diligentissime
+*Magister.* — Optime! laudo; ita scilicet ludi disciplina
+servatur. (*Cathedram inscendit; sedet*). Considite. Tu, Gai,
+famulum voca. Praesidem ille cum duobus istis belligerantibus
+adeat. Tu illos comitabere; rem omnem diligentissime
 enarrabis; quod ubi feceris, statim redito.
 
-I4tus, Tullius, Gavus exeunt. �
+*Titus, Tullius, Gaius exeunt.*
 
-M agister. � (Obducta fronte dau tacet ; dein- S�
-de Caesarem adloquitur): Tu, Caesar, pygmaeo- i:
-rum narratiunculam, quod pensuni heri acce- V
-pistis, liberius expone. x
+![pygmaeus et ovum]()
 
-Caesar. � Pygmaei ternis mensibus expe- x
-ditionem contra grues faciunt. �Insident arie-  * |
-� 580 �
-tibus vel capris; sagittis bellum gerunt. Ova pullosque ar-
-ripiunt, quibus utuntur pro cibo. Pinnis putaminibusque
+*Magister.* — (*Obducta fronte diu tacet; deinde*
+*Caesarem adloquitur*): Tu, Caesar, pygmaeorum
+narratiunculam, quod pensuni heri accepistis,
+liberius expone.
+
+*Caesar.* — Pygmaei ternis mensibus expeditionem
+contra grues faciunt. Insident arietibus
+vel capris; sagittis bellum gerunt. Ova pullosque arripiunt,
+quibus utuntur pro cibo. Pinnis putaminibusque
 admixto luto casulas aedificant.
 
-Magister. � Probe rem exposuisti. In hoc tamen errasti,
-quod verbum :n6sideni pronuntians secundam syllabam per-
-peram aculsti; at prima acuenda erat: �nsident pronuntian-
-dum est, non 206s�dent!
+*Magister.* — Probe rem exposuisti. In hoc tamen errasti,
+quod verbum *insident* pronuntians secundam syllabam perperam
+acuisti; at prima acuenda erat: *ínsident* pronuntiandum
+est, non *insídent*!
 
-Gaius. � le orat praeses ut discipulis recites quae ille
-in his classis commentarus scripsit. (Commentarios borrigit).
+*Gaius.* — Te orat praeses ut discipulis recites quae ille
+in his classis commentarus scripsit. (*Commentarios porrigit*).
 
-Magtster. � (Recitat).
+*Magister.* — (*Recitat*).
 
-� Titus, quod, absente magistro, ludi disciplinam turba-
-verit, condiscipulos irriserit, remque ad rixam perduxerit,
+«Titus, quod, absente magistro, ludi disciplinam turbaverit,
+condiscipulos irriserit, remque ad rixam perduxerit,
 quinque dies a ludo abesto.
 
-� Tullius, quod lacessitus nimis acriter responderit, prior-
-que vi usus sit, tres dies a ludo abesto. |
+«Tullius, quod lacessitus nimis acriter responderit, priorque
+vi usus sit, tres dies a ludo abesto.
 
-�Neuter rursus in ludum admittetur, nisi pater, vel is
+«Neuter rursus in ludum admittetur, nisi pater, vel is
 qui patris munere fungitur, eum comitetur.
 
-� Cum redierint, severe a magistro admonendi sunt, ni se
-emendaverint, fore ut maioribus poenis plectantur �.
+«Cum redierint, severe a magistro admonendi sunt, ni se
+emendaverint, fore ut maioribus poenis plectantur».
 
-Magister. � (Graphio commentarios signat; charta. bibula
-exsiccat ; famulo reddit). 9c fiet.
+*Magister.* — (*Graphio commentarios signat; charta bibula*
+*exsiccat; famulo reddit*). Sic fiet.
 
-�(CE
-LS XC]
-Cw
+![pygmaeus caprum insidet et sagittis bellum gerit]()
 
 
 ### COLLOQUIUM VIII (De novis verbis Latine fingendis)
@@ -1510,7 +1516,7 @@ composui. Ineptiae sunt, fateor; sed, nescio quomodo, tan-
 topere me delectant, ut quid de toto hoc genere sentias scire
 vehementer cupiam.
 
-Magister. � Haud sane intellego quidnam inlibello tuo
+*Magister.* — Haud sane intellego quidnam inlibello tuo
 scripseris; ostende, quaeso. $i consilium quaeris, quantum
 in me est, non gravate tibi adero. Meum enim officium est
 et docendi et admonendi.
