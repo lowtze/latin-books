@@ -1657,7 +1657,7 @@ Sed illud te monitum volo: vereor,
 puer, ne nimis et temporis et laboris insumas
 in opere vano; nam quae praeterita
 aetate nulla erant, nomen iis addere arbitrium
-est. locus est iste puerilis, res veteribus
+est. Iocus est iste puerilis, res veteribus
 prorsus ignotas velle ipsorum vocabulis
 significare. Si Latinum sermonem
 diligis, si proavorum nostrorum lingua
