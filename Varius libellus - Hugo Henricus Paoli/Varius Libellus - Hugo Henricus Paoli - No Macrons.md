@@ -1379,21 +1379,23 @@ permiserit, exibis. Nunc tace.
 
 ![Titus]()
 
-> Vice magistri fungitur;
-> Gerit quatitque ferulam;
-> Discipulis imperitat,
-> Formidulosus omnibus.
->
-> Adspectu venerabilis,
-> Quamvis pusillo corpore,
-> Infirmo quamvis latere,
-> Pallente quamvis facie.
->
-> Magistri sedem occupat;
-> Magistri tenet cathedram.
-> O casus iucundissimus!
+> Vice magistri fungitur;  
+> Gerit quatitque ferulam;  
+> Discipulis imperitat,  
+> Formidulosus omnibus.  
+>  
+> Adspectu venerabilis,  
+> Quamvis pusillo corpore,  
+> Infirmo quamvis latere,  
+> Pallente quamvis facie.  
+>  
+> Magistri sedem occupat;  
+> Magistri tenet cathedram.  
+> O casus iucundissimus!  
+
 (*Cachinnat*)
-> Asellos regit.... asinus.
+
+> Asellos regit.... asinus.  
 
 *Rident omnes; unus. Valerius frontem.contrahit, et capite nutat.*
 
