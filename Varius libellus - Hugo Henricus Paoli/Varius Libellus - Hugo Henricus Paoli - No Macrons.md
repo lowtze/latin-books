@@ -1673,430 +1673,402 @@ Ciceronem legito.
 
 ## INDORUM PROVERBIA
 
-I. Aliud divitis iter est, aliud sapientis.
+1. Aliud divitis iter est, aliud sapientis.
+
 2. Silentium ignorantiae ornamentum est.
-3. Oua ex parte pluit, ea umbellam opponito.
-QR OZ
-A v
-// MS
-CN E
-E AN
-win
-E CZ
-A | N
-ms
-M. 2Dcec � Nl
-4. 91 discipulus errat, magister culpatur.
-5. stulto libri quid prosunt? quid speculum caeco*
-6. Defosso auro nemo utitur. ;
-7. Qui male calceatus est, viam male esse stratam que-
-ritur.
-� 8985 �
-8. Latranti hyaenae leo non uira-
-scitur.
-E 9. Umbram suam nemo unquam
-transiluit.
-W IO. Dant saepe humiles quod magni
-| recusant: sitientes ma-
-ris aquam spernimus,
-V fonticulum quaerimus.
-II. Rex in finibus
-suis venerationem ha-
-rA NM bet, sapiens ubique.
-OQ I2. Tardo gradu
-QS f� Fortuna advenit, celeri
+
+3. Qua ex parte pluit, ea umbellam opponito.
+
+![Qua ex parte pluit, ea umbellam opponito.]()
+
+4. Si discipulus errat, magister culpatur.
+
+5. Stulto libri quid prosunt? quid speculum caeco?
+
+6. Defosso auro nemo utitur.
+
+7. Qui male calceatus est, viam male esse stratam queritur.
+
+![latrans hyaena]()
+
+8. Latranti hyaenae leo non irascitur.
+
+9. Umbram suam nemo unquam transiluit.
+
+10. Dant saepe humiles quod magni recusant:
+sitientes maris aquam spernimus,
+fonticulum quaerimus.
+
+11. Rex in finibus suis venerationem habet,
+sapiens ubique.
+
+12. Tardo gradu Fortuna advenit, celeri
 cursu discedit.
-I3. Cito venter impletur, animus numquam.
-I4. Ne dies inutilis praetereat, aliquid cotidie legendum
+
+13. Cito venter impletur, animus numquam.
+
+14. Ne dies inutilis praetereat, aliquid cotidie legendum
 est, aliquid incipiendum, aliquid donandum.
-I5. sine socio nihil prospere geritur: quis ambulet
+
+15. Sine socio nihil prospere geritur: quis ambulet
 pede uno?
-IOC. Fortibus ne obstiteris: nubes ventum sequitur.
-I7. Summa est stultitia alieno
-Iudicio iudicare. S
-IS. Ignavorum verba, ut testudi- KA ON
-! ! L� el. jo
-nis collum, modo emittuntur, modo A,
-recedunt. s m a
-IQ9A. Bonum quaerenti fausta om- A
-nia succedunt.
-20. Morere potius quam virtutem deseras; ignem imi-
-tare, qui potest exstingui, frigescere non potest.
-21. Qui multa superbus negavit, multa suppliciter pe-
-tere cogetur.
+
+16. Fortibus ne obstiteris: nubes ventum sequitur.
+
+17. Summa est stultitia alieno iudicio iudicare.
+
+![testudo]()
+
+18. Ignavorum verba, ut testudinis
+collum, modo emittuntur, modo
+recedunt.
+
+19. Bonum quaerenti fausta omnia succedunt.
+
+20. Morere potius quam virtutem deseras; ignem imitare,
+qui potest exstingui, frigescere non potest.
+
+21. Qui multa superbus negavit, multa suppliciter petere cogetur.
+
 22. Prudentiam, doctrinam, sollertiam fur nemo ademit.
+
 23. Citius oceanus quam verus amor coercebitur.
-24. Di non gladio feriunt; quem illi oderunt, mentem oc-
-caecando perdunt.
-25. Fit ut aut hominem pecunia deserat, aut homo pe-
-cuniam.
-26. Frustra pauper ditior fieri la- -.
-borat: nummi nummis capiuntur, ut lS
-elephantis elephanti. s $i
 
-27. Neque vir malus Ssenescente
-aetate mitescit neque cucumis rectus x �
-propter maturitatem dulcescit. NV PA
+24. Di non gladio feriunt; quem illi oderunt, mentem occaecando perdunt.
 
-28. Senescentis hominis capilh, gi y
-dentes, oculi, aures consenescunt: una ( v
-animi cupiditas senescere nequit. d.
+25. Fit ut aut hominem pecunia deserat, aut homo pecuniam.
 
-.29. Varius bucularum est color,
+![elephantus magnus]()
 
-sed album lac; multae sunt hominum virtutes, veritas un�.
+26. Frustra pauper ditior fieri laborat:
+nummi nummis capiuntur, ut
+elephantis elephanti.
+
+27. Neque vir malus senescente
+aetate mitescit neque cucumis rectus
+propter maturitatem dulcescit.
+
+28. Senescentis hominis capilli,
+dentes, oculi, aures consenescunt: una
+animi cupiditas senescere nequit.
+
+29. Varius bucularum est color,
+sed album lac; multae sunt hominum virtutes, veritas una.
+
 30. Generosus animus adamante durior est, flore delicatior.
-31. Lychnus tenebras vorat ; fun-
-Mss cos RR. gos idem, fuliginem, fumum parit.
-ANN. � uo quisque cibo vescitur, talem
 
-E 2.4 �z &. progeniem habet.
-GE MP  QEDER 32. Quod fieri nequit timendum
-3 ie � 4) non est; nemini unquam bis caput
-iesu p I obtruncatum est aut ter manus ab-
+![lychnus]()
 
-ON rox ce scisa.
+31. Lychnus tenebras vorat ; fungos
+idem, fuliginem, fumum parit.
+Quo quisque cibo vescitur, talem
+progeniem habet.
+
+32. Quod fieri nequit timendum
+non est; nemini unquam bis caput
+obtruncatum est aut ter manus abscisa.
 
 33. Miris quibusdam catenis spe
 homines vinciuntur, qua impediti currunt, soluti iacent.
 
-34. In summo tantum rerum discrimine quid valeat ami-
-cus discitur, quid uxor, quid servus, quid ani-
-mus ipse noster. �.
+34. In summo tantum rerum discrimine quid valeat amicus
+discitur, quid uxor, quid servus, quid animus ipse noster.
 
-35. Misera ac ridenda vanitas est: cornix h
-coram cycnis et pavonibus molliter saltare "
-non erubescit. 1
+![cornix]()
 
-"TN did ^ .vu*c
-V "P y 5 v e wv �
-Y "
-y AN / / N / 6 / .
-NJ
-SN "" SY �VYmE
-ZA / � zx j� /� , Sun
-� 60 �
+35. Misera ac ridenda vanitas est: cornix
+coram cycnis et pavonibus molliter saltare
+non erubescit.
+
+![pavones]()
 
 36. Vilescit cycnus graculis immixtus, inter hyaenas leo,
 inter asinos equus, vir sapiens in turba indoctorum.
 
-37. lmprobos beneficio adficere idem est ac si inaere
+37. Improbos beneficio adficere idem est ac si in aere
 aedifices, in vento pingas, inaqua scribas.
 
-38. Qui flecti nequit, magna illi pericula obeunda sunt ;
+38. Qui flecti nequit, magna illi pericula obeunda sunt;
+erectas arbores lignator caedit, distortas neglegit.
 
-. erectas arbores lignator caedit, distortas ne-
-glegit.
+![serpens]()
 
-30. Virus serpentes indente gerunt, equi-
-nae muscae in capite, in cauda scorpiones;
+39. Virus serpentes indente gerunt, equinae
+muscae in capite, in cauda scorpiones;
 pravi hominis animus veneno inficitur totus:
 merum ille venenum est.
 
-40. Improborum testimonia culpae suspi-
-cionem non delent; qui vestem limosa aqua lavat, vestis
+40. Improborum testimonia culpae suspicionem
+non delent; qui vestem limosa aqua lavat, vestis
 maculas non purgat.
 
-41. Improbus, dum alis noceat, vitam ipsam spernit.
+![musca in cibum incidit]()
+
+41. Improbus, dum aliis noceat, vitam ipsam spernit.
 Prandenti tibi musca in cibum incidit, gaudetque moriens
 quod te vomentem videt.
 
-42. Dolor non eodem impetu ignavos �(s
+42. Dolor non eodem impetu ignavos
 homines petit atque nobiles: frigora
 pedes citius quam oculos mordent.
 
-43. Dignitate magister decem prae- QUBN
-ceptoribus praestat, centum magistris
+43. Dignitate magister decem praeceptoribus
+praestat, centum magistris
 pater, mater cuivis.
 
-44. Sic avarum pecunia iuvat, ut ci-
-tharae cantus surdum, ridentes virgines
+44. Sic avarum pecunia iuvat, ut citharae
+cantus surdum, ridentes virgines
 caecum, florea serta mortuum.
 
 45. Elephantos compedibus adstrictos adspice, domitos
-angues, sapientes viros paupertate oppressos: quid fata pos-
-sint inde considerato.
+angues, sapientes viros paupertate oppressos: quid fata possint
+inde considerato.
 
 46. Ut manus corpori sponte subveniunt, ut cilia oculis,
 Sic amicus amico morem gerere ne cunctetur.
 
 47. Fortis neglegenter pugnans infirmo cuivis succumbit.
 
-495. Nescio quid veneni vitam nostram tamquam malam
-arborem inficit; duo tamen suavissimi fructus inde perci-
-piuntur: poetarum carmina et bonorum sermones.
+48. Nescio quid veneni vitam nostram tamquam malam
+arborem inficit; duo tamen suavissimi fructus inde percipiuntur:
+poetarum carmina et bonorum sermones.
 
-49. Qui iniuste agit, semetipsum non diligit; nam quic-
-quid mali in alios commiseris, patiaris ipse necesse est.
-� 6ry �
-D
-2):
-V v
-d)
-ZI o ;
-P
-$ ( AN Zl ^n | TA
-V : ^ CN q T�T 7
-�� yov
-- 4 7 u el /N . �
-"lexounp (^^ -. o
-" 4 Ze
-OS. 32D
+49. Qui iniuste agit, semetipsum non diligit; nam quicquid
+mali in alios commiseris, patiaris ipse necesse est.
+
+![septem hi excitandi non sunt...]()
 
 50. Septem hi excitandi non sunt, si dormiant: anguis,
 rex, tigris, senex, puer, alienus canis, stultus.
 
-51. summa utitur perfidia qui alius ac sit viris bonis vi-
-deri cupit; iure illum sui ipsius furem :
-vocabis. t
+51. Summa utitur perfidia qui alius ac sit viris bonis videri
+cupit; iure illum sui ipsius furem vocabis.
 
-52. lalis est qui neque gaudet ne- ;
-que donat, qualis follis inoficina fabri � 77
-ferrari: spirat ille quidem, J
-non vivit. � X
+![follis]()
+
+52. Talis est qui neque gaudet neque
+donat, qualis follis in officina fabri
+ferrari: spirat ille quidem,
+non vivit.
 
 53. Sol surgit rubescens,
-rubescens occidit; vir magnus idem semper est etin  [(
+rubescens occidit; vir magnus idem semper est et in
 rebus secundis et in adversis.
 
-54. Ita fortunae confidendum est, ut, si quid con- J
-cupiveris, summis id viribus adsequi coneris: leporum 4
-mos non est dormientis leonis in ore cubilia sua facere. � $
+54. Ita fortunae confidendum est, ut, si quid concupiveris,
+summis id viribus adsequi coneris: leporum
+mos non est dormientis leonis in ore cubilia sua facere.
 
-55. Stultum hominem, si simplex erit, miserare; si ^
-malus, metue.
+55. Stultum hominem, si simplex erit, miserare; si malus, metue.
 
-s. - PaOrI, Varius libellus.
-� 62 �
+![vir gladiam lingit]()
+
 56. Potentioribus
-�N hominibus servire
-quidnam sit quae-
-j V M. M rs? Idem est ac s
-u p^ gladium lingas, si
-hol leonem vel tigridem
-m7 amplexeris, si labia
-cg tua serpentibus oscu-
-landa porrexeris.
+hominibus servire
+quidnam sit quaeris? Idem est ac si
+gladium lingas, si
+leonem vel tigridem
+amplexeris, si labia
+tua serpentibus osculanda porrexeris.
 
 57. Improborum
 indolem frustra corrigere conaris; nemo eo usque in arte
-culinaria provectus est, ut ipso curante bene coctum al-
-lium suave oleat.
+culinaria provectus est, ut ipso curante bene coctum allium
+suave oleat.
 
 58. Velut lychnus in ampulla absconditus, importuna
 eruditio nihil iuvat, si mentis acies deerit.
 
-50. Aqua guttatim decidens magnam ampullam implet ;
+59. Aqua guttatim decidens magnam ampullam implet;
 hac lege et pecunia crescit et doctrina et virtus.
 
-6o. Hominum indolem praecepta non mutant. Quidam
+60. Hominum indolem praecepta non mutant. Quidam
 canis caudam ut corrigeret, vacuo in calamo insertam sex
-menses coercuit: nihil. tamen
+menses coercuit: nihil tamen
 egit.
 
-or. Haec sapientia monet: A
-primum, ne quid unquam in-
-ciplas; deinde, si quid susce-
-peris, ut ad exitum perducas.
+61. Haec sapientia monet: A
+primum, ne quid unquam incipias;
+deinde, si quid susceperis, ut ad exitum perducas.
 
-62. Avis, dum longinquam N
-praedam acerrimis oculis ad- J�����N n
-spicit, iuxta adpositum |a- t
+![avis cum laqueo]()
+
+62. Avis, dum longinquam
+praedam acerrimis oculis adspicit,
+iuxta adpositum
 queum non vidit, innexoque
-pede libertatem amisit. lo
+pede libertatem amisit.
 
-603. Gaudium post dolorem ( )
-
-Iucundius; qui in sole aestua-
-vit, libentissime arboris um-
-bram sequitur.
+63. Gaudium post dolorem
+iucundius; qui in sole aestuavit,
+libentissime arboris umbram sequitur.
 
 64. Mors viventes aufert, mortuos praeterit; infamia et
 viventibus et mortuis nullo discrimine adhaeret.
 
-65. Silva tigridem servat, tigris silvam: e silva egres-
-� 63 �
+![tigris]()
 
-sus tigris interficitur; caeditur silva p
-quam tigres non incolunt. 99,
+65. Silva tigridem servat, tigris silvam: e silva egressus
+tigris interficitur; caeditur silva
+quam tigres non incolunt.
 
-606. Summae levitatis est, do- "a"u-w� 6 B2".
-
-. ;,4eoep9^9o0o09?
-
-mum alienam non vocatum ingredi, ex ut
-plura nullo rogante loqui, semetip- a S
-sum laudibus efferre ceterisque ma- /f �,
-ledicere. �
+66. Summae levitatis est, domum
+alienam non vocatum ingredi, ex ut
+plura nullo rogante loqui, semetipsum
+laudibus efferre ceterisque maledicere.
 
 67. Quem bonorum societas non
-ad summum perduxit? Aquae gutta, si in loti folio rese-
-dit, margaritae imitatur splendorem.
+ad summum perduxit? Aquae gutta, si in loti folio resedit,
+margaritae imitatur splendorem.
 
 68. Si aedium tuarum limen inimicus tuus tetigerit, id
-unum cogita, sanctum esse hospitis caput et inviolatum: ar-
-bor ne illum quidem a foliorum umbra prohibet, qui securi
+unum cogita, sanctum esse hospitis caput et inviolatum: arbor
+ne illum quidem a foliorum umbra prohibet, qui securi
 armatus ad se caedendam venerit.
 
-69. Hic citharae cantus, illic ploratus ac feminarum eiu-
-latio; hic docti disse-
-runt, illic ebrii rixan-
+![ebrii rixantur]()
 
-L3. tur; decens hic puella,
-VAT anus illc senectute
-2 e SAAN confecta. Haec rerum
-! N natura utrum ambro-
-�$ e sia an veneno confl�la-
-| | | | LL ta sit prorsus non 1in-
-C tellego.
-f Lz 70. Arboris ramu-
-sculo obtectus mollis
-NV � hyacinthus latebat; tu-
-u- tus erat, at numquam
-/ ventus illum osculatus
-CK ^J | est, apis nulla sucum
-7� ex eius calyce duxit:
-cito demisso capite de-
-floruit.
+69. Hic citharae cantus, illic ploratus ac feminarum eiulatio;
+hic docti disserunt,
+illic ebrii rixantur; decens hic puella,
+anus illc senectute
+confecta. Haec rerum
+natura utrum ambrosia
+an veneno conflata sit prorsus non intellego.
 
-/1. �quam fluvius vehit, neque bibit; fructus arbores
-gerunt, neque comedunt; segetes nubes alit, neque consu-
-mit: semper bonorum divitiae aliis prosunt.
+70. Arboris ramusculo
+obtectus mollis
+hyacinthus latebat; tutus erat, at numquam
+ventus illum osculatus
+est, apis nulla sucum
+ex eius calyce duxit:
+cito demisso capite defloruit.
 
-/2. Quae beneficia in bonos contuleris, proderunt; quae
+71. Aquam fluvius vehit, neque bibit; fructus arbores
+gerunt, neque comedunt; segetes nubes alit, neque consumit:
+semper bonorum divitiae aliis prosunt.
+
+72. Quae beneficia in bonos contuleris, proderunt; quae
 in malos, peribunt; gignitur lac
-/ in buculis] ex herba; ex lacte in
-
+in buculis ex herba; ex lacte in
 anguibus gignitur venenum.
-zT 73. Homines malos, ut spi-
 
-�I . .
-RS nas, duobus modis cavebis: vel
-- j S * Si calceis obteras, vel si procul
-EE A QR vites.
-E ^ bon 74. Splendente luna nullus
+![homo malus herbam calcei obterit]()
+
+73. Homines malos, ut spinas,
+duobus modis cavebis: vel
+si calceis obteras, vel si procul
+vites.
+
+74. Splendente luna nullus
 odor e floribus efflatur; iacent
 illi ac nocturno gelu conclusi languescunt. Frustra luna nata
 est; tristis in caelo errat.
 
-75. In. homine virtutibus egregio vitium, quod unum
-erat, maledicus quidam carpsit. Aper in hortuli lacu loto-
-rum flores spernit, limum quaerit.
+75. In homine virtutibus egregio vitium, quod unum
+erat, maledicus quidam carpsit. Aper in hortuli lacu lotorum
+flores spernit, limum quaerit.
 
-76. Patriam sine iactura relinquere a
+![rana graculo comeditur]()
+
+76. Patriam sine iactura relinquere
 vir magnus postet, tenues ac pusilli
-non possunt; mare margaritae dese-
-runt, ut in regali diademate splende- SJ �
-scant; ranae, si e lacu evaserunt, ab : Y
+non possunt; mare margaritae deserunt,
+ut in regali diademate splendescant;
+ranae, si e lacu evaserunt, ab
 esurientibus graculis comeduntur.
 
-77. Ganges ipse, sacratissimus am-
-nis, postquam in mare influit, salse-
-dine inficitur; vir sapiens pestiferam malorum contagionem
+77. Ganges ipse, sacratissimus amnis,
+postquam in mare influit, salsedine
+inficitur; vir sapiens pestiferam malorum contagionem
 semper vitato.
 
-78. Sine sole dies, sine magnanimitate potentia, sine de-
-core excellentia, sine dignitate facundia, sine lotorum flori-
+78. Sine sole dies, sine magnanimitate potentia, sine decore
+excellentia, sine dignitate facundia, sine lotorum floribus
+lacus, sine liberis familia omni iucun ditate carent.
 
-bus lacus, sine liberis familia omni iucun-
-ditate carent.
-70. Acus, quae recta est, disiuncta sar-
-! cit ; forficula, quae curva, coniuncta dividit.
-399 Enc discas oportet derecto itinere pergere,
-Cj exas vias spernere. |
+![forficula]()
+
+79. Acus, quae recta est, disiuncta sarcit;
+forficula, quae curva, coniuncta dividit.
+Hinc discas oportet derecto itinere pergere,
+flexas vias spernere.
+
 80. Uxor bona vultum semper hilarem
 gerat, res domesticas curet, aedium supellectilem diligenter
 servet, pecuniae parcat.
 
-8I. le si calamitas adflixerit, infimus quivis homo facile
+![rana capiti elephanti insultat]()
 
+81. Te si calamitas adflixerit, infimus quivis homo facile
 contumelus obruet: proterva est enim ignavia et stultitia
-contumax: item ranunculi, si for- zi
-te elephantus inpaludem incidit A
-caenoque submersus haesit, il- PB
-lius capiti insultant ac temere glo- c
-riantur. -
-82. Cui filius, servus, uxor mo-
-rem gerunt, non multum fpossi-
-deat licet, dum satis ei sint quae habet, beatissimus est ille
+contumax: item ranunculi, si forte
+elephantus inpaludem incidit
+caenoque submersus haesit, illius
+capiti insultant ac temere gloriantur.
+
+82. Cui filius, servus, uxor morem
+gerunt, non multum possideat
+licet, dum satis ei sint quae habet, beatissimus est ille
 existimandus.
-83. Varius de mulieribus est sermo. Dicunt ali:
 
-Quicquid viros librorum sapientia docuit, id mulie-
+![diaboli]()
 
-ribus sponte natura dedit.
+83. Varius de mulieribus est sermo. Dicunt alii:
+Quicquid viros librorum sapientia docuit, id mulieribus sponte natura dedit. Mulierem ne flore quidem verberare decet.
 
-Mulierem ne flore quidem verberare decet.
+Alii contra:
 
-Alu contra:
+Hac lege sapiens fies: si multitudinem tamquam serpentes
+vites, si alienum cibum tamquam mortiferum venenum,
+tamquam diabolorum turbam mulieres.
 
-Hac lege sapiens fies: si multitudinem tamquam ser-
-pentes vites, si alienum cibum tamquam mortiferum ve-
-nenum, tamquam diabolorum turbam mulieres.
-
-Qu
-/
-ul
-- C.
-C
-"a D
-^ "7 )
-Ao^ m
-9� e
-$37 NI
-2 ^, NS
-A c (
-ESNCC / A
-Ul 3 4 | C 4, -
-. 99 JA: T
-ANS
-FERRI n
-No mE , * LR
-� 66 �
 Semper mulier alia dicit ac sentit, alia facit ac dixit,
-Oui dolose vixit mulier renascitur.
+Qui dolose vixit mulier renascitur.
 
 84. Qui poetarum carmina eo animo legis ut, si quid illi
-deliquerint, id tantum malevolus notes, idem facis quod mu-
-scarum turba; quid enim muscae, vel in pulcherrimo cor-
-pore, praeter vulnera cernunt?
+deliquerint, id tantum malevolus notes, idem facis quod muscarum
+turba; quid enim muscae, vel in pulcherrimo corpore,
+praeter vulnera cernunt?
 
 85. Benignitas vel advenas conciliat, malus animus et
-amicos extraneos facit: febrim odimus, quae incorpore no-
-
-stro sponte nata est; gratum nobis adfertur
+amicos extraneos facit: febrim odimus, quae incorpore nostro
+sponte nata est; gratum nobis adfertur
 remedium procul ortum insilvis.
+
+![graculus niger]()
 
 86. Graculus niger est et cuculus niger;
 quid differunt? Ver adsit: graculus graculus
 erit, cuculus cuculus.
 
-67. Liberis quos parentes verberaverint,
+87. Liberis quos parentes verberaverint,
 discipulis quos magister punierit, auro quod
-
 malleolus feriendo in laminas duxerit, nihil praestabilius
 est interris.
 
-68. Bonum virum qui vituperat semetipsum foedat, ut
+88. Bonum virum qui vituperat semetipsum foedat, ut
 si cinerem in altum proieceris, cito in caput tuum turpiter
 casurum.
 
+![cerva vanatorum sagittas vitat]()
+
 89. Quod cuique fata minantur, nemo effugere valet.
-Laqueum cerva abrupit, ex insid�s evasit, discissa retia
+Laqueum cerva abrupit, ex insidiis evasit, discissa retia
 eluctata est, ardentis silvae
-flammas undique circumstre- �
-pentes effugit, rapidum mi�na- pas
-cemque amnem tranavit, celeri nca
-cursu venatorum sagittas vita- 0
-vit, ipsos praeteriit. Quid tum? 4^ 7
+flammas undique circumstrepentes
+effugit, rapidum minacemque
+amnem tranavit, celeri
+cursu venatorum sagittas vitavit,
+ipsos praeteriit. Quid tum?
 In puteum delapsa perit.
 
-9o. Sandalu lignum vel adsi-
-due contritum suave quiddam
-olet; sacchari calamus, licet il-
-jum minutatim seces, nativam |
-dulcedinem retinet, qua imbutus sponte edentibus blandi-
-tur; aurum in ignem proice: nigrescere nescit. Sic magnus
+90. Sandalii lignum vel adsidue
+contritum suave quiddam
+olet; sacchari calamus, licet illum
+minutatim seces, nativam
+dulcedinem retinet, qua imbutus sponte edentibus blanditur;
+aurum in ignem proice: nigrescere nescit. Sic magnus
 viri nobilis animus in ipsa morte non mutatur.
 
 91. Quid maledici homines non carpunt? Te, si modestus
