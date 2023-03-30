@@ -44,7 +44,7 @@ UT DOCERE NON VIDEATUR
 
 ---
 
-## PREFACE
+## Preface
 
 THOSE teachers of Latin who are content with the
 existing provision will resent the appearance of a fresh
@@ -94,47 +94,47 @@ faults the author is entirely responsible.
 
 ---
 
-## CONTENTS
+## Contents
 
 - [A Latin Reader](#a-latin-reader)
-  - [PREFACE](#preface)
-  - [CONTENTS](#contents)
-  - [INTRODUCTORY STORIES](#introductory-stories)
-    - [1. THE INNOCENT TRUMPETER.](#1-the-innocent-trumpeter)
-    - [2. FOOLISH SERVANTS.](#2-foolish-servants)
-    - [3. THE DONKEY AND THE HORSE.](#3-the-donkey-and-the-horse)
-    - [4. DEATH.](#4-death)
-    - [5. HANNIBAL'S TRICK.](#5-hannibals-trick)
-    - [6. THE GAULS INVADE ROME.](#6-the-gauls-invade-rome)
-    - [7. THE STORY OF PYRRHUS.](#7-the-story-of-pyrrhus)
-    - [8. PYRRHUS.](#8-pyrrhus)
-    - [9. PYRRHUS.](#9-pyrrhus)
-    - [10. PYRRHUS.](#10-pyrrhus)
-    - [11. PYRRHUS.](#11-pyrrhus)
-    - [12. REGULUS.](#12-regulus)
-    - [13. REGULUS.](#13-regulus)
-    - [14. DEATH OF POMPEY](#14-death-of-pompey)
-    - [15. DEATH OF CAESAR.](#15-death-of-caesar)
-    - [16. DEATH OF ANTONY.](#16-death-of-antony)
-    - [17. CLAUDIUS INVADES BRITAIN.](#17-claudius-invades-britain)
-    - [18. VESPASIAN.](#18-vespasian)
-    - [19. ATALANTA.](#19-atalanta)
-    - [20. MELEAGER.](#20-meleager)
-    - [21. ACHILLES.](#21-achilles)
-    - [22. THE ARTFUL WOLF.](#22-the-artful-wolf)
-    - [23. THE SILLY STAG.](#23-the-silly-stag)
-    - [24. STORY OF ALCESTIS.](#24-story-of-alcestis)
-    - [25. MIDAS.](#25-midas)
-  - [LATIN STORIES](#latin-stories)
-    - [1. NOT AT HOME.](#1-not-at-home)
-  - [NOTES TO INTRODUCTORY STORIES.](#notes-to-introductory-stories)
-  - [NOTES TO LATIN STORIES.](#notes-to-latin-stories)
+  - [Preface](#preface)
+  - [Contents](#contents)
+  - [Introductory Stories](#introductory-stories)
+    - [1. The Innocent Trumpeter.](#1-the-innocent-trumpeter)
+    - [2. Foolish Servants.](#2-foolish-servants)
+    - [3. The Donkey And The Horse.](#3-the-donkey-and-the-horse)
+    - [4. Death.](#4-death)
+    - [5. Hannibal's Trick.](#5-hannibals-trick)
+    - [6. The Gauls Invade Rome.](#6-the-gauls-invade-rome)
+    - [7. The Story Of Pyrrhus.](#7-the-story-of-pyrrhus)
+    - [8. Pyrrhus.](#8-pyrrhus)
+    - [9. Pyrrhus.](#9-pyrrhus)
+    - [10. Pyrrhus.](#10-pyrrhus)
+    - [11. Pyrrhus.](#11-pyrrhus)
+    - [12. Regulus.](#12-regulus)
+    - [13. Regulus.](#13-regulus)
+    - [14. Death Of Pompey](#14-death-of-pompey)
+    - [15. Death Of Caesar.](#15-death-of-caesar)
+    - [16. Death Of Antony.](#16-death-of-antony)
+    - [17. Claudius Invades Britain.](#17-claudius-invades-britain)
+    - [18. Vespasian.](#18-vespasian)
+    - [19. Atalanta.](#19-atalanta)
+    - [20. Meleager.](#20-meleager)
+    - [21. Achilles.](#21-achilles)
+    - [22. The Artful Wolf.](#22-the-artful-wolf)
+    - [23. The Silly Stag.](#23-the-silly-stag)
+    - [24. Story Of Alcestis.](#24-story-of-alcestis)
+    - [25. Midas.](#25-midas)
+  - [Latin Stories](#latin-stories)
+    - [1. Not At Home.](#1-not-at-home)
+  - [Notes To Introductory Stories.](#notes-to-introductory-stories)
+  - [Notes To Latin Stories.](#notes-to-latin-stories)
 
 ---
 
-## INTRODUCTORY STORIES
+## Introductory Stories
 
-### 1. THE INNOCENT TRUMPETER.
+### 1. The Innocent Trumpeter.
 
 Tubicen ab hostibus captus, "nolite me," inquit, "interficere;
 nam inermis sum neque quidquam habeo praeter
@@ -143,7 +143,7 @@ hanc tubam." At hostes, "propter hoc ipsum," inquiunt,
 alios ad pugnam incitare soles."
 
 
-### 2. FOOLISH SERVANTS.
+### 2. Foolish Servants.
 
 Mulier vidua, quae texendo vitam sustentabat, solebat
 ancillas suas de nocte excitare ad opus, cum primum galli
@@ -154,7 +154,7 @@ noctis incerta, nunc famulas saepe iam prima nocte
 excitabat.
 
 
-### 3. THE DONKEY AND THE HORSE.
+### 3. The Donkey And The Horse.
 
 Asinus onustus sarcinis equum rogavit, ut aliqua parte
 oneris se levaret, si se vivum videre vellet. Sed ille asini
@@ -168,7 +168,7 @@ cogar tantas sarcinas ferre una cum pelle comitis mei,
 cuius preces tam superbe contempseram."
 
 
-### 4. DEATH.
+### 4. Death.
 
 Senex in silva ligna ceciderat, iisque sublatis domum
 redire coepit. Cum aliquantum viae progressus esset, et
@@ -181,7 +181,7 @@ est. At Senex quem iam votorum poenitebat, "nihil," inquit,
 subeo."
 
 
-### 5. HANNIBAL'S TRICK.
+### 5. Hannibal's Trick.
 
 Hannibal cum elephantos compellere non posset ut praealtum
 flumen transirent neque rates haberet, quibus eos
@@ -192,7 +192,7 @@ doloris sui auctorem tranavit amnem et reliqui quoque eum
 secuti sunt.
 
 
-### 6. THE GAULS INVADE ROME.
+### 6. The Gauls Invade Rome.
 
 Galli Senones ad urbem venerunt, et victos Romanos
 undecimo milliario a Roma apud flumen Alliam secuti,
@@ -206,7 +206,7 @@ ut et aurum, quod his datum fuerat, et omnia, quae ceperant,
 militaria signa revocaret.
 
 
-### 7. THE STORY OF PYRRHUS.
+### 7. The Story Of Pyrrhus.
 
 Tarentini Pyrrhum, Epiri regem, contra Romanos auxilium
 poposcerunt, qui ex genere Achillis originem trahebat.
@@ -218,7 +218,7 @@ tumque dimitti, ut renuntiarent Pyrrho, quaecunque
 a Romanis agerentur.
 
 
-### 8. PYRRHUS.
+### 8. Pyrrhus.
 
 Commissa mox pugna, cum iam Pyrrhus fugeret, elephantorum
 auxilio vicit, quos incognitos Romani expaverunt;
@@ -231,7 +231,7 @@ se totius orbis dominum esse potuisse, si tales sibi milites
 contigissent.
 
 
-### 9. PYRRHUS.
+### 9. Pyrrhus.
 
 Postea Pyrrhus, iunctis sibi Samnitibus, Lucanis, Bruttiisque,
 Romam perrexit, omnia ferro ignique vastavit,
@@ -246,7 +246,7 @@ regni promissa, sollicitare voluerit, ut ad se transiret; contemptusque
 a Fabricio est.
 
 
-### 10. PYRRHUS.
+### 10. Pyrrhus.
 
 Quare eum Pyrrhus ingenti Romanorum admiratione
 teneretur, legatum misit, qui pacem aequis condicionibus
@@ -260,7 +260,7 @@ potuissent, nec ante eos ad veterem statum reverti, quam
 si binorum hostium occisorum spolia retulissent.
 
 
-### 11. PYRRHUS.
+### 11. Pyrrhus.
 
 Ita legatus Pyrrhi reversus est. A quo cum quaereret
 Pyrrhus, qualem Romam comperisset, Cineas dixit: regum
@@ -273,7 +273,7 @@ Romanis tantum quinque millia. Pyrrhus Tarentum
 fugatus.
 
 
-### 12. REGULUS.
+### 12. Regulus.
 
 Carthaginienses Regulum ducem, quem ceperant,
 petierunt, ut Romam proficisceretur, et pacem a Romanis
@@ -285,7 +285,7 @@ uxorem a complexu removit, et senatui suasit, ne pax cum
 Poenis fieret.
 
 
-### 13. REGULUS.
+### 13. Regulus.
 
 Illos enim, fractos tot casibus, spem nullam habere: se
 tanti non esse, ut tot millia captivorum propter unum se, et
@@ -298,7 +298,7 @@ habere non posset. Regressus igitur ad Africam, omnibus
 suppliciis exstinctus est.
 
 
-### 14. DEATH OF POMPEY
+### 14. Death Of Pompey
 
 Nunquam adhuc Romanae copiae in unum neque
 majores, neque melioribus ducibus, convenerant, totum
@@ -312,7 +312,7 @@ secutus, occidit Pompeium; caput eius et annulum Caesari
 misit.
 
 
-### 15. DEATH OF CAESAR.
+### 15. Death Of Caesar.
 
 Inde Caesar, bellis civilibus toto orbe compositis, Romam
 rediit; agere insolentius coepit, et contra consuetudinem
@@ -327,7 +327,7 @@ Casca. Ergo Caesar, cum inter ceteros venisset ad curiam,
 XXIII. vulneribus confossus est.
 
 
-### 16. DEATH OF ANTONY.
+### 16. Death Of Antony.
 
 Antonius ingens bellum civile commovit, cogente uxore
 Cleopatra, regina Aegypti, dum cupiditate muliebri optat
@@ -341,7 +341,7 @@ praepositusque ei Cn. Cornelius Gallus. Hunc primum
 Aegyptus Romanum iudicem habuit.
 
 
-### 17. CLAUDIUS INVADES BRITAIN.
+### 17. Claudius Invades Britain.
 
 Britanniae bellum Claudius intulit, quam nullus Roman-
 orum post Iulium Caesarem attigerat, eaque devicta per Cn.
@@ -356,7 +356,7 @@ eonscendenti Capitolium laevus incederet. Is vixit annos
 IV. et LX. imperavit XIV.
 
 
-### 18. VESPASIAN.
+### 18. Vespasian.
 
 Vespasianus successit, factus apud Palaestinam imperator;
 princeps obscure quidem natus, sed optimis
@@ -372,7 +372,7 @@ Nec facile ante eum cuiusquam principis vel maior est
 liberalitas comperta, vel iustior.
 
 
-### 19. ATALANTA.
+### 19. Atalanta.
 
 Schoeneus Atalantam, filiam formosissimam, dicitur
 habuisse, quae cursu viros superabat. Haec quum a
@@ -389,7 +389,7 @@ beneficio se vicisse, grates ei non egit. Hanc ob causam
 Hippomenes mutatus est in leonem, Atalanta in leaenam.
 
 
-### 20. MELEAGER.
+### 20. Meleager.
 
 Althaea, Thestii filia, ex Oeneo peperit Meleagrum.
 Ei Parcae ardentem titionem dederunt, praefantes, Meleagrum
@@ -407,7 +407,7 @@ sorores eius, dum fratrem insolabiliter lugent, in aves
 mutatae sunt.
 
 
-### 21. ACHILLES.
+### 21. Achilles.
 
 Thetis, Pelei coniux, quum sciret Achillem, filium suum,
 cito periturum esse, si Graecorum exercitum ad Troiam
@@ -421,7 +421,7 @@ subito tubicen cecinit; quo sono audito, Achilles arma
 arripuit. Unde eum virum esse intellectum est.
 
 
-### 22. THE ARTFUL WOLF.
+### 22. The Artful Wolf.
 
 Serpens ingenti saxo oppressus rogavit virum praetereuntem,
 ut a se onus amoliretur, pollicitus ingentem
@@ -435,7 +435,7 @@ serpenti saxum imposuisset, dixit vulpes, "ingratum animal
 sub saxo relinquendum esse censeo."
 
 
-### 23. THE SILLY STAG.
+### 23. The Silly Stag.
 
 Cervus, quum sitiret, ad fontem accessit, et suam in
 aqua imaginem conspiciens, cornuum magnitudinem laudavit,
@@ -448,7 +448,7 @@ est, quod pedum celeritate uti non poterat. Tum moriturus,
 conservarunt, placerent autem quae me perdiderunt."
 
 
-### 24. STORY OF ALCESTIS.
+### 24. Story Of Alcestis.
 
 Alcestim Peliae filiam cum multi in matrimonium
 peterent, Pelias promisit se filiam ei esse daturum, qui
@@ -464,7 +464,7 @@ obtulit, quam Hercules forte adveniens Orci manibus
 eripuit et Admoto reddidit.
 
 
-### 25. MIDAS.
+### 25. Midas.
 
 Cum Bacchus exercitum in Indiam duceret, Silenus ab
 agmine aberravit. Quem Midas, rex Mygdoniae, hospitio
@@ -479,9 +479,9 @@ donum suum revocaret.
 
 ---
 
-## LATIN STORIES
+## Latin Stories
 
-### 1. NOT AT HOME.
+### 1. Not At Home.
 
 Romani interdum sermone parum affabili inter se uti
 solebant. Nasica enim quum ad Ennium poetam venisset,
@@ -5095,7 +5095,7 @@ DEM
 "T
 - )"
 
-## NOTES TO INTRODUCTORY STORIES.
+## Notes To Introductory Stories.
 
 6. Invasion of Rome by the Gauls, B.C. 390.
 
@@ -5116,7 +5116,7 @@ obtinuit; "prevailed."
 23. uti nimis exilia; "for being too slight."
 
 
-## NOTES TO LATIN STORIES.
+## Notes To Latin Stories.
 
 7. capitis damnaverunt; ''condemned to death ;" cp. 180, voti,
 * to pay his vow."
