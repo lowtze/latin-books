@@ -426,7 +426,7 @@ conservarunt, placerent autem quae me perdiderunt."
 
 ### 24. STORY OF ALCESTIS.
 
-P Aleestim Peliae filiam cum multi in matrimonium
+Alcestim Peliae filiam cum multi in matrimonium
 peterent, Pelias promisit se filiam ei esse daturum, qui
 feras currui iunxisset. Admetus, qui eam perdite amabat,
 Apollinem rogavit ut se in hoc negotio adiuvaret. Is cum ab
@@ -435,30 +435,29 @@ ei et leonem currui iunxit, quibus ille Alcestim avexit.
 Idem gravi morbo implicitus munus ab Apolline accepit,
 ub praesens periculum effugeret, si quis sponte pro eo
 moriturus esset. Jam cum neque pater neque mater
-
--  Admeti pro eo mori voluisset, uxor se Aleestis morti
+Admeti pro eo mori voluisset, uxor se Aleestis morti
 obtulit, quam Hercules forte adveniens Orci manibus
-eripuit et Admoto reddidit. NE. ^! "PE
+eripuit et Admoto reddidit.
 
-25. MrDAS. .
+
+### 25. MIDAS.
 
 Cum Bacchus exercitum in Indiam duceret, Silenus ab
 agmine aberravit. Quem Midas, rex Mygdoniae, hospitio
-3 liberaliter accepit eique ducem dedit qui eum ad Bacchum
+liberaliter accepit eique ducem dedit qui eum ad Bacchum
 reduceret. Ob hoc beneficium Bacchus Midae optionem
-dedit, ut quidquid vellet � se peteret. Ille petiit, ut
+dedit, ut quidquid vellet a se peteret. Ille petiit, ut
 quidquid tetigisset aurum fieret. Quod cum impetrasset,
-pte gavisus est hac virtute sua: non intellexit nihil ipsi
-(de perniciosius esse. Namque etiam cibus et potio in aurum
-mutabatur. Cum iam fame cruciaretur, petiit � Baccho ut
+primo gavisus est hac virtute sua: non intellexit nihil ipsi
+hoc perniciosius esse. Namque etiam cibus et potio in aurum
+mutabatur. Cum iam fame cruciaretur, petiit a Baccho ut
+donum suum revocaret.
 
-| cs suum revocaret. !
-' E - '
-D B pe���
-u mE �
-be B 2
-q H LATIN STORIES
-1. Nor AT How.
+---
+
+## LATIN STORIES
+
+### 1. NOT AT HOME.
 
 Romani interdum sermone parum affabili inter se uti
 solebant. Nasica enim quum ad Ennium poetam venisset,
