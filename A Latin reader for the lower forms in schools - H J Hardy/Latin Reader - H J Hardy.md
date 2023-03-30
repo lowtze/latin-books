@@ -276,35 +276,34 @@ suppliciis exstinctus est.
 
 ### 14. DEATH OF POMPEY
 
-. Nunquam adhuc Romanae copiae in unum neque
+Nunquam adhuc Romanae copiae in unum neque
 majores, neque melioribus ducibus, convenerant, totum
- � ��
-6 LATIN READER ]
-terrarum orbem facile subacturae, si contra barbaros duce-
-rentur. Pugnatum tamen est ingenti contentione, victusque
+terrarum orbem facile subacturae, si contra barbaros ducerentur.
+Pugnatum tamen est ingenti contentione, victusque
 ad postremum Pompeius, et castra eius direpta sunt. Ipse
-fugatus Alexandriam petiit, ut � rege Aegypti, cui tutor a
+fugatus Alexandriam petiit, ut a rege Aegypti, cui tutor a
 senatu datus fuerat propter iuvenilem eius aetatem,
 acciperet auxilia; qui, fortunam magis quam amicitiam
-secutus, occidit Pompeium ; caput eius et annulum Caesari
+secutus, occidit Pompeium; caput eius et annulum Caesari
 misit.
-1 15. DEATH OF CAESAR.
+
+
+### 15. DEATH OF CAESAR.
 
 Inde Caesar, bellis civilibus toto orbe compositis, Romam
-rediib; agere insolentius coepit, et contra consuetudinem
+rediit; agere insolentius coepit, et contra consuetudinem
 Romanae libertatis. Cum ergo et honores ex sua voluntate
 praestaret, qui a populo ante deferebantur, nec senatui ad
 se venienti assurgeret, aliaque regia ac paene tyrannica
-faceret, coniuratum est in eum a LX. vel amplius senatori-
-bus equitibusque Romanis. Praecipui fuerunt inter coniu-
-
-- ratos duo Bruti, ex eo genere Bruti, qui primus Romae
-consul fuerat et reges expulerat, C, Cassius et Servilius
+faceret, coniuratum est in eum a LX. vel amplius senatoribus
+equitibusque Romanis. Praecipui fuerunt inter coniuratos
+duo Bruti, ex eo genere Bruti, qui primus Romae
+consul fuerat et reges expulerat, C. Cassius et Servilius
 Casca. Ergo Caesar, cum inter ceteros venisset ad curiam,
 XXIII. vulneribus confossus est.
 
-.r AME
-" 16. DEATH OF �NTONY. ]
+
+### 16. DEATH OF ANTONY.
 
 Antonius ingens bellum civile commovit, cogente uxore
 Cleopatra, regina Aegypti, dum cupiditate muliebri optat
@@ -314,11 +313,11 @@ fugit in Aegyptum; et desperatis rebus, cum omnes ad
 Augustum transirent, ipse se interemit: Cleopatra sibi
 aspidem admisit, et veneno eius exstincta est. Aegyptus
 per Octavianum Augustum imperio Romano adiecta est,
-n��m ��
-LATIN READER � 7
-praepositusque ei Cn. Cornelius Gallus. Hune primum
-Aegyptus Romanum iudicem habuit. b
-N 17. CLAUDIUS INVADES BRITAIN. ] B
+praepositusque ei Cn. Cornelius Gallus. Hunc primum
+Aegyptus Romanum iudicem habuit.
+
+
+### 17. CLAUDIUS INVADES BRITAIN.
 
 Britanniae bellum Claudius intulit, quam nullus Roman-
 orum post Iulium Caesarem attigerat, eaque devicta per Cn.
@@ -371,7 +370,7 @@ Hippomenes mutatus est in leonem, Atalanta in leaenam.
 Althaea, 'Thestii filia, ex Oeneo peperit Meleagrum.
 Ei Parcae ardentem titionem dederunt, praefantes, Melea-
 grum tam diu victurum, quam diu is titio foret incolumis.
-Hune igitur Althaea diligenter in arca clausum servavit.
+Hunc igitur Althaea diligenter in arca clausum servavit.
 Interim Diana, Oeneo irata, quia sacra annua non fecerat,
 aprum mira magnitudine misit, qui agrum Calydonium
 vastaret. Quem Meleager, fortissimis iuvenibus ex omni
@@ -419,7 +418,7 @@ est, quod pedum celeritate uti non poterat. "Tum moriturus,
 conservarunt, placerent autem. quae me perdiderunt."
 E T ,
 
-24. STORY OF �LCESTIS.
+1.  STORY OF �LCESTIS.
 
 P Aleestim Peliae filiam cum multi in matrimonium
 peterent, Pelias promisit se filiam ei esse daturum, qui
@@ -1772,7 +1771,7 @@ in venatum profecto, specum reliqui: et viam ferme tridui
 permensus, a militibus visus apprehensusque sum, atque
 ad dominum ex Africa Romam sum deductus. Qui statim
 me rei capitalis damnandum dandumque bestiis curavit.
-Hune quoque leonem a me tunc separatum atque ab homini-
+Hunc quoque leonem a me tunc separatum atque ab homini-
 bus captum nunc etiam pro beneficiis gratiam mihi referre
 intelligo." � Quibus dictis, Androclus dimissus cunctis pe-
 tentibus poena solvitur et leone populi suffragiis donatur.
@@ -2115,7 +2114,7 @@ postquam ego ceperam, non iudicavi in forum rerum
 venalium esse ferendum ; sed quamvis sim homo pauper
 et manu mea victum quaeram, te tuoque imperio haud
 indignum eum affero. His verbis delectatus Polycrates in
-hune modum respondit: "Recte fecisti; duplicem tibi
+hunc modum respondit: "Recte fecisti; duplicem tibi
 orationis et doni causa gratiam reddo: te igitur ad cenam
 invitamus."  Piscator domum abiit laetus: famuli vero
 dum piscem concidunt, in ventre repositum anulum Poly-
@@ -2927,7 +2926,7 @@ vitae exitus.
 155. QuzEN Nrrocnis. 0 Hi P
 
 Nitocris Babylonis regina eximia monumenta aedificasse
-eademque hune dolum machinata traditur: quae super
+eademque hunc dolum machinata traditur: quae super
 porta urbis celeberrima sepulerum sibi exstrui iussit; cui
 sepulero hanc sententiam inscribendam curavit: 'si quis
 eorum, qui posb me reges erunt Babylonis, pecunia indigu-
@@ -4034,7 +4033,7 @@ Aurora in roseis fulgebat lutea bigis :
 Cum venti posuere, omnisque repente resedit "
 Flatus et in lento luctantur marmore tonsae.
 Atque hic Aeneas ingentem ex aequore lucum
-Prospicit. Hune inter fluvio Tiberinus amoeno,
+Prospicit. Hunc inter fluvio Tiberinus amoeno,
 Verticibus rapidis, et multa flavus arena,
 In mare prorumpit. Variae cireumque supraque
 Assuetae ripis volucres et fluminis alveo
