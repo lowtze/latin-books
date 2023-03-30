@@ -331,12 +331,12 @@ multa egregie fecerat, triumphantem ipse prosequeretur, et
 eonscendenti Capitolium laevus incederet. Is vixit annos
 IV. et LX. imperavit XIV.
 
-m .
-E B 18. VESPASIAN. .
 
-Vespasianus successit, factus apud Palaestinam im-
-perator; princeps obscure quidem natus, sed optimis
-comparandus; privata vita illustris, u& qui � Claudio in
+### 18. VESPASIAN.
+
+Vespasianus successit, factus apud Palaestinam imperator;
+princeps obscure quidem natus, sed optimis
+comparandus; privata vita illustris, ut qui a Claudio in
 Germaniam, deinde in Britanniam missus, tricies et bis cum
 hoste conflixerit, duas validissimas gentes, XX. oppida,
 insulam Vectam, Britanniae proximam, imperio Romano
@@ -345,31 +345,31 @@ pecuniae tantum avidior fuit, ita ut eam nulli iniuste
 auferret; quam cum omni diligentiae provisione colligeret,
 tamen studiosissime largiebatur, praecipue indigentibus.
 Nec facile ante eum cuiusquam principis vel maior est
-liberalitas comperta, veliustior. | v-�
+liberalitas comperta, vel iustior.
 
-un PPM
-� ��
-8 � LATIN READER ��
-i B
-4 19. ATALANTA.
-| Schoeneus Atalantam, filiam formosissimam, dicitur
+
+### 19. ATALANTA.
+
+Schoeneus Atalantam, filiam formosissimam, dicitur
 habuisse, quae cursu viros superabat. Haec quum a
 pluribus in coniugium peteretur, pater eius condicionem
 proposuit, ut, qui eam ducere vellet, prius cursu cum ea
 contenderet; si victus esset, occideretur. Multos quum
 superasset et interfecisset, tandem ab Hippomene victa est.
-Hic enim a Venere tria mala aurea acceperat. Dum cur-
-runt, horum unum post alterum proiecit, iisque Atalantae
-cursum tardavit. .Nam dum mala colligit, Hippomenes ad
+Hic enim a Venere tria mala aurea acceperat. Dum currunt,
+horum unum post alterum proiecit, iisque Atalantae
+cursum tardavit. Nam dum mala colligit, Hippomenes ad
 metam pervenit. Huic igitur Schoeneus filiam uxorem
 dedit. Quam quum in patriam duceret, oblitus. Veneris
 beneficio se vicisse, grates ei non egit. Hanc ob causam
 Hippomenes mutatus est in leonem, Atalanta in leaenam.
-: 20. MELEAGER.
 
-Althaea, 'Thestii filia, ex Oeneo peperit Meleagrum.
-Ei Parcae ardentem titionem dederunt, praefantes, Melea-
-grum tam diu victurum, quam diu is titio foret incolumis.
+
+### 20. MELEAGER.
+
+Althaea, Thestii filia, ex Oeneo peperit Meleagrum.
+Ei Parcae ardentem titionem dederunt, praefantes, Meleagrum
+tam diu victurum, quam diu is titio foret incolumis.
 Hunc igitur Althaea diligenter in arca clausum servavit.
 Interim Diana, Oeneo irata, quia sacra annua non fecerat,
 aprum mira magnitudine misit, qui agrum Calydonium
@@ -379,46 +379,52 @@ donavit. Cui quum Althaeae fratres pellem eripere vellent,
 illa Meleagri auxilium imploravit, qui avunculos occidit.
 Tum Althaea, gravi ira in filium commota, titionem illum
 fatalem in ignem coniecit. Sic Meleager periit. At
-sorores eius, dum �ratrem insolabiliter lugent, in aves
-mutatae sunt, v z , 2 -
-LATIN READER -
-a 21. ACHILLES. |
+sorores eius, dum fratrem insolabiliter lugent, in aves
+mutatae sunt.
+
+
+### 21. ACHILLES.
+
 Thetis, Pelei coniux, quum sciret Achillem, filium suum,
 cito periturum esse, si Graecorum exercitum ad Troiam
 sequeretur, misit eum in insulam Scyron regique Lycomedi
 commendavit. Ille eum muliebri habitu inter filias suas
 servabat; Ulixes autem, rex Ithacae, quum audivisset,
 Achillem ibi occultari, in regio vestibulo munera feminea
-in calathiscis posuit simulque clipeum et hastam, mulier-
-esque advocari iussit. Quae dum omnia contemplantur,
+in calathiscis posuit simulque clipeum et hastam, mulieresque
+advocari iussit. Quae dum omnia contemplantur,
 subito tubicen cecinit; quo sono audito, Achilles arma
 arripuit. Unde eum virum esse intellectum est.
-v E . 92. THE ARTFUL WoLr. e" a B
-Serpens ingenti saxo oppressus rogavit virum praeter-
-euntem, ut � se onus amoliretur, pollicitus ingentem
+
+
+### 22. THE ARTFUL WOLF.
+
+Serpens ingenti saxo oppressus rogavit virum praetereuntem,
+ut a se onus amoliretur, pollicitus ingentem
 thesaurum, si hoc faceret. Quod quum vir iste mitis
 fecisset, non modo promissa non solvit, sed hominem
 occidere conatus est. Dum ita contendunt, accidit ut
-vulpes transiret. Qui arbiter electus, (non possum,"
-inquit, *tantas lites inter vos componere, nisi videro prius,
+vulpes transiret. Qui arbiter electus, "non possum,"
+inquit, "tantas lites inter vos componere, nisi videro prius,
 quomodo serpens saxo oppressus fuerit." Quum igitur vir
-serpenti saxum imposuisset, dixit vulpes, *ingratum animal
+serpenti saxum imposuisset, dixit vulpes, "ingratum animal
 sub saxo relinquendum esse censeo."
-4 23. Tug SrzLY SmAc. � ]
-un Cervus, quum sitireb, ad fontem accessit, et suam in
-aqua imaginem conspiciens, cornuum magnitudinem laud-
-avit, crura vero uti nimis exilia vituperavit. Ecce leo
+
+
+### 23. THE SILLY STAG.
+
+Cervus, quum sitiret, ad fontem accessit, et suam in
+aqua imaginem conspiciens, cornuum magnitudinem laudavit,
+crura vero uti nimis exilia vituperavit. Ecce leo
 advenit. Quo viso cervus aufugit, ub ei nullum periculum
-t. " ��
-10 LATIN READER
 immineret, donec in planitie esset. Quum vero in silvam
 venisset, inter virgulta cornibus adhaesit, et a leone captus
-est, quod pedum celeritate uti non poterat. "Tum moriturus,
-* o me desipientem," inquit, *cui ea displicerent, quae me
-conservarunt, placerent autem. quae me perdiderunt."
-E T ,
+est, quod pedum celeritate uti non poterat. Tum moriturus,
+"o me desipientem," inquit, "cui ea displicerent, quae me
+conservarunt, placerent autem quae me perdiderunt."
 
-1.  STORY OF �LCESTIS.
+
+### 24. STORY OF ALCESTIS.
 
 P Aleestim Peliae filiam cum multi in matrimonium
 peterent, Pelias promisit se filiam ei esse daturum, qui
@@ -1022,7 +1028,7 @@ ea cum istiusmodi amicis iter faceret. hien
 y /� 839. DrAR Eaos.
 
 Rex quidam quum inter Batavos iter faceret, in oppid-
-ulo constitit, u& se suumque equum reficeret; cui roganti,
+ulo constitit, ut se suumque equum reficeret; cui roganti,
 qualis cena sibi comparari posset, respondit caupo, qui agresti
 hospitio praefuit, se libenter regi ova gallinarum praestitu-
 rum. Imperavit rex ut quam celerrime ea apponeret:
@@ -3294,7 +3300,7 @@ ferire conatur, traiectum gladio Aterium interimit. m
 A
 94 � LATIN READER
 -
-, 177. Tu& PoETRY OF EURIPIDES. TN
+, 177. Tut PoETRY OF EURIPIDES. TN
 Euripides poeta sui fiduciam eiusmodi exhibebat, quae,
 quantum inter modestiam et insolentiam interesset, facile
 declarare posset. Atheniensibus enim postulantibus ut ex
@@ -3615,7 +3621,7 @@ arbitrabatur, per sponsionem est professa se in unam ce-
 nam sestertium centiens insumere posse. Id Antonio mirum
 visum : nec moratus facta sponsione contendit ad Munatium
 Planeum, qui tam honesti certaminis arbiter eligeretur.
-Postridie Cleopatra, u& Antonium pertentaret, sumptuosam
+Postridie Cleopatra, ut Antonium pertentaret, sumptuosam
 sane cenam paravit, sed quam non miraretur Antonius:
 quippe qui omnia, quae apponebantur, esse e quotidianis
 opibus agnosceret. "Tum regina arridens phialam poposcit,
