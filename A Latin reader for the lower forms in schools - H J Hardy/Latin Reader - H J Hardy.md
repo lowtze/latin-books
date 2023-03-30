@@ -5070,27 +5070,30 @@ Ph. Sic apparet, si rem recta ratione perpendimus.
 DEM
 "T
 - )"
-NOTES TO INTRODUCTORY STORIES.
 
-6. Invasion of Rome by the Gauls, s.c. 390. | u
+## NOTES TO INTRODUCTORY STORIES.
 
-8. Pyrrhus, �.c. 280.
+6. Invasion of Rome by the Gauls, B.C. 390.
 
-12. Regulus, 5.c. 255.
+8. Pyrrhus, B.C. 280.
 
-18. tanti; *ofsuchgreatvalue" � u
+12. Regulus, B.C. 255.
 
-obtinuit; ''prevailed."
+13. tanti; *of such great value."
 
-14. death of Pompey, 5.c. 48.
+obtinuit; "prevailed."
+
+14. death of Pompey, B.C. 48.
 
 15. death of Caesar, B.C. 44.
 
-16. battle of Actium, B.C. 81.
+16. battle of Actium, B.C. 31.
 
-28. uti nimis exilia; *'for being too slight."
+23. uti nimis exilia; "for being too slight."
 
-( ] NOTES TO LATIN STORIES. B
+
+## NOTES TO LATIN STORIES.
+
 7. capitis damnaverunt; ''condemned to death ;" cp. 180, voti,
 * to pay his vow."
 12. cum ... tum; *notonly . . . but also."
