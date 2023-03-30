@@ -252,15 +252,16 @@ fugatus.
 ### 12. REGULUS.
 
 Carthaginienses Regulum ducem, quem ceperant,
-petierunt, ut Romam proficisceretur, e& pacem � Romanis
+petierunt, ut Romam proficisceretur, et pacem a Romanis
 impetraret, ac permutationem captivorum faceret. Ille
 Romam cum venisset, inductus in senatum, nihil quasi
 Romanus egit, dixitque, se ex illa die, qua in potestatem
-Afrorum venisset, Romanum esse desiisse, Itaque et
+Afrorum venisset, Romanum esse desiisse. Itaque et
 uxorem a complexu removit, et senatui suasit, ne pax cum
 Poenis fieret.
 
-13. REGULUS.
+
+### 13. REGULUS.
 
 Illos enim, fractos tot casibus, spem nullam habere: se
 tanti non esse, ut tot millia captivorum propter unum se, et
@@ -269,11 +270,12 @@ Itaque obtinuit. Nam Afros, pacem petentes, nullus
 admisit; ipse Carthaginem rediit, offerentibusque Romanis,
 ut eum Romae tenerent, negavit, se in ea urbe mansurum,
 in qua, postquam Afris servierat, dignitatem honesti civis
-habere non posset. egressus igitur ad Africam, omnibus
-suppliciis exstinctus est. y 4
+habere non posset. Regressus igitur ad Africam, omnibus
+suppliciis exstinctus est.
 
-Lj
-14, DEATH OF PowPEYy.
+
+### 14. DEATH OF POMPEY
+
 . Nunquam adhuc Romanae copiae in unum neque
 majores, neque melioribus ducibus, convenerant, totum
  � ��
@@ -431,7 +433,7 @@ moriturus esset. Jam cum neque pater neque mater
 
 -  Admeti pro eo mori voluisset, uxor se Aleestis morti
 obtulit, quam Hercules forte adveniens Orci manibus
-eripuit e& Admoto reddidit. NE. ^! "PE
+eripuit et Admoto reddidit. NE. ^! "PE
 
 25. MrDAS. .
 
@@ -1097,7 +1099,7 @@ sin autem regi �styagi obsequemini, labores, quales erant
 hesterni, habebitis perpetuos. Persae igitur, qui iam pridem
 Medorum imperium aegre ferebant, ducem tandem nacti,
 libenter in libertatem se vindicaverunt: Cyrus autem his
-usus adiutoribus e& Medorum regno potitus, iis praemia large
+usus adiutoribus et Medorum regno potitus, iis praemia large
 effuseque donabat. JA �n |
 
 B 45. Wuv ARE Fnocs DuMB AT SERIPHUS |
@@ -1263,7 +1265,7 @@ Amasis privatus nullo modo in serias res animum inten-.
 debat sed cum scurris et compotoribus aetatem degebat;
 ubi autem potanti necessaria defecerant, furto aliena auferre
 solebat. Ab iis autem, qui eum sua bona habere affirmabant,
-accusatus ad proxima quaeque templa deducebatur, e& modo
+accusatus ad proxima quaeque templa deducebatur, et modo
 condemnatus modo absolutus decedebat Amasis. Postquam
 autem regno potitus est, quicumque Di furti criminis
 absolverant, eorum templa negligebat, neque iis sacra facie-
@@ -1524,7 +1526,7 @@ pedibus poterat, in arborem conscendit ibique eorum in-
 sidias evitare conata consedit. Quum autem illi viderent
 se eam ulcisci non posse, leaena quidem custodiam non
 intermisit, sed insidias ursae moliens ad arboris truncum
-morata est: leo vero quasi inops consilii e& moerore pertur-
+morata est: leo vero quasi inops consilii et moerore pertur-
 batus instar hominis angebatur.
 
 b - E
