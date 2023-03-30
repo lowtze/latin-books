@@ -96,15 +96,39 @@ faults the author is entirely responsible.
 
 ## CONTENTS
 
-Introductory Stories
-
-Latin Stories
-
-Appendix
-
-Notes
-
-Vocabulary
+- [A Latin Reader](#a-latin-reader)
+  - [PREFACE](#preface)
+  - [CONTENTS](#contents)
+  - [INTRODUCTORY STORIES](#introductory-stories)
+    - [1. THE INNOCENT TRUMPETER.](#1-the-innocent-trumpeter)
+    - [2. FOOLISH SERVANTS.](#2-foolish-servants)
+    - [3. THE DONKEY AND THE HORSE.](#3-the-donkey-and-the-horse)
+    - [4. DEATH.](#4-death)
+    - [5. HANNIBAL'S TRICK.](#5-hannibals-trick)
+    - [6. THE GAULS INVADE ROME.](#6-the-gauls-invade-rome)
+    - [7. THE STORY OF PYRRHUS.](#7-the-story-of-pyrrhus)
+    - [8. PYRRHUS.](#8-pyrrhus)
+    - [9. PYRRHUS.](#9-pyrrhus)
+    - [10. PYRRHUS.](#10-pyrrhus)
+    - [11. PYRRHUS.](#11-pyrrhus)
+    - [12. REGULUS.](#12-regulus)
+    - [13. REGULUS.](#13-regulus)
+    - [14. DEATH OF POMPEY](#14-death-of-pompey)
+    - [15. DEATH OF CAESAR.](#15-death-of-caesar)
+    - [16. DEATH OF ANTONY.](#16-death-of-antony)
+    - [17. CLAUDIUS INVADES BRITAIN.](#17-claudius-invades-britain)
+    - [18. VESPASIAN.](#18-vespasian)
+    - [19. ATALANTA.](#19-atalanta)
+    - [20. MELEAGER.](#20-meleager)
+    - [21. ACHILLES.](#21-achilles)
+    - [22. THE ARTFUL WOLF.](#22-the-artful-wolf)
+    - [23. THE SILLY STAG.](#23-the-silly-stag)
+    - [24. STORY OF ALCESTIS.](#24-story-of-alcestis)
+    - [25. MIDAS.](#25-midas)
+  - [LATIN STORIES](#latin-stories)
+    - [1. NOT AT HOME.](#1-not-at-home)
+  - [NOTES TO INTRODUCTORY STORIES.](#notes-to-introductory-stories)
+  - [NOTES TO LATIN STORIES.](#notes-to-latin-stories)
 
 ---
 
@@ -2144,11 +2168,8 @@ halitu refrigerem." Tune Satyrus, dum a mensa surgit,
 calidum et frigidum halitum emittere potes! Vale: neque
 enim tecum posthac amicitiam exercebo." m
 
-BEER
-� ��
-60 LATIN READER :
 -
-109. Two SrpEs To EvERY QUESTION. Y
+1.   Two SrpEs To EvERY QUESTION. Y
 Leo et homo dum in eadem via simul progrediuntur, et
 vario sermone inter se utuntur, columnam vident, in qua
 erat incisus leo ab homine suffocatus. Hanc ubi homo
@@ -3075,9 +3096,6 @@ Simonidem fecit certiorem duos iuvenes insigni forma et
 pulchritudine divina pro foribus stare. - [ ]
 j ume ��
 
-I | 164
--
-
 At Simonides iuvenum iussu arcessitus, cum foras se pro-
 ripuisset, mox Deorum beneficium percepit; illos quidem
 non vidit, sed magno exaudito strepitu atrium, e quo
@@ -3296,9 +3314,7 @@ discusso, causam exitii misero attulerunt.  Retiarius enim,
 in eum locum compulso mirmillone et abiecto, dum iacentem
 ferire conatur, traiectum gladio Aterium interimit. m
 
-A
-94 � LATIN READER
--
+
 , 177. Tut PoETRY OF EURIPIDES. TN
 Euripides poeta sui fiduciam eiusmodi exhibebat, quae,
 quantum inter modestiam et insolentiam interesset, facile
