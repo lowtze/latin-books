@@ -184,70 +184,72 @@ militaria signa revocaret.
 
 ### 7. THE STORY OF PYRRHUS.
 
-Tarentini Pyrrhum, Epiri regem, contra Romanos aux-
-ilium poposcerunt, qui ex genere Achillis originem trahebat.
-Is mox ad ltaliam venit, tumque primum Romani cum
+Tarentini Pyrrhum, Epiri regem, contra Romanos auxilium
+poposcerunt, qui ex genere Achillis originem trahebat.
+Is mox ad Italiam venit, tumque primum Romani cum
 transmarino hoste dimicaverunt. Missus est contra eum
 consul P. Valerius Laevinus, qui, cum exploratores Pyrrhi
-cepisset, iussit eos per castra duci, ostendi omnem exer-
-citum, tumque dimitti, ut renuntiarent Pyrrho, quaecunque
+cepisset, iussit eos per castra duci, ostendi omnem exercitum,
+tumque dimitti, ut renuntiarent Pyrrho, quaecunque
+a Romanis agerentur.
 
-a Romanis agerentur. Cum J
 
-y B 8. PYRRHUS. m
-Commissa mox pugna, cum iam Pyrrhus fugeret, ade
-phantorum auxilio vicit, quos incognitos Romani expave-
-runt; sed nox proelio finem dedit. Laevinus tamen per
+### 8. PYRRHUS.
+
+Commissa mox pugna, cum iam Pyrrhus fugeret, elephantorum
+auxilio vicit, quos incognitos Romani expaverunt;
+sed nox proelio finem dedit. Laevinus tamen per
 noctem fugit. Pyrrhus Romanos mille octingentos cepit,
-eosque summo honore tractavit; occisos sepelivit. � Quos
+eosque summo honore tractavit; occisos sepelivit. Quos
 cum adverso vulnere et truci vultu etiam mortuos iacere
-vidisset, tulisse ad caelum manus dicitur, cum hae voce:
+vidisset, tulisse ad caelum manus dicitur, cum hac voce:
 se totius orbis dominum esse potuisse, si tales sibi milites
-contigissent. mn
-Eo. 2
-� ���
-4 LATIN READER �-
-] -
-E 9. PyRRHUS
-Postea Pyrrhus, iunctis sibi Samnitibus, Lucanis, Brut-
-tiisque, Romam perrexit, omnia ferro ignique vastavit,
+contigissent.
+
+
+### 9. PYRRHUS.
+
+Postea Pyrrhus, iunctis sibi Samnitibus, Lucanis, Bruttiisque,
+Romam perrexit, omnia ferro ignique vastavit,
 Campaniam depopulatus est, atque ad Praenestem venit
 milliario ab urbe octavo decimo. Mox terrore exercitus,
 qui cum consule sequebatur, in Campaniam se recepit.
-Legati ad Pyrrhum de redimendis captivis missi ab eo
+Legati ad Pyrrhum de redimendis captivis missi, ab eo
 honorifice suscepti sunt; captivos sine pretio Romam misit.
 Unum ex legatis Romanorum, Fabricium, sic admiratus
 est, ub, cum eum pauperem esse cognovisset, quarta parte
-regni promissa, sollicitare voluerit, ut ad se transiret; con-
-temptusque a Fabricio est. - E IB
-[ 10. PYRRHUS. v
-- Quare eum Pyrrhus ingenti Romanorum admiratione
-' teneretur, legatum misit, qui pacem aequis condicionibus
+regni promissa, sollicitare voluerit, ut ad se transiret; contemptusque
+a Fabricio est.
+
+
+### 10. PYRRHUS.
+
+Quare eum Pyrrhus ingenti Romanorum admiratione
+teneretur, legatum misit, qui pacem aequis condicionibus
 peteret, praecipuum virum, Cineam nomine, ita ut Pyrrhus
 partem Italiae quam iam armis occupaverat, obtineret.
 Pax displicuit, remandatumque Pyrrho a senatu est, eum
 cum Romanis, nisi ex Italia recessisset, pacem habere non
-posse Tum Romani iusserunt captivos omnes, quos
+posse. Tum Romani iusserunt captivos omnes, quos
 Pyrrhus reddiderat, infames haberi, quod armati capi
 potuissent, nec ante eos ad veterem statum reverti, quam
 si binorum hostium occisorum spolia retulissent.
-u
-1 e 11. PvRRHUS. EN hb.
-Tta legatus Pyrrhi reversus est. � quo cum quaereret
+
+
+### 11. PYRRHUS.
+
+Ita legatus Pyrrhi reversus est. A quo cum quaereret
 Pyrrhus, qualem Romam comperisset, Cineas dixit: regum
 se patriam vidisse; scilicet tales illic fere omnes, qualis
-u��� -�
-
-] LATIN READER 5
 unus Pyrrhus apud Epirum et reliquam Graeciam putaretur.
 Missi sunt contra Pyrrhum duces P. Sulpicius et Decius
 Mus, consules. Certamine commisso Pyrrhus vulneratus
 est, elephanti interfecti, XX millia caesa hostium, et ex
 Romanis tantum quinque millia. Pyrrhus Tarentum
-fugatus. Iu -� "2 P -
+fugatus.
 
-E
-12. REGULUS.
+
+### 12. REGULUS.
 
 Carthaginienses Regulum ducem, quem ceperant,
 petierunt, ut Romam proficisceretur, e& pacem � Romanis
