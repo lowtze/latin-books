@@ -1,149 +1,44 @@
-hi -——- Dec T mtu n
-wg fati Uca E
-- EE
+---
+title: "Ciceronis Filius"
+author: H. J. Hardy
+publisher: Macmillan and Co.
+year: 1889
+lang: la
+cover-image: "./images/cover.png"
+version: 0.1
+---
 
-—-NRLF j dos ; 5E Nn
+# A Latin Reader
 
-EB BRRIE ] P E
+---
 
-Lo e SUE die om
+A LATIN READER 
+FOR THE 
+LOWER FORMS IN SCHOOLS
 
-n * EN dose
-Ul Nx 7 Am ee y E Pu de
-| "c. E PEE EX
-ENEME I ^ - 3.
-N READER -
-A LATI Bd
-THE Ea
-FOR Os.
-- P RN. T i
-2 SCHOOLS :
-LOWE jo NUUS nA M rot T AUTRE.
+BY
+H. J. HARDY, M.A.
+ASSISTANT MASTER IN WINCHESTER COLLEGE
 
-* Bo ——NuE v. Es
+LONDON
+MACMILLAN AND CO.
+AND NEW YORK
+1889
 
-: AU - d 1 - "m o &- ) E. i To is e ] p! PA ^ Ed
-Tm ] D^ n d o d ut -— 5 E A ARE: a
-E: — ít A ^ j » D -a. AE I T murum m v
-hoy » » Pe " A " "B vw IUUM B
-5 i1" ES d Wes IN.
-Xe .LH. Eu RUNE t ET.
-o mE EE
-AN ;CNNN "——- EUM ES
-- a - " E E "3S TOY | EM E
-3 um "C x. Doe c d z 22d Ed.
-uM . "M uM A n Do —
-| Ue CM POM ED
-meam »— i- OX
-Jl Ey EX LV EN/ 19) P
-| UEM * -— Mi. bbs j r- *
+---
 
-Eu 3-— 2. ANE e- ud ENS im
-] "Wt. EU! ( M P
-À m". OC CES- 1 H Wa H v Uem
-ae e RN £g. : M. c
-E DU C EE ERE. P
-iecit nne ES ecco SERE cre IESQLupucIE
-j CENE ME EID IX UH cue E
-| ^ E a — FAUT 4-RM- d
-, Le AIIRM 42 A P
-L-- ——"Q
-UNIVERSITY OF CALIFORNIA.
-— Em |
-GIFT OF MRS. LOUISE B. KELLOGG.
-No. 66
-E 03
-| EF M
-| à
-Li!
-pe 1 | NT
-ga
-! e
-deal] a
-4 c.
-2
-im—— MM
+*First Edition*, 1888
+*Second Edition*, *July* 1889
 
-""- py labs ,
+---
 
-H 7 LUNA n ;
+A. S. ITA DOCENTI
+UT DOCERE NON VIDEATUR
 
-kN "E M br * aC i
+---
 
-^" 3" | "has 4 .
+## PREFACE
 
-E 00 0 re * Jj
-
-"8 £m. Ton GM pl DN
-pc o
-COURSE
-P" Y ]
-p" ]
-] B
-B -
-Digitized by the Internet Archive
-D in 2007 with funding from
-Microsoft Corporation
-e»
-: *
-| Rttp//www.archive.org/details/latinreaderforloOO0hardrich
-| |
-| i
-b m
-| 2 p
-A LATIN READER
--
-Mos scd
-A LATIN READER
-m B |
-FOR THE
-E . ]
-LOWER FORMS IN SCHOOLS i
-P
-P MT
-- B H. J. HARDY, M.A.
-ENe-
-0 0m i u
-(0 ( wnivener |
-ENT !
-| — fonbon -—
-MACMILLAN AND CO. P
-B AND NEW YORK u
-am
--
-x
--
-"EM
-Qo
-o
-Oo
-S
-e»
-" e
-First Edition, 1888
-Second Edition, July 1889
-mE
-e
-E e
-p o —— PPM
-
-(HS
-1&3
-
-dMRON
-
-p
-
-] :
-
-Lo (0 198128 |
-ES D am s dm
-———— VOU
-) E i»
-7 9
-
-.
-! ] PREFACE , ; | !
 THOSE teachers of Latin who are content with the
 existing provision will resent the appearance of a fresh
 Reader: those who are dissatisfied may perhaps read
@@ -164,47 +59,51 @@ much the same difficulty.
 
 To the main part of the book have been prefixed a
 few introductory stories taken from Eutropius and the
--— ——
-viii PREFACE.
 well-known German schoolbooks; and an appendix
 has been placed at the end (for which no vocabulary
 is provided) consisting of a selection from the dialogues
 of Erasmus. It is suggested that they should be
-used for unseen translation either vóvoa voce or on
+used for unseen translation either *viva voce* or on
 paper, and it is hoped that they may be of value in
 bringing before the minds of those who use them the
 language as & living vehicle of thought: the facility
-of expression and sprightliness of manner will com-
-pensate for the slight deviations from strictly classical
+of expression and sprightliness of manner will compensate
+for the slight deviations from strictly classical
 style.
+
 In conclusion, the author would wish to thank
-many kind friends for their help and criticism : if the
-- book has any merit in spite of its faults, he would
+many kind friends for their help and criticism: if the
+book has any merit in spite of its faults, he would
 like to refer to the apologue of Saadi with regard to
 the scented clay: 'I was indeed a despicable piece of
 earth; but I was some time in the company of the
 rose, and the quality of my sweet companion was
-communicated to me. Any fragrance, therefore,
+communicated to me.' Any fragrance, therefore,
 which may be detected, must be set down to the
 company of ancient authors and kind friends: for the
-faults the author is entirely responsible. v , B
-B Spi. 1888. —— b
-L6 DM
-BEEN — — 4
-» 0
--
-"
-PULVERE
-CONTENTS
-PAGE
-IvTRODUCTORY STORIES " . . . . 1
-LATIN STORIES . . . : . . 11
-APPENDIX . . . . . . . 123
-Norzs . . . . : . E . 142
-VOCARULARY . . , , . ; ; 145
+faults the author is entirely responsible.
+
+*Sept.* 1888.
+
+---
+
+## CONTENTS
+
+Introductory Stories
+
+Latin Stories
+
+Appendix
+
+Notes
+
+Vocabulary
+
+---
+
 |
-T— an dud
-Ó |a -—c—
+Tï¿½ an dud
+ï¿½ |a -ï¿½cï¿½
 
 ] - * $i
 
@@ -213,13 +112,13 @@ E
 E ]
 
 i i
-X | * — d
+X | * ï¿½ d
 E TARTE
 v ors "uu B
 , pM
 ] UNIVERSITY ! *
 - ^ o V 7"
-CAL IPORSe «t
+CAL IPORSe ï¿½t
 r Y
 | INTRODUCTORY STORIES ]
 y 1. THE INNOCENT TRUMPETER.
@@ -248,8 +147,8 @@ oneris se levaret, si se vivum videre vellet. Sed ille asini
 preces repudiavit. Paulo post igitur asinus labore con-
 sumptus in via corruit et efllavit animam. Tum agitator
 - & B mE
-Bw 2 —— —— |-9 3
-"TX ———
+Bw 2 ï¿½ï¿½ ï¿½ï¿½ |-9 3
+"TX ï¿½ï¿½ï¿½
 2 LATIN READER i |
 omnes sarcinas, quas asinus portaverat, atque insuper etiam
 pellem asino detractam in equum imposuit. Ibi ille sero
@@ -276,15 +175,15 @@ nerari et eum qui vulnerasset se in flumen conicere illud-
 que tranare. Tum elephas exasperatus ad persequendum
 doloris sui auctorem tranavit amnem et reliqui quoque eum
 secuti sunt.
-6. Tug GAULS INVADE ROME. E" v.
+1. Tug GAULS INVADE ROME. E" v.
 [ Galli Senones ad urbem venerunt, et victos Romanos
 undecimo milliario a Roma apud flumen Alliam secuti,
-pe—— ——
+peï¿½ï¿½ ï¿½ï¿½
 
 LATIN READER 3
 etiam urbem occuparunt; neque defendi quidquam, nisi
 Capitolium, potuit. Quod cum diu obsedissent, et iam
-Romani fame laborarent, à Camillo, qui in vicina civitate
+Romani fame laborarent, ï¿½ Camillo, qui in vicina civitate
 exsulabat, Gallis superventum est, gravissimeque victi
 sunt. Postea tamen, accepto etiam auro, ne Capitolium
 obsiderent, recesserunt: sed secutus eos Camillus ita cecidit,
@@ -307,14 +206,14 @@ Commissa mox pugna, cum iam Pyrrhus fugeret, ade
 phantorum auxilio vicit, quos incognitos Romani expave-
 runt; sed nox proelio finem dedit. Laevinus tamen per
 noctem fugit. Pyrrhus Romanos mille octingentos cepit,
-eosque summo honore tractavit; occisos sepelivit. — Quos
+eosque summo honore tractavit; occisos sepelivit. ï¿½ Quos
 cum adverso vulnere et truci vultu etiam mortuos iacere
 vidisset, tulisse ad caelum manus dicitur, cum hae voce:
 se totius orbis dominum esse potuisse, si tales sibi milites
 contigissent. mn
 Eo. 2
-— ———
-4 LATIN READER —-
+ï¿½ ï¿½ï¿½ï¿½
+4 LATIN READER ï¿½-
 ] -
 E 9. PyRRHUS
 Postea Pyrrhus, iunctis sibi Samnitibus, Lucanis, Brut-
@@ -341,10 +240,10 @@ potuissent, nec ante eos ad veterem statum reverti, quam
 si binorum hostium occisorum spolia retulissent.
 u
 1 e 11. PvRRHUS. EN hb.
-Tta legatus Pyrrhi reversus est. À quo cum quaereret
+Tta legatus Pyrrhi reversus est. ï¿½ quo cum quaereret
 Pyrrhus, qualem Romam comperisset, Cineas dixit: regum
 se patriam vidisse; scilicet tales illic fere omnes, qualis
-u——— -—
+uï¿½ï¿½ï¿½ -ï¿½
 
 ] LATIN READER 5
 unus Pyrrhus apud Epirum et reliquam Graeciam putaretur.
@@ -352,13 +251,13 @@ Missi sunt contra Pyrrhum duces P. Sulpicius et Decius
 Mus, consules. Certamine commisso Pyrrhus vulneratus
 est, elephanti interfecti, XX millia caesa hostium, et ex
 Romanis tantum quinque millia. Pyrrhus Tarentum
-fugatus. Iu -— "2 P -
+fugatus. Iu -ï¿½ "2 P -
 
 E
 12. REGULUS.
 
 Carthaginienses Regulum ducem, quem ceperant,
-petierunt, ut Romam proficisceretur, e& pacem à Romanis
+petierunt, ut Romam proficisceretur, e& pacem ï¿½ Romanis
 impetraret, ac permutationem captivorum faceret. Ille
 Romam cum venisset, inductus in senatum, nihil quasi
 Romanus egit, dixitque, se ex illa die, qua in potestatem
@@ -382,12 +281,12 @@ Lj
 14, DEATH OF PowPEYy.
 . Nunquam adhuc Romanae copiae in unum neque
 majores, neque melioribus ducibus, convenerant, totum
- — ——
+ ï¿½ ï¿½ï¿½
 6 LATIN READER ]
 terrarum orbem facile subacturae, si contra barbaros duce-
 rentur. Pugnatum tamen est ingenti contentione, victusque
 ad postremum Pompeius, et castra eius direpta sunt. Ipse
-fugatus Alexandriam petiit, ut à rege Aegypti, cui tutor a
+fugatus Alexandriam petiit, ut ï¿½ rege Aegypti, cui tutor a
 senatu datus fuerat propter iuvenilem eius aetatem,
 acciperet auxilia; qui, fortunam magis quam amicitiam
 secutus, occidit Pompeium ; caput eius et annulum Caesari
@@ -408,7 +307,7 @@ Casca. Ergo Caesar, cum inter ceteros venisset ad curiam,
 XXIII. vulneribus confossus est.
 
 .r AME
-" 16. DEATH OF ÁNTONY. ]
+" 16. DEATH OF ï¿½NTONY. ]
 
 Antonius ingens bellum civile commovit, cogente uxore
 Cleopatra, regina Aegypti, dum cupiditate muliebri optat
@@ -418,15 +317,15 @@ fugit in Aegyptum; et desperatis rebus, cum omnes ad
 Augustum transirent, ipse se interemit: Cleopatra sibi
 aspidem admisit, et veneno eius exstincta est. Aegyptus
 per Octavianum Augustum imperio Romano adiecta est,
-n——m ——
-LATIN READER — 7
+nï¿½ï¿½m ï¿½ï¿½
+LATIN READER ï¿½ 7
 praepositusque ei Cn. Cornelius Gallus. Hune primum
 Aegyptus Romanum iudicem habuit. b
 N 17. CLAUDIUS INVADES BRITAIN. ] B
 
 Britanniae bellum Claudius intulit, quam nullus Roman-
 orum post Iulium Caesarem attigerat, eaque devicta per Cn.
-Sentium et À. Plautium, illustres et nobiles viros, triumphum
+Sentium et ï¿½. Plautium, illustres et nobiles viros, triumphum
 celebrem egit. Quasdam insulas etiam, ultra Britanniam in
 Oceano positas, Romano imperio addidit, quae appellantur
 Oreades, filioque suo Britannici nomen imposuit  'Tam
@@ -441,7 +340,7 @@ E B 18. VESPASIAN. .
 
 Vespasianus successit, factus apud Palaestinam im-
 perator; princeps obscure quidem natus, sed optimis
-comparandus; privata vita illustris, u& qui à Claudio in
+comparandus; privata vita illustris, u& qui ï¿½ Claudio in
 Germaniam, deinde in Britanniam missus, tricies et bis cum
 hoste conflixerit, duas validissimas gentes, XX. oppida,
 insulam Vectam, Britanniae proximam, imperio Romano
@@ -450,11 +349,11 @@ pecuniae tantum avidior fuit, ita ut eam nulli iniuste
 auferret; quam cum omni diligentiae provisione colligeret,
 tamen studiosissime largiebatur, praecipue indigentibus.
 Nec facile ante eum cuiusquam principis vel maior est
-liberalitas comperta, veliustior. | v-—
+liberalitas comperta, veliustior. | v-ï¿½
 
 un PPM
-— ——
-8 — LATIN READER ——
+ï¿½ ï¿½ï¿½
+8 ï¿½ LATIN READER ï¿½ï¿½
 i B
 4 19. ATALANTA.
 | Schoeneus Atalantam, filiam formosissimam, dicitur
@@ -484,7 +383,7 @@ donavit. Cui quum Althaeae fratres pellem eripere vellent,
 illa Meleagri auxilium imploravit, qui avunculos occidit.
 Tum Althaea, gravi ira in filium commota, titionem illum
 fatalem in ignem coniecit. Sic Meleager periit. At
-sorores eius, dum íratrem insolabiliter lugent, in aves
+sorores eius, dum ï¿½ratrem insolabiliter lugent, in aves
 mutatae sunt, v z , 2 -
 LATIN READER -
 a 21. ACHILLES. |
@@ -500,7 +399,7 @@ subito tubicen cecinit; quo sono audito, Achilles arma
 arripuit. Unde eum virum esse intellectum est.
 v E . 92. THE ARTFUL WoLr. e" a B
 Serpens ingenti saxo oppressus rogavit virum praeter-
-euntem, ut à se onus amoliretur, pollicitus ingentem
+euntem, ut ï¿½ se onus amoliretur, pollicitus ingentem
 thesaurum, si hoc faceret. Quod quum vir iste mitis
 fecisset, non modo promissa non solvit, sed hominem
 occidere conatus est. Dum ita contendunt, accidit ut
@@ -509,12 +408,12 @@ inquit, *tantas lites inter vos componere, nisi videro prius,
 quomodo serpens saxo oppressus fuerit." Quum igitur vir
 serpenti saxum imposuisset, dixit vulpes, *ingratum animal
 sub saxo relinquendum esse censeo."
-4 23. Tug SrzLY SmAc. « ]
+4 23. Tug SrzLY SmAc. ï¿½ ]
 un Cervus, quum sitireb, ad fontem accessit, et suam in
 aqua imaginem conspiciens, cornuum magnitudinem laud-
 avit, crura vero uti nimis exilia vituperavit. Ecce leo
 advenit. Quo viso cervus aufugit, ub ei nullum periculum
-t. " ——
+t. " ï¿½ï¿½
 10 LATIN READER
 immineret, donec in planitie esset. Quum vero in silvam
 venisset, inter virgulta cornibus adhaesit, et a leone captus
@@ -523,7 +422,7 @@ est, quod pedum celeritate uti non poterat. "Tum moriturus,
 conservarunt, placerent autem. quae me perdiderunt."
 E T ,
 
-24. STORY OF ÁLCESTIS.
+24. STORY OF ï¿½LCESTIS.
 
 P Aleestim Peliae filiam cum multi in matrimonium
 peterent, Pelias promisit se filiam ei esse daturum, qui
@@ -545,16 +444,16 @@ Cum Bacchus exercitum in Indiam duceret, Silenus ab
 agmine aberravit. Quem Midas, rex Mygdoniae, hospitio
 3 liberaliter accepit eique ducem dedit qui eum ad Bacchum
 reduceret. Ob hoc beneficium Bacchus Midae optionem
-dedit, ut quidquid vellet à se peteret. Ille petiit, ut
+dedit, ut quidquid vellet ï¿½ se peteret. Ille petiit, ut
 quidquid tetigisset aurum fieret. Quod cum impetrasset,
 pte gavisus est hac virtute sua: non intellexit nihil ipsi
 (de perniciosius esse. Namque etiam cibus et potio in aurum
-mutabatur. Cum iam fame cruciaretur, petiit à Baccho ut
+mutabatur. Cum iam fame cruciaretur, petiit ï¿½ Baccho ut
 
 | cs suum revocaret. !
 ' E - '
-D B pe———
-u mE »
+D B peï¿½ï¿½ï¿½
+u mE ï¿½
 be B 2
 q H LATIN STORIES
 1. Nor AT How.
@@ -570,7 +469,7 @@ tuam." Hic Nasica, *Homo es impudens. Ego quum
 te quaererem, ancilae tuae credidi te domi non esse, tu
 mihi non credis ipsi."
 
-L À D 2. DEATH OF EPAMINONDAS. 2
+L ï¿½ D 2. DEATH OF EPAMINONDAS. 2
 
 Epaminondas quum mortifero vulnere ad Mantineam
 percussus esset, delatus in tentorium adhue vivus, Dio-
@@ -581,8 +480,8 @@ vero illum etiam mortuum .esse certior esset factus, suis
 persuasit ut bello cum hostibus composito amicitiam statim
 facerent. *''Nullus enim vir," inquit Epaminondas ** inter
 Thebanos relinquitur, qui nostro exercitui praesit." L h
-3 | 12 -— LATIN EE. d
-1 3. TuE CuxNING FRoo. » Ww 1
+3 | 12 -ï¿½ LATIN EE. d
+1 3. TuE CuxNING FRoo. ï¿½ Ww 1
 Sapiens sane es& Aegyptiarum genus ranarum : namque
 ob callidum ingenium maxima pericula saepe effugere
 possunt. Si enim in hydri os, qui in Nilo versatur, rana
@@ -596,7 +495,7 @@ retinere potest, insidet rana: cuius prudentiae robur, quam-
 
 vis sit ingens, hydrorum cedere necesse est. v
 P T TONG
-— Lu uu
+ï¿½ Lu uu
 4. DEATH THE BROTHER OF SLEEP.
 
 Poetae antiqui somnum fratrem mortis esse fingere
@@ -613,15 +512,15 @@ midinem sed haec tranquilla voce dixit, *Iam me somnus
 
 . incipit suo fratri tradere." .
 
-—-
-5. PüinE HUMBLED.
+ï¿½-
+5. Pï¿½inE HUMBLED.
 
 .. . Soerates Athenis non modo philosophum sapientem sed
 
 etiam hominem prudentem semper se praestare solebat.
 Quum igitur Aleibiadem videret propter divitias inflatum
 et de agris gloriantem, adduxit eum in locum, in quo
-€——I LATIN READER — 13
+ï¿½ï¿½ï¿½I LATIN READER ï¿½ 13
 tabula quaedam ut totum orbem terrarum ostenderet erat
 reposita, et Atticam ibi requirere iussit. Quam quum
 Alcibiades: invenisset, iussu Socratis suos fundos oculis
@@ -630,7 +529,7 @@ atque illos nusquam esse pictos tandem confitenti, respon-
 dit Socrates "In iis qui nulla pars terrae sunt non dubium
 est quin gloriari sit ineptissimum."
 
-EN — 6. THE CoNTENTED MiNp. — h
+EN ï¿½ 6. THE CoNTENTED MiNp. ï¿½ h
 (0
 Epaminondas unum habebat pallium idque sordidum ;
 si-quando illud in fullonis officinam miserat, ipse se domi
@@ -653,7 +552,7 @@ rebus puerilibus anteposuit: quo facto a iudicibus inter
 reos sacrilegii relatus est. Itaque neque aetati veniam
 dabant, neque sceleris inscitiam attribuebant, sed ut sacrile-
 gum nocentem propter id quod fecerat capitis damnaverunt.
-— 1—"
+ï¿½ 1ï¿½"
 14 LATIN READER
 - "- 7
 8. THE Pras' REVENGE.
@@ -688,7 +587,7 @@ B - [
 li, qui de rerum omnium natura disceptent et sapientes
 
 inter homines habeantur, interdum facile decipiuntur.
-UU RS READER  - — Bo
+UU RS READER  - ï¿½ Bo
 Accidit ut Florus vivido praeditus ingenio ac mpnes
 dolo captandi cupidus promitteret se iis rem difficilem
 propositurum esse. Qui ad hanc rem explorandam intenti
@@ -722,15 +621,15 @@ bello eum opprimi non posse animadvertit, insidiis inter-
 ficere studuit: quas ille plerasque vitavit: sicut, cum nun-
 tiatum esset, quosdam sibi insidiari, qui in amicorum erant
 numero (de quibus, quod inimici detulerant, neque recipi-
-e- —— (——
-» 16 - LATIN READER
+e- ï¿½ï¿½ (ï¿½ï¿½
+ï¿½ 16 - LATIN READER
 p
 
 endum neque negligendum putavit), experiri voluit verum-
 
 ne an falsum esset relatum. H
 
-^ c-—
+^ c-ï¿½
 Y i m
 I 13.
 
@@ -747,7 +646,7 @@ concurrentes insidiatores animadvertit, tela in eos coniecit.
 Hoc idem cum universi fecissent, priusquam pervenirent ad
 eum quem aggredi volebant, confixi ceciderunt inimici.
 
-P — -— A
+P ï¿½ -ï¿½ A
 a. Jj
 
 Hic tamen tam callidus vir in extremo tempore captus
@@ -761,12 +660,12 @@ videretur, quo loco vellet, in colloquium veniret. Probata
 re, colloquendi tempus sumitur locusque quo conveniretur.
 Hue Mithridates cum uno, cui maximam habebat fidem,
 
-á ante aliquot dies venit compluribusque locis separatim
+ï¿½ ante aliquot dies venit compluribusque locis separatim
 gladios obruit, eaque loca diligenter notat. Ipso autem
 colloquendi die utrique servos qui locum explorarent mise-
-LEE w-€ 9
+LEE w-ï¿½ 9
 2 LATIN READER 17
-BD c—T79]
+BD cï¿½T79]
 Deinde ipsisunt congressi. Hic cum aliquamdiu in col-
 loquio fuissent et diversi discessisent iamque procul
 Datames abesset, eum Mithridates revocavit simulans se
@@ -787,9 +686,9 @@ multo diligentior insecutus, commissum sacrilegium hor-
 ribi quam maxime poterat fremitu praedicabat. Fur
 autem scelerisque socii magna lapidatione facta canem
 appetebant; deinde cum latrare non desisteret, offis et pane
-objectis, illum demulcere conabantur.  Àt canis nec lapideo
+objectis, illum demulcere conabantur.  ï¿½t canis nec lapideo
 imbri deterritus nec duleibus seductus illecebris custos in-
-corruptus permansit. -—
+corruptus permansit. -ï¿½
 NT
 Sive enim fur domum, ubi habitabat, evaserat, sive inde
 exierat, canis ei implacabilem inexpiabilemque se praebebat :
@@ -797,16 +696,16 @@ itaque tandem est intellectum unde canis, qui semper
 latrabat, esset, nec multo post animadversum est quae orna-
 Cc
 .
-Pp — —
+Pp ï¿½ ï¿½
 y 18 LATIN READER
 uu menta templo deessent. Quo facto, is, qui tale furtum
 admiserat, in Atheniensium suspicionem adductus et tor-
 mentis cruciatus totam rem exposuit. Denique e lege hic
 capite damnatus extremo supplicio affectus est: cani vero,
 ut sacerdotibus pari custodi, cibus publice datus maximam .
-meritamque gloriam praebebat, — ]
-| "»--— b
-E 18. A FRENCH ÍMPOSTOR. -
+meritamque gloriam praebebat, ï¿½ ]
+| "ï¿½--ï¿½ b
+E 18. A FRENCH ï¿½MPOSTOR. -
 ] mE p"
 Mantaeius quum divitias paternas consumpsisset, ut
 / pecuniam colligeret hoc consilium dolosum iniit. Hic homo
@@ -827,14 +726,14 @@ eum ignorare quanta esset stultitia hominum. Quod quum
 vix dixisset, accurrit nuntius, quem miserat civis ditissimus,
 ut promitteret se septem sestertia medico daturum: sibi
 enim fuisse coniugem violentam et effrenatam; si ea
-revertisse£, maximum sibi dolorem illaturam: se idcirco
+revertisseï¿½, maximum sibi dolorem illaturam: se idcirco
 orare Mantacium ne illam pestem reportaret. Septem
 sestertiis persolutis Mantacius promisit se iis quae petiisset
 obsecutum, nulla arte usurum esse, ut illus coniugem in
-vitam redigeret. n J É
+vitam redigeret. n J ï¿½
 .
-pn —
-LATIN READER p—— 19
+pn ï¿½
+LATIN READER pï¿½ï¿½ 19
 P 20.
 
 Mox duo iuvenes opulenti et prodigi, dum medicum
@@ -861,12 +760,12 @@ in regia versabantur, candelis uti. Itaque tota domus
 taedis illuminata, quanto in odio essent regi candelae, -
 omnibus exhibere solita est.
 
-m 22. Ginosr STORY. ed €
+m 22. Ginosr STORY. ed ï¿½
 Erat Athenis spatiosa et capax domus, sed infamis et
 pestilens. Per silentium noctis sonus ferri et, si attenderes
 acrius, strepitus vinculorum longius primo, deinde e proximo
 reddebatur: mox apparebat idolon, senex macie et squalore
-p V 1——
+p V 1ï¿½ï¿½
 20 LATIN READER
 confectus, promissa barba, horrenti capillo: eruribus com-
 pedes, manibus catenas gerebat quatiebatque. Inde ab
@@ -880,13 +779,13 @@ j seu quis emere seu quis conducere ignarus tanti mali vellet.
 
  . EM
 
-EB «x
+EB ï¿½x
 
 Venit Athenas philosophus Athenodorus, legit titulum
 auditoque pretio, quia suspecta vilitas, percunctatus, omnia
 docetur ac nihilo minus, immo tanto magis conducit. Ubi
 coepit advesperascere, iubet lectum sterni sibi in prima
-domus parte, poscit pugillarés, stilum, lumen: suos omnes
+domus parte, poscit pugillarï¿½s, stilum, lumen: suos omnes
 in interiora dimittit, ipse ad scribendum animum, oculos,
 
 ' manum intendit, ne vacua mens audita simulacra et inanes
@@ -906,7 +805,7 @@ respicit rursus Athenodorus nec moratus tollit lumen et
 sequitur. Ibat illa lento gradu, quasi gravis vinculis ;
 
 ORCI deflexit in aream domus, repente dilapsa deserit
-—— —
+ï¿½ï¿½ ï¿½
 
 ; LATIN READER 21
 comitem: desertus herbas et folia concerpta signum loco
@@ -943,11 +842,11 @@ atque conviva egresso, reversus philosophus, qualis cena
 esset apparata, animadvertit; sed dum patellam cibo vae-
 uam aspicit, *Equidem", inquit, iam cenavi;" studiis enim
 penitus intentus re vera est oblitus utrum cenasset necne.
-— —
-22 —— LATIN «P 8
+ï¿½ ï¿½
+22 ï¿½ï¿½ LATIN ï¿½P 8
 :
 ] dE
-E 27. ÀNCIENT CANNIBALS.
+E 27. ï¿½NCIENT CANNIBALS.
 Ferunt Indorum barbaram gentem in orientis partibus
 habitare solere, qui Padaei vocati hoc instituto uterentur.
 Si quis civium morbo laborabat, sive mulier sive vir erat,
@@ -960,7 +859,7 @@ dum est, haud multos ad senectutem pervenire potuisse:
 sin autem id accidit, senis ad aram deorum mactati carne
 vescebantur. .
 mE 28. THE MILLER. - a r
-—À S
+ï¿½ï¿½ S
 Homines quidam, seditione ac discordia concitata, in
 diversas partes discedunt. Militibus tandem ad provinciam
 . missis ut multos, qui contra regem arma sumpserant,
@@ -978,7 +877,7 @@ s B
 B 29. WasTE or WORDS.
 .. Samii Spartam venerunt, ut opem a Lacedaemoniis
 peterent. Introducti ad magistratus, sollicitis animis multa
-u—— ——
+uï¿½ï¿½ ï¿½ï¿½
 LATIN READER 23
 verba faciebant. Illi autem, primo constituto concilio,
 Samiis responderunt se ea, quae prima dixissent, oblitos
@@ -996,7 +895,7 @@ b. Bubuleus vitulum, dum gregem armentorum pascit
 amissum, per omnes solitudines diu vagatus quaerebat:
 quem ubi nusquam invenire potuit, lovem precatus pro-
 misit, si furem, qui vitulum abstulisset, ostendisset, hoedum
-in sacrificio se oblaturum. — Deinde in quercetum progressus
+in sacrificio se oblaturum. ï¿½ Deinde in quercetum progressus
 leone vitulum devoratum cognovit.  Trepidus igitur et
 humi demissus manibus ad caelum sublatis, ait, **O
 Iuppiter, promisi me tibi hoedum daturum esse, si furem
@@ -1014,12 +913,12 @@ munus edit, ab omni parte lapillis est ita petitus, ut gravi
 dolore afficeretur. Quo facto, quum ad aediles accessisset,
 effecit ut ii edicerent, ne cui in arenam nisi pomum
 demittere liceret. "Haud multo post Casellium ab amico
-p— /—
+pï¿½ /ï¿½
 24 LATIN READER
 consultum utrum nux pinea pomum habenda esset necne,
 respondisse ferunt, *Si in Vatinium missurus es, pomum
 est."
-32. CoMPULSION OR PERSUASION 1 m — h
+32. CoMPULSION OR PERSUASION 1 m ï¿½ h
 Sol et ventus Aquilo olim certabant uter esset fortior.
 Itaque inter eos convenit ut vires in viatore experirentur:
 e quibus qui amictum homine excussisset, palmam ferret.
@@ -1045,7 +944,7 @@ obstatur, quominus id faciat, non sine labore res conficitur
 | 34. RoMAN NAMES,
 * Asina ? inquit hic *quod viro non mediocri cognomen
 est, velim dicas unde contigerit; quum hoc nomen contume-
-u— —
+uï¿½ ï¿½
 
 - LATIN READER 25
 liae quam honori propius videatur Tum respondit ille:
@@ -1079,7 +978,7 @@ tam grandem pecuniam persolvere nequiret, ad hoc celandum
 maximam, dum vivit, adhibebat curam. lam tandem
 quum mortem obiisset, et bona sub hasta essent vendenda,
 quantum esset aes alienum undique renunciatur. Quod
-[— ———
+[ï¿½ ï¿½ï¿½ï¿½
 
 26 LATIN READER -
 quum ad Augustum principem allatum esset, uni e libertis,
@@ -1117,14 +1016,14 @@ tuum esse simulabat. Ursa vero, ut accessit, aures et os
 iacentis et spiritum continentis contrectat, tunc eum cadaver
 esse rata abit. Mox alter, qui inter frondes arboris latuerat,
 descendit: cui pereunctanti quidnam in aure eius iacentis
-—wám —
+ï¿½wï¿½m ï¿½
 
 LATIN READER 2T
 dixisset ursa respondit amicus ursam se monuisse, ne post.
 ea cum istiusmodi amicis iter faceret. hien
 
 --
-y /— 839. DrAR Eaos.
+y /ï¿½ 839. DrAR Eaos.
 
 Rex quidam quum inter Batavos iter faceret, in oppid-
 ulo constitit, u& se suumque equum reficeret; cui roganti,
@@ -1154,9 +1053,9 @@ cur de albis et nigris loris similes maculae gignantur."
 Quibus verbis auditis, libertus, qui servus olim verberibus
 saepius est affectus, subito obstupefactus, nec. philosophos
 neque alios posthac unquam cavillari conabatur. " i
-"uu (—
+"uu (ï¿½
 2 li READER
-E » UT- Nw
+E ï¿½ UT- Nw
 p 41. A REPROOF.
 Mercurius cognoscendi cupidus quanti apud homines
 esset, statuarii domum in hominis speciem transformatus
@@ -1168,7 +1067,7 @@ tus, ac sui ut nuntii deorum et, quaestuosi summam rationem
 homines habere ratus; * Dic mihi" inquit, *nonne haec
 maximi constat pretii?"  **Minime: nam si hasce alias
 emeris, libenter hane gratuitam adiciam."
-b 3 49. A UsgFUL DONKEY.  — a b
+b 3 49. A UsgFUL DONKEY.  ï¿½ a b
 C. Mario ominis observatio quondam saluti erat, quo tem-
 pore hostis a senatu iudicatus in domum Fanniae Minturnas
 - eustodiae causa deductus est. Animadvertit enim asellum,
@@ -1185,8 +1084,8 @@ ab Astyage, rege Medo, desciscerent, hoc usus est consilio.
 Illos Persieae regionis tractum spinis obsitum iussit uno die
 faleibus purgare: proposito labore iam tandem Persis per-
 funetis, iisdem Cyrus praedixit ut in posterum diem loti
-RERUM E»
-LATIN READER — — . 29
+RERUM Eï¿½
+LATIN READER ï¿½ ï¿½ . 29
 adessent: interim caprarum oviumque greges omnes in
 unum congregatos interfecit paravitque: ubi postridie
 Persae convenerunt, discumbere per herbam iussos lautis
@@ -1199,12 +1098,12 @@ E Multum illi interesse responderunt: pridie enim omnia
 se mala habuisse, deinde omnibus bonis fructos esse. Qui-
 bus dictis, ** Viri Persae," inquit, *ita res se habet: si me
 sequi vultis, his et plurimis aliis bonis certe fruemini;
-sin autem regi Ástyagi obsequemini, labores, quales erant
+sin autem regi ï¿½styagi obsequemini, labores, quales erant
 hesterni, habebitis perpetuos. Persae igitur, qui iam pridem
 Medorum imperium aegre ferebant, ducem tandem nacti,
 libenter in libertatem se vindicaverunt: Cyrus autem his
 usus adiutoribus e& Medorum regno potitus, iis praemia large
-effuseque donabat. JA «n |
+effuseque donabat. JA ï¿½n |
 
 B 45. Wuv ARE Fnocs DuMB AT SERIPHUS |
 
@@ -1219,10 +1118,10 @@ silentii perpetui damnavisse. "Theophrastus autem homo
 sagacissimus non modo hanc fabulam explodit, sed Seriphios
 gloriantes redarguit: frigidis enim aquis, non Persei in-
 somniis ranarum silentium esse imputandum. un "
-— M — -—
+ï¿½ M ï¿½ -ï¿½
 30 LATIN READER
-E —
-46. A PaTRIOTIO MULE. À
+E ï¿½
+46. A PaTRIOTIO MULE. ï¿½
 i Mulus Atheniensis quidam iam vetulus, quamvis ab omni
 onere vehendo tandem immunis factus esset, studio laborum
 liberatus esse noluit. Namque ubi Athenienses Parthe-
@@ -1235,7 +1134,7 @@ populus Atheniensis intellexit, per praeconem declarari
 iussit, ne a frumento neve ab hordeo prohiberetur; itaque
 decretum est ut pretium iustum ei, sicut athletae iam rude
 donato, ex aerario penderetur. mn i - D
-hs. 47. A. CONVENIENT ÁCCIDENT.
+hs. 47. A. CONVENIENT ï¿½CCIDENT.
 5 Protogenes pictor egregius equum ab exercitatione veni-
 
 . entem modo non vivum mira arte reddiderat. Cuius tamen
@@ -1280,7 +1179,7 @@ iubeat. Dux autem respondet, *Quid vis?" ** Hostes
 praesto sunt," inquit Kalidus, *damae enim natura ferae in
 nostra castra ab exercitu hostili se immittere coactae sunt."
 His dictis quum iam milites vix in equos insiluissent,
-agmen hostile adesse omnes vident: undique acclamatum se —
+agmen hostile adesse omnes vident: undique acclamatum se ï¿½
 unumquemque ad Kalidi prudentiam vitam suam et salutem
 debitam referre.
 
@@ -1290,7 +1189,7 @@ Homo moriturus quidam equos septendecim inter tres
 filios dividendos reliquerat. Qui quidem alius in alium se
 iustum praestandi alioquin cupidi, equos tamen in eas
 partes, quas pater descripserat, dispertire nequeunt. Nam
-db m — ——
+db m ï¿½ ï¿½ï¿½
 32 ! LATIN READER
 ille dimidiam, tertiam, nonam partem singulis pro sua aetate
 iusserat distribui. Fratres ergo rei difficultate devicti ad
@@ -1316,14 +1215,14 @@ novem, secundo sex, tertio duobus equis pro sua cuique
 parte distributis, iudex ipse, postquam animi non modo
 integritatem, sed etiam benevolentiam tali iudicio monstra-
 verat, equum suum domum reducit. n D
-, ». 52. DEMOCRITUS AND THE HONEY. J ] !
+, ï¿½. 52. DEMOCRITUS AND THE HONEY. J ] !
 | "m
 Fama est Democritum Abderitem ob taedium senectutis
 de quotidiano cibo aliquid detrahendo mortem sibi
 conseiscere decrevisse. Sed instantibus iam Thesmophoriis
 eum ancillae rogaverunt, ne per id celeberrimum tempus
 moreretur, quippe quae eo mortuo illos solemnes et festos
-——MÁ — —
+ï¿½ï¿½Mï¿½ ï¿½ ï¿½
 ^ LATIN READER 33
 dies agere non possent. Hic annuit igitur, et, quum mellis
 vas sibi propius admoveri iussisset, vitam multos dies mellis
@@ -1345,9 +1244,9 @@ tum habent. Quos sese ungentes oti conspicati idem
 extemplo faciunt; itaque medicamento in oculos iniecto
 ciliisque cohaerentibus neque aspicere hostes neque aufugere
 possunt. Aucupes igitur has aves facillime deceptas non
-sine risu secum auferunt. PTS c—— D
+sine risu secum auferunt. PTS cï¿½ï¿½ D
 
-»n 54. Tug ARTFUL ELEPHANT.
+ï¿½n 54. Tug ARTFUL ELEPHANT.
 
 Pictor elephantum esse providum animal ex hac clade
 certe intellexit. Elephantum enim, dum proboscidem alte
@@ -1360,10 +1259,10 @@ sagax, quum nihil in ore reciperet, non modo proboscidem
 demisit sed puerum impudentem ultum est : imaginem enim
 
 D
-— ———
+ï¿½ ï¿½ï¿½ï¿½
 34 LATIN READER
 paene confectam, peracutis dentibus totam pertusam, pessum
-dedit puerumque invicem ludibrio affecit. -—]
+dedit puerumque invicem ludibrio affecit. -ï¿½]
 , 55. AMASIS AND HIS THEFTS. 1
 Amasis privatus nullo modo in serias res animum inten-.
 debat sed cum scurris et compotoribus aetatem degebat;
@@ -1421,10 +1320,10 @@ cletus, * At hoc," inquit, quod vituperatis, vos fecistis,
 illud vero, quod admiramini, ego:" quod maximo fuit
 argumento, quantum illus ars et disciplina vulgarem
 popularemque sensum superaret. 101NMPUB ,
-— —
+ï¿½ ï¿½
 36 LATIN READER
-n» -—
-P , a 59. A GnosT STORY. EN »
+nï¿½ -ï¿½
+P , a 59. A GnosT STORY. EN ï¿½
 m "m.
 Chrysippus refert, apud Megaream tabernam Atheniensem
 quendam zonam auro plenam secum ferentem devertisse.
@@ -1433,7 +1332,7 @@ pecuniam avide respiceret, ex insidiis obtruncat; deinde
 caesum atque in plaustro, in quo fimus vehebatur, abscondi-
 tum extra urbem portare vult. At Atheniensis ita trucidati
 anima Megarensi alii noctu adstitit, et, quid factum esset
-et à quo et quomodo et quas per portas corpus exportandum
+et ï¿½ quo et quomodo et quas per portas corpus exportandum
 esset, enarravit. llle vero quum ea audivisset, haud
 segniter prima luce exsurgit observatoque plaustro manibus
 iniectis e fimo cadaver eruit. Quo facto hic quidem sepul-
@@ -1452,10 +1351,10 @@ colloquium invitati, illi libenter morem gesserunt; denique
 omnibus placuit a bello utrumque discedere. His com-
 positis, dum super occultam fossam utrique sacrificant, his
 condicionibus pacem conciliant: *quamdiu haec terra ita
-manebit, integrum manebit iusiurandum." —*522
-—€—— n
+manebit, integrum manebit iusiurandum." ï¿½*522
+ï¿½ï¿½ï¿½ï¿½ n
 (0 usce - eS
-"m ' 2 —-
+"m ' 2 ï¿½-
 y 61.
 Barcaei promittunt mulctam se regi soluturos; Persae,
 se nihil porro contra Barcaeos novaturos.  Foedere peracto,
@@ -1468,10 +1367,10 @@ liberarent, quo cum DBarcaeis obstricti erant; tamdiu ratum
 fore foedus, quamdiu terra in eo statu, quo tunc fuisset,
 permansura esset. Itaque dolo devicti Bareaei Persis
 concedere coacti sunt. | VN
-62. À VALUABLE LESSON. d B B
+62. ï¿½ VALUABLE LESSON. d B B
 Adolescens quidam Eretricus Zenonis domum, qui multos
 discipulos ad sapientiam adipiscendam ocolligebat, longum
-tempus £frequentaverat.  Reversum vero pater homo
+tempus ï¿½frequentaverat.  Reversum vero pater homo
 subrusticus et incultus interrogavit, quid tandem sapientiae
 apud Zenonem didicisset. Ille vero re ipsa se id ostensurum
 pollicitus est: pater autem, haec dicta maxime indignatus,
@@ -1484,19 +1383,19 @@ dignam praestabat. B B m B
 63. BEEF oR PasTRY! I i
 m Lysandro Spartiatae, quum in Ioniam venisset, hospites,
 qui Ioniam colebant, inter alia bovem et placentam dono
-— —
+ï¿½ ï¿½
 38 LATIN READER '
 miserunt. Ille vero placentam intuitus nuntium rogabat,
 quidnam esset id quod offerret. Cui quum is, qui attulerat,
 respondisset, id e melle, caseo, aliisque nonnullis confectum
 esse, idemque omnibus, lonibus gratissimum, * At illud,"
 inquit Lysander, *date servis Helotibus: non enim liberi
-civis cibus est." — Bovem autem ad patrium morem apparari
-iussit e£ maxima cum voluptate ipse cenavit: placenta
+civis cibus est." ï¿½ Bovem autem ad patrium morem apparari
+iussit eï¿½ maxima cum voluptate ipse cenavit: placenta
 autem, utrum Helotes fruerentur necne, pro incerto haben-
 dum est.
 1 E 64. AN ANCIENT LUNACY. m B B
-E». pM
+Eï¿½. pM
 Thrasyllus inusitata quadam dementia quondam afficie-
 batur. Urbe enim Athenis relicta, in Piraeum migravit
 atque ibi habitans omnes naves ad eum appulsas suas esse
@@ -1507,7 +1406,7 @@ multos annos hoc morbo implicitum frater e Sicilia reversus
 liberatus vitam in amentia actam saepissime recordabatur ;
 negavitque se unquam gaudium percepisse tantum, quan-
 tum tunc ex navibus illis, quae ad se nihil pertinerent,
-servatis percipere solitus esset. mE » ] i
+servatis percipere solitus esset. mE ï¿½ ] i
 ) - p n 65. DyED Har. 0 ! , ,
 . Ceus quidam, iam senex, Lacodaemonem venit: quem
 gloriosum ostentatorem senectutis pudebat: ideoque crines,
@@ -1515,15 +1414,15 @@ qui natura cani erant, tinctura dissimulare conabatur. Hic
 autem hac arte dolosa usus, quum in contionem Lacedae-
 moniorum prodiisset, negotium, de quo apud Lacedaemonios
 venerat, coram populo exposuit. Quibus expositis con-
-surgit Árchidamus rex et ad cives conversus interrogat,
-ERRIIENIUUUSMU. —
+surgit ï¿½rchidamus rex et ad cives conversus interrogat,
+ERRIIENIUUUSMU. ï¿½
 LATIN READER 39
 * Quid Ceus hie sani consilii dicere potest, quippe qui non
 in animo tantum sed etiam in capite mendacium circumferre
 videatur 1" Hoc dicto obedientes cives, dum ingenium Cei
 ex iis, quae videndo cognoscere possunt, redarguunt, ea,
 quae proponit, strenue reiciunt.
-] ü
+] ï¿½
 66. THE FiagriNG HABITS OF THE MAGNETES.
 
 Magnetes accolae Maeandri bellum contra Ephesios
@@ -1537,7 +1436,7 @@ Deinde servi ante dominos iaculati, postquam iam acies per
 impetum caninum erat turbata, ad. victoriam consequendam
 auxilium ferebant. "Tum demum tertio loco Magnetes
 equites in hostem et per canes et per servos inclinantem
-ipsi invadebant. LONE ü |
+ipsi invadebant. LONE ï¿½ |
 
 a
 D 67. TRUE FRIENDSHIF.
@@ -1551,7 +1450,7 @@ Igitur omnes et in primis Dionysius novae atque ancipitis
 rei exitum speculabantur. Appropinquante deinde definita
 die neque illo redeunte, dum unusquisque stultitiae tam
 temerarium sponsorem damnat, is nihil de amici constantia
-— cCo^—
+ï¿½ cCo^ï¿½
 40 LATIN READER
 se metuere praedicat. Cum autem ad diem alter se recep-
 isset, admiratus amborum animum tyrannus supplicio
@@ -1561,7 +1460,7 @@ Miles, qui in castris Cn. Pompeii stipendia merebat,
 quum Sertorianum militem acrius sibi in acie instantem
 cominus interemisset, iacentemque spoliaret, fratrem ger-
 manum esse cognovit. Accidit enim ut in diversas partes
-nonnunquam íratres distracti essent. Is autem multum
+nonnunquam ï¿½ratres distracti essent. Is autem multum
 ac diu convicio deos ob impiae victoriae donum insecutus,
 cadaver prope castra translatum et pretiosa veste opertum
 rogo imposuit. Ac deinde, subiecta face, protinus eodem
@@ -1580,9 +1479,9 @@ bus, Eumenes ait, si celeritatem velint adhibere et imperata
 facere, quod ante non fecerint, se rem expediturum ; nam
 se effecturum, ut non minus quinque dierum spatio hostis
 retardaretur: quare circumirent, suas quisque copias con-
-traheret. S bos — ] mE
+traheret. S bos ï¿½ ] mE
 aum |o EE
-——— —
+ï¿½ï¿½ï¿½ ï¿½
 | LATIN READER , 4l
 "mug
 TO. :
@@ -1616,9 +1515,9 @@ complet easque in propatulo domi abicit. Gortynii tem- -
 plum magna cura custodiunt non tam a ceteris quam ab
 Hannibale, ne ille pecuniam secreto auferret secumque
 duceret. - ] - ] 0 ,
-p — j——
+p ï¿½ jï¿½ï¿½
 - 42 LATIN READER
-72. À LioN's DEVICE.
+72. ï¿½ LioN's DEVICE.
 
 Ursam tradunt in Pangaeo monte leonis latebras custode
 vacuas invasisse eiusdemque catulos, quia adhue parvuli
@@ -1634,8 +1533,8 @@ morata est: leo vero quasi inops consilii e& moerore pertur-
 batus instar hominis angebatur.
 
 b - E
-P ^» ME
-» Tandem in montibus diu vagatus hominem arbores
+P ^ï¿½ ME
+ï¿½ Tandem in montibus diu vagatus hominem arbores
 secantem offendit; cui, quum timore perculso securis e
 manu decidit, leo faciem blande lingua permulsit. Quam-
 obrem homini paulatim fiduciam habenti non permisit
@@ -1651,7 +1550,7 @@ averunt leones. ...
 Mulus sale onustus fluvium transmittebatur; forte
 
 evenit ut lapsus sarcinas demergeret et salem aqua per-
-ms LATIN READER — 43
+ms LATIN READER ï¿½ 43
 fusum liquefaceret. Mulus, magna laetitia ex eo quod iam
 ab onere solutus esset accepta, quum quantum inter laborem
 et otium interesset cognovisset, in reliquum tempus idem,
@@ -1661,7 +1560,7 @@ malitiam uleiscendam arbitratus, spongiis et lana pro sale
 onerari mulum iussit. Mulus insidiarum sibi instructarum
 ignarus e consueto more cecidit: sed, quum aqua repletum
 onus gravius esse sensisset, ex eo tempore nunquam delap-
-sus salem integrum trans flumen transportabat. » y
+sus salem integrum trans flumen transportabat. ï¿½ y
 
 75. THE VALUE OF A SCOLDING WIFE.
 
@@ -1670,7 +1569,7 @@ vitia uxoris aut tollenda aut ferenda esse: virum tollendo
 vitia uxorem commodiorem praestare, ferendo sese meli
 orem facere. De quibus haud dissidet Socrates philosophus,
 cuius Xantippe adeo morosa et maligna fuisse traditur, ut
-per diem perque noctem viro se molestissimam praeberet. —
+per diem perque noctem viro se molestissimam praeberet. ï¿½
 Cuius intemperiem Alcibiades discipulus miratus, Socratem
 interrogavit, quaenam ratio esset, cur mulierem tam acerbam
 domo non exigeret.  *Insuesco enim," inquit Socrates,
@@ -1684,7 +1583,7 @@ ut eum, qui sibi porta egresso primus occurrisset, interfici
 iuberet, asinarium forte ante omnes obviam factum vidisset,
 ut ad mortem abriperetur imperavit.  Seiscitatus quidnam
 immeritus capitali supplicio addiceretur, cum ad factum
-didis í—
+didis ï¿½
 hi 44 LATIN READER
 suum excusandum oraculi praeceptum rex retulisset, asi-
 narius **Si ita est," inquit, *rex, alium sors morti destinavit :
@@ -1701,7 +1600,7 @@ qui ad hominum mentes et cogitationes explorandas omnem
 euram conferebat, in horto quotidie ambulabat, et, cum
 advesperasceret, nescio quid meditatus oculos in summum
 templi cuiusdam propinqui fastigium defigebat, ut mentem
-quoque ea contentione in proposito detineret. .À quo, ut
+quoque ea contentione in proposito detineret. .ï¿½ quo, ut
 mos erat, meditante fastigium templi conspici non potuit,
 
 . quod arbores iam paulatim grandiores factae prospectum
@@ -1710,7 +1609,7 @@ motus amicum, cuius erant arbores interlectae, oravit ut
 illorum capita decuteret. Quo facto ad solitum meditandi
 morem libenter se contulit. " B | NE
 
-78. CYRUS AND THE ÍONIANS.
+78. CYRUS AND THE ï¿½ONIANS.
 Iones per legatos a Cyro invitati, ub a Croeso Lydorum rege
 .. desciscerent, non paruerunt: confectis autem rebus et Croeso
 a Cyro devicto, ut iisdem legibus, quibus antea, uterentur,
@@ -1718,7 +1617,7 @@ a Cyro petebant. Quibus rogantibus hane fabulam Cyrus
 ira commotus proposuit. Fuit olim tibicen, qui, pisces
 eonspectos in mari in terram ad sonitum egressuros esse
 ratus, tibia canebat. Tum, ubi spe depulsum se vidit,
-— áá mn——
+ï¿½ ï¿½ï¿½ mnï¿½ï¿½
 
 LATIN READER 45
 retibus usus ingentem piscium numerum inclusum extraxit.
@@ -1729,7 +1628,7 @@ Cyro comparari intellexissent, domum re infecta redierunt.
 
 . 79. THE PRISONER FoILED. 0 p
 
-Servilius, in carcere inter ÀÁmbianos detentus, tantum
+Servilius, in carcere inter ï¿½ï¿½mbianos detentus, tantum
 aufugiendi studium concepit, ut consilium caperet, quo in
 feretro impositus sub specie cadaveris per custodes ferretur.
 At dux, qui castello praeerat, de illo consilio certior factus
@@ -1753,12 +1652,12 @@ atque alia huiuscemodi declarant poetae, qui de antiquis
 temporibus canunt: apud quos non elegantior exstitit fabula
 quam ea quae materiem, e qua comparata sunt hominum
 eorpora, demonstrat. Lutum, ut haec fama est, e quo con-
-—
+ï¿½
 ' 46 LATIN READER
 E. erant cetera animalia, aqua pluviali madefactum
 : erat: at ad homines comparandos, ut taedium vitae in-
 finitumque dolorem passuros, lacrimae cum materie lutea
-sunt commixtae. .À quo initio hominum vita posterorum
+sunt commixtae. .ï¿½ quo initio hominum vita posterorum
 . haudquaquam discrepat.
 L 81. WnuICH 1$ THE OLDEST NATION! |
 ] Ferunt Psammetichum regem Aegyptiorum, quum
@@ -1784,7 +1683,7 @@ eoniungeret, ludi magister hoc comparavit. Dixit opus
 esse omnes per atrium caligine offusum deductos gallum
 manu mulcere: deinde eo, qui id facinus admisisset, mul-
 cente, gallum statim cantaturum esse. Qua re simulata,
-T— ———
+Tï¿½ ï¿½ï¿½ï¿½
 
 LATIN READER 4T
 ipse iussit galli pennas atro circumfundi pulvere, ut, puero-
@@ -1820,7 +1719,7 @@ turbida proboscidem complevisset, ad tabernam reversus
 supra sutoris caput aquam coenumque profusum demisit;
 scilicet, ut. demonstraret se, iniuriae haud immemorem,
 sutorem inhumanum ulcisci velle. ^- - I
-— MM.
+ï¿½ MM.
 48 LATIN READER
 80. ANDROCLUS AND THE LION. |
 In circo maximo amplissimae venationis apparatus
@@ -1838,7 +1737,7 @@ deinde crura et manus prope iam metu exanimati leniter
 demulcet. ^ Androclus autem inter illa tam atrocis ferae
 blandimenta amissum animum receperat; paulatim oculos
 ad contuendum leonem refert.
-EE t7 — m i
+EE t7 ï¿½ m i
 D. s M
 Tandem, postquam homo vitam priorem recordatus
 leonem laetus agnoverat, inter maximos populi clamores ad
@@ -1851,9 +1750,9 @@ ut mihi a domino, terrae illius praeside, tutiores latebrae
 forent, in camporum et arenarum solitudines concessi : ac si
 defuisset cibus, consilium fuisset mortem aliquo pacto
 quaerere. Tum sole medio specum quandam nactus, in
-eam merecondo"  — —
--— 0 MB
-V—— oos oii
+eam merecondo"  ï¿½ ï¿½
+-ï¿½ 0 MB
+Vï¿½ï¿½ oos oii
 - LATIN READER 49
 8T. ,
 Neque multo post ad eandem specum venit hic leo
@@ -1870,7 +1769,7 @@ pede in manibus meis posito recubuit et quievit: e quo die
 triennium totum ego et leo in eadem specu eodemque victu
 viximus. Namque earum, quas venabatur feras, membra
 sole meridiano tosta edebam. - . i
-ü 88. r[
+ï¿½ 88. r[
 Sed, ubi me vitae illius ferinae iam pertaesum est, leone |
 in venatum profecto, specum reliqui: et viam ferme tridui
 permensus, a militibus visus apprehensusque sum, atque
@@ -1878,14 +1777,14 @@ ad dominum ex Africa Romam sum deductus. Qui statim
 me rei capitalis damnandum dandumque bestiis curavit.
 Hune quoque leonem a me tunc separatum atque ab homini-
 bus captum nunc etiam pro beneficiis gratiam mihi referre
-intelligo." — Quibus dictis, Androclus dimissus cunctis pe-
+intelligo." ï¿½ Quibus dictis, Androclus dimissus cunctis pe-
 tentibus poena solvitur et leone populi suffragiis donatur.
 Postea ferunt Androclum et leonem loro tenui revinctum
 urbe tota circum tabernas ire; donari aere Androclum,
 floribus spargi leonem : omnes fere ubique obvios dicere
 * hie est leo hospes hominis, hic est homo medicus leonis.
 E
-— ——
+ï¿½ ï¿½ï¿½
 50 LATIN READER
 7" "7 -- C
 f 89. MYCERINUS PROVES THE ORACLE FALSE.
@@ -1919,9 +1818,9 @@ ebrius in ludibrium incideret. Cui turpiter et indecenter
 se gerenti puerum obviam latum pater monebat: ** Noli, mi
 fili, ebrius fieri: si enim haec feceris, te in ludibrium inter
 
-sodales adduces" — — ——. | |.
+sodales adduces" ï¿½ ï¿½ ï¿½ï¿½. | |.
 Ino c 2
-— MM ———
+ï¿½ MM ï¿½ï¿½ï¿½
 4 p LATIN READER PS
 91. SvLosoN's RED CroaK.
 
@@ -1953,12 +1852,12 @@ habenti donum dedisti. Pro quo ingens auri argentique
 pondus tibi reddo, ne te unquam poeniteat beneficii in
 Darium collati. **Noli, inquit Syloson, * me auro et
 argento donare: patria enim mea Samos a tyranno est occu-
-pata: hane, quaeso, mihi da à caedibus et servitute libera-
+pata: hane, quaeso, mihi da ï¿½ caedibus et servitute libera-
 tam." Quae petita non recusat Darius: sed exercitum ad
 Samum liberandam statim mittit. ECL
-— C———
+ï¿½ Cï¿½ï¿½ï¿½
 52 LATIN READER
-] 93. AN ARTFUL ÍMPOSTOR.
+] 93. AN ARTFUL ï¿½MPOSTOR.
 
 Astrologus mendax idemque impudens amicum, quem
 Ludovieus rex Gallorum praecipue diligebat, mox mori-
@@ -1989,10 +1888,10 @@ milis est." * Haec sunt vera: sin autem caudam corpori
 adiecero, simiae imago non hominis omnibus videbitur."
 Quae quum audiisset Democritus, pretium constitutum ex-
 
-templo persolvit. — 2 "P
-na -— 4
-"——MMÁÀ —€—
-W p — LATIN READER M 93
+templo persolvit. ï¿½ 2 "P
+na -ï¿½ 4
+"ï¿½ï¿½MMï¿½ï¿½ ï¿½ï¿½ï¿½
+W p ï¿½ LATIN READER M 93
 N 95. RHAMPSINITUS' TREASURE-HOUSE
 
 Rhampsinitus rex tantas opes tantamque argenti vim
@@ -2030,8 +1929,8 @@ fratris recuperatum domum afferret; quod si perficere
 
 nollet, regem se adituram atque eum, ut ilius pecuniae
 2 spoliatorem, delaturam minabatur.
-EE —O—€X———
-54 — LATIN READER pDA—
+EE ï¿½Oï¿½ï¿½Xï¿½ï¿½ï¿½
+54 ï¿½ LATIN READER pDAï¿½
 97. .
 7 Asinos igitur utribus vino plenis instructos per viam
 publicam agitabat; quum prope locum, ubi erant custodes
@@ -2048,7 +1947,7 @@ ubi potaverant, obdormiverint. 'Tum demum nocte iam
 multum progressa, custodum: dextras genas in contumeliam
 rasit et cadaver fratris solutum asinisque impositum domum
 incolumis retulit.
-: 98. THE INTELLIGENT ÁSSs.
+: 98. THE INTELLIGENT ï¿½SSs.
 
 Thebanus quidam, qui Athenas nuper venerat, ad
 cenam ab hospite invitatus asinum conducendum curaverat,
@@ -2065,11 +1964,11 @@ mores non intelligis; hic enim, quum te peregrinum esse
 cognosset, saepe constitit, ut templa aliaque aedificia per-
 scrutari posses."
 
-— B
+ï¿½ B
 li n MER E adimi
 ! LATIN READER 55
 B 99. A VALUABLE CROW. E
-Augusto post Áctiacam victoriam Romam reverso inter
+Augusto post ï¿½ctiacam victoriam Romam reverso inter
 gratulantes occurrit opifex quidam cum corvo, quem in-
 stituerat ad hoc dicendum, ** Ave, Caesar, victor Imperator."
 Quam avem officiosam miratus Caesar viginti millibus
@@ -2084,7 +1983,7 @@ torum talium habeo," adeo subvenit corvo memoria, ut et
 illa, quae dominum querentem audire solebat, subtexeret,
 * opera et impensa periit." 'Tum Caesar arrisit, avemque
 tanti emit quanti nullam adhuc emerat.
-u " 100. Tug SERVANT AND THE FISH. ü D
+u " 100. Tug SERVANT AND THE FISH. ï¿½ D
 Celer homo dicax et lepidus omnes in cavillando longe
 superare existimabatur: accidit autem ut etiam Celer a
 servo quodam homine non insulso devinceretur. Hic enim
@@ -2098,7 +1997,7 @@ Idcireo exemplum praestare constituit, quo usus servus
 piscem in postremum decenter offerret. Itaque servum,
 pisce ut mos erat deiecto, domum digressurum Celer
 monuit, ut ea, quae 1pse docere vellet, disceret. 2 i
-MEME l———
+MEME lï¿½ï¿½ï¿½
 56 LATIN READER
 p
 ^
@@ -2117,7 +2016,7 @@ quinquaginta nummos dat. taque cum Celer servum,
 quomodo decenter piscem offerre posset, docebat, tum
 invicem servus, quomodo Celer se munificum posset prae-
 
-stare, demonstrabat. m A Ü
+stare, demonstrabat. m A ï¿½
 102. SCYTHIAN PRESENTS. :
 : Persae, qui sub duce Dario fines Scytharum invaserant,
 magna incommoda passi tandem redire volebant; at, quo
@@ -2132,7 +2031,7 @@ miserunt, qui dona avem et murem et ranam et quinque
 sagittas ferret. ^ laec adferentem dona interrogaverunt
 Persae, quid esset mittentium consilium. Ille respondit
 nihil aliud sibi mandatum fuisse nisi ut, illis datis, quam
-m GG -———
+m GG -ï¿½ï¿½ï¿½
 pe LATIN READER 0 57
 103.
 
@@ -2151,7 +2050,7 @@ salvi hine non revertemini, sed sagittis confixi moriemini."
 Ita accidit ut Gobryae verba ab iis, quae postea evenerunt,
 haud discreparent.
 
-104. A BET. . —— tdi ü
+104. A BET. . ï¿½ï¿½ tdi ï¿½
 Diseipulus quum  Xanthum philosophum . ebrium. et
 temulentum esse videret, * O praeceptor," inquit, *num
 quis mare ebibere potest!" "Immo vero," respondit
@@ -2170,9 +2069,9 @@ neve ea, quae facere volebas ebrius, te sobrium facere nolle
 dixeris." m 22 ,
 
 ! E
-— (——
+ï¿½ (ï¿½ï¿½
 58 LATIN READER
-—-- — C
+ï¿½-- ï¿½ C
 EF 2m
 ^ 105.
 
@@ -2209,12 +2108,12 @@ crati eum voluit dono dare: itaque in regia illo oblato ait
 se velle in Polycratis conspectum venire. i
 
 EM -
-pu— n
+puï¿½ n
 LATIN READER 59
 Pp
 ]
 
-Tandem pisce deposito dixit: *IÍune piscem, o rex,
+Tandem pisce deposito dixit: *Iï¿½une piscem, o rex,
 postquam ego ceperam, non iudicavi in forum rerum
 venalium esse ferendum ; sed quamvis sim homo pauper
 et manu mea victum quaeram, te tuoque imperio haud
@@ -2245,7 +2144,7 @@ calidum et frigidum halitum emittere potes! Vale: neque
 enim tecum posthac amicitiam exercebo." m
 
 BEER
-— ——
+ï¿½ ï¿½ï¿½
 60 LATIN READER :
 -
 109. Two SrpEs To EvERY QUESTION. Y
@@ -2262,10 +2161,10 @@ plures a leonibus homines quam ab hominibus leones suffo-
 catos sculpi videres." Quo responso homo subito com-
 motus, veritus ne ipse exemplo esset, cum leone colloquium
 diremit, et domum quam celerrime aufugit.
-] E 110. ALCMAEON AND THE GOLD. » r
+] E 110. ALCMAEON AND THE GOLD. ï¿½ r
 Croesus rex Lydorum, beneficiis ab Alemaeone Athen-
 
-— jiensi acceptis, eum ad se Sardes invitavit: eundemque
+ï¿½ jiensi acceptis, eum ad se Sardes invitavit: eundemque
 tanto auri pondere, quantum suo corpore asportare semel
 posset, se donaturum esse promisit. Tunc Alemaeon ad
 hoe donum accipiendum in hunc modum paratus accessit :
@@ -2278,13 +2177,13 @@ conspersa, denique aliis in os sumptis, thesauro egressus
 est, cuivis alii quam homini consimilis. Cuius os auro
 obseratum et omnia turgida Croesus conspicatus non risum
 continuit: nec modo ea, quae ferebat, sed alia etiam haud
-minora adiecit. he B ] | i» 2
+minora adiecit. he B ] | iï¿½ 2
 x
-5— mv j
+5ï¿½ mv j
 . mod 61
 mm
 i
-Ó 111. WHoSE IS THE SHADOW 1
+ï¿½ 111. WHoSE IS THE SHADOW 1
 Mercator, quum per deserta Libyca progredi vellet,
 asinum conducendum curavit: quocum Aegyptius, cuius
 erat asinus, iter pedibus faciebat. Quibus compositis, quum
@@ -2296,7 +2195,7 @@ ad fervorem vitandum, et sessoris et, asini umbra protectus,
 ambulabat. Quum autem hoc mercator vidisset, descendit
 et de asini umbra cum Aegyptio strenue contendit. Hic
 enim asinum ipsum, neque umbram se locasse asseveravit:
-ille autem se cum asino umbram conduxisse.  ÁÀt dum
+ille autem se cum asino umbram conduxisse.  ï¿½ï¿½t dum
 rixantur, asinus aufugit; quo facto neuter umbra potitur.
 mE 112. PERSIAN JUSTICE. 0 E
 Xerxes, in proelio apud Salamina commisso devictus, in
@@ -2313,7 +2212,7 @@ salva in Asiam pervenit. Xerxes vero simul atque in
 terram erat expositus, aurea corona gubernatorem donavit,
 quod regis ipsius vitam conservasset, deinde, quod magnum
 Persarum numerum perdidisset, caput ei praecidi iussit. ,
-— —— UOCE
+ï¿½ ï¿½ï¿½ UOCE
 62 LATIN READER
 113. SroRY or AN EARLY SAINT. !
 Spyridio sacerdos ob priscam severitatem moresque in-
@@ -2328,7 +2227,7 @@ detinere possent, secreto consilium parabant. Namque, dum
 eadem taberna et Spyridio et alii sacerdotes pernoctant, hi
 media nocte experrecti, cibo arrepto, foras se emittere incip-
 lebant, et Spyridioni quominus sequeretur, obstare cona-
-114. — [
+114. ï¿½ [
 E quibus unus, qui socios retinuerat, rogavit, quamobrem
 tanta celeritate domum relinquerent: respondebant omnes
 se id facere, ut sine Spyridione homine inculto et immundo
@@ -2342,12 +2241,12 @@ capita decidissent, maxima celeritate aufugerunt.  Spyridio
 autem prima luce experrectus servos ad mulos inveniendos
 statim demisit, qui, cum sine mora rediissent, primo stupe-
 facti tacebant.- B
-Eon x-— a nm
-Á— n
+Eon x-ï¿½ a nm
+ï¿½ï¿½ n
 . LATIN READER m.
 | E
 " i
-« -— uu 115. —
+ï¿½ -ï¿½ uu 115. ï¿½
 m -
 
 Dominus autem * Nonne mulos," inquit, *in stabulo
@@ -2370,7 +2269,7 @@ E 116. Tug FATE OF LAMPSACUS.
 v Ad vafrum consilium Anaximenis, qui in omni dicendi
 ratione clarissimus erat, urbis Lampsaci salus est referenda.
 Nam cum ad excidium urbis summo studio Alexander
-ferretur, progressumque extra moenia Ánaximenem prae-
+ferretur, progressumque extra moenia ï¿½naximenem prae-
 ceptorem suum vidisset, quia manifestum erat futurum ut
 preces suas irae eius opponeret et ad dissuadendum D
 eloquenti usurus esset, id se non facturum, quod petiturus
@@ -2380,12 +2279,12 @@ plo enim respondit: * Peto ut Lampsacum diruas." His
 dictis rex obstrietus iureiurando et Anaximenis voluntati
 obsecutus, urbem vetusta mobilitate inclitam exitio, cui
 destinata erat, subtraxit. - | ] |
-"Fr j—
+"Fr jï¿½
 64 T LATIN READER
 117. THE DEATHS or AESCHYLUS, EuRiPIDES, SOPHOCLES.
 Poetarum tragicorum quantum inter se distarent mortes,
 cognoscere operae pretium est. Moenibus Gelae urbis, in
-qua morabatur, Àeschylus egressus aprico in loco resedit.
+qua morabatur, ï¿½eschylus egressus aprico in loco resedit.
 Super quem aquila, quae testudinem ferebat, splendore
 capitis (erat enim calvum) elusa, ei perinde ac lapidi onus
 illisit, ut carne vesceretur. Quo occisus ictu extemplo
@@ -2411,10 +2310,10 @@ promovisset, causas tamen non reciperet, tempusque iam
 longum  praeteriret, reliquam mercedis partem solvere
 noluit. B
 x
-nL—ÁMÓÀ —
+nLï¿½ï¿½Mï¿½ï¿½ ï¿½
 LATIN READER 65
 EM
-»t
+ï¿½t
 1 119.
 
 Protagoras autem, consilio quod tum astutum existima-
@@ -2449,8 +2348,8 @@ distulerunt. Itaque Evathlus argumentum, quo usus erat -
 Protagoras, contra eum conversum ita retulit, ut discipulus
 magistrum devicerit. 2200
 
-—Tw—— Án
-"-— c—
+ï¿½Twï¿½ï¿½ ï¿½n
+"-ï¿½ cï¿½
 .66 LATIN READER
 1 121. AN INFAMOUS Honsx.
 
@@ -2487,16 +2386,16 @@ marmore faciendam, et cicadae tanquam adiutricis effigiem
 ad lyrae fides apponendam curavit. - T
 
 Pu p
-p—Ó "-
+pï¿½ï¿½ "-
 LATIN READER - 67
-FF — ME
-Jl E 123. ANTIGONUS AND HIS HORSES. D »
+FF ï¿½ ME
+Jl E 123. ANTIGONUS AND HIS HORSES. D ï¿½
 Cum Antigonus in castello Phrygiae, quod Nora appel-
 latur, cireumsederetur et vereretur, ne uno loco manens
 equos militares perderet, quod spatium non esset agitandi,
 callidum fuit eius inventum, quemadmodum stans iumen-
 tum calefieri exercerique posset, quo libentius et cibo
-uteretur, eb à corporis motu non removeretur. Altius
+uteretur, eb ï¿½ corporis motu non removeretur. Altius
 substringebat caput loro quam ut prioribus pedibus plane
 terram posset attingere. Deinde post verberibus cogebat
 exsultare et calces remittere: qui motus non minus sudorem
@@ -2504,8 +2403,8 @@ exeutiebat quam si in spatio decurreret. Quo factum est,
 quod omnibus mirabile visum est, ut iumenta aeque nitida
 ex castello educeret, cum complures menses in obsidione
 fuisset, ac si in campestribus ea locis habuisset.
-m —
-E ES 124. RoMAN RULE. -— q [.
+m ï¿½
+E ES 124. RoMAN RULE. -ï¿½ q [.
 Refert Cicero L. Domitium praetorem in Sicilia, quum
 aper ingens ad eum allatus esset, admiratum requisivisse
 quis eum percussisset. Quum audisset pastorem fuisse,
@@ -2517,8 +2416,8 @@ esse sublatum. De quo intellegendum esse maluisse Domi-
 tium crudelem in animadvertendo quam in praetermittendo
 dissolutum videri. Nobis autem hoc edictum, ne quis cum
 telo servus esset, quo Domitius utebatur, haud civile,
-supplicium, quo pastor est afféctus, inhumanum videtur. ,
-— (o—
+supplicium, quo pastor est affï¿½ctus, inhumanum videtur. ,
+ï¿½ (oï¿½
 63 LATIN READER
 ! m 125. JuSTICE AND MERCY. MP Y
 Zaleucus, si quis alius sapiens e ad rempublicam geren-
@@ -2547,9 +2446,9 @@ turi videbantur. Ille autem omnis facinoris praeter
 obesitatem innocens, ut esurientium et mortem minantium
 aspectum vitaret, domi perterritus manebat. Tum demum,
 urbe obsidione liberata, id quod ei maximo periculo fuerat,
-ludibrio solum postea fit. — E.
+ludibrio solum postea fit. ï¿½ E.
 2
-pc —
+pc ï¿½
 
 LATIN READER 69
 
@@ -2577,7 +2476,7 @@ emendare per illas epulas vellent. E |
 128. BUILDING OF ATHENS.
 
 ) .. Post Persas apud Salamina devietos Lacedaemonii, post-
-quam audierunt muros Átheniensium instrui, legatos Athenas
+quam audierunt muros ï¿½theniensium instrui, legatos Athenas
 miserunt, qui id fieri vetarent. His praesentibus desierunt
 Athenienses ac se de ea re legatos ad eos missuros dixerunt.
 Hanc legationem suscepit Themistocles et solus primo pro-
@@ -2588,9 +2487,9 @@ sacer esset sive profanus. Themistocles autem ut Lace-
 daemonem venit, adire ad magistratus noluit, et dedit
 operam ut quam longissimum tempus duceretur: causam
 enim interposuit, se collegas exspectare. m r
-r— l— —
+rï¿½ lï¿½ ï¿½
 70 LATIN READER
-I 20MN»$o L
+I 20MNï¿½$o L
 "Cum Lacedaemonii quererentur opus nihilominus fieri
 eumque in ea re conari fallere, interim reliqui legati sunt
 secuti ; a quibus cum audiisset non multum superesse muni-
@@ -2604,7 +2503,7 @@ fiisci eisque praedixit, ut ne prius Lacedaemoniorum
 legatos dimitterent quam ipse esset remissus. Hos post-
 quam Athenas pervenisse ratus est, apud Ephoros liberrime
 professus est Athenienses suo consilio muris urbem saepsisse.
-: ü 130. TrMOLEON IN SICILY. D » ü
+: ï¿½ 130. TrMOLEON IN SICILY. D ï¿½ ï¿½
 Timoleon post res optime gestas Syracusis, quod reliquum
 vitae fuit, privatus vixit. Nullus honor huic defuit; neque
 postea res ulla Syracusis gesta est publice, de qua prius sit
@@ -2620,7 +2519,7 @@ publice a Syracusanis in gymnasio, tota celebrante Sicilia,
 sepultus est. Mdh | Ani P
 pe p
 LATIN READER 7 b.
-' ü B 131. AN EASTERN PREACHER. Y p
+' ï¿½ B 131. AN EASTERN PREACHER. Y p
 Inter Arabas olim erant sacerdotes qui in contionem
 populum advocare solerent; e quibus unus insolitum ser-
 monem habuit. Utrum eos qui audiebant dolore afficere,
@@ -2635,9 +2534,9 @@ Tertio tandem die sacerdoti idem interroganti respond-
 erunt, alios illa scire, alios ignorare. Quibus autem ad
 respondendum paratus *ii qui sciunt," inquit, ignorantes
 faciant certiores."
-» m 132. Tug AgRTFUL HANNIBAL. B b
+ï¿½ m 132. Tug AgRTFUL HANNIBAL. B b
 Ad Eumenem regem Romanis amicissimum interficien-
-dum Hannibal talem iniit rationem. — Classe paucis diebus
+dum Hannibal talem iniit rationem. ï¿½ Classe paucis diebus
 erant decreturi. Superabatur Hannibal navium multitudine.
 Dolo igitur erat pugnandum, cum par non esset armis.
 Hie iussit quam plurimas venenatas serpentes vivas colligi
@@ -2648,8 +2547,8 @@ unam Eumenis regis concurrant navem; rex autem in qua
 nave veheretur, ut scirent, se facturum promittit; quem
 si aut cepissent, aut interfecissent, magno illis pollicetur
 praemio fore. - n e
--—  . "A
-— ——:
+-ï¿½  . "A
+ï¿½ ï¿½ï¿½:
 12 LATIN READER
 , 133.
 
@@ -2681,8 +2580,8 @@ nova re perterritij cum, quid potissimum vitarent, non
 viderent, puppes averterunt, seque ad sua castra nautica re-
 tulerunt. Sie Hannibal consilio arma Pergamenorum
 superavit: neque tum solum sed saepe alias pedestribus
-eopiis pari prudentia pepulit adversarios. Í a 4
-pee— —
+eopiis pari prudentia pepulit adversarios. ï¿½ a 4
+peeï¿½ ï¿½
 - i LATIN READER 19
 4 1 m. WnrHAT IS IN THE Dac! e D
 In Libycis desertis vagatus Arabs tandem, quum nullum
@@ -2712,10 +2611,10 @@ fidei medici credere, quam indubitate morbo perire. Accepto
 igitur poculo, epistolam medico tradidit ; itaque inter biben-
 dum oculos in vultum legentis intendit. ^ Ut securum
 conspexit, laetior factus sanitatem quarta die recepit. |
-——— —
+ï¿½ï¿½ï¿½ ï¿½
 TA LATIN READER ^
-p— 2 m
-Í 137. Tug DERvisR. B
+pï¿½ 2 m
+ï¿½ 137. Tug DERvisR. B
 Philosophus ingenio praeditus subtili et rerum omnium
 peritus, per Sericas partes vagatus, quum ad oppidum
 Baleam pervenisset, in regis palatium, quod pro publico
@@ -2741,10 +2640,10 @@ primo suos incoluisse avos, tunc autem suum patrem.
 tibi mortuo succedet!" Filium suum iuvenem. At
 respondit philosophus * Ea domus, quae incolas saepissime
 mutet neque eosdem hospites retinere possit, mihi quidem
-hospitium, non palatium videtur." iii »
-p——ÓÓÁ uu
+hospitium, non palatium videtur." iii ï¿½
+pï¿½ï¿½ï¿½ï¿½ï¿½ uu
 d LATIN READER 1b
-E —— o»
+E ï¿½ï¿½ oï¿½
 B B 139. Tue NoniLITY OF IPHICRATES. u 1
 i
 
@@ -2754,7 +2653,7 @@ enim talis dux, ut non solum aetatis suae cum primis com-
 pararetur, sed ne de maioribus natu quidem quisquam
 anteponeretur Multum vero in bello versatus saepe
 exercitibus praefuit: nusquam culpa sua male rem gessit :
-semper consilio vició: tantumque eo valuit, ut multa in re
+semper consilio viciï¿½: tantumque eo valuit, ut multa in re
 militari partim nova attulerit, partim meliora fecerit.
 Namque ille pedestria arma mutavit, cum ante illum
 imperatorem maximis clipeis, acribus hastis, minutis
@@ -2776,7 +2675,7 @@ et scelestus, qui inter avos Harmodium iactavit, respondit
 Iphierates, *Ista nobilitas quae ad te devenit, illico
 evanescit: mea autem, quae a me est exorta, in posteros
 progredietur." E r
-—:
+ï¿½:
 16 LATIN READER n
 Fr M88
 141. AN IpLE Boy.
@@ -2796,7 +2695,7 @@ affirmavit. Sed tertius in diversas partes distractus, * Uno
 die" inquit *sol circum orbem terrarum, altero orbis ter-
 rarum circum solem movetur."
 
-s 142. A RoMAN GENTLEMAN OUTWITTED. »
+s 142. A RoMAN GENTLEMAN OUTWITTED. ï¿½
 
 C. Canius eques Romanus, quum se Syracusas contul-
 isset, dictitabat se hortulos aliquos emere velle, quo
@@ -2810,10 +2709,10 @@ postridie piscarentur dixitque, quid eos facere vellet. Ad
 cenam tempore venit Canius. Opipare a Pythio apparatum
 convivium; cymbarum ante oculos multitudo; pro se
 quisque quod ceperat afferebat; ante pedes Pythii pisces
-abiciebantur. » B !
-—€—— —
-LATIN READER Tí
-B —
+abiciebantur. ï¿½ B !
+ï¿½ï¿½ï¿½ï¿½ ï¿½
+LATIN READER Tï¿½
+B ï¿½
 
 DEM
 
@@ -2821,7 +2720,7 @@ DEM
 Tum Canius, Quaeso," inquit, *quid est hoe, Pythi!
 Tantumne piscium ? tantumne cymbarum 1?" Et ille * Quid
 mirum!" inquit; *hoc loco est, quicquid Syraeusis est
-piscium." — Incensus Canius cupiditate contendit a Pythio,
+piscium." ï¿½ Incensus Canius cupiditate contendit a Pythio,
 ut venderet. Quid multa! impetrat. Emit homo cupidus
 et locuples tanti, quanti Pythius voluit. Invitat Canius
 postridie familiares suos: venit ipse mature; ne unum
@@ -2833,7 +2732,7 @@ Itaque heri mirabar, quid accidisset." Stomachari Canius:
 sed quid faceret 1 DJ Ps - bd
 ]
 
-Ü D 144. Tug ERUPTION OF VESUVIUS. 1 [
+ï¿½ D 144. Tug ERUPTION OF VESUVIUS. 1 [
 Irrumpit cubiculum meum mater : surgebam invicem, si
 quiesceret, excitaturus. ^ Ecce amicus avunculi mei, qui
 nuper ad eum ex Hispania venerat, ut me et matrem
@@ -2847,7 +2746,7 @@ mur. Nam vehicula, quae produci iusseramus, quanquam
 in planissimo campo, in contrarias partes agebantur ac ne
 
 lapidibus quidem fulta in eodem vestigio quiescebant. r
-— l———"'1
+ï¿½ lï¿½ï¿½ï¿½"'1
 18 LATIN READER
 N P1
 145.
@@ -2875,7 +2774,7 @@ inopinato incurrerent, accuratius vigilabat. Cui multa peri-
 cula et graves labores perpesso, quum fere finem itineris
 attigisset, subito obviam irruit homo ferox et robustus, et
 tanta vi oppressit, ub mox omnibus rebus viatorem exspol-
-iaverit.  Àt ille quem vicerat latro impetu repentino,
+iaverit.  ï¿½t ille quem vicerat latro impetu repentino,
 ad amissam pecuniam recuperandam animum applicabat :
 eui reputanti manifestum videtur doloso utendum esse
 consilio. Propterea ad latronem conversus *Invitus,"
@@ -2884,7 +2783,7 @@ me tantum argenti pondus amisisse et obiurgabunt quod
 hominem ignavum et timidum me tibi praestiterim."
 
 dm ^
-—— —-
+ï¿½ï¿½ ï¿½-
 LATIN READER 79
 
 y 147. | (
@@ -2919,7 +2818,7 @@ filius: fratrem meum occidi invitus; quamobrem a patre
 eiectus et rebus omnibus destitutus hic adsum." Cuius
 regem miseruit, quod et inops et maestus videbatur; prop-
 terea in aedibus tutus Adrastus vitam agebat.
-ai EE — — —————
+ai EE ï¿½ ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½
 l 149. |
 Haud multo post in Olympo exstitit mira magnitudine
 aper; qui ex illo monte descendebat et arva Mysorum
@@ -2937,9 +2836,9 @@ inquit, *in somnio significatum est me ferrea cuspide
 moriturum: at apro quaenam sunt manus, quae ferrea
 euspis quam tu timeas?" ^ Hoc modo Croesus evictus
 - veniam exeundi filio haud libenter dedit.
--— u
+-ï¿½ u
 ]
-E  —
+E  ï¿½
 Deinde Atys cum iuvenibus canibusque selectis pro-
 fectus, ubi Olympum pervenit, beluam indagant et in-
 ventam iaculis incessunt. Ibi Adrastus hospes, vibrato in
@@ -2950,7 +2849,7 @@ tradidit atque eum oravit ut se super cadavere mactaret:
 neque enim esse sibi vivendum. Quibus auditis, rex
 Adrastum miseratus, ait:  '**Satis poenae a te repeto:
 quoniam ipse te capitis condemmnas, neque tu tamen huius
-—— €—
+ï¿½ï¿½ ï¿½ï¿½
 
 LATIN READER 81
 mali auctor es, sed nescio quis deus, qui mihi jam pridem
@@ -2985,7 +2884,7 @@ accedebant, scilicet ut Egidium vi oppressum et verberibus -
 afficerent et gladiis trucidarent. Quibus compertis, sacerdos
 in fugam se dedit et, quum in equum ascendisset, ad
 : r
-82 — LATIN — - ]
+82 ï¿½ LATIN ï¿½ - ]
 
 urbem propriam iter intendit. At populus ille magno cum
 clamore prosecutus et lapides post eum proicit et convicia
@@ -3022,7 +2921,7 @@ veste posita corpora oleo perunxerunt et ad iugum acces.
 serunt. Ita sacerdos in fanum advecta, quum currus esset
 ductus a filiis, precata a deo dicitur, ut illis praemium pro
 pietate daret, quod maximum homini dari posset a deo:
-po LATIN READER -— 83
+po LATIN READER -ï¿½ 83
 ferunt post epulatos eum matre adolescentes somno se
 dedisse: mane inventos esse mortuos. Quum igitur
 omnium oculi in eos converterentur, optimus iis obtigit
@@ -3049,14 +2948,14 @@ inhiares, defunctorum loculos non aperuisses."
 Accidit olim ut Lacedaemonii cum Argivis de loco, cui
 nomen Thyre, contentionem haberent. Lacedaemonii enim
 Thyren, quam suam esse Argivi profitebantur, vi ademptam
-tenebant: quum igitur Árgivi ad opem ferendam accurris- -
+tenebant: quum igitur ï¿½rgivi ad opem ferendam accurris- -
 sent, in colloquium ibi cum Lacedaemoniis convenerunt
 pactique sunt, ut trecenti utrinque pugnarent et eorum
 regio foret qui superiores exstitissent: reliquus autem
 utrorumque exercitus domum discederet, scilicet ea causa
 ne, si adessent, parti succumbenti auxilium sui ferrent.
 Quibus compositis atque exercitibus digressis, selecti ex - ,
-n— ——
+nï¿½ ï¿½ï¿½
 pu LATIN READER.
 utrisque relicti certamen inierunt: qui quum aequo Marte
 pugnassent, ex sexcentis tres omnino reliqui fuere: ex
@@ -3065,7 +2964,7 @@ pugnassent, ex sexcentis tres omnino reliqui fuere: ex
 INENMEE XS
 
 Hi quum interveniente nocte superessent, duo Argivi,
-ut vietores, cursu Árgos repetierunt: Lacedaemonius vero
+ut vietores, cursu ï¿½rgos repetierunt: Lacedaemonius vero
 Othryades spoliatis Argivorum cadaveribus armisque in sua
 castra delatis in statione mansit. Postridie utrique re
 audita advenere : ac statim se vicisse utrique contendebant :
@@ -3077,7 +2976,7 @@ utrinque caesis Lacedaemonii victores discedunt: Othry-
 aden autem superstitem aiunt pudore retentum, ne occisis
 commilitonibus Spartam rediret, illic apud Thyren mortem
 
-* — gibi conscivisse.
+* ï¿½ gibi conscivisse.
 158. AmiSTIDES THE JUST.
 
 Aristides Atheniensis adeo excellebat abstinentia, ut
@@ -3091,7 +2990,7 @@ quare id faceret? aut quid Aristides commisisset, cur tanta
 poena dignus duceretur? Cui ille incultus quidem et rerum
 inseius respondit se ignorare Aristidem ; sed sibi non
 placere, quod tam cupide elaborasset ut praeter ceteros Tustus
-p— —
+pï¿½ ï¿½
 
 LATIN READER 85
 appellaretur. Hiec decem annorum legitimam poenam non
@@ -3121,9 +3020,9 @@ quam ipse afferret amisisset, necne. Quam ubi suam esse
 affirmaverat, Mercurius, cognito hominis mendacio atque
 impudentia, neque auream neque ligneam praebere voluit.
 Itaque securi lignea amissa, non modo improbus sed etiam
-stultus omnibus videbatur. ——— ,
+stultus omnibus videbatur. ï¿½ï¿½ï¿½ ,
 p
-PDo—— ——
+PDoï¿½ï¿½ ï¿½ï¿½
 86 LATIN READER
 m 161. A BouNDARY QUESTION. H 1
 Qua tempestate Carthaginienses magna Africae parte
@@ -3148,11 +3047,11 @@ Cyrenenses hane iis obtulerunt, vel illos in iis finibus, quos
 peterent, vivos obrui, vel sese, quem in locum vellent, proces-
 suros. Philaeni, qui inter Poenos iuvenes praeclari habe-
 bantur, condicione probata seque suamque vitam reipublicae
-. condonavere ; ità vivi obruti. Carthaginienses in eo loco
+. condonavere ; itï¿½ vivi obruti. Carthaginienses in eo loco
 Philaenis fratribus aras consecravere, aliique illis domi
 honores sunt instituti. LI " Lo
-" SERE Lun  .:£DL
-—OCAETS nn
+" SERE Lun  .:ï¿½DL
+ï¿½OCAETS nn
 
 LATIN READER 87
 
@@ -3173,7 +3072,7 @@ anti alteram partem persolvant ^ Haec autem impia dicta
 Deos non fefellerunt. Haud enim multo post unus e servis
 Simonidem fecit certiorem duos iuvenes insigni forma et
 pulchritudine divina pro foribus stare. - [ ]
-j ume ——
+j ume ï¿½ï¿½
 
 I | 164
 -
@@ -3188,8 +3087,8 @@ reversus, cum convivas inter pocula iam mortuos aspexisset,
 hoc intellexit, Deos non modo suis laborantibus subvenire
 solere, sed etiam ab impiis poenas sumere. Traduntur enim
 ipsi Dioscuri eo devenisse, qui Simonidem, ut Deorum cul-
-torem, ex impendente ruina extraherent. ] ü
-— l—
+torem, ex impendente ruina extraherent. ] ï¿½
+ï¿½ lï¿½
 88 LATIN READER
 165. THE PaTRIorIC CopRvs. ; 1
 Rex Atheniensium Codrus, quum ingenti hostium ex-
@@ -3219,8 +3118,8 @@ occupavit. Eius quoque finiri dominationem magnopere
 cupiebam : tertium te superioribus importuniorem habere
 coepimus rectorem. taque quia vereor ne, si tu fueris
 absumptus, deterior in locum tuum succedat, caput meum
-pro tua salute devoveo." — — -— n
-! —
+pro tua salute devoveo." ï¿½ ï¿½ -ï¿½ n
+! ï¿½
 D LATIN READER 89
 
 NEN h.
@@ -3244,10 +3143,10 @@ effugiebat.
 
 au 168. TuE DEVICE or SorPro.
 
-Seipio Áfricae petendae cupidus postquam in Siciliam
+Seipio ï¿½fricae petendae cupidus postquam in Siciliam
 venit, multos milites voluntarios collegit. Quum ex
 fortissimis peditibus Romanis trecentorum equitum nu-
-merum complere vellet, nequé tam subito eos posset in-
+merum complere vellet, nequï¿½ tam subito eos posset in-
 struere, temporis angustiis exclusus, consilio sagaci usus
 est. Namque ex iis iuvenibus, quos secum ex tota Sicilia
 nobilissimos sed inermes habebat, trecentos speciosa arma
@@ -3257,7 +3156,7 @@ aversurus. Gravis ea militia procul domo terra marique
 multos labores magna pericula allatura videbatur, neque
 ipsos modo sed parentes cognatosque ea cura angebat. Ubi
 dies, quae dicta erat, advenit, arma equosque ostenderunt.
-90 — LATIN READER q »"
+90 ï¿½ LATIN READER q ï¿½"
 
 " | 169. ] b
 Tum Seipio renuntiari sibi dixit quosdam Siculorum
@@ -3326,9 +3225,9 @@ seduxisset, maxima quaeque et altissima papaverum capita
 baculo decussit.
 
 m 2
-— —
+ï¿½ ï¿½
 92 LATIN READER
-Do c—
+Do cï¿½
 B '
 Interrogando exspectandoque responsum nuntius fessus,
 ut re imperfecta, redit Gabios: quae dixerit, quaeque viderit
@@ -3358,17 +3257,17 @@ facere? Quin tu ante vivo perfunderis flumine? infima
 valle praefluit Tiberis." Religione tactus hospes, quippe qui
 omnia, ut prodigio responderet eventus, rite facta cuperet,
 extemplo descendit ad Tiberim: interea Romanus Dianae
-bovem immolat. Id mire gratum regi atque civitati fuit. í
-—À —
+bovem immolat. Id mire gratum regi atque civitati fuit. ï¿½
+ï¿½ï¿½ ï¿½
 
 LATIN READER 93
-p 9 — 28
-zi 175. THE DEATH OF ÁRCHIMEDES. " 1
+p 9 ï¿½ 28
+zi 175. THE DEATH OF ï¿½RCHIMEDES. " 1
 
 Captis Syracusis Marcellus machinationibus Archimedis
 diu victoriam suam inhibitam senserat.  Eximia tamen
 hominis prudentia delectatus, ut capiti illius parceretur,
-edixit : quia non multo minoris Árchimedis salutem quam
+edixit : quia non multo minoris ï¿½rchimedis salutem quam
 Syracusarum expugnationem habuit. At dum, animo et
 oeulis in terram defixis, formas describit, militi, qui prae-
 dandi gratia in domum irruperat strictoque super caput
@@ -3380,7 +3279,7 @@ suum indicare non potuit; sed protecto manibus pulvere,
 imperium victoris neglegere videbatur, obtruncatus sanguine
 suo operis sui lineamenta confudit.
 ENTRA
-«n (8
+ï¿½n (8
 
 I 176. A DREAM CowEs TRUE. -
 
@@ -3397,7 +3296,7 @@ in eum locum compulso mirmillone et abiecto, dum iacentem
 ferire conatur, traiectum gladio Aterium interimit. m
 
 A
-94 — LATIN READER
+94 ï¿½ LATIN READER
 -
 , 177. Tu& PoETRY OF EURIPIDES. TN
 Euripides poeta sui fiduciam eiusmodi exhibebat, quae,
@@ -3407,7 +3306,7 @@ tragoedia quandam sententiam tolleret, progressus in
 scenam dixit se, ut eos doceret, non ut ab iis dis-
 ceret, fabulas componere solere. Haud multo post idem
 Alexidi tragico poetae responsum non indignum dedit.
-Apud quem quum quereretur Álexis, quod ille triduo non
+Apud quem quum quereretur ï¿½lexis, quod ille triduo non
 ultra tres versus maximo impenso labore deducere potuisset,
 atque ipse se centum perfacile scripsisse gloriaretur; **Sed
 hoc," inquit Euripides, "interest, quod tui versus in tri-
@@ -3423,13 +3322,13 @@ quasi delusa sacrarum sortium fide, reverteretur, in regem
 Attalum, saepenumero a se contumeliosis dictis absentem
 lacessitum, incidit: cuius iussu saxo, cui nomen erat Equi,
 praecipitatus, facinoris impii iustas poenas solvisse fertur.
-] " zu 179. OpaTIS. —— 9 j j a
+] " zu 179. OpaTIS. ï¿½ï¿½ 9 j j a
 "
 In iis provinelis, quae ultra 'Tanain iacent regna-
 bat Omartes. Cuius filiae Odatidi auctores tradunt
-d ] —
+d ] ï¿½
 EN o L os dili dh
-—— — —
+ï¿½ï¿½ ï¿½ ï¿½
 
 LATIN READER 95
 imaginem Zariadrae, qui inter Caspias portas fluviumque
@@ -3464,9 +3363,9 @@ que similem illi, quem in somnio viderat, intellexisset, phia-
 lam in manum dedit, Ille accepit raptamque Odatidem in
 currum perduxit et sine mora aufugit. 0 mE
 COPDPIPEBBn 4 )
-98 2Q—
+98 2Qï¿½
 .96 LATIN READER
-P 181. À Bov's CuNNING. —
+P 181. ï¿½ Bov's CuNNING. ï¿½
 
 Mos antea senatoribus Romanis fuit in curiam cum
 
@@ -3501,9 +3400,9 @@ cum patribus in curiam praeter illum unum Papirium intro-
 eant eique puero propter loquendi tacendique prudentiam
 
 h. cognomen Praetextatus inditum est. ]
-— —
+ï¿½ ï¿½
 LATIN READER ws
-"i p — m
+"i p ï¿½ m
 183. WHERE ARE YOU GorNG 1
 
 Rex studiosus iocorum prope pontem, quo flumen multi
@@ -3540,7 +3439,7 @@ ab amicis disiciendum, exsequiis rite consummatis, relique-
 runt. Tum servi, qui illud opus inceperant, iidem aquam
 
 H
-98 c-—— LATIN READER —
+98 c-ï¿½ï¿½ LATIN READER ï¿½
 in alveum iterum immiserunt: quo facto, ne illum locum
 tam sacratum ostenderent, promiscua caede ad unum ab
 immitibus Gotonibus sunt trucidati.
@@ -3557,7 +3456,7 @@ nusquam neglexit: sed, dum iratus usque progreditur, medio
 die tandem fatigatus est. Ille autem non modo hilarem
 praebebat vultum, sed sine ullo dolore tam celeriter festin-
 avit, ut socium propter aestatis calorem laborantem longe
-superaret. n — "
+superaret. n ï¿½ "
 186. ] mM
 Deinde multis diebus exactis alter, cum iam pedibus
 detritis, maximo affectus dolore, templo, quod petebat, longe
@@ -3571,7 +3470,7 @@ iam detritos vix promovere possim." Respondit alter:
 *'Tu duris usus pisis atque siccatis magnum perpessus es
 . dolorem: ego autem curavi, ne pisa in meos calceos prius
 imponerem, quam ea decocta emollivissem."
-mn— d
+mnï¿½ d
 m LATIN READER 99
 zd NW
 187. Two Wavs or LookIiNG AT THE SAME THING.
@@ -3604,7 +3503,7 @@ altera urbis parte acerrimo proelio certaretur, subito fama.
 est allata a rege Sabino Romanos fusos. Quam ob causam
 Romani, qui hunc aditum tuebantur, territi fugerunt: in
 Sabinos autem per portam patentem irrupturos ex aede
-P^ 100 — LATIN READER —
+P^ 100 ï¿½ LATIN READER ï¿½
 Iani per hanc portam magnam vim torrentium erupisse
 ferunt, multasque hostium catervas aut ferventi aqua
 exustas, aut rapida voragine oppressas deperiisse. Ex ea
@@ -3630,27 +3529,27 @@ exemplum servi exhibuissent, in salutem deducta et peri-
 culis liberata, plane intellexit.
 
 E i 5E
-a e Es 190. AN AUGURY. ] «f
+a e Es 190. AN AUGURY. ] ï¿½f
 Aesopus servus dominum Xanthum oravit ut se in
 libertatem vindicaret. Cui Xanthus respondit *Id facere
 nolo: sed tu e domo egressus speculare; ac si duas cornices
 videris, fac ut hoc mihi renunties, bonum enim augurium;
 sin autem unam videris, erit malum." Cum autem exiisset
-p— 7 ———-
+pï¿½ 7 ï¿½ï¿½ï¿½-
 LATIN READER 101
 Aesopus et duas corniees forte in arbore sedentes vidisset,
 Xantho, ut imperatum erat, id renuntiavit ^ Exeunte
 autem Xantho, altera ex his evolavit: qui, altera sola visa,
 ait *^Nonne mihi dixisti, scelus, te duas vidisse?" Immo
 vero," respondit Aesopus, *at altera evolavit." Iubet
-igitur Xanthus eum, u£ mendacem, denudatum verberari.
+igitur Xanthus eum, uï¿½ mendacem, denudatum verberari.
 At dum verberatur, amico, qui iam accesserat, Xanthum
 ad cenam invitante, inter verbera exclamavit Aesopus;
 * Hei mihi misero; ego enim, qui duas vidi cornices, ver-
 beror; tu autem, qui unam tantum, in convivium abis:
 vanum sane et falsum evenit augurium." Xanthus autem
 sollertiam eius admiratus iubet verberantes plagis desistere.
-P ü 191. Tug DESTRUCTION or Row. a ü
+P ï¿½ 191. Tug DESTRUCTION or Row. a ï¿½
 Honorius, inclinante Romana potestate, imperator factus
 est. Hic autem summo loco minime dignus non modo
 omnia munia non obibat, sed inanibus rebus se devovebat :
@@ -3676,7 +3575,7 @@ p " 192. BURIED ALIVE. | |
 Tum temporis Anastasius, vir genere haud ignobili,
 avitas possessiones, ut mos apud Gallos est, retinere
 maximo studio cupiebat. At Cautinus, qui alienis divitiis
-avarius inhiabat, Ànastasium primo blande et suppliciter
+avarius inhiabat, ï¿½nastasium primo blande et suppliciter
 rogabat, deinde gravia minatus eidem imperavit ut hanc
 possessionem sibi concederet; quod nisi dedisset, eum
 iniuriis affidi et fame necari se iussurum esse promisit.
@@ -3703,7 +3602,7 @@ maiorem, per quem totus egrederetur, exitum liberius pate-
 fecit; et, cum iam advesperasceret, ad aliud cryptae ostium
 accessit, quod claustris validis non adeo erat obstrictum, ut
 inter tabulas prospicere homo nequiret. Ad hunc aditum
-RR —
+RR ï¿½
 
 LATIN READER 103
 capite apposito, viatorem praetereuntem voce usus exigua
@@ -3711,7 +3610,7 @@ ad se vocat. Nee mora: viator sudes ligneas, quibus
 claustra continebantur, securi incidit; exituque patefacto
 cum eo domum incolumis Anastasius regressus est.
 
-1 B -" 194. CrEoPATRA'S WAGER. m í [
+1 B -" 194. CrEoPATRA'S WAGER. m ï¿½ [
 
 Cum M. Antonius, quidquid mari aut terra aut etiam aere
 gigneretur, ad satiandam ingluviem suam natum existimaret,
@@ -3730,7 +3629,7 @@ ei natura est, absorbuit. Quo facto, manum ad alteram
 aurem pariter admovisset, nisi Numantius Plancus arbiter
 
 superatum Antonium sine mora pronuntiasset.
-E "M SWEEIS OF -— ]
+E "M SWEEIS OF -ï¿½ ]
 
 Cani perpasto macie confectus lupus
 
@@ -3741,7 +3640,7 @@ Ut restiterunt: **Unde sic, quaeso, nites 1
 Aut quo cibo fecisti tantum corporis 1 B
 
 Ego qui sum longe fortior pereo fame."
-—
+ï¿½
 104 | LATIN READER
 Canis simpliciter: * Eadem est condicio tibi,
 Praestare domino si par officium potes."
@@ -3752,7 +3651,7 @@ Imbresque, in silvis asperam vitam trahens.
 Quanto est facilius mihi sub tecto vivere,
 Et otiosum largo satiari cibo." v ,
 * Veni ergo mecum." q
-E--—
+E--ï¿½
 . Dum procedunt, aspicit 0
 Lupus a catena collum detritum cani.
 * Unde hoc, amice?" **Nihilest." **Dio, quaeso, tamen."
@@ -3767,12 +3666,12 @@ Sic sine labore venter impletur meus."
 * Non plane est," inquit. * Fruere quae laudas, Canis.
 Regnare nolo, liber ut non sim mihi." B
 e y
-— E
+ï¿½ E
 1 197. A FaMovus PArR or Docs.
 Indiam petenti Alexandro Magno rex Albaniae dono
 dederat inusitatae magnitudinis canem, cuius specie de-
 lectatus iussit ursos, mox apros, et deinde damas emitti. E
-5——— -——
+5ï¿½ï¿½ï¿½ -ï¿½ï¿½
 i LATIN READER 105
 quibus cum ne unum quidem canis vellet consequi, segnitia
 tanti corporis offensus Alexander interimi eum iussit.
@@ -3802,8 +3701,8 @@ tenuiorem liniam in ipsa illa duxisse abeuntemque prae-
 cepisse, si redisset ille, ostenderet adiceretque hunc esse
 quem quaereret; atque ita evenit; revertit enim Apelles et
 tertio colore linias ita secuit ut nullum amplius subtilitati
-locum reliquerit. ] H «D A ]
-— ———
+locum reliquerit. ] H ï¿½D A ]
+ï¿½ ï¿½ï¿½ï¿½
 106 B LATIN READER ,
 , B
 :
@@ -3838,7 +3737,7 @@ possit, deductis cohortibus, eruptione pugnaret; id nisi
 necessario, ne faciat. u P
 Pm MM
 p READER 107
-—— "—
+ï¿½ï¿½ "ï¿½
 201. -
 
 Caesar adit reliquos ; cohortatur ne labori succumbant ;
@@ -3872,7 +3771,7 @@ devexa cernebantur, nostri proelium committunt. Utrinque
 clamore sublato, excipit rursus ex vallo atque omnibus
 munitionibus clamor. Nostri omissis pilis gladiis rem
 gerunt. HRepente post tergum equitatus cernitur ; cohortes
-— —
+ï¿½ ï¿½
 108 LATIN READER
 aliae appropinquant. Hostes terga verterunt; fugientibus
 equites occurrunt : fit magna caedes. n B
@@ -3906,24 +3805,24 @@ Mollia securae peragebant otia gentes.
 
 ] IL 204. LAKE TRASIMENE. ]
 
-J mí
+J mï¿½
 
 Inter Romanos Poenosque tres ferme horas pugnatum est
 et ubique atrociter. Circa consulem tamen acrior infestior-
 que pugna est: eum et robora virorum sequebantur et ipse
 quacunque in parte premi ac laborare senserat suos, impigre
 ferebat opem : insignemque armis et hostes summa vi pete-
-bant et tuebantur cives, donec Insuber eques—Ducario
-nomen erat—íacie quoque noscitans consulem ** En," inquit,
+bant et tuebantur cives, donec Insuber equesï¿½Ducario
+nomen eratï¿½ï¿½acie quoque noscitans consulem ** En," inquit,
 *hie est," popularibus suis, *qui legiones nostras cecidit
 agrosque et urbem est depopulatus ! iam ego hanc victimam
 Manibus peremptorum foede civium dabo:" subditisque
 calcaribus equo per confertissimam hostium turbam impetum
 facit obtruncatoque prius armigero, qui se infesto venienti -
 obviam obiecerat, consulem lancea transfixit.
-e n—
+e nï¿½
 - E LATIN READER 109
-PF — - 3
+PF ï¿½ - 3
 Magnae partis fuga inde primum coepit: et iam nec
 lacus nec montes pavori obstabant: per omnia arcta prae-
 ruptaque velut coeci evadunt, armaque et viri super alium
@@ -3948,7 +3847,7 @@ Cum puer, incautis nimium temerarius ausis ]
 Altius egit iter, deseruitque ducem.
 ] Vincla labant, et cera deo propiore liquescit :
 Nee tenues ventos brachia mota tenent. )
-P ———— OE
+P ï¿½ï¿½ï¿½ï¿½ OE
 110 LATIN READER
 ddl bea T
 LE -
@@ -3976,10 +3875,10 @@ caesum, superesse paucos aut fuga passim per Etruriam
 sparsos aut captos ab hoste. Senatum praetores per dies
 aliquot ab orto usque ad occidentem solem in curia retinent,
 consultantes, quonam duce aut copiis quibus resisti victori-
-bus Poenis posset. -—— í r
-———— M —M 1
+bus Poenis posset. -ï¿½ï¿½ ï¿½ r
+ï¿½ï¿½ï¿½ï¿½ M ï¿½M 1
 LATIN READER 111
-E — A1QOlO 3
+E ï¿½ A1QOlO 3
 | B | S HANNIBAL ON THE ALPS. n "
 Tandem nequiequam iumentis atque hominibus fatigatis
 castra in iugo posita, aegerrime ad id ipsum loco purgato,
@@ -3995,8 +3894,8 @@ solum sed elephanti etiam deduci possent.  Quadriduum
 circa rupem consumptum iumentis prope fame absumptis ;
 nuda enim fere cacumina sunt et, si quid est pabuli, obruunt
 nives.
-] 210. PogrRY LasrS rog Evkm. ü
-Ergo cum silices, cum dens patientis aratri, à
+] 210. PogrRY LasrS rog Evkm. ï¿½
+Ergo cum silices, cum dens patientis aratri, ï¿½
 Depereant aevo, carmina nocte carent.
 Cedant carminibus reges, regumque triumphi,
 "s Cedat et auriferi ripa beata Tagi.
@@ -4008,9 +3907,9 @@ Pascitur in vivis Livor: post fata quiescit, r,
 Cum suus ex merito quemque tuetur honor.
 Ergo etiam, cum me supremus adederit ignis,
 Vivam, parsque mei multa superstes erit. ] r
-UL .— ———
+UL .ï¿½ ï¿½ï¿½ï¿½
 112 : LATIN READER
-1 , í | 211. A SiEGE. — "
+1 , ï¿½ | 211. A SiEGE. ï¿½ "
 m i
 Mitescente iam hieme educto ex hibernis milite Casi-
 linum Hannibal redit: ubi, quanquam ab oppugnatione
@@ -4038,9 +3937,9 @@ Postremo ad id ventum inopiae est, ut lora detractasque
 scutis pelles, ubi fervida mollissent aqua, mandere conar-
 entur. Nec muribus aliove animali abstinerent et omne
 herbarum radicumque genus aggeribus infimis muri erue-
-—— — —
+ï¿½ï¿½ ï¿½ ï¿½
 LATIN READER 113
-Ev —
+Ev ï¿½
 Cum hostes obarassent quidquid herbidae terrae extra
 murum erat, raporum semen iniecerunt, ut Eannibal
 * Eone usque, dum ea nascuntur, ad Casilinum sessurus
@@ -4054,7 +3953,7 @@ septingentorum militum de exercitu Hannibalis praesidio,
 ne, ubi Poenus inde abscessisset, Romani oppugnarent.
 214. Nurs.
 Nux ego iuncta viae, cum sim sine crimine vitae,
-À populo saxis praetereunte petor.
+ï¿½ populo saxis praetereunte petor.
 Obruere ista solet manifestos poena nocentes,
 Publica eum lentam non capit ira moram.
 Nil ego peccavi: nisi si peccasse vocatur,
@@ -4065,9 +3964,9 @@ Cum domini memores sertis ornare solebant
 Agricolas, fructu proveniente, deos.
 Saepe suas igitur, Liber, miratus es uvas:
 Mirata est oleas saepe Minerva suas.
-n m -—
+n m -ï¿½
 TER
-TQ  —
+TQ  ï¿½
 
 114 : LATIN READER -
 
@@ -4108,7 +4007,7 @@ atque itinere desistere iubet, ipse ad naves revertitur:
 eadem fere, quae ex nuntiis litterisque cognoverat, coram
 perspicit, sic ut, amissis circiter quadraginta navibus,
 reliquae tamen refici posse magno negotio viderentur,
-€— —
+ï¿½ï¿½ ï¿½
 LATIN READER - 115
 PCM B
 m B -
@@ -4129,7 +4028,7 @@ convenerant; summa imperii bellique administrandi com-
 muni consilio permissa Casivellauno: quem nostro adventu
 permoti Britanni toti bello imperioque praefecerant.
 
-E - » i
+E - ï¿½ i
 
 B ) 218. AENEAS.
 
@@ -4144,8 +4043,8 @@ In mare prorumpit. Variae cireumque supraque
 Assuetae ripis volucres et fluminis alveo
 Aethera mulcebant cantu, lucoque volabant.
 Flectere iter sociis terraeque advertere proras !
-Imperat, et laetüs fluvio succedit -—
-P ———
+Imperat, et laetï¿½s fluvio succedit -ï¿½
+P ï¿½ï¿½ï¿½
 J 116 p LATIN READER
 : 219. WivES AND HUSBANDS.
 . Omnia experti Galli, quod res nulla successerat, postero
@@ -4171,12 +4070,12 @@ Mens tamen ad silvas et sua lustra redit.
 Iudicibus lites, aurigae somnia currus,
 Vanaque nocturnis meta cavetur equis.
 .  Furto gaudet amans: permutat navita merces :
-Et vigil elapsas quaerit avarus opes. »
+Et vigil elapsas quaerit avarus opes. ï¿½
 Blandaque largitur frustra sitientibus aegris
 Irriguus gelido pocula fonte sopor.
 Me quoque Musarum studium sub nocte silenti P
-" Artibus assuetis sollicitare solet. lH í 4
-———I MEM
+" Artibus assuetis sollicitare solet. lH ï¿½ 4
+ï¿½ï¿½ï¿½I MEM
 LATIN READER 117
 E - nd
 221. THE PassAGE OF THE THAWMES.
@@ -4211,7 +4110,7 @@ Ast ubi paulatim praeceps audacia crevit ]
 Cordaque languentem dedidicere metum ;
 Iam vagus exsultat pelago, caelumque secutus
 Aegaeas hiemes Ioniasque domat.
-118 » LATIN READER "
+118 ï¿½ LATIN READER "
 , 223. THE TRICK OF THE BESIEGED. - ]
 Ubi Aduatici moveri et appropinquare moenibus vide-
 runt, nova atque inusitata specie commoti, legatos ad
@@ -4248,7 +4147,7 @@ iacerent, pugnari debuit, cum in una virtute omnis spes
 salutis consisteret.  Occisis hominum millibus quattuor,
 
 L reliqui in oppidum reiecti sunt.
-—— Mu
+ï¿½ï¿½ Mu
 LATIN READER unm 119
 Postremo, pereunt imbres, ubi eos pater Aether
 In gremium matris Terrai praecipitavit :
@@ -4259,10 +4158,10 @@ Hinc laetas urbes puerum florere videmus,
 Frondiferasque novis avibus canere undique silvas: |
 Hinc fessae pecudes pingues per pabula laeta
 Corpora deponunt et candens lacteus humor
-Überibus manat distentis: hinc nova proles
+ï¿½beribus manat distentis: hinc nova proles
 Artubus infirmis teneras lasciva per herbas
 Ludit, lacte mero mentes perculsa novellas.
-ü 226. CAESAR LANDS IN BRITAIN.
+ï¿½ 226. CAESAR LANDS IN BRITAIN.
 
 Barbari, concilio Romanorum cognito, praemisso equitatu
 et essedariis, quo plerumque genere in proeliis uti consue-
@@ -4278,7 +4177,7 @@ audacter tela conicerent et equos insuefactos incitarent.
 Quibus rebus nostri perterriti, atque huius omnino generis
 pugnae imperiti, non eadem alacritate ac studio, quo in
 pedestribus uti proeliis consuerant, nitebantur. H
-UM — —
+UM ï¿½ ï¿½
 120 LATIN READER. "
 , j 227. s '
 Quod ubi Caesar animadvertit, naves longas, quarum et
@@ -4297,7 +4196,7 @@ hostibus prodere: ego certe meum reipublicae atque
 imperatori officium praestitero. Hoc cum voce magna
 dixisset, se ex navi proiecit.
 Em
-í Y MM 228. CONTENTMENT.
+ï¿½ Y MM 228. CONTENTMENT.
 Divitias alius fulvo sibi congerat auro
 Et teneat culti iugera multa soli,
 Quem labor assiduus vicino terreat hoste,
@@ -4310,7 +4209,7 @@ Nec spes destituat: sed frugum semper acervos
 Praebeat et pleno pinguia musta lacu.
 Nam quodcunque mihi pomum novus educat annus,
 B Libatum agricolae ponitur ante deo.
-——— mu
+ï¿½ï¿½ï¿½ mu
 LATIN READER 121
 o" A
 j 229. CAESAR AND THE SWISS.
@@ -4344,11 +4243,11 @@ Antidoto miscere illius se toxicum,
 Combibere iussit ipsum posito bueno
 Timore mortis ille tum confessus est,
 Non artis ulla medicae se prudentia, H
-Verum stupore vulgi factum nobilem. — -
-Rex advocata contione haec edidit : v J í t
-—- o ———
-122 — LATIN READER
-m u-—
+Verum stupore vulgi factum nobilem. ï¿½ -
+Rex advocata contione haec edidit : v J ï¿½ t
+ï¿½- o ï¿½ï¿½ï¿½
+122 ï¿½ LATIN READER
+m u-ï¿½
 Quantae putatis esse vos dementiae, Y
 Qui capita vestra non dubitatis credere, dod
 Cui calceandos nemo commisit pedes. m q
@@ -4360,7 +4259,7 @@ munierunt: et, cum essent infirmi ad resistendum propter
 paucitatem hominum, crebris confecti vulneribus, ad ex-
 trenum auxilium descenderunt, servosque omnes puberes
 liberaverunt et praesectis mulierum crinibus tormenta
-effecerunt. — Quorum cognita sententia, Octavius quinis
+effecerunt. ï¿½ Quorum cognita sententia, Octavius quinis
 castris oppidum circumdedit, atque uno tempore obsidione
 et oppugnationibus eos premere coepit. Illi omnia perpeti
 parati, maxime a re frumentaria laborabant. Longo inter-
@@ -4383,9 +4282,9 @@ Securus varias dux gregis inter oves. Z2
 Tune mihi vita foret, vulgi nec tristia nossem
 Arma nec audissem corde micante tubam ! p
 p
-j————:
+jï¿½ï¿½ï¿½ï¿½:
 mE
-/— APPENDIX
+/ï¿½ APPENDIX
 CONVERSATIONS FROM ERASMUS
 ! Tug RETURNING WARRIOR.
 B (Hanno, Thrasymachus.)
@@ -4407,7 +4306,7 @@ antehac in omni vita.
 Ha. Ecquid igitur arridet vita militaris
 Th. Nihil neque scelestius, neque calamitosius.
 Ha. Quid igitur in mentem venit istis, qui nummo con-
-— ——
+ï¿½ ï¿½ï¿½
 124 LATIN READER
 ducti, nonnulli gratis, currunt ad bellum, non aliter quam
 ad convivium ?
@@ -4437,7 +4336,7 @@ catio!
 
 Th. Vix, ita me Mavors posthac male amet: suspicor
 
-— aut saxo, aut equi calce laesum genu.
+ï¿½ aut saxo, aut equi calce laesum genu.
 
 Ha. At ego scio.
 
@@ -4456,8 +4355,8 @@ est, quoad divinasti.
 Ha. Abi domum, et uxori narra tuas victorias. A.
 
 B.
-Ea. X ü
-— —
+Ea. X ï¿½
+ï¿½ ï¿½
 
 . LATIN READER 125
 
@@ -4478,7 +4377,7 @@ queat.
 
 Hi. Apte quidem dictum, extorqueat. Nam citius cla-
 vam extorseris e manu Herculis, quam ab hoc ludendi
-veniam,  Át olim illo nemo fuit ludendi avidior.
+veniam,  ï¿½t olim illo nemo fuit ludendi avidior.
 
 Ni. Verum; sed iam olim ille oblitus est, se fuisse
 puerum. Ad verbera facilimus est et liberalis: hic par-
@@ -4506,11 +4405,11 @@ li. Bene ominare: si te satis novimus, impetrabis.
 Abi orator, redibis exorator.
 
 Co. Eo. Bene fortunet legationem meam Mercurius.
-Salve praeceptor. — mm
+Salve praeceptor. ï¿½ mm
 
 ED | aum Sam B
 126 LATIN READER
-—
+ï¿½
 
 Pae. Quid sibi vult nugamentum hominis ?
 
@@ -4560,11 +4459,11 @@ Hi. Cavebitur. Sed quod lusus genus potissimum placet 1
 ] Co. De hoc in campo consultabimus. E -
 
 -
--—— L d á
-jp—— ——— A——
+-ï¿½ï¿½ L d ï¿½
+jpï¿½ï¿½ ï¿½ï¿½ï¿½ Aï¿½ï¿½
 J LATIN READER 127
 Ene sad
-Eí. Gorxa To ScHoor. 1"
+Eï¿½. Gorxa To ScHoor. 1"
 [9 (Sylvius, Joannes.) I - "
 
 Sy. Cur adeo curris, Ioannes? 0
@@ -4576,7 +4475,7 @@ Sy. Quid hoc proverbii est? i
 lo. Quia nisi adfuero in tempore ante recitatum cata-
 logum, actum est de pelle mea.
 
-Sy. Hae quidem ex parte nihil est periculi — Modo
+Sy. Hae quidem ex parte nihil est periculi ï¿½ Modo
 praeterita est quinta. Inspice horologium, manus nondum
 attigit punctum, quod horam ab hora aequis spatiis dirimit.
 
@@ -4590,7 +4489,7 @@ Jo. Quid loquebatur! EN o
 N Sy. Horam esse quintam. - . -
 
 Io. Sed est et aliud, unde magis etiam timeam.  Red-
-denda est memoriter hesterna lectio, satis prolixa. — Vereor
+denda est memoriter hesterna lectio, satis prolixa. ï¿½ Vereor
 ut possim.
 
 Sy. Commune periculum narras. Nam et ipse vix
@@ -4602,7 +4501,7 @@ esset bubulum.
 
 Sy. Verum is non aderit in ludo. co
 
-f Jo. Quem igitur vicarium constituit 1 — i
+f Jo. Quem igitur vicarium constituit 1 ï¿½ i
 
 Sy. Cornelium.
 
@@ -4613,7 +4512,7 @@ Sy. Verum dicis; et ideo non raro sum illius brachio
 precatus paralysin. - .
 
 | "M
-d —
+d ï¿½
 128 LATIN READER
 lo. Non est pium, imprecari praeceptori ^ Nobis potius
 cavendum, ne incidamus in illius tyranni manus.
@@ -4626,10 +4525,10 @@ Jo. Facile deponerem pavorem, si non adesset periculum.
 At in tanto discrimine quis possit esse securus animo 1
 Sy. Fateor; attamen non agitur de capite, sed de parte
 diversa.
-n. THE AÁBBOT AND THE LADY. h
+n. THE Aï¿½BBOT AND THE LADY. h
 (Antronius, Magdalia.)
 n. Quam hic ego supellectilem video? .
-Ja. Àn non elegantem !
+Ja. ï¿½n non elegantem !
 Zn. Nescio quam elegantem; certe parum decoram et
 puellae et matronae.
 Ma. Quam ob rem 1
@@ -4645,7 +4544,7 @@ Ma. Am solis heroinis licet sapere et suaviter vivere!
 -4n. Male connectis, sapere et suaviter vivere: non
 est muliebre sapere: heroinarum est suaviter vivere.
 AMa. Nonne omnium est bene vivere 1 i a
-—— —
+ï¿½ï¿½ ï¿½
 M v IESU READER 129
 est
 
@@ -4677,13 +4576,13 @@ num vives suaviter ! B m
 
 JMa. Hoc est, si intelligeres hominem non esse felicem,
 nisi bonis animi; opes, honores, genus neque feliciorem
-reddere neque meliorem. -— —
+reddere neque meliorem. -ï¿½ ï¿½
 
-4n. "Valeat ista quidem sapientia. -—'-—
+4n. "Valeat ista quidem sapientia. -ï¿½'-ï¿½
 
 Ma. Quid si mihi suavius sit legere bonum auctorem,
 quam tibi venari, potare, aut ludere aleam; non videbor
-tibi suaviter vivere 1 m ' »
+tibi suaviter vivere 1 m ' ï¿½
 
 -4n. Ego non viverem. | B .
 
@@ -4703,7 +4602,7 @@ Ma. Imperas igitur quae pugnant cum Petro et Paulo
 -4n. Quid illi doceant, nescio: sed tamen non amo
 
 . K
-—— ———
+ï¿½ï¿½ ï¿½ï¿½ï¿½
 130 LATIN READER
 talem monachum ; neque velim quenquam meorum plus
 Sapere, quam ego sapiam.
@@ -4734,7 +4633,7 @@ JMa. Iam illud mihi dicito, si quis lupiter hanc potes-
 tatem tibi daret, ut posses et monachos tuos et te ipsum
 vertere in quodeunque animal velles, num illos in porcos
 
-1 verteres, te ipsum in equum 1 Bü | b "n
+1 verteres, te ipsum in equum 1 Bï¿½ | b "n
 4n. Nequaquam. ]
 
 Ma. Atqui sie vitares, ne quis plus te uno saperet.
@@ -4753,7 +4652,7 @@ Zn. Videre mihi sophistria quaepiam.
 Ma. Non dicam quid tu mihi videaris. Sed cur haec
 displicet supellex ! - mu
 
-Zn. Quia fusus et colus sunt arma muliebria. —
+Zn. Quia fusus et colus sunt arma muliebria. ï¿½
 
 Ma. Nonne matronae est, administrare rem domesticam,
 erudire liberos ?
@@ -4764,9 +4663,9 @@ E ON
 ES LATIN READER 131 y
 
 Ma. An rem tantam existimas administrari posse sine
-sapientia ? — is RR
+sapientia ? ï¿½ is RR
 
-E Non arbitror. — — -— !
+E Non arbitror. ï¿½ ï¿½ -ï¿½ !
 
 Ma. At hane sapientiam docent me libri. )
 
@@ -4783,7 +4682,7 @@ seriam ; opus esse praestrenuo equo : si unquam praebuisset
 se mihi bonum virum, nunc praestaret. Ille pollicetur, sese
 sic mecum acturum, ub ageret cum fratre suo carissimo.
 
-» -4w. Fortassis et fratri impositurus.
+ï¿½ -4w. Fortassis et fratri impositurus.
 
 Ph. Inducit in stabulum, iubet ut eligam ex omnibus equis
 quemcunque vellem. "Tandem unus plus ceteris arridebat.
@@ -4802,7 +4701,7 @@ domum.
 E "Au. Quid hic consilii capiebas 1
 " Ph. Id quod res dabat; deflexi in proximum vicum:
 ilic clam apud quendam mihi notum deposui equum et
-— ——
+ï¿½ ï¿½ï¿½
 132 LATIN READER
 conduxi alterum : profectus sum quo destinaram ; reversus
 sum, reddo conductitium equum, reperio meum sophistam,
@@ -4840,7 +4739,7 @@ semper ageret de uno illo, tandem locator apud se: Plane
 fefellit me iudicium de illo equo, siquidem hie peregrinus
 E mE ] u 1 Value. : :
 D. E d p
-— ——
+ï¿½ ï¿½ï¿½
 
 H LATIN READER 133
 statim agnovit hunc inter omnes. Quum instaret ille,
@@ -4859,7 +4758,7 @@ adornetur equus meus: nam e vestigio proficiscendum est
 ob rem maxime seriam. Atqui modo, inquit, mandabas, ut
 aliquot dies alerem equum tuum. "Verum, inquam; sed
 praeter exspectationem obiectum est negotium, idque re-
-gium, quod nullam patitur dilationem. — Hic ille: eliges
+gium, quod nullam patitur dilationem. ï¿½ Hic ille: eliges
 ex omnibus, quem voles; tuum habere non potes. Rogo,
 quam ob rem? Quoniam venditus est, inquit. Ibi ego
 simulata magna perturbatione: Prohibeant, inquam, superi
@@ -4875,7 +4774,7 @@ viginti sex. Ille aestimarat triginta duobus. Cogitabat apud
 se: praestat hoc lucrifacere, quam equum reddere. Abeo
 dolenti similis, ac vix placatus etiam data pecunia. Sic
 impositum est Hippoplano. Habet equum nullius pretii.
-— ——
+ï¿½ ï¿½ï¿½
 1834 LATIN READER -
 Exspectat ut, qui arrham dedit, veniat numeratum pecu-
 niam. At nemo venit, nec unquam venturus est.
@@ -4889,7 +4788,7 @@ siles, rogat sutor, num vellet ocreas. ^ Annuente Macco,
 quaerit aptas tibiis illius; inventas alacriter protulit, et,
 ut solent, inducit ill Ubi iam Maceus esset eleganter
 ocreatus, Quam belle, inquit, congrueret his ocreis par cal-
-ceorum duplicatis soleis. — Rogatus an et calceos vellet,
+ceorum duplicatis soleis. ï¿½ Rogatus an et calceos vellet,
 annuit. MReperti sunt, et additi pedibus. Macceus laudabat
 ocreas, laudabat calceos. ^ Calcearius tacite gaudens, suc-
 cinebat illi laudanti, sperans pretium aequius, posteaquan.
@@ -4906,8 +4805,8 @@ caleeis praecurro, tu cursu sequere. Simulque cum dicto
 coniecit se in pedes. Calcearius e vestigio consecutus est,
 quantum poterat; clamitans, Tenete furem, tenete furem.
 Ad hane vocem quum cives undique prosiliissent ex aedi-
-À bus, hoc commento cohibuit illos Maccus, ne quis manum
-—— —
+ï¿½ bus, hoc commento cohibuit illos Maccus, ne quis manum
+ï¿½ï¿½ ï¿½
 
 LATIN READER 135
 iniiceret ; ridens ae vultu placido, Ne quis, inquit, re-
@@ -4920,7 +4819,7 @@ tulit brabeum.
 
 Ge. Maccus iste effugit quidem calcearium, at non effugit
 furem.
-J Po. Quam ob rem ? »
+J Po. Quam ob rem ? ï¿½
 Ge. Quia furem ferebat secum. E - T]
 Po. Forte tum non erat ad manum pecunia, quam postea
 resolvit.
@@ -4931,7 +4830,7 @@ Ge. Quid attulit Maccus 1 . i ]
 Po. Quid attulit? rogas? in causa tam vincibili Magis
 periclitatus est actor quam reus.
 Ge. Qui sie 1
-ü Po. Quia gravabat illum actione calumniae, et intendebat
+ï¿½ Po. Quia gravabat illum actione calumniae, et intendebat
 legem Ehemiam, quae dictat, ut, qui crimen intenderit, quod
 probare non possit, poenam ferat, quam laturus erat reus,
 si convictus fuisset. Negabat se contrectasse rem alienam
@@ -4944,9 +4843,9 @@ Quid tandem!
 Po. Ubi satis risum est, quidam e iudicibus vocavit
 Clerc
 mE i
-— —
+ï¿½ ï¿½
 136 LATIN READER
-Maccum ad cenam, et numeravit «calceario pretium.
+Maccum ad cenam, et numeravit ï¿½calceario pretium.
 Simile quiddam accidit Daventriae me puero. Erat
 tempus illud, quo regnant piscatores, [rigent  lanii
 Quidam adstabat ad fenestram fructuariae, sive Graece
@@ -4966,7 +4865,7 @@ bat se emisse, sed quod ultro delatum fuisset accepisse: si
 vellet experiri apud iudices, se compariturum.
 Ge. Age, narrabo fabulam tuae non admodum dissimi-
 lem fortasse, nec inferiorem, nisi quod haec non habet
-' auctorem perinde celebrem atque est Maccus — Pytha-
+' auctorem perinde celebrem atque est Maccus ï¿½ Pytha-
 goras totum mercatum dividebat in tria hominum
 genera: quorum alii prodiissent ut venderent, alii ut
 emerent: hoc utrumque genus aiebat sollicitum esse,
@@ -4978,12 +4877,12 @@ versari in hoc mundo, quemadmodum illi versarentur in
 mercatu. Verum in nostris emporiis quartum hominum
 genus obambulare solet, qui nec emunt, nec vendunt, nec
 otiosi contemplantur, sed observant sollicite, si quid possint
-—-—-—-——— NEED
+ï¿½-ï¿½-ï¿½-ï¿½ï¿½ï¿½ NEED
 LATIN READER 137
 involare. Atque in hoc genere reperiuntur quidam mire
 dextri; dicas esse Mercurio favente natos.  Convivator
 dedit fabulam cum coronide; ego dabo cum prooemio.
-Nune aecipite, quod nuper accidit Ántverpiae. Sacrificus
+Nune aecipite, quod nuper accidit ï¿½ntverpiae. Sacrificus
 quidam receperat illic mediocrem summam pecuniae, sed
 argenteae. Id Batavus quidam animadverterat.  Adiit
 sacrificum, qui gestabat in zona crumenam nummis turgi-
@@ -5013,7 +4912,7 @@ currere. Itaque dum alter alteri in mora est, Batavus
 effugit.
 L Eu. Ludovicus, Galliarum rex, eius nominis undecimus,
 "
-— —————
+ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½
 138 LATIN READER
 quum rebus domi turbatis peregrinaretur apud Burgun-
 diones, occasione venationis nactus est familiaritatem cum
@@ -5030,7 +4929,7 @@ operam: principes enim non meminisse talia officia.
 Sed vicit uxor.  Deligit Conon rapas aliquot insignes;
 accingitur itineri. Verum ipse per viam captus illecebra
 cibi, paulatim devoravit omnes, una dumtaxat excepta in-
-signiter magna. — Ubi Conon prorepsisset in aulam, qua rex
+signiter magna. ï¿½ Ubi Conon prorepsisset in aulam, qua rex
 erat iturus, statim agnitus est a rege, et accersitus. Ille
 magna cum alacritate detulit munus; rex maiore cum ala-
 critate accepit, mandans cuidam e proximis, ut diligenter
@@ -5047,7 +4946,7 @@ saret equum tam bellum, tamque pretiosum. Interim, qui
 donarat equum, spes opimas animo concipiebat, sic cogi-
 tans: Si sie pensavit rapam donatam a rustico, quanto
 munificentius pensaturus est equum talem oblatum ab
-——— —
+ï¿½ï¿½ï¿½ ï¿½
 
 LATIN READER 139
 aulico? Quum regi veluti de re magna consultanti alius
@@ -5082,7 +4981,7 @@ reginae. Sed unde venisti in istam consuetudinem 1
 Ph. Quia solemus convivia, lusus et iocos in multam
 proferre noctem ; id dispendii matutino somno pensamus.
 ^ Ne. Vix unquam vidi hominem te perditius prodigum.
-p—— í—
+pï¿½ï¿½ ï¿½
 140 LATIN READER
 
 Ph. Mihi parsimonia videtur magis, quam  profusio.
@@ -5094,7 +4993,7 @@ quid esset pretiosissimum, respondit, Tempus. Porro quum
 constet, diluculum esse totius diei partem optimam, tu quod
 in re pretiosissima pretiosissimum est, gaudes perdere.
 
-Ph. Àn hoc perit, quod datur corpusculo 1
+Ph. ï¿½n hoc perit, quod datur corpusculo 1
 
 Ne. Imo detrahitur corpusculo, quod tum suavissime
 affieitur, maximeque vegetatur, quum tempestivo moder-
@@ -5133,11 +5032,11 @@ minis portionem, corpus animi ministrum.
 Ph. Esto, si vis.
 
 ] ANe. Quum tibi nolles ministrum abdomine tardum, sed
-—o——— m———
+ï¿½oï¿½ï¿½ï¿½ mï¿½ï¿½ï¿½
 LATIN READER 141
 agilem malles et alacrem, cur animo paras ministrum igna-
 vum et obesum ?
-Ph. Vincor veris. »
+Ph. Vincor veris. ï¿½
 Ne. Iam aliud dispendium accipe: ut animus longe
 praestat corpori, ita fateris, opes animi longe praecellere
 bona corporis. i
@@ -5182,11 +5081,11 @@ NOTES TO INTRODUCTORY STORIES.
 
 6. Invasion of Rome by the Gauls, s.c. 390. | u
 
-8. Pyrrhus, ».c. 280.
+8. Pyrrhus, ï¿½.c. 280.
 
 12. Regulus, 5.c. 255.
 
-18. tanti; *ofsuchgreatvalue" — u
+18. tanti; *ofsuchgreatvalue" ï¿½ u
 
 obtinuit; ''prevailed."
 
@@ -5209,11 +5108,11 @@ quosdam sibi insidiari; ''that some, who were friends, were
 by Roman magistrates in gratitude for their election.
 
 84. Roman names: praenomen, e.g. Lucius ; nomen (of the gens), e.g.
-Cornelius ; cognomen, e.g. ÀAsina ; and sometimes agnomen, e.g.
+Cornelius ; cognomen, e.g. ï¿½Asina ; and sometimes agnomen, e.g.
 Macedonicus.
 
-36. HS.—II., and S.—semis (3): HS.-—sestertius, about 2d. 1000
-sestertii —sestertium, about £8. When such numeral adverbs
+36. HS.ï¿½II., and S.ï¿½semis (3): HS.-ï¿½sestertius, about 2d. 1000
+sestertii ï¿½sestertium, about ï¿½8. When such numeral adverbs
 as ducenties aro used, centena millia is to be supplied.
 
 46. rude donato. A gladiator received a ''rudis" (a staff) on his
@@ -5222,23 +5121,23 @@ discharge ; rude donatus, **honourably discharged."
 50. discidissent ; from discindo.
 
 7 52. Thesmophorie ; festival of Demeter at Athens.
-da Jd p——
+da Jd pï¿½ï¿½
 NOTES 143
 
 63. Helotes; see 90. MEME b
 
 67. tempus . . . quo ; *'time in which."
 
-67. dare non dubitarit ; ** he did not liesitate to give ;" (1) dubito—
+67. dare non dubitarit ; ** he did not liesitate to give ;" (1) dubitoï¿½
 
 **[ hesitate," is usually followed by inf.; but (2) non dubito
-quin —I do not doubt that. EE
+quin ï¿½I do not doubt that. EE
 
 69. facto ; perf. part. pass., abl.
 
 80. Sunt qui; (1) with subj., in a general indefinite sense ; (2) with
 ind., of particular definite persons. Sunt qui non habeant,
-est qui non curat habere.—Hor., Ep. ii, 2, 182.
+est qui non curat habere.ï¿½Hor., Ep. ii, 2, 182.
 
 85. Circus Maximus, built by Tarquinius Priscus between the
 Aventine and Palatine hills; it was the scene of all sorts of
@@ -5248,7 +5147,7 @@ publie spectacles.
 living in Sparta ; (2) Perioeci, who were free, but had no share
 in the government ; (3) Helots, serfs, bound to the soil.
 
-99. nummorum ; ?.e. sestertii, v. note on 36. ü
+99. nummorum ; ?.e. sestertii, v. note on 36. ï¿½
 
 112. Battle of Salamis, where Xerxes was defeated by the Greeks, s.c.
 
@@ -5266,7 +5165,7 @@ ing witnesses).
 continued between Antony and Oetavian, and concluded in s.c.
 31 by the battle of Actium. nud
 
-198. Battle of Salamis (v. 112), s.c. 480. e -— Y
+198. Battle of Salamis (v. 112), s.c. 480. e -ï¿½ Y
 
 180. sententia cognita ; abl abs.; voti, cp. 7.
 
@@ -5284,7 +5183,7 @@ torrentis modo ; ''like a torrent."
 167. & triumviris Octavian, Antony, Lepidus were appointed to
 1 regulate public affairs, B.c. 48.
 dno
-—  —————
+ï¿½  ï¿½ï¿½ï¿½ï¿½ï¿½
 144 NOTES "
 173. Sexto ubi... patuit; ' when it was elear to Sextus."
 Tarquinius and his son Sextus were banished from Rome z.c. 509.
@@ -5295,8 +5194,8 @@ invidia opportunos ; **easy victims owing to their unpopularity."
 net (rete) and trident to fight against another armed with a
 Gallic helmet having a fish as crest.
 184. Alaric, king of the Goths, took Rome A.D. 410.
-194. centies sestertium ; sc. centena millia— 10,000,000 sesterces,
-£80,000.
+194. centies sestertium ; sc. centena milliaï¿½ 10,000,000 sesterces,
+ï¿½80,000.
 198. eius fama tentum sibi cogniti; *of him known to him only
 by report."
 199. extremum ; for the last time.
@@ -5306,7 +5205,7 @@ by report."
 211. intentis omnibus; ''while all were turning attention to the
 river and the hope" . . .
 219. cautum; ''care was taken that" . . . .
-218. septunces auri; septunx-— 4 of libra, 7 ounces.
+218. septunces auri; septunx-ï¿½ 4 of libra, 7 ounces.
 214. non capit; "cannot endure."
 215. domestici belli ; depend on causa. .
 prohibebant ingredi ; prohibeo and veto are usually constructed
@@ -5327,7 +5226,7 @@ i D
 
 B VOCABULARY
 
-N. B.— Tis does not apply to the Appendix.
+N. B.ï¿½ Tis does not apply to the Appendix.
 2, ab, abs, prep. from, by accurate, adv. carefully
 &bdo, ere, idi, itum, v. Aide &ccurro, ere, curri, cursum, v. unto
 &bduco, ere, xi, ctum, v. lead away | accuso, are, avi, atum, v. accuse
@@ -5339,13 +5238,13 @@ away acerbitas, atis, f. bitterness
 
 Quay acervus, i, m. heap
 abigo, ere, egi, actum, v. drive awaj | acetum, i, n. vinegar
-abripio, ere, ui, eptum, v. dragawa | acies, ei, f£. (1) point, (2) Line of
+abripio, ere, ui, eptum, v. dragawa | acies, ei, fï¿½. (1) point, (2) Line of
 &abscedo, ere, essi, essum, v. depart battle
-&bscido, ere, idi, isum, v. cu£ off | &cquiro, ere, sivi, situm, v. gain
+&bscido, ere, idi, isum, v. cuï¿½ off | &cquiro, ere, sivi, situm, v. gain
 &bscondo, ere, idi, itum, v. hide | acriter, adv. kcenly
 absolvo, ere, vi, utum, v. (1) free | acutus, a, um, adj. sharp
 
-from, (2) acquit ad, prep. £o, near
+from, (2) acquit ad, prep. ï¿½o, near
 absorbeo, ere, bui, ptum, v. swallow | adaequo, are, avi, atum, v. make
 
 ap equal, be equal
@@ -5353,7 +5252,7 @@ abstergeo, ere, rsi, rsum, v. wipe off | &ddico, ere, xi, ctum, v. assign to
 &bstinentia, ae, f. abstinence addo, ere, idi, itum, v. add
 &abstineo, ere, ui, entum, v. abstoin | adduco, ere, xi, ctum, v. draw to
 
-from adedo, ere, edi, esum, v. eat «up
+from adedo, ere, edi, esum, v. eat ï¿½up
 &bsum, esse, fui, v. be absent adeo, adv. so far
 absumo, ere, mpsi, mptum, v. con- | adeo, ire, ivi (ii), itum, v. go to
 
@@ -5368,10 +5267,10 @@ ac, conj. and &dicio, ere, ieci, iectum, v. (1) t/vrow
 approach, (2) be added. adimo, ere, emi, emptum, v. fake
 &ccelero, are, avi, atum, v. hasten| | away
 accendo, ere, di, sum, v. set on fire | adipiscor, i, eptus, v. reach to, get
-&ccido, ere, idi, v. appen aditus, üs, m. approach
+&ccido, ere, idi, v. appen aditus, ï¿½s, m. approach
 accio, ire, ivi, itum, v. fetch &diudico, are, avi, atum, v.adjudge
 accipio, ere, epi, eptum, v. receive | adiungo, ere, xi, ctum, v. Join to
-acclamo, are avi, atum v. shout a£ | adiutor, oris, m. Aelper
+acclamo, are avi, atum v. shout aï¿½ | adiutor, oris, m. Aelper
 accola, ae, c. dweller &adiutrix, icis, f. Aelper n
 
 m d ] P
@@ -5384,21 +5283,21 @@ admire aetas, atis, f. age
 &dmitto, ere, si, ssum, v. (1) admit, | aether, eris, m. upper air
 (2) commit, (3) apply aevum, i, n. length of time
 admodum, adv. eery affabilis, e, adj. polite
-admoneo, ére, ui, itum, v. warn  |affero, afferre, attuli, allatum, v.
-2dmoveo, ére, vi, tum, v. bring to| — bring to
-adolescens, entis, m. young mw |affcio, ere, eci, ectum, v. íreat,
+admoneo, ï¿½re, ui, itum, v. warn  |affero, afferre, attuli, allatum, v.
+2dmoveo, ï¿½re, vi, tum, v. bring to| ï¿½ bring to
+adolescens, entis, m. young mw |affcio, ere, eci, ectum, v. ï¿½reat,
 adolescentulus, i, m. dim. very|  offeci; e.g. cruciatuatlicere, torture
 gowung anam, affirmo, are, avi, atum, v. asseverate
 adorior, iri, ortus, v. olfack affigo, ere, xi, ctum, v. (1) dash
-adoro, are, avi, atum, v. «orship down, (2) damage
+adoro, are, avi, atum, v. ï¿½orship down, (2) damage
 adsto, are, stiti, v. stand by ager, agri, m. land
 adsum, esse, fui, v. 0e present agger, eris, m. enound, earthwork
 adulor, ari, atus, v. flatter aggredior, i gressus, v. (1) go to,
-adumbro, are, avi, atum, v. sketeh| — (2) attack
+adumbro, are, avi, atum, v. sketeh| ï¿½ (2) attack
 adveho, ere, xi, ctum, v. carry (0. | agitator, oris, m. driver
-advenio, ire, ni, ntum, v. comeío | agito, are, avi, atum, v. (1) drive,
-advento, are, avi, atum, v. epproach | — (2) discuss
-adventus, üs, m. coming agmen, inis, n.band, army marching
+advenio, ire, ni, ntum, v. comeï¿½o | agito, are, avi, atum, v. (1) drive,
+advento, are, avi, atum, v. epproach | ï¿½ (2) discuss
+adventus, ï¿½s, m. coming agmen, inis, n.band, army marching
 adversarius, i, m. enemy agnosco, ere, ovi, itum, v. recognise
 adversum, (or us), prep. against | ago, ere, egi,actum,v.(1) dr?ve, lead,
 adversus, a, um, adj. opposite to (2) do, (3) deal with, (4) pay
@@ -5407,10 +5306,10 @@ advesperascit, ere, v. evening comes | agricola, ae, m. Ausbandman
 advoco, are, avi, atum, v. summon | aio, aiebam, v. sag
 aedes, is, f. (1) sing. temple, (2) pl. | ala, ae, f. wing
 house alacer, cris, cre, adj. brisk
-&edificium, i, n. building alacritas, atis, f. brískness d
-.  &edifico, are, avi, atum, v. bwild | albus, a, um, adj. «vite
-aedilis, is, m. aedile, magistrate 1», | alea, ae. f. gambling
-charge of roads, bwildings, etc. alias, adv. a£ another time
+&edificium, i, n. building alacritas, atis, f. brï¿½skness d
+.  &edifico, are, avi, atum, v. bwild | albus, a, um, adj. ï¿½vite
+aedilis, is, m. aedile, magistrate 1ï¿½, | alea, ae. f. gambling
+charge of roads, bwildings, etc. alias, adv. aï¿½ another time
 aeger, ra, rum, adj. sick alicunde, adv. from some place
 aegre, adv. vit), difficulty alienus, a, um, adj. of others; with
 &egroto, are, avi, atum, v. be sick aes, debt
@@ -5420,33 +5319,33 @@ ihe same age aliquantum, aliquanto, adv. some
 aequaliter, adv. equally . athat
 aeque, adv. just as aliquis, aliquid, pron. some
 &equo, are, avi,'atum, v. ke equal | aliquot, adj. some
-aequor, óris, n. (1) marble, (2) sea | aliunde, adv. from another place
+aequor, ï¿½ris, n. (1) marble, (2) sea | aliunde, adv. from another place
 aequus, a, um, adj. equal, just alius, a, ud, adj. other
 aer, aeris, m. oir allabor, i, lapsus, v. glide to
-aerarium, i, n. éreasury allevo, are, avi, atum, v. (1) /ift
+aerarium, i, n. ï¿½reasury allevo, are, avi, atum, v. (1) /ift
 &es, aeris, n. copper, bronze up, (2) tighten
 VOCABULARY 147
-alligo, are, avi, atum, v. ie to annuo,ere, ui, utum,v. «0d to,consent
-alloquor, i, locutus, v. address annus, i, m. year »
-alludo, ere, si, sum, v. dash «upon | annuus, a, um, adj. year
+alligo, are, avi, atum, v. ie to annuo,ere, ui, utum,v. ï¿½0d to,consent
+alloquor, i, locutus, v. address annus, i, m. year ï¿½
+alludo, ere, si, sum, v. dash ï¿½upon | annuus, a, um, adj. year
 alnus, i, f. (1) aider, (2) ship ante, adv. and prep. before
 alo, ere, alui, altum, v. rear antea, adv. before
-alter, era, erum, adj. £/te other (of two) | antepono, ere, sui, situm, v. place
+alter, era, erum, adj. ï¿½/te other (of two) | antepono, ere, sui, situm, v. place
 altitudo, inis, f. height, depth, before
 altus, a, um, adj. Aigh, deep antidotum, i, n. antidote
 alvearium, i, n. bee-hive antiquus, a, um, adj. oid, former
 alveus, i, m. (1) viver-bed, (2) hold | antistes, stitis, m. Aigh-priest j
 
-of a. ship anulus, i, m. víng
-ambages, is, f. (1) winding, (2)| anus, üs, f. old woman
+of a. ship anulus, i, m. vï¿½ng
+ambages, is, f. (1) winding, (2)| anus, ï¿½s, f. old woman
 
 riddle anxius, a, um, adj. anzious
 ambiguus, a, um, adj. doubtful aper, pri, m. boar
 ambo, ae, o, num. bof/, aperio, ire, erui, ertum, v. open
-ambulo, are, avi, atum, v. walk — | aperte, adv. openly
+ambulo, are, avi, atum, v. walk ï¿½ | aperte, adv. openly
 amentia, ae, f. madness apis, is, f. bee
-amicitia, ae, f. friendship apparatus, üs, m. equipment
-&mictus, üs, m. garment appareo, ere, ui, itum, v. be clear
+amicitia, ae, f. friendship apparatus, ï¿½s, m. equipment
+&mictus, ï¿½s, m. garment appareo, ere, ui, itum, v. be clear
 amicus, a, um, adj. friend apparo, are,avi, atum, v.onake read
 amitto, ere, si, ssum, v. 7ose appello, ere, puli, pulsum, v.
 amnis, is, m. viver drive to
@@ -5454,7 +5353,7 @@ amo, are, avi, atum, v. love appello, are, avi, atum, v. call
 amoenitas, atis, f. charm &ppeto, ere, ivi (ii), itum, v. (1) go
 amoenus, a, um, adj. pleasant to, (9) assail, (3) long for
 a&molior, iri, itus, v. remove applico, are, ui, itum, v. (1) fasten,
-amoveo,ére,movi,motum,v.remove| (2) apply
+amoveo,ï¿½re,movi,motum,v.remove| (2) apply
 amphora, ae. f. jar appono, ere, sui, situm, v. (1) put
 amplector, i, xus, v. embrace near, (2) put on table
 amplius, adv. more &pporto, are, avi, atum, v. bring to
@@ -5463,33 +5362,33 @@ an, conj. in alternative question, or| appropinquo, are, avi, atum, v.
 anceps, ipitis, adj. doubtful approach,
 ancilla, ae, f. ma?d-servant apricus, a, um, adj. sunny
 ancora, ae, f. anchor &pto, are, avi, atum, v. ii
-anfractus, üs, m. cwrve aptus, a, um, adj. fi
+anfractus, ï¿½s, m. cwrve aptus, a, um, adj. fi
 ango, ere, xi, ctum, v. vex apud, prep. near, in presence of.
 angustia, ae, f. narrow place aqua, ae, f. water
 angustus, a, um, adj. narrow aquatio, onis, f. getting water
-anhelitus, üs, m. pantíng aquila, ae, f. eagle
-anhelo, are, avi, atum, v. pant aquilo, onis, m. north «ind
+anhelitus, ï¿½s, m. pantï¿½ng aquila, ae, f. eagle
+anhelo, are, avi, atum, v. pant aquilo, onis, m. north ï¿½ind
 anima, ae, f. (1) breath, (2) life ara, ae, f. altar '
 animadverto, ere, ti, sum, v. (1)| aratrum, i, n. plough
 
 eonsider, (2) punish (in with acc.) | arbiter, ri, m. judge
-animal, alis, n. enémal arbitror, ari, atus, v. think
-animatus, a, um, adj. ended arbor, óris, f. íree
+animal, alis, n. enï¿½mal arbitror, ari, atus, v. think
+animatus, a, um, adj. ended arbor, ï¿½ris, f. ï¿½ree
 animus, i, m. (1) mind, (2) purpose, | arca, ae, f. chest
 
 (3) courage arcesso, ere, lvi, itum, v. fetch
-annavigo, are, avi, atum, v. sail (o| arcus, üs, m. bow
+annavigo, are, avi, atum, v. sail (o| arcus, ï¿½s, m. bow
 148 LATIN READER
-B ardeo, ére, si, sum, v. blaze assuesco, ere, evi, etum, v. accustom.
+B ardeo, ï¿½re, si, sum, v. blaze assuesco, ere, evi, etum, v. accustom.
 . arduus, a, um, adj. sfeep assulto, are, avi, atum, v. jump at
 , area, ae, f. (1) open space, (2) thresh- | asSsurgo, ere, surrexi, surrectum,
-| £ng floor v. rise up
+| ï¿½ng floor v. rise up
 P arena, ae, f. (1) sand, (2) scene of | ast, conj. but
 combat astrologus, i, m. astrologer
 arenosus, a, um, adj. sandy astutus, a, um, adj. clever
-argenteus, a, um, adj. of silver at, conj. bu£
+argenteus, a, um, adj. of silver at, conj. buï¿½
 argentum, i, n. silver &ter, ra, rum, adj. back
-argumentum, i, n. proof athleta, ae, m. a£hlete
+argumentum, i, n. proof athleta, ae, m. aï¿½hlete
 arguo, ere, ui, utum, v. (1) prove, | atque, conj. and
 (2) convict atrium, ii, n. lali
 aridus, a, um, adj. dry atrociter, adv. fiercely
@@ -5503,27 +5402,27 @@ armiger, era, erum, adj. (1) armed, | attero, ere, trivi, tritum, v. (1) rub
  arrideo, ere, si, sum, v. smile on  |aettribuo, ere, ui, utum, v. bestow
  arripio, ere, ripui, reptum, v. seize | auceps, cupis, m. birdcatcher
 ars, artis, f. scil, art auctio, onis, f. auction
-artifex, icis, m. artist, eraftsman — | &uctor, oris, m. (1) author, (2) leader
+artifex, icis, m. artist, eraftsman ï¿½ | &uctor, oris, m. (1) author, (2) leader
 artus, a, um, adj. narrow, tight auctoritas, atis, f. authority
-artüs, uum, m. /imbs audacia, ae, f. boldness
+artï¿½s, uum, m. /imbs audacia, ae, f. boldness
 x arundo, inis, f. reed audacter, adv. boldiy
 arvum, i, n. land audax, acis, adj. bold
-arx, arcis, f. séronghold audeo, ere, ausus, v. dare
- ascendo, ere, di, sum, v. go «p audio, ire, ivi, itum, v. hear
-ascensus, üs, m. ascent auditor, oris, m. Zstener
- ascribo, ere, psi, ptum, v. (1) a£tri- | aufero, ferre, abstuli, ablatum, v.
+arx, arcis, f. sï¿½ronghold audeo, ere, ausus, v. dare
+ ascendo, ere, di, sum, v. go ï¿½p audio, ire, ivi, itum, v. hear
+ascensus, ï¿½s, m. ascent auditor, oris, m. Zstener
+ ascribo, ere, psi, ptum, v. (1) aï¿½tri- | aufero, ferre, abstuli, ablatum, v.
 bute, (2) enrol carry away
-asellus, i, m. dim. Ziffle donkey aufugio, ere, fügi, v. flee away
+asellus, i, m. dim. Ziffle donkey aufugio, ere, fï¿½gi, v. flee away
 asina, ae, f. she-ass augur, uris, m. augur
  asinarius, i, m. a5s-driver augurium, ii, n. eugury
 asinus, i, m. ass aula, ae, f. court, hall
-aspectus, üs, m. sight aureus, a, um, adj. golden
+aspectus, ï¿½s, m. sight aureus, a, um, adj. golden
 asper, era, erum, adj. rough aurifer, era, erum, adj. gold-bearing
-&Spicio, ere, exi, ectum, v. look a£ | auriga, ae, m. charioteer
+&Spicio, ere, exi, ectum, v. look aï¿½ | auriga, ae, m. charioteer
 aspis, idis, f. viper auris, is, f. ear
  agporto,are,avi,atum,v.earry aw | aurora, ae, f. dawn
  assentator, oris, m. flatterer aurum, i, n. gold
- assentio, ire, si, sum, v. agree tío | ausculto, are, avi, atum, v. Listen
+ assentio, ire, si, sum, v. agree tï¿½o | ausculto, are, avi, atum, v. Listen
 assevero, are, avi, atum, v. assert | ausum, i, n. daring deed
 strongly autem, conj. bw
 assiduus, a, um, adj. perpetual &auxilium, ii, n. help
@@ -5532,7 +5431,7 @@ assiduus, a, um, adj. perpetual &auxilium, ii, n. help
 | VOCABULARY 149
 aveo, ere, v. be joyful calamitosus, a, um, adj. miserable
 &aveho, ere, exi, ectum, v. carry off | calathus (or iscus), i, m. basket
-averto, ere, ti, sum, v. éurn away | calcar, aris, n. spur
+averto, ere, ti, sum, v. ï¿½urn away | calcar, aris, n. spur
 avide, adv. eagerly calceo, are, avi, atum, v. shoe
 avidus, a, um, adj. eager calceus, i, m. sAoe E
 avis, is, f. bird calefacio, ere, feci, factum, v.
@@ -5549,7 +5448,7 @@ barbarus, a, um, adj. (1) foreign, | calx, calceis, f. heel
 
 (2) ovid. camelus, i, m. comet !
 bello, are, avi, atum, v. make war | campester, tris, tre, adj. of te plain
-bellum, i, n. «ar campus, i, m. plain
+bellum, i, n. ï¿½ar campus, i, m. plain
 belua, ae, f. beast candela, ae, f. candle
 bene, adv. vell candens, entis, adj. shining
 beneficium, ii, n. kindness candidus, a, um, adj. (1) wHite,
@@ -5558,35 +5457,35 @@ benevolus, a, um, adj. &ind caninus, a, um, adj. of the dog
 beo, are, avi, atum, v. bless canis, is, m. dog
 bestia, ae, f. beast cano, ete, cecini, cantum, v. sing
 bibo, ere, bibi, v. drink canto, are, avi, atum, v. sing
-bigae, arum, f. &wo-horse chariot — | cantus, üs, m. song
-bini, ae, a, num. £2v0 each canus, a, um, adj. Aoary
-bis, num. £wice capax, acis, adj. spacious
-blande, adv. soothingly capesso, ere, ivi, itum, v. íake in
+bigae, arum, f. &wo-horse chariot ï¿½ | cantus, ï¿½s, m. song
+bini, ae, a, num. ï¿½2v0 each canus, a, um, adj. Aoary
+bis, num. ï¿½wice capax, acis, adj. spacious
+blande, adv. soothingly capesso, ere, ivi, itum, v. ï¿½ake in
 blandimentum, i, n. ffottery hond
-blanditia, ae, f. flattery | capillus, i, m. Aaíir
-blandus, a, um, adj. soothing capio, ere, cepi, captum, v. éake
+blanditia, ae, f. flattery | capillus, i, m. Aaï¿½ir
+blandus, a, um, adj. soothing capio, ere, cepi, captum, v. ï¿½ake
 bonus, a, um, adj. good capitalis, e, adj. affecting life
 bos, bovis, c. o2, cow capra, ae, f. she-goat
 brachium, ii, n. arm - captio, onis, f. puzzle
 brevis, e, adj. short captivus, i, m. captive 2a
 bubulcus, i, m. ploughman capto, are, avi, atum, v. catch,
-bustum, i, n. £omb caput, itis, n. (1) head, (2) Life
+bustum, i, n. ï¿½omb caput, itis, n. (1) head, (2) Life
 
-carcer, eris, n. príson
+carcer, eris, n. prï¿½son
 
-cacumeh, inis, n. £op careo, ere, ui, itum, v. 0e without
+cacumeh, inis, n. ï¿½op careo, ere, ui, itum, v. 0e without
 cadaver, eris, n. corpse carmen, inis, n. song
 cado, ere, cecidi, casum, v. fall caro, carnis, f. flesh.
 caduceus, i, m. herald's staff carpo, ere, psi, ptum, v. pluck
-caecus, a, um, adj. blind carrus, i, m. «va9gon. B
+caecus, a, um, adj. blind carrus, i, m. ï¿½va9gon. B
 caedes, is, f. slaughter carus, a, um, adj. dear
 caedo, ere, cecidi, caesum, v. (1) cuf, | caseus, i, m. cheese
 
 (2) kill castellum, i, n. fort
 caelum, i, n. heaven castrum, i, n. (1) sing. fort, (2) pl.
 calamitas, atis, f. misfortune camp d ]
-150 ^»A— LATIN READER i » hs
-casus, üs, m. chance, disaster circum, prep. and adv. round
+150 ^ï¿½Aï¿½ LATIN READER i ï¿½ hs
+casus, ï¿½s, m. chance, disaster circum, prep. and adv. round
 catena, ae, f. chain circumdo, dare, dedi, datum, v.
 caterva, ae, f. band put round
 catulus, i, m. puppy circumeo, ire, ivi, circuitum, v.
@@ -5595,61 +5494,61 @@ caupo, onis, m. Znn-keeper circumfero, ferre, tuli, latum, v.
 causa,ae, f. (1) cause, reason, (2) case | | carry round
 ca veo, ere, cavi, cautum, v. beware, | cireumfundo, ere, fudi, fusum, v.
 shun our round
-cavillatio, onis, f. banter circumiaceo, ére, ui, v. /ie round
-cavillator, oris, m. one who banters | cireumsedeo, ére, edi, essum, v.
+cavillatio, onis, f. banter circumiaceo, ï¿½re, ui, v. /ie round
+cavillator, oris, m. one who banters | cireumsedeo, ï¿½re, edi, essum, v.
 cavillor, ari, atus, v. banter sit round
 cedo, ere, cessi, cessum, v. (1) go|circumspicio, ere, exi, ectum, v.
 aaa, (2) yield look round
-celeber, bris, bre, adj. (1) populous, | cireumsto, are, steti, v. síand
+celeber, bris, bre, adj. (1) populous, | cireumsto, are, steti, v. sï¿½and
 (2) famous round
 celebro, are, avi, atum, v. (1) /7e- | circus, i, m. (1) circle, (2) race-course
 quent, (2) celebrate citatus, a, um, adj. rapid
 celer, eris, e, adj. swift cito, adv. quickly
 celeritas, atis, f. swiftness citro, adv. Aither
 celeriter, adv. swifily civilis, e, adj. pertaining to, be-
-celo, are, avi, atum, v. conceal Jütting a. citizen, civil
+celo, are, avi, atum, v. conceal Jï¿½tting a. citizen, civil
 cena, ae, f. supper civis, is, c. citizen
 ceno, are, avi, atum, v. Sup civitas, atis, f. (1) citizenship, (2)
-censeo, ére, ui, censum, v. (1)| state
+censeo, ï¿½re, ui, censum, v. (1)| state
 reckon, (2) think, (3) vote clades, is, f. disoster
-centies, num. Áundred times clam, adv. secretly
-- centum, num. Áundred clamo, are, avi, atum, v. shou
+centies, num. ï¿½undred times clam, adv. secretly
+- centum, num. ï¿½undred clamo, are, avi, atum, v. shou
 cera, ae, f. (1) sing. wax, (2) pl. | clamor, oris, m. shout
 tablets clarus, a, um, adj. bright, clear
-cerno, ere, crevi, cretum, v. see classiarius, i, m. «narine
-certamen, inis, n. contest classicum, i, n. érwnmpct
+cerno, ere, crevi, cretum, v. see classiarius, i, m. ï¿½narine
+certamen, inis, n. contest classicum, i, n. ï¿½rwnmpct
 certiorem facio, v. inform classis, is, f. fleet
-certo, certe, adv. assuredly claudo, ere, si, sum, v. shut. — —
-certo, are, avi, atum, v. sírive claudus, a, um, adj. /eme
-certus, a, um, adj. certain, fixed — | claustrum, i, n. barrier
+certo, certe, adv. assuredly claudo, ere, si, sum, v. shut. ï¿½ ï¿½
+certo, are, avi, atum, v. sï¿½rive claudus, a, um, adj. /eme
+certus, a, um, adj. certain, fixed ï¿½ | claustrum, i, n. barrier
 cervix, 1cis, f. neck clementer, adv. kindly
-cervus, i, m. síag clipeus, i, m. shield
+cervus, i, m. sï¿½ag clipeus, i, m. shield
 cesso, are, avi, atum, v. (1) Joder, | clivus, i, m. slope
 (2) cease coccinus, a, um, adj. scarlet
 ceterus, a, um, adj. /Ae rest coenum, i, n. ?vud,
 cibus, i, m. food | coepi, isse, v. begin
-cicada, ae, f. tree-cricket coerceo, ere, ui, itum, v. vesíroin
-cilium, ii, n. eyelid coetus, üs, m. «meeting
+cicada, ae, f. tree-cricket coerceo, ere, ui, itum, v. vesï¿½roin
+cilium, ii, n. eyelid coetus, ï¿½s, m. ï¿½meeting
 cinis, eris, m. ashes cogitatio, onis, f. thinking
 cingo, ere, nxi, nctum, v. surround | cogito, are, avi, atum, v. think
 circa, prep. zou cognatus, a, um, adj. related
 circiter, adv. Ld cognomen, inis, n. surname: v.
-circulus, i, m. circle n. on 34 -—
+circulus, i, m. circle n. on 34 -ï¿½
 b. d .
-Ep VOCABULARY  — 15
-cognosoo, ere, ovi, itum, v. learn» | comparo, are, avi, atum, v. (1)
+Ep VOCABULARY  ï¿½ 15
+cognosoo, ere, ovi, itum, v. learnï¿½ | comparo, are, avi, atum, v. (1)
 cogo, ere, coegi, coactum, v. (1) unite, (2) compare
 
 collect, (2) compel comparo, are, avi, atum, v. (1) get
-cohaereo, ére, si, sum, v. stick to readaj, (2) procure
+cohaereo, ï¿½re, si, sum, v. stick to readaj, (2) procure
 cohors, rtis, f. compony, about 3800 | compello, ere, puli, pulsum, v.
 men (1) collect, (2) force
 cohortatio, onis, f. encowragement | comperio, ire, i, tum, v. find
 cohortor, ari, atus, v. encourage compes, edis, f. fetter
 collabeflo, fieri, factus, v. totter complector, i, exus, v. embrace
 collaudo, are, avi, atum, v. praise | compleo, ere, evi, etum, v. fil] wp
-collega, ae, m. colleague complexus, üs, m. embracing
-colligo, are, avi, atum, v. £e together | complures, ium, adj. several
+collega, ae, m. colleague complexus, ï¿½s, m. embracing
+colligo, are, avi, atum, v. ï¿½e together | complures, ium, adj. several
 colligo, ere, egi, ectum, v. collec&. | compono, ere, sui, situm, v. (1)
 collis, is, m. Ail arrange ,(2) compose, (3) settle
 colloco, are, avi, atum, v. (l)|compotor, oris, m. drinking com-
@@ -5658,9 +5557,9 @@ colloquium, ii, n. conversation comprehendo, ere, di, sum, v. seize
 colloquor, i, locutus, v. (ali together | concedo, ere, essi, essum, v. (1) give
 collum, i, n. 2eck up, grant, jield, (2) withdraw
 colo, ere, ui, cultum, v. (1) cu/ti- | concerpo, ere, ptus, v. pluck
-vate, (2) worship concído, ere, idi, v. fall
-color, oris, m. colour concido, ere, idi, isum, v. cu£ up
-columna, ae, f. columm concilio, are, avi, atum, v. (1) «vin
+vate, (2) worship concï¿½do, ere, idi, v. fall
+color, oris, m. colour concido, ere, idi, isum, v. cuï¿½ up
+columna, ae, f. columm concilio, are, avi, atum, v. (1) ï¿½vin
 coma, ae, f. (1) Aor, (2) foliage over, (2) arrange
 combibo, ere, bibi, v. drink up concilium, ii, n. council
 comedo, ere, edi, esum, v. devour |concipio, ere, cepi, ceptum, v. 7e-
@@ -5672,12 +5571,12 @@ commendo, are, avi, atum, v. (1) | conclave, is, n. hall
 entrust, (2) recommend concludo, ere, si,sum, v.confine, end,
 commilito, onis, m. fel/ow-soldier |concurro, ere, curri, cursum, v.
 commisceo, ere, scui, xtum, v.| "wn together
-mingle concursus, üs, m. assembly
+mingle concursus, ï¿½s, m. assembly
 committo, ere, si, ssum, v. (1)|concutio, ere, cussi, cussum, v. shake
 anite, (2) commit, (3) entrust condemno, are, avi, atum, v. con-
 commodus, a, um, adj. suitable demn
-commoveo, ére, movi, motum, v. | condicio, onis, f. (1) situation, (2)
-(1). remove, (2) disturb, (3) stir up| — terms
+commoveo, ï¿½re, movi, motum, v. | condicio, onis, f. (1) situation, (2)
+(1). remove, (2) disturb, (3) stir up| ï¿½ terms
 communico, are, avi , atum, v.|condono, are, avi, atum, v. (1l)
 dimpart give, (2) forgive
 communis, e, adj. shared. together, | conduco, ere, xi, etum, v. (1)
@@ -5688,17 +5587,17 @@ como, ere, psi, ptum, v. (1) arrange, | confero, ferre, tuli, collatum, v.
 (2) adorq (1) bring together, (2) betake, (3)
 comoedus, i, m. comedian compare, (4) bestow
 CO "
-ad '-— o
-152 | LATIN READER —
+ad '-ï¿½ o
+152 | LATIN READER ï¿½
 
-confestim, adv. a£ once consisto, ere, stiti, stitum, v. (1)
+confestim, adv. aï¿½ once consisto, ere, stiti, stitum, v. (1)
 
 conficio, ere, eci, ectum, v. (1)| stand, (2) be posted, (3) consist of.
-Jinish, (2) get. together, (3) destroy | consocio, are, avi, atum, v. «nite
+Jinish, (2) get. together, (3) destroy | consocio, are, avi, atum, v. ï¿½nite
 
-confido, ere, fisus, v. rust to conspectus, üs, m. sigh
+confido, ere, fisus, v. rust to conspectus, ï¿½s, m. sigh
 
-configo, ere, xi, xum, v. (1) iz (iíght, | conspergo, ere, si, sum, v. sprinkle
+configo, ere, xi, xum, v. (1) iz (iï¿½ght, | conspergo, ere, si, sum, v. sprinkle
 (2) pierce conspicio, ere, exi, ectum, v. behold,
 
 confirmo, are, avi, atum, v.|conspicor, ari, atus, v. catch sight of
@@ -5710,14 +5609,14 @@ confligo, ere, xi, ctum, v. struggle (2) halt, (3) settle, determine
 
 confluo, ere, xi, v. flow together consto, are, stiti, statum, v. (1)
 
-confodio, ere, di, ssum, (1) dig, (2)| — stand. firm, (2) cost ; (3) constat,
+confodio, ere, di, ssum, (1) dig, (2)| ï¿½ stand. firm, (2) cost ; (3) constat,
 stab 4t is agreed
 
-conformo, are, avi, atum, v. fashion | constringo, ere, nxi, ictum, v. £ie
+conformo, are, avi, atum, v. fashion | constringo, ere, nxi, ictum, v. ï¿½ie
 
 confugio, ere, fugi, v. lee to tight
 
-confundo, ere, fudi, fusum, v.|construo, ere, xi, ctum, v. puí
+confundo, ere, fudi, fusum, v.|construo, ere, xi, ctum, v. puï¿½
 pour together, confuse together
 
 congero, ere, gessi, gestum, v.|consuesco, ere, evi, etum, v. be
@@ -5733,14 +5632,14 @@ coniugium, ii, n. marriage consul
 
 coniunctio, onis, f. connection consulo, ere, ui, ultum, v. (1) con-
 
-coniungo, ere, nxi, notum, v. connect | — sult, (2) consult for
+coniungo, ere, nxi, notum, v. connect | ï¿½ sult, (2) consult for
 
 coniuro, are, avi, atum, v. wnite| consulto, are, avi, atum, v. (ake
 under oath, counsel
 
 ." coniux, ugis, c.'spouse, wife consultum, i, n. decision
 
-conor, ari, atus, v. éry consummo, are, avi, atum, v. finish,
+conor, ari, atus, v. ï¿½ry consummo, are, avi, atum, v. finish,
 
 conqueror, i, questus, v. complain | consumo, ere, psi, ptum, v. vaste,
 
@@ -5758,7 +5657,7 @@ crate contemplor, ari, atus, v. consider
 consequor, i, secutus, v. pursue, contendo, ere, di, tum, v. (1)
 overtake, get strain, (2) hasten, (3) fight, (4) urge
 
-conservo, are, avi, atum, v. pre- | contentio, onis, f. sératning, struggle
+conservo, are, avi, atum, v. pre- | contentio, onis, f. sï¿½ratning, struggle
 serve contentus, a, um, adj. content
 
 consessor, oris, m. siffing near contestor, ari, atus, v. cali fo
@@ -5766,7 +5665,7 @@ consessor, oris, m. siffing near contestor, ari, atus, v. cali fo
 considero, are, avi, atum, v. con- witness ; see n. on 119
 template continens, tis, f. mainland
 
-consido, ere, sedi, sessum, v. sií| contineo, ere, ui, tentum, v. con-
+consido, ere, sedi, sessum, v. siï¿½| contineo, ere, ui, tentum, v. con-
 down, settle | tain, keep in
 
 consilium, ii, n. (1) plan, (2) judg- | contingo, ere, tigi, tactum, (1)
@@ -5777,7 +5676,7 @@ VOCABULARY " 153
 ; .
 continuus, a, um, adj. continuous | corvus, i, m. raven
 contio, onis, f. assembly cothurnus, ij m. buskin worn by
-contra, adv. and prep. agaínst, actors
+contra, adv. and prep. agaï¿½nst, actors
 opposite crates, is, f. hwurdle
 contraho, ere, xi, ctum, v. drew | creber, bra, brum, adj. frequent
 together crebresco, ere, brui, v. become
@@ -5785,52 +5684,52 @@ contrarie, adv. in opposite direction | | frequent
 contrarius, a, um, adj. opposite credo, ere, didi, ditum, v. (1) be-
 contrecto, are, avi atum, v. lieve, (2) entrust ;
 hondle cremo, are, avi, atum, v. burn
-controversia, ae, f. dispute crepundia, orum, n. va£tle
-contueor, eri, uitus, v. look a£ crepusculum, i, n. £wilight
-contumelia, ae, f. insult cresco, ere, crevi, cretum, v. ón-
-contumeliosus,a,um,adj.ónsw/ting | | crease
+controversia, ae, f. dispute crepundia, orum, n. vaï¿½tle
+contueor, eri, uitus, v. look aï¿½ crepusculum, i, n. ï¿½wilight
+contumelia, ae, f. insult cresco, ere, crevi, cretum, v. ï¿½n-
+contumeliosus,a,um,adj.ï¿½nsw/ting | | crease
 conturbo, are, avi, atum, v. disturb | crimen, inis, n. charge, crime
 convalesco, ere, ui, v. get better criminatio, onis, f. accusation m
 conveho, ere, xi, ctum, v. bring |criminor, ari, atus, v. accuse
 together crinis, is, m. Aair .
 convello, ere, velli, vulsum, v. | crocodilus, i, m. crocodile
-tear away cruciatus, üs, m. forture
+tear away cruciatus, ï¿½s, m. forture
 convenio, ire, veni, ventum, v. (1) | crucio, are, avi, atum, v. torture
 come together, (2) agree crudelis, e, adj. cruel
-conventus, üs, m. assembly crudelitas, atis, f. cruelty
+conventus, ï¿½s, m. assembly crudelitas, atis, f. cruelty
 converto, ere, tij sum, v. (urn,| cruentus, a, um, adj. bloody
 wheel cruor, oris, m. gore
 convicium, ii, n. abuse crus, cruris, n. /eg ]
 conviva, ae, c. guest crux, crucis, f. cross
 convivium, i, n. feast crypta, ae, f. vault
-convoco, are, avi atum, v. cali | cubicularis, e, adj. of «& bed
+convoco, are, avi atum, v. cali | cubicularis, e, adj. of ï¿½& bed
 togelher cubiculum, i, n. bedroom
-coorior, iri, ortus, v. ríse «p culcita, ae, f. pillow
+coorior, iri, ortus, v. rï¿½se ï¿½p culcita, ae, f. pillow
 copia, ae, f. (1) sing. plenty, oppor- | culeus, i, m. bag
 tunity ; (2) pl. forces culpa, ae, f. fault
 copiosus, a, um, adj. plentiful cultor, oris, m. &fer
-cor, cordis, n. heart cultus, üs, m. (1) cultivation (2)
+cor, cordis, n. heart cultus, ï¿½s, m. (1) cultivation (2)
 coram, adv. and prep. en presence of | | worship, (3) dress
-cornix, icis, f. crow cum, prep. éogether with,
-cornu, üs, n. (1) Aorn, (2) wing cum (quum), conj. when, since
+cornix, icis, f. crow cum, prep. ï¿½ogether with,
+cornu, ï¿½s, n. (1) Aorn, (2) wing cum (quum), conj. when, since
 corona, ae, f. garland ; sub corona | cunctor, ari, atus, v. delay
 vendere, se// by auction (with| cunctus, a, um, adj. a4
 chaplet on the head) cuniculus, i, m. mine
 corpus, oris, n. body cupediae, arum, f. delicacies
 corrigo, ere, rexi, rectum, v. correct | cupide, adv. greedily
 corripio, ere, ripui, reptum, v. (1) | cupiditas, atis, f. desire
-seize, (2) blame cupidus, a, um, adj. desiríng
+seize, (2) blame cupidus, a, um, adj. desirï¿½ng
 corrumpo, ere, rupi, ruptum, v. | cupio, ere, ivi, itum, v. desire
 (1) spoil, (2) bribe cur, adv. why
 corruo, ere, ui, v. fall down cura, ae, f. (1) care, (2) charge
-I cortex, Ícis, m. and f. bark, cork curia, ae, f. senate-housec
-20a» » LATIN READER mE " '
+I cortex, ï¿½cis, m. and f. bark, cork curia, ae, f. senate-housec
+20aï¿½ ï¿½ LATIN READER mE " '
 curiosus, a, um, adj. (1) careful, | defetigo, are, avi, atum, v. tire out
-(2) curious defetiscor, i, fessus, v. £o be faint
-curo, are, avi, atum, v. /ake care — | deficio, ere, feci, fectum, v. (1) fail,
-curro, ere, ecucurri, cursum, v. run| — leave, (2) be eclipsed
-currus, üs, m. chariot defigo, ere, xi, xum, v. faster down
-cursus, üs, m. (1) course, (2) running | definio, ire, ivi, itum, v. mark out
+(2) curious defetiscor, i, fessus, v. ï¿½o be faint
+curo, are, avi, atum, v. /ake care ï¿½ | deficio, ere, feci, fectum, v. (1) fail,
+curro, ere, ecucurri, cursum, v. run| ï¿½ leave, (2) be eclipsed
+currus, ï¿½s, m. chariot defigo, ere, xi, xum, v. faster down
+cursus, ï¿½s, m. (1) course, (2) running | definio, ire, ivi, itum, v. mark out
 cuspis, idis, f. spike deflecto, ere, xi, xum, v. bend.
 custodia, ae, f. ?atch. defluo, ere, xi, xum, v. flow down
 custodio, ire, ivi, itum, v. guard. | deformitas, atis, f. wugliness
@@ -5844,36 +5743,36 @@ de, prep. (1) down from, (2) about | dein, adv. then
 debeo, ere, ui, itum, v. (1) owe, | deinceps, adv. Zn turn
 (2) ought deinde, adv. Aen
 debilis, e, adj. ?reak delabor, i, lapsus, v. glide down
-debilito, are, avi, atum, v. «veaken | delecto, are, avi, atum, v. delight
+debilito, are, avi, atum, v. ï¿½veaken | delecto, are, avi, atum, v. delight
 decedo, ere, cessi, cessum, v. aritA- | delictum, i, n. fault
 draw, resign deligo, ere, legi, lectum, v. cAoose
-decem, num. £e delitesco, ere, litui, v. /ie hid
-decenter, adv. fitly deludo, ere, si, sum, v. «mock
+decem, num. ï¿½e delitesco, ere, litui, v. /ie hid
+decenter, adv. fitly deludo, ere, si, sum, v. ï¿½mock
 decerno, ere, crevi, cretum, v. | dementia, ae, f. madness
 (1) decide, (2) decree, (3) fight demergo, ere, si, sum, v. sink
-: decet, ere, uit, v. i£ befits demitto, ere, si, ssum, v. send
+: decet, ere, uit, v. iï¿½ befits demitto, ere, si, ssum, v. send
 decido, ere, idi, v. fall down down, lower
-decido, ere, idi, isum, v. cu off demo, ere, mpsi, mptum, v. íake
+decido, ere, idi, isum, v. cu off demo, ere, mpsi, mptum, v. ï¿½ake
 decimus, a, um, adj. tenth away
 decipio, ere, cepi, ceptum, v. deceive | demonstratio, onis, f. demonstra-
 declaro, are, avi, atum, v. reveal, tion
 publish demonstro, are, avi, atum, v. show
 declivis, e, adj. s/oping down demordeo, ere, sum, v. bite
-decoquo, ere, xi, etum, v. boil|demulceo, ére, si, sum, v. sroke,
+decoquo, ere, xi, etum, v. boil|demulceo, ï¿½re, si, sum, v. sroke,
 down soothe
-decurro, ere, curri, cursum, v. wn | demum, adv. a£ lengt,
+decurro, ere, curri, cursum, v. wn | demum, adv. aï¿½ lengt,
 down denarius, iij m. denarius (about
 decutio, ere, cussi, cussum, v. 9d.)
 shake down denarro, are, avi, atum, v. velate
 dedico, are, avi, atum, v. dedicate | deni, ae, a, num. len each
-dedisco, ere, didici, v. undearn denique, adv. a£ length, lastly
-deditio, onis, f. surrender dens, tis, m. £oot/,
+dedisco, ere, didici, v. undearn denique, adv. aï¿½ length, lastly
+deditio, onis, f. surrender dens, tis, m. ï¿½oot/,
 dedo, ere, didi, ditum, v. give vp | densus, a, um, adj. erowded, thick
 deduoco, ere, xi, ctum, v. (1) con- | denudo, are, avi, atum, v. /ay bare
 duct, (2) withdraw, (3) compose | denuntio, are, avi, atum, v. an-
 defendo, ere, di, sum, v. defend mownce
 defero, ferre, tuli; latum, v. (1)|depello, are, puli, pulsum, v.
-» bring down, (2) report, (3) offer drive off "en
+ï¿½ bring down, (2) report, (3) offer drive off "en
 VOCABULARY . 155
 deperditus, a, um, adj. ruined. devexus, a, um, adj. s/oping
 depereo, ire, ii, v. peris devincio, ere, xi, vinctum, v. bind
@@ -5885,9 +5784,9 @@ depopulor, ari, atus, v. ravage devius, a, um, adj. ou? of the way
 deprecor, ari, atus, v. (1) besecch, | devoro, are, avi, atum, v. devour
 (2) pray against devoveo, ere, vovi, votum, v. devote
 derelinquo, ere, liqui, lictum, v. | dexter, tra, trum, adj. rigAt
-abondon dicax, acis, adj. «vitty
+abondon dicax, acis, adj. ï¿½vitty
 descendo, ere, di, sum, v. go down | dico, ere, xi, ctum, v. saj
-descisco, ere, ivi, itum, v. revoló |dictito, are, avi, atum, v. assert
+descisco, ere, ivi, itum, v. revolï¿½ |dictito, are, avi, atum, v. assert
 describo, ere, psi, ptum, v. (1)| often
 describe, (2) assign. dicto, are, avi, atum, v. soy often
 desero, ere, rui, rtum, v. desert dies, ei, m. and f. (pl. m.) day
@@ -5895,7 +5794,7 @@ desertum, i, n. desert differo, ferre, distuli, dilatum, v.
 desiderium, ii, n. regret (1) scatter, (2) put off, (3) differ
 desilio, ire, silui, sultum, v. /eap | difficilis, e, adj. diffiewlt
 down difficultas, atis, f. difficulty
-desino, ere, sii, situm, v. séop diffidentia, ae, f. mistrust
+desino, ere, sii, situm, v. sï¿½op diffidentia, ae, f. mistrust
 desipiens, tis, adj. foolish diffundo, ere, fudi, fusum, v. pour
 desisto, ere, stiti, stitum, v. Jeave| m different ways
 off digitus, i, m. finger
@@ -5912,9 +5811,9 @@ detergeo, ere, si, sum, v. w'pe off | diligentia, ae, f. diligence
 deterior, us, adj. worse diligo, ere, exi, ectum, v. Love
 detero, ere, trivi, tritum, v. rub | diluvium, ii, n. food
 Geterreo, ere, ui, itum, v. frighten | dimicatio, onis, f. fight
-detineo, ére, ui, entum, v. keep | dimico, are, avi, atum, v. fight
+detineo, ï¿½re, ui, entum, v. keep | dimico, are, avi, atum, v. fight
 back dimidius, a, um, adj. Ao/f.
-detraho, ere, xi, ctum, v. í(ake|diminuo (and deminuo), ere, ui,
+detraho, ere, xi, ctum, v. ï¿½(ake|diminuo (and deminuo), ere, ui,
 away utum, v. Zessen
 detrecto, are, avi, atum, v. refuse | dimitto, ere, si, ssum, v. send QWay,
 detrimentum, i, n. /oss, harm let go
@@ -5922,12 +5821,12 @@ detrunco, are, avi, atum, v.|directus, a, um, adj. straight
 muutilate dirigo, ere, rexi, rectum, v. direct
 deturbo, are, avi, atum, v. crust! dirimo, ere, emi, emptum, v. (1)
 down break, destroy, (2) divide
-deus, i, m. « god diripio, ere, ui, eptum, v. ravage
+deus, i, m. ï¿½ god diripio, ere, ui, eptum, v. ravage
 devenio, ire, veni, v. come down diruo, ere, ui, utum, v. destroy
 | deverto, ere, ti, sum, v. lodge at. | dirus, a, um, adj. terrible
 156 LATIN READER - |
 discedo, ere, essi, essum, v. depart| diversus, a, um, adj. different,
-discepto, are, avi, atum, v. díscuss| | aport
+discepto, are, avi, atum, v. dï¿½scuss| | aport
 discerno, ere, crevi, cretum, v.| dives, itis, adj. ric
 
 Separate divido, ere, si, sum, v. divide
@@ -5936,7 +5835,7 @@ discindo, ere, idi, issum, v. separate, | divinitus, adv. luckily
 divide divinus, a, um, adj. divine
 disciplina, ae, f. (raining divitiae, arum, f. riches
 discipulus, i, m. pupil do, dare, dedi, datum, v. give
-disco, ere, didici, v. learn doceo, ere, docui, doctum, v. £each
+disco, ere, didici, v. learn doceo, ere, docui, doctum, v. ï¿½each
 discordia, ae, f. discord doctrina, ae, f. teaching, learning
 discrepo, are, avi, atum, v. disagree | documentum, i, n. proof.
 discrimen, inis, n. (1) difference, | dolium, ii, n. cask ]
@@ -5948,90 +5847,90 @@ lie down dolus, i, m. craft, artifice
 discurro, ere, curri cursum, v.| domesticus, a, um, adj. of one's
 
 cwn about household, of one's country
-discutio, ere, cussi, cussum,v. sha£ter | domina, ae, f. «nistress
+discutio, ere, cussi, cussum,v. shaï¿½ter | domina, ae, f. ï¿½nistress
 disicio, ere, ieci, iectum, v. disperse | dominatio, onis, f. dominion
-dispertio, ire, ivi, itum, v. dósiri- | dominor, ari, atus, v. rule
+dispertio, ire, ivi, itum, v. dï¿½siri- | dominor, ari, atus, v. rule
 
 bute dominus, i, m. znaster
-displiceo, ére, ui, itum, v. displease | domo, are, ui, itum, v. subdue
-dispono, ere, sui, situm, v. arrange | domus, üs, f. house, home
-disrumpo (dir.), ere, rupi, ruptum, | donec, conj. «while, until
+displiceo, ï¿½re, ui, itum, v. displease | domo, are, ui, itum, v. subdue
+dispono, ere, sui, situm, v. arrange | domus, ï¿½s, f. house, home
+disrumpo (dir.), ere, rupi, ruptum, | donec, conj. ï¿½while, until
 
 v. break dw pieces dono, are, avi, atum, v. give
-dissideo, ére, sedi, sessum, v. dis- | donum, i, n. gift
+dissideo, ï¿½re, sedi, sessum, v. dis- | donum, i, n. gift
 
 agree dormio, ire, ivi, itum, v. sleep
 
 ^ dissimilis, e, adj. nZike drachma, ae, f. drachina (about 9d.)
 
 dissimulo, are, avi, atum, v. conceal | dubito, are, avi, atum, v. doubt,
-dissolvo, ere, i utum, v. (1) break | — hesitate
+dissolvo, ere, i utum, v. (1) break | ï¿½ hesitate
 
 up, (2) pay dubius, a, um, adj. doubtful
-dissolutus, a, um, adj. careless ducenties, num. £wo hundred times
+dissolutus, a, um, adj. careless ducenties, num. ï¿½wo hundred times
 dissuadeo, ere, si, sum, v. dissuade | duco, ere, xi, ctum, v.(1) ead, spend,
 distendo, ere, di, tum, v. stretch (2) think, (3) prolong, (4) marry
-distineo, ére, tinuij tentum, v. | dulcedo, inis, f. sweetness
+distineo, ï¿½re, tinuij tentum, v. | dulcedo, inis, f. sweetness
 
 keep apart dulcis, e, adj. sweet
 distinguo, ere, nxi, nctum, v. dis- | dum, conj. while, until
 
 tinguish dummodo, conj. so long as, pro-
 disto, are, v. be distant, different vided, that
-distraho, ere, xi, ctum, v. push | duo, ae, o, num. £wo
+distraho, ere, xi, ctum, v. push | duo, ae, o, num. ï¿½wo
 
 apart duodecim, num. /welve
-distribuo, ere, ui, utum, v. dísiri- | duplex, icis, adj. double
+distribuo, ere, ui, utum, v. dï¿½siri- | duplex, icis, adj. double
 
 bute duplico, are, avi, atum, v. double
 disturbo, are, avi, atum, v. disturb | dux, ducis, m. Zeader
 ditio, onis, f. sway
-diu, adv. for a long time e, ex, prep. ou£ of, according to m
+diu, adv. for a long time e, ex, prep. ouï¿½ of, according to m
 diurnus, a, um, adj. daily ebibo, ere, bi, bitum, v. drain
 diuturnitas, atis, f. length of time | ebrius, a, um, adj. drunk
 diuturnus, a, um, adj. /asting ecce, interj. behold ! (
-—— —
+ï¿½ï¿½ ï¿½
 
 '" .J VOCABULARY 157
 ecquis, ecquid, pron. onjone ? emollio, ire, ivi, itum, v. soften
 edepol, interj. by Pollux ! en, interj. behold !
 edictum, i, n. edict enarro, are, avi, atum, v. explain
 edico, ere, xi, ctum, v. decree enato, are, avi, atum, v. swim out
-edo, ere, edidi, editum, v. géve forth, | enim, conj. for
+edo, ere, edidi, editum, v. gï¿½ve forth, | enim, conj. for
 
 publish ensis, is, m. sword
 edo, ere, edi, esum, v. ea enuntio, are, avi, atum, v. declare
 edoceo, ere, cui, ctum, v. instruct. | eo, adv. thither, so far
-edüco, are, avi, atum, v. (1) edu- | eo, ire, ivi (ii), itum, v. go
+edï¿½co, are, avi, atum, v. (1) edu- | eo, ire, ivi (ii), itum, v. go
 
-cate, (2) produce eodem, adv. £o (Ae same place
-edüco, ere, xi, ctum, v. lead out ephorus, i, m. Spartan magistrate
+cate, (2) produce eodem, adv. ï¿½o (Ae same place
+edï¿½co, ere, xi, ctum, v. lead out ephorus, i, m. Spartan magistrate
 effero, efferre, extuli, elatum, v. | epistola, ae, f. [effer
 
 lead, forth, raise epulae, arum, f. feast
 efficio, ere, feci, fectum, v. bring | epulor, ari, atus, v. feast
 
 about eques, itis, m. horsemaen, knight
-effigies, el, f. shape, àmage equidem, adv. iruly
-efflo, are, avi, atum, v. blow out equitatus, üs, m. covalry
+effigies, el, f. shape, ï¿½mage equidem, adv. iruly
+efflo, are, avi, atum, v. blow out equitatus, ï¿½s, m. covalry
 effluo, ere, xi, xum, v. /low forth | equito, are, avi, atum, v. ride m
 effodio, ere, fodi, fossum, v. dig up | equus, i, m. horse
-effrenatus, a, um, adj. wnbridled | erga, prep. towards á
-effugio, ere, fügi, v. Jfee forth, | ergo, adv. therefore
+effrenatus, a, um, adj. wnbridled | erga, prep. towards ï¿½
+effugio, ere, fï¿½gi, v. Jfee forth, | ergo, adv. therefore
 
 escape erigo, ere, exi, ectum, v. sef up
-effulgeo, ere, si, v. shine forth eripio, ere, ui, eptum, v. snaích
+effulgeo, ere, si, v. shine forth eripio, ere, ui, eptum, v. snaï¿½ch
 effundo, ere, fudi, fusum, v. pour| away
 
-forth, erro, are, avi, atum, v. «wender
+forth, erro, are, avi, atum, v. ï¿½wender
 effuse, adv. levishly error, oris, m. wandering, mistake
 egero, ere, gessi, gestum, v. carry | erumpo, ere, rupi, ruptum, v.
 
 out break forth,
-ego, pron. I eruo, ere, ui, utum, v. péuck out
+ego, pron. I eruo, ere, ui, utum, v. pï¿½uck out
 egredior, i, essus, v. go out eruptio, onis, f. sally
 egregius, a, um, adj. excellent esca, ae, f. food,
-egressus, üs, m. going out essedarius, i, m. fighter 4n chariot
+egressus, ï¿½s, m. going out essedarius, i, m. fighter 4n chariot
 eicio, ere, ieci, iectum, v. tow out | essedum, i, n. wr chariot of
 elabor, i, lapsus, v. glide out Gawls and, Britons
 elaboro, are, avi atum, v. work |esurio, ire, itum, v. be hungry
@@ -6042,52 +5941,52 @@ elephas, antis and anti, m. ele-|etsi, conj. a/though.
 
 phant evado, ere, si, sum, v. (1) go out,
 eligo, ere, egi, ectum, v. choose out (2) happen
-eloco, are, avi, atum, v. /eé out evanesco, ere, ui, v. disappear
-eloquens, tis, adj. eloquent evello, ere, velli, vulsum, v. £ear out
+eloco, are, avi, atum, v. /eï¿½ out evanesco, ere, ui, v. disappear
+eloquens, tis, adj. eloquent evello, ere, velli, vulsum, v. ï¿½ear out
 eloquentia, ae, f. eloguence evenio, ire, veni, ventum, v. come
 eludo, ere, si, sum, v. (1) delude, off, happen !
 
-elude, (2) mock eventus, üs, m. result
+elude, (2) mock eventus, ï¿½s, m. result
 emendo, are avi, atum, v. /m-|everto, ere, ti sum, v. overturm,
 
 prove Twin
 emitto, ere, si, ssum, v. send out. |evinco, ere, vici, victum, v. van-
-emo, ere, emi, emptum, v. óuy quis, m P
+emo, ere, emi, emptum, v. ï¿½uy quis, m P
 158 " LATIN READER M - "
-evito, are, avi, atum, v. avoid exitus, üs, m. (1) end, (2) outlet,
+evito, are, avi, atum, v. avoid exitus, ï¿½s, m. (1) end, (2) outlet,
 evolo, are, avi, atum, v. f/y away (3) death,
-evomo, ere, ui, itum, pour fort — | exordior, iri, orsus, v. begin
-exaequo, are, avi, atum, v. «oke | exorior, iri, ortus, v. aríse
+evomo, ere, ui, itum, pour fort ï¿½ | exordior, iri, orsus, v. begin
+exaequo, are, avi, atum, v. ï¿½oke | exorior, iri, ortus, v. arï¿½se
 equal expavesco, ere, pavi, v. /fear
 exanimo, are, avi, atum, v. kill greatly
-exaspero, are, avi, atum, v. ór/:- | expedio, ire, ivi, itum, v. (1) se£ free,
+exaspero, are, avi, atum, v. ï¿½r/:- | expedio, ire, ivi, itum, v. (1) seï¿½ free,
 tate (2) arrange; (3) expedit, it s use-
 exaudio, ire, ivi, itum, v. /isten ful
 excedo, ere, cessi cessum, v. go | expeditio, onis, f. campaign
 out expello, ere, puli, pulsum, v. drive
 excellens, tis, adj. excellent out
 excello, ere, cellui, celsum, v. sur- | expergiscor, i, perrectus, v. awake
-pass experior, iri, pertus, v. £ry
+pass experior, iri, pertus, v. ï¿½ry
 excidium, ii, n. ruin expeto, ere, ivi, itum, v. seck after
 excipio, ere, epi, eptum, v. (1)|expio, are, avi, atum, v. afone for
 veceive, (2) except, (3) succeed, expleo, ere, evi, etum, v. fill full
-excito, are, avi, atum, v. rouse explico, are, ui, itum, v. (1) «wa-
-exclamo, are, avi, atum, v. shouí| fold, (2) arrange
+excito, are, avi, atum, v. rouse explico, are, ui, itum, v. (1) ï¿½wa-
+exclamo, are, avi, atum, v. shouï¿½| fold, (2) arrange
 out explodo, ere, si, sum, v. Ass off
 excludo, ere, si, sum, v. shut out. | explorator, oris, m. scout
 excogito, are, avi, atum, v. devise | exploro, are, avi, atum, v. examine
-excrucio, are, avi, atum, v. £oríure | expolio, ire, ivi, itum, v. polish
+excrucio, are, avi, atum, v. ï¿½orï¿½ure | expolio, ire, ivi, itum, v. polish
 excubitor, oris, m. sentinel expono, ere, sui, situm, v. expose,
 excuso, are, avi, atum, v. excuse declare
 excutio, ere, cussi, cussum, v. shake | exporto, are, avi, atum, v. carry
 out, off out
-*J exedo, ere, edi, esum, v. ea£ up exprimo, ere, essi, essum, v. press
+*J exedo, ere, edi, esum, v. eaï¿½ up exprimo, ere, essi, essum, v. press
 exemplum, i, n. ezomple out, express
-exeo, ire, ivi, itum, v. go out expugnatio, onis, f. íeking by
-exerceo, ére, ui, itum, v. exercise storm
+exeo, ire, ivi, itum, v. go out expugnatio, onis, f. ï¿½eking by
+exerceo, ï¿½re, ui, itum, v. exercise storm
 exercitatio, onis, f. exercise expugno, are, avi, atum, v. (ake
 exercitatus, a, um, adj. practised by storm
-exercitus, üs, m. army exquiro, ere, sivi, situm, v. seek for
+exercitus, ï¿½s, m. army exquiro, ere, sivi, situm, v. seek for
 exhaurio, ire, si, stum, v. drain exquisitus, a, um, adj. far-fetehed
 exhibeo, ere, ui, itum, v. present, | exscindo, ere, scidi, scissum, v.
 show destroy, cut down
@@ -6095,24 +5994,24 @@ exigo, ere, egi, actum, v. (1) /ake | exsequiae, arum, f. funeral rites
 out, (2) exact, (3) finish exsequor, i, secutus, v. follow,
 exiguitas, atis, f. smallness carry out
 exiguus, a, um, adj. small, scanty | exsilium, ii, n. exile
-exilis, e, adj. £hin, weak exsisto, ere, stiti, stitum, v. arise
+exilis, e, adj. ï¿½hin, weak exsisto, ere, stiti, stitum, v. arise
 eximius, a, um, adj. fine exspecto, are, avi, atum, v. wai
 eximo, ere, emi, emptum, v. (ake| for, expect
 ao exspiro, are, avi, atum, v. breathe
 existimatio, onis, f. (1) opinion, out
 (2) reputation exspolio, are, avi, atum, v. rob
-existimo, are, avi, atum, v. £hink | exstinguo, ere, nxi, nctum, v. pu
-exitium, ii, 11. destruction out, kill. b í
+existimo, are, avi, atum, v. ï¿½hink | exstinguo, ere, nxi, nctum, v. pu
+exitium, ii, 11. destruction out, kill. b ï¿½
 " B - VOCABULARY 159
 exsto, are, v. stand forth, exist fastidium, ii, n. um Ww
 exstruo, ere, xi, ctum, v. build wp | fastigium, ii, n. height
 exsulo, are, avi, atum, v. be on exile | fatalis, e, adj. fatal
 exsulto, are, avi, atum, v. jump, be | fateor, eri, fassus, v. acknowledge
 
-glad fatigo, are, avi, atum, v. £ire
+glad fatigo, are, avi, atum, v. ï¿½ire
 exsurgo, ere, surrexi, surrectum, v. | fatiscor, i, fessus, v. be weary
 vise fatum, i, n. fate, death
-extemplo, adv. émmediately faustus, a, um, adj. favourable
+extemplo, adv. ï¿½mmediately faustus, a, um, adj. favourable
 extendo, ere, di, tum, and sum, |fax, cis, f. torch
 v. extend felicitas, atis, f. happiness
 exterior, us, adj. outer felix, icis, adj. happy
@@ -6120,37 +6019,37 @@ externus, a, um, adj. outside femineus, a, um, adj. of & woman
 extollo, ere, v. ft up fere, adv. nearly
 extra, adv. and prep. owlside feretrum, i, n. bier
 extraho, ere, xi, ctum, v. draw out | feriae, arum, f. holidays
-extremus, a, um, adj. /est, edge — | ferinus, a, um, adj. of a wild beast
-extrorsum, adv. outside ferio, ire, v. sírike
+extremus, a, um, adj. /est, edge ï¿½ | ferinus, a, um, adj. of a wild beast
+extrorsum, adv. outside ferio, ire, v. sï¿½rike
 extrudo, ere, si, sum, v. push off | ferme, adv. almost
 exuro, ere, ussi, ustum, v. bwrn up | fero, ferre, tuli, latum, v. (1) bear,
 bring, (2) say
 faba, ae, f. bean ferocia, ae, f. fierceness
 faber, ri, m. smit/, ferocitas, atis, f. fierceness
 fabula, ae, f. story, play M ferox, ocis, adj. fierce
-facetiae, arum, f. jokes ferreus, a, um, adj. of éron
-facetus, a, um, adj. «witty ferrum, i, n. iron
+facetiae, arum, f. jokes ferreus, a, um, adj. of ï¿½ron
+facetus, a, um, adj. ï¿½witty ferrum, i, n. iron
 facies, ei, f. form, face fertilitas, atis, f. fertility
 facilis, e, ad]. easy ferus, a, um, adj. wild
 facinus, oris, n. deed, crime ferveo, ere, bui, v. be hot
 facio, ere, feci, factum, v. do, make | fervidus, a, um, adj. Aot
 facundia, ae, f. eloquence fervor, oris, m. Aeat
-faginus, a, um, adj. of beech. fessus, a, um, adj. «eary
+faginus, a, um, adj. of beech. fessus, a, um, adj. ï¿½eary
 fallo, ere, fefelli, falsum, v. deceive, | festino, are, avi, atum, v. hasten
 elude festivus, a, um, adj. gay
-falsus, a, um, adj. fase festus, a, um, adj. estat »
-falx, cis, f. siekle, hooked pike fetus, üs, m. progeny, produce —
+falsus, a, um, adj. fase festus, a, um, adj. estat ï¿½
+falx, cis, f. siekle, hooked pike fetus, ï¿½s, m. progeny, produce ï¿½
 fama, ae, f. report, renown fictilis, e, adj. evrthen
 fames, is, f. /junger fidelis, e, adj. faithful
 familia, ae, f. household fides, ei, f. faith, eredit
-familiaris, e, adj. of Ae household, | &des, is, f. síring, lute
+familiaris, e, adj. of Ae household, | &des, is, f. sï¿½ring, lute
 
 friendly fidicen, inis, m. /wle-plager
 famula, ae, f. femole slave, friend | &ducia, ae, f. confidence
-famularis, e, adj. of à slave figo, ere, xi, xum, v. fia
+famularis, e, adj. of ï¿½ slave figo, ere, xi, xum, v. fia
 famulus, i, m. s/ave uu figura, ae, f. shape
 fanum, i, n. temple filia, ae, f. daughter
-far, rris, n. spelt fllius, ii, m. so»
+far, rris, n. spelt fllius, ii, m. soï¿½
 farina, ae, f. meal fimus, i, m. dung
 fascis, is, m. bundle, lictor's bundle | fingo, ere, nxi, ctum, v. fashion,
 
@@ -6158,34 +6057,34 @@ of rods make
 fastidio, ire, ivi, itum, v. despise | finio, ire, ivi, itum, v. finish
 H 1 160 - ( LATIN READER SEMEN.
 . finis, is, m. (and f.) boundary, end. | frons, dis, f. foliage
-. flo, fieri, factus, v. be snade frons, tis, f. forehead. «
-firmo, are, avi, atum, v. strengthen | fructus, üs, m. fruit
+. flo, fieri, factus, v. be snade frons, tis, f. forehead. ï¿½
+firmo, are, avi, atum, v. strengthen | fructus, ï¿½s, m. fruit
 flagitium, ii, n. crime frugis, gen. f. fruit, food,
 flamma, ae, f. flame frumentarius, a, um, adj. of pro-
-flatus, üs, m. b/ast visions
+flatus, ï¿½s, m. b/ast visions
 flavus, a, um, adj. yellow frumentum, i, n. corz
 flecto, ere, xi, xum, v. bend, fruor, i, fructus, fruitus, v. enjoy
-fleo, ére, evi, etum, v. areep frustra, adv. 4n cain
-flexus, üs, m. bending frustum, i, n. piece
-floreo, ere, ui, v. £o blossom fuga, ae, f. flight
+fleo, ï¿½re, evi, etum, v. areep frustra, adv. 4n cain
+flexus, ï¿½s, m. bending frustum, i, n. piece
+floreo, ere, ui, v. ï¿½o blossom fuga, ae, f. flight
 flos, ris, m. flower fugio, ere, fugi, v. fly
-. fluctuo, are, avi, atum, v. £oss fugo, are, avi, atum, v..puí to flight
-fluctus, üs, m. «ave fulcio, ire, si, tum, v. prop
+. fluctuo, are, avi, atum, v. ï¿½oss fugo, are, avi, atum, v..puï¿½ to flight
+fluctus, ï¿½s, m. ï¿½ave fulcio, ire, si, tum, v. prop
 . flumen, inis, n. river fulgeo, ere, si, v. shine
 fluvius, ii, m. river fullo, onis, m. fuller
 focus, i, m. Aeart/ fulvus, a, um, adj. yellow
 . fodio, ere, di, ssum, v. dig fumus, i, m. smoke
 foede, adv. foully funda, ae, f. sling
-foedus, eris, n. £reaty funditus, adv. utterly
+foedus, eris, n. ï¿½reaty funditus, adv. utterly
 foedus, a, um, adj. fouz fundo, ere, fudi, fusum, v. (1) pour,
 . folium, ii, n. /eaf (2) rout
 fons, tis, m. spring fundus, i, m. farm
 foras, adv. out of doors fungor, i, functus, v. perform
 foris, is, f. door funis, is, m. cable
-foris, adv. out of doors fur, ris, m. tAéef
+foris, adv. out of doors fur, ris, m. tAï¿½ef
 forma, ae, f. shape, beauty furo, ere, ui, v. rage
 E formido, inis, f. terror furtivus, a, um, adj. secret
-formo, are, avi, atum, v. fashion — | furtum, i, n. £Aeft, trick
+formo, are, avi, atum, v. fashion ï¿½ | furtum, i, n. ï¿½Aeft, trick
 formosus, a, um, adj. beautiful
 fors, tis, f. chance mJ galea, ae, f. helmet
 forte, adv. by chance - : |gallina, ae, f. hen
@@ -6194,85 +6093,85 @@ fortitudo, inis, f. bravery gallus, i, m. cock
 fortuna, ae, f. fortune gaudeo, ere, gavisus, v. ejoice
 forum, i, n. public place, market gaudium, ii, n. joy
 fossa, ae, f. ditch, gelidus, a, um, adj. cool
-— fragor, oris, m. crash, gena, ae, f. cheek
-frango, ere, fregi, fractum, v.|gens, ntis, f. clan, £ribe
+ï¿½ fragor, oris, m. crash, gena, ae, f. cheek
+frango, ere, fregi, fractum, v.|gens, ntis, f. clan, ï¿½ribe
 break, defeat gentilis, e, adj. of the clan, tribe
 frater, ris, m. brother genus, eris, n. ace
-fremitus, üs, m. roaring geometres, ae, m. mathematician
+fremitus, ï¿½s, m. roaring geometres, ae, m. mathematician
 frenum, i, n. bridle germanus, a, um, adj. brother, sister
 frequenter, adv. frequently gero, ere, ssi, stum, v. (1) bear, (2)
 frequento, are, avi, atum, v. f7e- carry on, have, wage
 quent, crowd gigno, ere, genui, genitum, v. pro-
-frigidus, a, um, adj. cold duée
+frigidus, a, um, adj. cold duï¿½e
 frigus, oris, n. cold gladiatorius, a, um, adj. gladia-
  frondiferus, a, um, adj. /eafy |. torial " mE
-zz dii -—
+zz dii -ï¿½
 vogozanf Last 161
-gladius, ii, m. sword hereditas, atis, f. énheritance
+gladius, ii, m. sword hereditas, atis, f. ï¿½nheritance
 globus, i, m. (1) bali, (2) band heri, adv. yesterday
 gloria, ae, f. glory hesternus, a, um, adj. of yesterdaj
-glorior, ari, atus, v. bo«st heus, interj. holloo /
+glorior, ari, atus, v. boï¿½st heus, interj. holloo /
 gloriosus, a; um, adj. boastful hiberna, orum, n. inter-quarters
-glutino, are, avi, atum, v. sóc hibernus, a, um, adj. of «'inter
-gradus, üs, m. s£ep; with addo, Aasten| hic, haec, hoc, pron. /Aís; hie,
+glutino, are, avi, atum, v. sï¿½c hibernus, a, um, adj. of ï¿½'inter
+gradus, ï¿½s, m. sï¿½ep; with addo, Aasten| hic, haec, hoc, pron. /Aï¿½s; hie,
 grandaevus, a, um, adj. oid adv. here
 grandis, e, adj. /arge, great hicce, haecce, hocce, pron. (Ais one
 grates, f. thanks here
 gratia, ae, f. favour, kindness, gra- | hiems, emis, f. winter, storm
 
-Ltitude ; gratià, for the sake of hinc, adv. hence
+Ltitude ; gratiï¿½, for the sake of hinc, adv. hence
 gratiflcor, ari, atus, v. oblige hilaris, e, adj. cheerful u
 gratis, adv. freely histrio, onis, m. actor -
 gratuitus, a, um, adj. gratuitous | hodie, adv. to-day pP
-gratulor, ari, atus, v. congratulate | homo, inis, m. «nan
+gratulor, ari, atus, v. congratulate | homo, inis, m. ï¿½nan
 gratus, a, um, adj. welcome, grateful | honesto, are, avi, atum, v. honour
 gravis, e adj. heavy, troublesome, | honestus, a, um, adj. Aonourable
 weighty honor, oris, m. position, office,
-£ravo, are, avi, atum, v. «eeigh down honour
+ï¿½ravo, are, avi, atum, v. ï¿½eeigh down honour
 gremium, ii, n. /ap honorifice, adv. / a complimentary
 grex, gis, m. flock 4v0jJ
 gubernator, oris, m. pilot hora, ae, f. howr, season
 gurges, itis, m. evhirlpool hordeum, i, n. barley 5
 gutta, ae, f. drop horreo, ere, v. (1) bristle, (2) tremble,
-g£ymnasiarchus, i, m. master of| fear
+gï¿½ymnasiarchus, i, m. master of| fear
 gymnasium horribilis, e, adj. terrible
 gymnasium, ii, n. gymnasium hortator, oris, m. oneho encourages
 hortor, ari atus, v. wrge
-habeo, ere, ui, itum, v. hove, hold. | hortulus, i, m. « Litile garden
+habeo, ere, ui, itum, v. hove, hold. | hortulus, i, m. ï¿½ Litile garden
 habito, are, avi, atum, v. Jive hortus, i, m. & garden
-habitus, üs, m. eppearance, dress, | hospes, itis, 1. Lost, guest, stranger
+habitus, ï¿½s, m. eppearance, dress, | hospes, itis, 1. Lost, guest, stranger
 habit hospitium, ii, n. hospitality, inn
 haedus, i, m. kid hostilis, e, adj. hostile
 haereo, ere, si sum, v. sick, be| hostis, is, m. enemy
 perplexed, huc, adv. hither
 haesito, are, avi, atum, v. hesitate | humanitas, atis, f. kindness
-halitus, üs, m. breath humanus, a, um, adj. Awmon, kind
+halitus, ï¿½s, m. breath humanus, a, um, adj. Awmon, kind
 hamus, i, m. Aook humerus, i, m. shoulder
 hara, ae, f. siye humilis, e, adj. humble, low
 hasta, ae, f. (1) spear, (2) spear, as| humor, oris, m. moisture
 sign. of action humus, i, f. ground
 haud, adv. not hydrus, i, m. evater serpent
-haudquaquam, adv. «ot a£ all ,
-haurio, ire, si, stum, v. (1) drain, | iaceo, ére, ui, itum, v. /ie ']
+haudquaquam, adv. ï¿½ot aï¿½ all ,
+haurio, ire, si, stum, v. (1) drain, | iaceo, ï¿½re, ui, itum, v. /ie ']
 (2) drown iacio, ere, ieci, iactum, v. tArow B
 hei, interj. 4voe / iacto, are, avi, atum, v. (1) throw,
 herba, ae, f. grass, plant (2) boast
 j herbidus, a, um, adj. grassy jactura, ae, f. Joss
-" —
+" ï¿½
 B .
 m
-" 162 — LATIN READER ——
+" 162 ï¿½ LATIN READER ï¿½ï¿½
 M orta oris, m. javelin man immitis, e, adj. cruel
 . iaculor, ari, atus, v. row javelin | immitto, ere, si, ssum, v. send 4n
-jaculum, i, n. javelin immo, adv. íruly, nay truly, nay
-iam, adv. «ww, already more
+jaculum, i, n. javelin immo, adv. ï¿½ruly, nay truly, nay
+iam, adv. ï¿½ww, already more
 iamdudum, adv.aow for a longtime | immolo, are, avi, atum, v. sacrifice
 ianitor, oris, m. porter immortalis, e, adj. ?mmortal
 janua, ae, f. door immundus, a, um, adj. dirty
 ibi, adv. tAere immunis, e, adj. free from
-ictus, üs, m. blow impar, aris, ad). unlike
-ictus (perf. part. pass. ico), struck | impatienter, adv. émpatiently
-idcirco, adv. o» that account impavidus, a, um, adj. fearless
+ictus, ï¿½s, m. blow impar, aris, ad). unlike
+ictus (perf. part. pass. ico), struck | impatienter, adv. ï¿½mpatiently
+idcirco, adv. oï¿½ that account impavidus, a, um, adj. fearless
 idem, eadem, idem, pron. same impedimentum, i, n. (1) obstacle ;
 identidem, adv. repeatedly (2) pl. baggage
 .. ideo, adv. therefore impedio, ire, ivi, itum, v. entangle,
@@ -6286,79 +6185,79 @@ ignis, is, m. fire impensa, ae, f. outlay
 ignobilis, e, adj. obscure, ignoble |imperator, oris, m. commander,
 ignoro, are, avi, atum, v. be igno-| | emperor
 Tant of imperfectus, a, um, adj. unfinished
-ignosco, ere, vi, tum, v. pardon imperitia, ae, f. ónexperience
+ignosco, ere, vi, tum, v. pardon imperitia, ae, f. ï¿½nexperience
 ignotus, a, um, adj. unknown imperitus, a, um, adj. inexperienced
 ille, a, ud, pron. Aat imperium, ii, n. absolute power
 2 illecebra, ae, f. enticement impero, are, avi, atum, v. order,
-illic, adv. £Aere command
+illic, adv. ï¿½Aere command
 illico, adv. on that spot, directly impetro, are, avi, atum, v. procure
-ilido, ere, si, sum, v. dash against | impetus, üs, m. onset, attack
+ilido, ere, si, sum, v. dash against | impetus, ï¿½s, m. onset, attack
 illuc, adv. tAither impigre, adv. actively
 illucesco, ere, luxi, v.begin todawn | impingo, ere, pegi, pactum, v.
 illudo, ere, si, sum, v. mock strike against
-illumino, are, avi, atum, v. /ight up | impius, a, um, adj. érreverent
+illumino, are, avi, atum, v. /ight up | impius, a, um, adj. ï¿½rreverent
 inlustris, e, adj. bright, famous implacabilis, e, adj. emplacable
 imago, inis, f. picture, $mage impleo, ere, evi, etum, v. fili
-imbecillus, a, um, adj. «veak implico, are, ui, itum, v. énfold,
+imbecillus, a, um, adj. ï¿½veak implico, are, ui, itum, v. ï¿½nfold,
 imber, bris, m. shower dnvolve
 imbuo, ere, ui, utum, v. steep, stain | imploro, are, avi, atum, v. ?mplore
 imitator, oris, m. ?mitator impono, ere, sui, situm, v. place on
-imitatrix, icis, f. émitating importunus, a, um, adj. trouble-
-imitor, ari, atus, v. ?àmitate some, cruel
+imitatrix, icis, f. ï¿½mitating importunus, a, um, adj. trouble-
+imitor, ari, atus, v. ?ï¿½mitate some, cruel
 immanis, e, ad). huge, savage impotens, tis, adj. without power,
-immemor, óris, adj. unmindfwul withowt control
+immemor, ï¿½ris, adj. unmindfwul withowt control
 immergo, ere, si, sum, v. plunge?nto | imprimo, ere, pressi, pressum, v.
 immeritus,a, um, adj. wndeserving, press in
 wundeserved | improbus, a, um, adj. wnscrupulous
-immineo, ére, v, overhang imprudens, tis, adj. ómprudent
-» — " 2 Es — ,
+immineo, ï¿½re, v, overhang imprudens, tis, adj. ï¿½mprudent
+ï¿½ ï¿½ " 2 Es ï¿½ ,
 ] VOCABULARY (0 163
-imprudentia, ae, f. énprudence indignor, ari, atus, v. be iéndignant
-impudens, tis, adj. émpudent indignus, a, um, adj. wnworthy
-impudentia, ae, f. éànpudence indiligenter, adv. corelessiy
-impune, adv. wunpwunished indo, ere, didi, ditum, v. pu£ in
+imprudentia, ae, f. ï¿½nprudence indignor, ari, atus, v. be iï¿½ndignant
+impudens, tis, adj. ï¿½mpudent indignus, a, um, adj. wnworthy
+impudentia, ae, f. ï¿½ï¿½npudence indiligenter, adv. corelessiy
+impune, adv. wunpwunished indo, ere, didi, ditum, v. puï¿½ in
 imputo, are, avi, atum, v. (1) reckon, | indubitate, adv. wndowubtedly
 
-(2) émpute induoo, ere, xi, ctum, v. bring in,
+(2) ï¿½mpute induoo, ere, xi, ctum, v. bring in,
 imus, a, um, adj. Zowest bring to, cover
-in, prep. (1) with aec. 2n£o, (2) with | indulgeo, ere, si, tum, v. éndulge i»
-abl. en induo, ere, ui, utum, v. puf£ on
+in, prep. (1) with aec. 2nï¿½o, (2) with | indulgeo, ere, si, tum, v. ï¿½ndulge iï¿½
+abl. en induo, ere, ui, utum, v. pufï¿½ on
 inanis, e, adj. empty, worthless industria, ae, f. industry; ex in-
-incautus, a, um, adj. éncautious dustria, o» purpose
+incautus, a, um, adj. ï¿½ncautious dustria, oï¿½ purpose
 incedo, ere, cessi, cessum, v. go, |inedia, ae, f. fasting
-mwuareh, ineo, ire, ivi (ii), itum, v. go £nto,
-incendium, ii, n. fire enter «pon
-incendo, ere, di, sum, v. sef fire £o | ineptus, a, um, adj. foolish
+mwuareh, ineo, ire, ivi (ii), itum, v. go ï¿½nto,
+incendium, ii, n. fire enter ï¿½pon
+incendo, ere, di, sum, v. sef fire ï¿½o | ineptus, a, um, adj. foolish
 incertus, a, um, adj. uncertain inermis, e, adj. unarmed
-incesso, ere, ivi (or i), v. aífack, | inerro, are, avi, atum, v. wander 4n
+incesso, ere, ivi (or i), v. aï¿½fack, | inerro, are, avi, atum, v. wander 4n
 veproach, iners, tis, adj. ?nactive
-incido, ere, cidi, casum, v. fail in£o, |'inexpiabilis, e, adj. «of to be atoned.
+incido, ere, cidi, casum, v. fail inï¿½o, |'inexpiabilis, e, adj. ï¿½of to be atoned.
 happen Jor
-incido, ere, cidi, cisum, v. cu£ nto | inexplicabilis, e, adj. énéricote
-incipio, ere, epi, eptum, v. begin — | infamis, e, adj. disreputable
+incido, ere, cidi, cisum, v. cuï¿½ nto | inexplicabilis, e, adj. ï¿½nï¿½ricote
+incipio, ere, epi, eptum, v. begin ï¿½ | infamis, e, adj. disreputable
 incito, are, avi, atum, v. owse infans, tis, ad). infant
-inclino, are, avi, atum, v. éncline, | infectus, a, um, adj. wndone
+inclino, are, avi, atum, v. ï¿½ncline, | infectus, a, um, adj. wndone
 give away infelix, icis, adj. unhappy
 inclitus, a, um, adj. famous infercio, ire, si, sum and tum, v.
-includo, ere, si, sum, v. sAw£ in stuff in
+includo, ere, si, sum, v. sAwï¿½ in stuff in
 incognitus, a, um, adj. unknown infero, ferre, tuli, illatum, v. bring,
 incola, ae, c. inhabitant throw 4n, cause *
 incolo, ere, ui, v. nhabit infestus, a, um, adj. Aostile
 incolumis, e, adj. safe infimus, a, um, adj. Zowest -
 incommodum, i, n. misfortune infinitus, a, um, adj. unbounded
-incommodus, a, um, adj. érouble- | infirmitas, atis, f. weakness
+incommodus, a, um, adj. ï¿½rouble- | infirmitas, atis, f. weakness
 some infirmus, a, um, adj. 4veak
-inconsultus, a, um, adj. «of con- | infitior, ari, atus, v. deny
+inconsultus, a, um, adj. ï¿½of con- | infitior, ari, atus, v. deny
 Sulted, inconsiderate inflecto, ere, xi, xum, v. bend
 incorruptus, a, um, adj. upright  |infligo, ere, xi, ctum, v. dash
 incultus, a, um, adj. wncultivated against, infleit
 incumbo, ere, cubui, cubitum, v. inflo, are, avi, atum, v. blow into,
 lean on, pas attention to puff up
 incurro, ere, i, sum,v. run into, attack infrequens, tis, adj. rare
-incuso, are, avi, atum, v. accuse — 'infundo, ere, fudi, fusum, v. pour in
+incuso, are, avi, atum, v. accuse ï¿½ 'infundo, ere, fudi, fusum, v. pour in
 indago, are, avi, atum, v. rack ingenium, ii, n. character, talent
 inde, adv. thence ingens, tis, adj. vast
-indecenter, adv. «nbecomingly ingero, ere, ssi, stum, v. éArow into
+indecenter, adv. ï¿½nbecomingly ingero, ere, ssi, stum, v. ï¿½Arow into
 indicium, ii, n. evidence, proof ingluvies, ei, f. gluttony
 indico, are, avi, atum, v. show ingratus, a, um, adj. ungrateful FE
 indigeo, ere, ui, v. need ingredior, i, essus, v. evalk into
@@ -6366,36 +6265,36 @@ indignatio, onis, f. indignation |ingruo, ere, ui, v, attack, come on
 (0104 XATN READER 0000000000
 m
 inhabito, are, avi, atum, v. dwell n | instituo, ere, ui, utum, v. make,
-* inhaereo, ére, si, sum, v. stick 4n settle, deterinine
-inhibeo, ére, ui, itum, v. restrain |institutum, i, n. arrangement
+* inhaereo, ï¿½re, si, sum, v. stick 4n settle, deterinine
+inhibeo, ï¿½re, ui, itum, v. restrain |institutum, i, n. arrangement
 inhio, are, avi, atum, v. gape for insto, are, stiti, v. stand on, press on
 inhumanus, a, um, adj. inAwman | instrumentum, i, n. instrument :
 inicio, ere, ieci, iectum, v. tArow |instruo, ere, xi, ctum, v. build,
 $n, inspire draw up, arrange
 inimicus, a, um, adj. enemy insuefactus, a, um, adj. trained
-iniquus, a, um, adj. «nequal, wn- insuesco, ere, evi, etum, v.
+iniquus, a, um, adj. ï¿½nequal, wn- insuesco, ere, evi, etum, v.
 fair, cruel accustom one's self
 initium, ii, n. beginning insula, ae, f. island
 iniucundus, a, um, adj. wnpleasant | insulsus, a, um, adj. foolish
-iniuria, ae, f. «/rong-doing insum, esse, fui, v. be in
+iniuria, ae, f. ï¿½/rong-doing insum, esse, fui, v. be in
 . A iniuste, adv. wunjustly insumo, ere, psi, ptum, v. apply to
 iniustus, a, um. adj. wnjust insuper, adv. and prep. above
-innocens, tis, adj. vnnocent intactus, a, um, adj. «ntouched
+innocens, tis, adj. vnnocent intactus, a, um, adj. ï¿½ntouched
 innuo, ere, ui, utum, v. give nod io | integer, gra, grum, adj. entire, spot-
 inopia, ae, f. want less, fresh, wndecided
 inopinatus, a, um, adj. wnezpected | integritas, atis, f. uprightness
-inops, opis, adj. «needy intellego, ere, exi, ectum, v. wnder-
+inops, opis, adj. ï¿½needy intellego, ere, exi, ectum, v. wnder-
 inquam, v. Z say stand
 - insanabilis, e, adj. incurable intemperies, ei, f. sform, fury
-insatiabilis, e, adj. énsatiable intempestus, a, um, adj. (nox),
+insatiabilis, e, adj. ï¿½nsatiable intempestus, a, um, adj. (nox),
 inscitia, ae, f. ignorance dead. of night
 . inscius, a, um, adj. ?gnorant intendo, ere, di, tum and sum, v.
-] inscribo, ere, psi, ptum, v. vnseribe | — (1) stretch, (2) direct, (3) purpose
+] inscribo, ere, psi, ptum, v. vnseribe | ï¿½ (1) stretch, (2) direct, (3) purpose
 insequor, i, secutus, v. pursue,|intento, are, avi, atum, v. (1)
 - follow stretch, (2) threaten
 insero, ere, ui, ertum, v. put info | inter, prep. between, among
 insero, ere, sevi, situm, v. plani  |intercedo, ere, cessi, cessum, v.
-. insideo, ére, sedi, sessum, v. sit on come between
+. insideo, ï¿½re, sedi, sessum, v. sit on come between
 insidiae, arum, f. ambush, plot intercipio, ere, cepi, ceptum, v.
 B insidiator, oris, m. plotter dntercept
 insidior, arip atus, v. be im am- | interdiu, adv. by day LZ
@@ -6403,22 +6302,22 @@ bush, interdum, adv. sometimes (^
 insignis, e, adj. distinguished ; in- | interea, adv. meanwhile
 . signe, subst. n. decoration interfector, oris, m. slayer -
 Lr insilio, ire, ui, ultum, v. /eap into | interflcio, ere, feci, fectum, v. kill
-insipiens, tis, adj. foolish intericio, ere, ieci, iectum, v. f/»row
+insipiens, tis, adj. foolish intericio, ere, ieci, iectum, v. f/ï¿½row
  insolabiliter, adv. /nconsolably between
-insolens, tis, adj. «naccustomed, to, | interim, adv. meanwhile
-arrogant interimo, ere, emi, emptum, v. £i
+insolens, tis, adj. ï¿½naccustomed, to, | interim, adv. meanwhile
+arrogant interimo, ere, emi, emptum, v. ï¿½i
 insolentia, ae, f. arrogance ' | interior, us, adj. ?nner
-|J insolitus, a, um, adj. «maccustomed | interitus, üs, m. death,
+|J insolitus, a, um, adj. ï¿½maccustomed | interitus, ï¿½s, m. death,
 insomnia, ae, f. want of sleep intermitto, ere, si, ssum, v. leave
 insono, are, avi, atum, v. sound in off, break off, wveglect
 instar, n. (after the) fashion interpello, are, avi, atum, v. disturb
 insterno, ere, stravi, stratum, v. | interpono, ere, sui, situm, v. place
 Spread, on . .. between
 s S9 . DL. Ur - -
-Be — o
+Be ï¿½ o
 " ] VOCABULARY Y - 165
 interpres, etis, m. interpreter irrepo, ere, psi, v. erawl in "
-interpretor, ari, atus, v. én£erpret, irrideo, ere, si, sum, v. laugh a£
+interpretor, ari, atus, v. ï¿½nï¿½erpret, irrideo, ere, si, sum, v. laugh aï¿½
 
 explain, irriguus, a, um, adj. ewetting
 interrogo, are, avi, atum, v. ask  |irritus, a, um, adj. wseless
@@ -6428,21 +6327,21 @@ intersum, esse, fui, v. (1) be between, | irruo, ere, ui, v. rush on
 be different ; (2) interest, it matters | 1s, ea, id, pron. Ae, she, it, this, that
 intervenio, ire, veni, ventum, v. |iste a, ud, pron. (Aat near yow
 come between istic, adv. (here 5
-intexo, ere, xui, xtum, v. én£erweave | istic, aec, oc, pron. Ais
+intexo, ere, xui, xtum, v. ï¿½nï¿½erweave | istic, aec, oc, pron. Ais
 intimus, a, um, adj. onnermost ita, adv. so -
-intolerabilis, e, adj. «nbearable itaque, conj. and so
-intono, are, ui, v. (/w«nder item, adv. Jikewise, also
+intolerabilis, e, adj. ï¿½nbearable itaque, conj. and so
+intono, are, ui, v. (/wï¿½nder item, adv. Jikewise, also
 intra, adv. and prep. acithin iter, itineris, n. journey, arch.
 intro, are, avi, atum, v. enter itero, are, avi, atum, v. repeat
 intro, adv. within, inside iterum, adv. again
 introduco, ere, xi, ctum, v. bring 4n | iuba, ae, f. crest, manc -
-introeo, ire, ii, itum, v. enter iubeo, ére, iussi, iussum, v. order
-introitus, üs, m. eniry iucundus, a, um, adj. pleasant
+introeo, ire, ii, itum, v. enter iubeo, ï¿½re, iussi, iussum, v. order
+introitus, ï¿½s, m. eniry iucundus, a, um, adj. pleasant
 intueor, eri, itus, v. regard iudex, icis, m. judge
 intus, adv. within iudicium, ii, n. judgment, court
 inuro, ere, ussi, ustum, v. burn iudico, are, avi, atum, v. judge B
-inusitatus, a, um, adj. wnusual jugerum, i, n. $ of «n acre
-inutilis, e, adj. «seless iugulo, are, avi, atum, v. s/ay
+inusitatus, a, um, adj. wnusual jugerum, i, n. $ of ï¿½n acre
+inutilis, e, adj. ï¿½seless iugulo, are, avi, atum, v. s/ay
 invado, ere, si, sum, v. foll on, iugum, i, n. (1) yoke, (2) ridge
 invade iumentum, i, n. beast of burden
 inveho, ere, xi, ctum, v. carry in, |iungo, ere, xi, ctum, v. join
@@ -6450,36 +6349,36 @@ inveho, ere, xi, ctum, v. carry in, |iungo, ere, xi, ctum, v. join
 invenio, ire, veni, ventum, v. find | iuro, are, avi, atum, v. swear
 investigo, are, avi, atum, v. (rack | ius, iuris, n. (Maman) right, law
 out iusiurandum, iurisiurandi, n. oath,
-invicem, adv. £n» turn iussus, üs, m. command
-invideo, ére, vidi, visum, v. envy, iuste, adv. justly, properly
+invicem, adv. ï¿½nï¿½ turn iussus, ï¿½s, m. command
+invideo, ï¿½re, vidi, visum, v. envy, iuste, adv. justly, properly
 grudge justus, a, um, adj. just, fair, full
 invidia, ae, f. (1) envy, (2) wunpopu- | iuvenilis, e, adj. youthful
 larity iuvenis, is, adj. young
 invidus, a, um, adj. envious iuxta, adv. and prep. close to,
-inviso, ere, si, sum, v. vísié equally
+inviso, ere, si, sum, v. vï¿½siï¿½ equally
 invito, are, avi, atum, v. invite
-invitus, a, um, adj. «unwilling - labo, are, avi, atum, v. fotter
-invoco, are, avi, atum, v. call on | labor, i, lapsus, v. glide, fall —
-iocabundus, a, um, adj. «vitty labor, oris, m. toil, labour
+invitus, a, um, adj. ï¿½unwilling - labo, are, avi, atum, v. fotter
+invoco, are, avi, atum, v. call on | labor, i, lapsus, v. glide, fall ï¿½
+iocabundus, a, um, adj. ï¿½vitty labor, oris, m. toil, labour
 iocosus, a, um, adj. merry laboro, are, avi, atum, v. toil, suffer
-iocus, i, m. joke lac, lactis, n. «nidlk
+iocus, i, m. joke lac, lactis, n. ï¿½nidlk
 ipse, a, um, pron. self lacero, are, avi, atum, v. iear
 ira, ae, f. anger lacertus, i, m. arm
 iracundus, a, um, adj. passionate |Iacesso, ere, ivi, itum, v. provoke
 irascor, i, atus, v. be angry lacrima, ae, f. tear Bst -
-p 166 u - LATIN READER — "
+p 166 u - LATIN READER ï¿½ "
 lacrimo, are, avi, atum, v. weep leo, onis, m. iion -a
-Jlacteus, a, um, adj. milky lepidus, a, um, adj. witty ——
+Jlacteus, a, um, adj. milky lepidus, a, um, adj. witty ï¿½ï¿½
 
-. lacus, üs, m. (1) /ake, (2) vat lévis, e, adj. light
+. lacus, ï¿½s, m. (1) /ake, (2) vat lï¿½vis, e, adj. light
 laetitia, ae, f. joy levo, are, avi, atum, v. Jighten
-laetor, ari, atus, v. vejoíce lex, legis, f. law
+laetor, ari, atus, v. vejoï¿½ce lex, legis, f. law
 laetus, a, um, adj. glad libenter, adv. willingly B
-laevus, a, um, adj. /eft liber, ri, m. book -—
+laevus, a, um, adj. /eft liber, ri, m. book -ï¿½
 lana, ae, f. wool liber, era, erum, adj. free Pu
 lancea, ae, f. lance Liber, eri, m. god of wine
 langueo, ere, v. be weary liberi, orum, m. children
-languidus, a, um, adj. «rea, weary | liberalitas, atis, f. kindness, gener-
+languidus, a, um, adj. ï¿½rea, weary | liberalitas, atis, f. kindness, gener-
 lanio, are, avi, atum, v. angle osity
 lapidatio, onis, f. tf/vrowing of stones | liberaliter, adv. like a gentleman
 
@@ -6491,20 +6390,20 @@ laqueus, i, m. Alter, trap reference to his master)
 "Rawelor, iri, itus, v. bestow libet, ere, uit, v. 4t pleases
 largitio, onis, f. distribution libo, are, avi, atum, v. offer
 largus, a, um, adj. ample licentia, ae, f. freedom
-lascivus, a, um, adj. wanton licet, ere, uit, v. ?£ is allowed
-lasso, are, avi, atum, v. tire lignator, oris, m. «oodcutter
+lascivus, a, um, adj. wanton licet, ere, uit, v. ?ï¿½ is allowed
+lasso, are, avi, atum, v. tire lignator, oris, m. ï¿½oodcutter
 
-latebra, ae, f. hiding-place ligneus, a, um, adj. of «wood
+latebra, ae, f. hiding-place ligneus, a, um, adj. of ï¿½wood
 
-. lateo, ere, ui, v. (ie hid, escape lignum, i, n. «vood
+. lateo, ere, ui, v. (ie hid, escape lignum, i, n. ï¿½vood
 
 motice Jimen, inis, n. threshold, doo
 latibulum, i, n. den lineamentum, i, n. /ine, feature
-latratus, üs, m. barking lingua, ae, f. tongue
+latratus, ï¿½s, m. barking lingua, ae, f. tongue
 - latro, are, avi, atum, v. bark linia (linea), ae, f. Zinc
 latro, onis, m. robber linquo, ere, liqui, v. Jeave
-látus, eris, n. side lippitudo, inis, f. inflammation of
-làtus, a, um, adj. broad the eyes
+lï¿½tus, eris, n. side lippitudo, inis, f. inflammation of
+lï¿½tus, a, um, adj. broad the eyes
 laudo, are, avi, atum, v. praise liquefacio, ere, feci, factum, v.
 laus, dis, f. praise, glory make liquid
 J lautus, a, um, adj. splendid, rich | tiquesco, ere, licui, v. melt
@@ -6515,34 +6414,34 @@ lectus, i, m. bed, couch epistle, literature
 legatio, onis, f. embassy litus, oris, n. shore
 legatus, i, m. (1) ambassador, (2) | livor, oris, m. envy
 lieutenant loco, are, avi, atum, v. place
-legio, onis, f. Zegion (from 4000 £o |1oculus, i, m. small chest E
+legio, onis, f. Zegion (from 4000 ï¿½o |1oculus, i, m. small chest E
 6000 een) locuples, etis, adj. rich -
-legitimus, a, um, adj. lawful locus, i, m. píace
+legitimus, a, um, adj. lawful locus, i, m. pï¿½ace
 lego, ere, gi, ctum, v. (1) /ay, (2) | longinquus, a, um, adj. disant,
 pick, read. long
 lenis, e, adj. sooth, soft longus, a, um, adj. /ong
 leniter, adv. softly loquor, i, locutus, v. speak
 . lentus, a, um, adj. slow lorica, ae, f. breastplate, breastwork
 p 0 "ONSE ) ww x
-pe— uu —
+peï¿½ uu ï¿½
 |. VOCABULARY 167
 lorum, i, n. /Aong, aehip | malitia, ae, f. vice, malice
-Iuceo, ére, xi, v. shine malo, malle, malui, v. prefer —
-lucerna, ae, f. lamp málum, i, n. evil, misfortune
-Iucrum, i, n. gaón malum, i, n. apple
-Iuctor, ari, atus, v. struggle málus, a, um, adj. bad
-lucus, i, m. grove màlus, i, m. mast
-ludibrium, ii, n. aockery, derísion | mando, are, avi, atum, v. order,
-ludicrum, i, n. show enérust
+Iuceo, ï¿½re, xi, v. shine malo, malle, malui, v. prefer ï¿½
+lucerna, ae, f. lamp mï¿½lum, i, n. evil, misfortune
+Iucrum, i, n. gaï¿½n malum, i, n. apple
+Iuctor, ari, atus, v. struggle mï¿½lus, a, um, adj. bad
+lucus, i, m. grove mï¿½lus, i, m. mast
+ludibrium, ii, n. aockery, derï¿½sion | mando, are, avi, atum, v. order,
+ludicrum, i, n. show enï¿½rust
 ludo, ere, si, sum, v. play mando, ere, di, sum, v. eat
 ludus, i, m. play, school mane, n. morning
-lugeo, ere, xi, ctum, v. grieve maneo, ére, si, sum, v. rema,
+lugeo, ere, xi, ctum, v. grieve maneo, ï¿½re, si, sum, v. rema,
 lugubris, e, adj. sad manes, ium, pl. souls of the dead.
-lumen, inis, n. /Vjg&é  . . manifestus, a, um, adj. clear
+lumen, inis, n. /Vjg&ï¿½  . . manifestus, a, um, adj. clear
 lupus, i, m. wolf mano, are, avi, atum, v. low
 luridus, a, um, adj. ghastly mansuetus, a, um, adj. tame
-lustrum, i, n. (1) 5 years, (2) haunt | manus, üs, f. (1) hand, (2) band
-luteus, a, um, adj. »uddy, of clay | mare, is, n. sea
+lustrum, i, n. (1) 5 years, (2) haunt | manus, ï¿½s, f. (1) hand, (2) band
+luteus, a, um, adj. ï¿½uddy, of clay | mare, is, n. sea
 luteus, a, um, adj. yellow margarita, ae, f. pearl
 lutum, i, n. nud marinus, a, um, adj. of the sea
 lux, lucis, f. /ight maritus, i, m. Awusband
@@ -6550,10 +6449,10 @@ luxuria, ae, f. luxury marmor, oris, n. (1) marble, (2) sea
 lyra, ae, f. (ute, lyre Mars, tis, m. Mars, god of war
 martius, a, um, adj. warlike
 machina, ae, f. machine, easel mater, tris, f. mother
-machinatio, onis, f. coníirivance materfamilias, tris, f. mother
+machinatio, onis, f. conï¿½irivance materfamilias, tris, f. mother
 machinor, ari, atus, v. conirive materies, ei, f. matter
 macies, ei, f. (/vinness mathematicus, i, m. mathema-
-macto, are, avi, atum, v. offer iw | — tician
+macto, are, avi, atum, v. offer iw | ï¿½ tician
 sacrifice matrimonium, ii, n. marriage
 macula, ae, f. stain, fault matrona, ae, f. (natron
 madefacio, ere, feci, factum, v. | mature, adv. early
@@ -6561,8 +6460,8 @@ moisten maturo, are, avi, atum, v. hasten
 maeror, oris, m. sadness maturus, a, um, adj. ripe, early
 maestus, a, um, adj. sad matutinus, a, um, adj. im (he
 magis, adv. more morning
-magister, ri, m. «aster maximus, a, um, sup. of magnus
-magistratus, üs, m. office, magíis- | medicamentum, i, n. remedy, drug
+magister, ri, m. ï¿½aster maximus, a, um, sup. of magnus
+magistratus, ï¿½s, m. office, magï¿½is- | medicamentum, i, n. remedy, drug
 trate medicina, ae, f. healing
 magnificus, a, um, adj. splendid |rmedicus, a, um, adj. ^ealing,
 magnitudo, inis, f. greatness doctor
@@ -6578,105 +6477,105 @@ malignus, a, um, adj. spiteful memoria, ae, f. memory | B
 168 LATIN READER
 memoro, are, avi, atum, v. recall, jeotrouy ari, atus, v. evonder, admire
 relate mirus, a, um, adj. wonderful
-mendacium, ii, n. /ie misceo, ére, scui, xtum or stum,
+mendacium, ii, n. /ie misceo, ï¿½re, scui, xtum or stum,
 mendax, acis, adj. /ying v. mio:
 mens, tis, f. mind miser, a, um, adj. avretehed
-mensa, ae, f. table miseret, ére, uit, v. 4£ excites pity
+mensa, ae, f. table miseret, ï¿½re, uit, v. 4ï¿½ excites pity
 mentio, onis, f. mention misericordia, ae, f. pity
-mentior, iri, itus, v. Je . misericors, dis, adj. pitiful —
+mentior, iri, itus, v. Je . misericors, dis, adj. pitiful ï¿½
 mercator, oris, m. merchant miseror, ari, atus, v. pity
 merces, edis, f. wages, reward mitesco, ere, v. grow qid
 mercor, ari, atus, v. buy mitis, e, adj. enild, ripe, kind.
 mereo, ere, ui, itum, v. and mereor | mitto, ere, si, ssum, v. send
 v. earn, deserve (praise or blame) | moderatus, a, um, adj. restrained
 mergo, ere, si, sum, v. dip, drown | modestia, ae, f. enodesty
-meridianus, a, um, adj. a£ midday | rnodicus, a, um, adj. «oderate
+meridianus, a, um, adj. aï¿½ midday | rnodicus, a, um, adj. ï¿½oderate
 merito, adv. deservedly modo, adv. only, just now
 merus, a, um, adj. pure modus, i, m. /imit, manner, mea-
 merx, cis, f. snerchandise Sure
 meta, ae, f. goal moenia, ium, n. (own walls
 metuo, ere, ui, v. fear molestia, ae, f. annoyance .
-metus, üs, m. fear molestus, a, um, adj. annoying
-meus, a, um, adj. «nine molior, iri, itus, v. (1) s£ruggle, (2)
+metus, ï¿½s, m. fear molestus, a, um, adj. annoying
+meus, a, um, adj. ï¿½nine molior, iri, itus, v. (1) sï¿½ruggle, (2)
 mico, are, avi, atum, v. (1) tArob, throw, (3) work at
 (2) gleam mollio, ire, ivi, itum, v. soften
 migro, are, avi, atum, v. egrote | mollis, e, adj. soft
 miles, itis, m. soldier molo, ere, ul, itum, v. grind
 miliarius, a, um, adj. (1) of a thou- | momentum, i, n. (1) motion, (2)
 sand, (2) subst. n. qmilestone dmportance, (3) moment
-^ militaris, e, adj. of « soldier moneo, ére, ui, itum, v. advise
+^ militaris, e, adj. of ï¿½ soldier moneo, ï¿½re, ui, itum, v. advise
 militia, ae, f. service mons, tis, m. mountain
 milito, are, avi, atum, v. serve as a, | monstro, are, avi, atum, v. show
 soldier monstrum, i, n. prodigy, monster
-mille, milia, num. chousand monumentum, i, n. »onuwment
+mille, milia, num. chousand monumentum, i, n. ï¿½onuwment
 minax, acis, adj. (Avreatening mora, ae, f. delay
 minime, adv. very little morbus, i, m. disease
 minimus (sup. of parvus), 7east mordax, acis, adj. stinging
 ministerium, ii, n. service morior, mori, mortuus, v. die
-ministro, are, avi, atum, v. (1) «ait | moror, ari, atus, v. delay
+ministro, are, avi, atum, v. (1) ï¿½ait | moror, ari, atus, v. delay
 upon, (2) offer morosus, a, um, adj. e/-tempered
 minor, ari, atus, v. threaten mors, tis, f. death
-minor (comp. of parvus), adj. 7ess | morsus, üs, m. bite
+minor (comp. of parvus), adj. 7ess | morsus, ï¿½s, m. bite
 minuo, ere, ui, utum, v. /essen mortalis, e, adj. orta
 minutus, a, um, adj. small mortifer, a, um, adj. deadly
 mirabilis, e, adj. wonderful mos, moris, m. (1) custom, (2) pl.
 miraculum, i, n. wonder character, manners; with gero,
-mire, adv. «vonderfully comply with
-mirificus, a, um, adj. extraordinary | motus, üs, m. motion
+mire, adv. ï¿½vonderfully comply with
+mirificus, a, um, adj. extraordinary | motus, ï¿½s, m. motion
 mirmillo, onis, m. gladiator with | moveo, ere, movi, motum, v. move
 1 fish crest "d mox, adv. sooo . mE
 "hem
 | VOCABULARY 169
 mucidus, a, um, adj. mouldy | necne (in indirect interrog.), or ot
-mulceo, ére, si, sum, v. soothe | neco, are, avi, atum, v. kill
-mulcta, ae, f. fine | nefartus, a, um, adj. «wicked.
+mulceo, ï¿½re, si, sum, v. soothe | neco, are, avi, atum, v. kill
+mulcta, ae, f. fine | nefartus, a, um, adj. ï¿½wicked.
 mulcto, are, avi, atum, v. fine neglego, ere, lexi, lectum, v.
 muliebris, e, adj. of & woman meglect
 mulier, eris, f. woman nego, are, avi, atum, v. deny
 multitudo, inis, f. multitude negotium, ii, n. business, trouble
-multus, a, um, adj. «wch, mamy | nemo, c. 9 one
-mulus, i, m, aule nemorosus, a, um, adj. «wooded
+multus, a, um, adj. ï¿½wch, mamy | nemo, c. 9 one
+mulus, i, m, aule nemorosus, a, um, adj. ï¿½wooded
 mundus, i, m. world, ornament nemus, oris, n. grove
 munia, orum, n. duties nequam, adj. worthless
 muniflcus, a, um, adj. /iberal nequeo, ire, ivi, v. be unable
-munio, ire, ivi, itum, v. fortify nequicquam, adv. £n vain
+munio, ire, ivi, itum, v. fortify nequicquam, adv. ï¿½n vain
 munitio, onis, f. fortification nervus, i, m. sinew, string
 munus, eris, n. (1) duty, (2) show, | nescio, ire, ivi, itum, v. be-igno-
 
 (3) present Tant
 murus, i, m. wall nescius, a, um, adj. ignorant
-mus, muris c. omowse — neu, neve, adv. «or
-musa, ae, f. muse neuter, tra, trum, adj. neither — -
-musica, ae, f. music ni, conj. «wnless
+mus, muris c. omowse ï¿½ neu, neve, adv. ï¿½or
+musa, ae, f. muse neuter, tra, trum, adj. neither ï¿½ -
+musica, ae, f. music ni, conj. ï¿½wnless
 mustum, i, n. 2ew wine niger, gra, grum, adj. black
 muto, are, avi, atum, v. change nihil, nihilo, n. aothing
 mutus, a, um, adj. dumb nihilominus, adv. none te less
 myrtus, i, f. myrtle nimbus, i, m. rancloud
-nimis, adv. £00 much
-nam, namque, conj. for nimius, a, um, adj. £oo enuch -
-nanciscor, i, nactus, v. obtain E conj. less, «f not
+nimis, adv. ï¿½00 much
+nam, namque, conj. for nimius, a, um, adj. ï¿½oo enuch -
+nanciscor, i, nactus, v. obtain E conj. less, ï¿½f not
 naris, is, f. nostril niteo, ere, ui, v. shine
 narro, are, avi, atum, v. narraie |nitidus, a, um, adj. shining, sleck
 nascor, i, natus, v. bc born nitor, oris, m. /ustre
 natio, onis, f. tribe nitor, i, xus or sus, v. push, vest on
 natura, ae, f. nature nix, nivis, f. snow
-natus, üs, m. birth, age no, nare, navi, v. swim
+natus, ï¿½s, m. birth, age no, nare, navi, v. swim
 naufragium, ii, n. shipwreck nobilis, e, adj. 1oble
 nauta (navita), ae, m. sailor nobilitas, atis, f. nobility
 nauticus, a, um, adj. nautical nobilito, are, avi, atum, v. ennoble
-navalis, e, adj. naval noceo, ére, ui, itum, v. Ahwrt, do
+navalis, e, adj. naval noceo, ï¿½re, ui, itum, v. Ahwrt, do
 navicula, ae, f. boat wrong
 navigium, ii, n. voyage, ship noctu, f. abl. by night
 navigo, are, avi, atum, v. sail nocturnus, a, um, adj. eightly 1
 navis, is, f. ship (longa) of war nolo, nolle, ui, v. 6e unwilling
-ne, conj. no£ even, that not nomen, inis, n. 0me h
-nó, interrog. part. nomino, are, avi, atum, v. «me
+ne, conj. noï¿½ even, that not nomen, inis, n. 0me h
+nï¿½, interrog. part. nomino, are, avi, atum, v. ï¿½me
 nebula, ae, f. cloud non, adv. qot l
 nec, neque, conj. and adv. neither, | nonne, adv. n questions expecting
 nor answer **ajes
-necessarius, a, um, adj. «ecessary, | nonnihil, n. something
+necessarius, a, um, adj. ï¿½ecessary, | nonnihil, n. something
 relative nonnullus, a, um, ad). sone
-necesse, n. adj. necessary |nonnunquam, adv. sometimes — — Y
+necesse, n. adj. necessary |nonnunquam, adv. sometimes ï¿½ ï¿½ Y
 a d
 170 LATIN READER
 . nonus, a, um, adj. aint, Obicio, ere, ieci, iectum, v. (Arow
@@ -6687,10 +6586,10 @@ noster, tra, trum, adj. our oblino, ere, levi, litum, v. smear,
 nota, ae, f. mark, brand cover
 noto, are, avi atum, v. mark, obliquus, a, um, adj. s/anting
 brand obliviscor, i, itus, v. forget
-nótus, i, m, south wind Oobnascor, i, natus, v. grow on
+nï¿½tus, i, m, south wind Oobnascor, i, natus, v. grow on
 novellus, a, um, adj. new obnoxius, a, um, adj. (1) exposed
 novem, num. nine to, (2) guilty
-novo, are, avi, atum, v. renew Oborior, iri, ortus, v. síart «up
+novo, are, avi, atum, v. renew Oborior, iri, ortus, v. sï¿½art ï¿½up
 novus, a, um, adj. new Obruo, ere, ui, utum, v. (1) cover,
 ... nox, noctis, f. night, death (2) overwhelm
 | nubes, is, f. cloud obscurus, a, um, adj. obscure
@@ -6698,43 +6597,43 @@ nubo, ere, psi ptum, v. marry | Obsecro, are, avi, atum, v. beseech
 (a husband) obsequor, i, secutus, v. comply
 nudo, are, avi, atum, v. /ay bare with,
 nudus, a, um, adj. bare, naked Obsero, are, avi, atum, v. fasten wp
- nugator, oris, m. £rifler Obsero, ere, sevi, situm, v. (1l)
+ nugator, oris, m. ï¿½rifler Obsero, ere, sevi, situm, v. (1l)
 nullus, a, um, adj. 20ne plant, (2) cover
 num, adv. expecting answer **no? | observatio, onis, f. notice
 numero, are, avi, atum, v. count, | observo, are, avi, atum, v. notice
 poey Obses, idis, c. hostage
-numerosus, a, um, adj. (1) »wmer-| Obsideo, ere, sedi, sessum, v.
+numerosus, a, um, adj. (1) ï¿½wmer-| Obsideo, ere, sedi, sessum, v.
 ous, (2) rhythmical blockade
 ^ numerus, i, m. (1) mwmber, (2)| obsidio, onis, f. blockade
 tune Obsto, are, stiti, stitum, v. oppose
-» nummus, i, m. (1) coin, (2) sester- | obstringo, ere, nxi, ctum, v. (ie,
+ï¿½ nummus, i, m. (1) coin, (2) sester- | obstringo, ere, nxi, ctum, v. (ie,
 tius bind
 nunc, adv. 4?ow obstupefacio, ere, feci, factum, v.
 nunquam, adv. never astonish
-nuntio, are, avi atum, v. «n-|obtempero, are, avi, atum, v.
+nuntio, are, avi atum, v. ï¿½n-|obtempero, are, avi, atum, v.
 mownce submit to
-nuntius, ii, m. «essenger Obtestor, ari, atus, v. protest, en-
+nuntius, ii, m. ï¿½essenger Obtestor, ari, atus, v. protest, en-
 nuper, adv. /ately treat
 nuptiae, arum, f. wedding obtineo, ere, tinui, tentum, v.
 nusquam, adv. nowhere maintain
-nux, nucis, f. 2u£, cone Obtingo, ere, tigi, v. touch, happen
-obtrunco, are, avi, atum, v. E£ill
+nux, nucis, f. 2uï¿½, cone Obtingo, ere, tigi, v. touch, happen
+obtrunco, are, avi, atum, v. Eï¿½ill
 ] O, interj. oh! obviam, adv. ?n the way of
 Ob, prep. on account of obvius, a, um, adj. 2n the way
 Obaro, are, avi, atum, v. plough up | occasio, onis, f. occasion
-Obdormio, ire, ivi, itum, v. fa// | occasus, üs, m. setting, death.
-asleep occido, ere, cídi, casum, v. fall
+Obdormio, ire, ivi, itum, v. fa// | occasus, ï¿½s, m. setting, death.
+asleep occido, ere, cï¿½di, casum, v. fall
 Obedio, ire, ivi, itum, v. obey occido, ere, cidi, cisum, v. strike,
 Obeo, ire, ivi, itum, v. (1) die, (2)| kill
 perform, (3) visit occulo, ere, ui, ultum, v. conceat
 Obesitas, atis, f. fatness occulto, are, avi, atum, v. hide
 " VOCABULARY 171
 occumbo, ere, cubui, cubitum, v. | oppidulum, i, n. Zitfle town 1
-fall, die oppidum, i, n. £own
+fall, die oppidum, i, n. ï¿½own
 occupo, are, avi, atum, v. seize oppono, ere, sui, situm, v. oppose
 occurro, ere, (cu)eurri, cursum, v. | opportunus, a, um, adj. convenient
 mect opprimo, ere, pressi pressum, v.
-occursus, üs, m. meeting erush, surprise
+occursus, ï¿½s, m. meeting erush, surprise
 oceanus, i, m. ocean opprobrium, ii, n. disgrace
 octavus, a, um, num. eight, OpS, opis, f. help, pl. wealth, m
 octingenti, ae, a, num. ceighi| optimates, ium, m. leaders
@@ -6751,37 +6650,37 @@ offero, ferre, obtuli, oblatum, v. | oraculum, i, n. oracle
 offer orbis, is, m. circle, world
 officina, ae, f. workshop, studio orbus, a, um, adj. deprived. of
 officiosus, a, um, adj. obliging Orcus, i, m. deat/
-officium, ii, n. (1) du£y, (2) kindness | ordino, are, avi, atum, v. arrange
+officium, ii, n. (1) duï¿½y, (2) kindness | ordino, are, avi, atum, v. arrange
 offirmo, are, avi, atum, v. make fast | ordo, inis, m. rank, row
 offundo, ere, fudi, fusum, v. pour, | oriens, tis, m. east
 spread origo, inis, f. origin, parentage
 olea, ae, f. olive orior, iri, ortus, v. rise
 oleum, i, n. oii ornamentum, i, n. ornament
-olim, adv. once (inm time past and |ornatus, üs, m. equipment, orna-
+olim, adv. once (inm time past and |ornatus, ï¿½s, m. equipment, orna-
 4n time future) ment
 omen, inis, n. omen orno, are, avi, atum, v. adorn, fit out
 omitto, ere, si, ssum, v. leave out. | oro, are, avi, atum, v. (1) ask, (2)
 omnino, adv. a/together plead
 omnis, e, adj. oll, every oS, oris, n. mouth, face
-onerarius, a, um, adj. of burden — | os, ossis, n. bone
+onerarius, a, um, adj. of burden ï¿½ | os, ossis, n. bone
 onero, are, avi, atum, v. load ostendo, ere, di, sum and tum,
 onus, eris, n. burden v. Show
 onustus, a, um, adj. loaded. ostentator, oris, m. booster
 opacus, a, um, adj. tAick, dork ostium, ii, n. door, mouth.
 opera, ae, f. pains, care ostracismus, i, m. ZAthenian mode
 operio, ire, ui, ertum, v. cover of banishanent
-opifex, icis, c. workman otiosus, a, um, adj. «nemployed.
-opimus, a, um, adj. fat, wealthy — | otium, ii, n. leisure, peace
+opifex, icis, c. workman otiosus, a, um, adj. ï¿½nemployed.
+opimus, a, um, adj. fat, wealthy ï¿½ | otium, ii, n. leisure, peace
 opinatio, onis, f. conjecture, opinion | otus, i, m. horned owl
 opinio, onis, f. opinion ovis, is, f. sheep
 opipare, adv. splendidly ovum, i, n. egg
-oportet, ere, uit, V. i£ 4s necessary
+oportet, ere, uit, V. iï¿½ 4s necessary
 oppeto, ere, ivi, itum, v. encounter | pabulor, ari, atus, v. feed, forage
-oppidanus, a, um, adj. townsfolk | pabulum, i, n. food, pasture — r
-172 — LATIN READER
+oppidanus, a, um, adj. townsfolk | pabulum, i, n. food, pasture ï¿½ r
+172 ï¿½ LATIN READER
 paciscor, i, pactus, v. agree paucus, a, um, adj. few L.
 pactio, onis, f. bargain paulatim, adv. little by little
-pactum, i, n. agreement, (abl.) way | paullulum, adv. « litile time or
+pactum, i, n. agreement, (abl.) way | paullulum, adv. ï¿½ litile time or
 paene, adv. almost Space
 palam, adv. openly paulo, paulum, adv. a little
 palatium, ii, n. palace pauper, eris, adj. /vumble, poor
@@ -6801,17 +6700,17 @@ parco, ere, peperci, parcitum and | pelagus, 1, n. sea
 parsum, v. Spare pellis, is, f. Aide
 parens, tis, c. parent pello, ere, pepuli, pulsum, v.
 pareo, ere, ui, itum, v. obey Strike, drive
-paries, etis, m. 4va/l of à, house pelta, ae, f. small crescent-shaped
+paries, etis, m. 4va/l of ï¿½, house pelta, ae, f. small crescent-shaped
 pario, ere, peperi, partum, v. pro-| shield
 duce, bring forth, penates, ium, m. Aousehold (gods)
-pariter, adv. equally pendeo, ére, pependi, v. be sus-
+pariter, adv. equally pendeo, ï¿½re, pependi, v. be sus-
 parma, ae, f. shield. (round) pended
 paro, are, avi, atum, v. prepare pendo, ere, pependi, pensum, v.
 5 pars, tis, f. share, part, side | (1) hang, (2) pay
 partim, adv. partly penicilum and penicillus, i (n.
-parum, adv. £oo little and m.), brush, pencil
+parum, adv. ï¿½oo little and m.), brush, pencil
 parvulus, a, um, adj. very small | penitus, adv. inwardly, utterly
-parvus, a, um, adj. small | penna, ae, f. «ing
+parvus, a, um, adj. small | penna, ae, f. ï¿½ing
 pasco, ere, pavi, pastum, v. feed penuria, ae, f. poverty, want
 passim, adv. in many directions per, prep. through, by means of
 pastor, oris, m. shepherd | peracutus, a, um, adj. very sharp
@@ -6824,31 +6723,31 @@ paternus, a, um, adj. of a father get, (2) perceive
 patientia, ae. f. patience percrebresco, ere, ui, v. spread
 patior, i, passus, v. endure, suffer about
 patria, ae, f. country, fatherland percunctor, ari, atus, v. ask
-patrius, a, um, adj. of « father, | percutio, ere, cussi, cussum, v. strike
+patrius, a, um, adj. of ï¿½ father, | percutio, ere, cussi, cussum, v. strike
 native , perdite, adv. desperately
 patronus, i, m. defender, advocate | perdo, ere, didi, ditum, v. (1) ose,
 paucitas, atis, f. fewness (2) destroy 1 i "
 an
 VOCABULARY 173
 perduco, ere, xi, ctum, v. lead | perspicio, ere, exi, ectum, v. ook
-through, prolong a£ closely
+through, prolong aï¿½ closely
 peregrinus, a, um, adj. foreign persto, are, stiti, statum, v. sand
 pereo, ire, ivi, itum, v. (1) go| firm
-thwough, (2) perish persuadeo, ére, sj, sum, v. per-
+thwough, (2) perish persuadeo, ï¿½re, sj, sum, v. per-
 perexiguus, a, um, adj. very small |  suade
-perfacilis, e, adj. very easy pertaedet, ére, sum est, v. feel
-perfero, ferre, tuli, latum, v. carry | — désgust
-through, out pertento, are, avi, atum, v. íest,
-perficio, ere, feci, fectum, v. finish | — consider
+perfacilis, e, adj. very easy pertaedet, ï¿½re, sum est, v. feel
+perfero, ferre, tuli, latum, v. carry | ï¿½ dï¿½sgust
+through, out pertento, are, avi, atum, v. ï¿½est,
+perficio, ere, feci, fectum, v. finish | ï¿½ consider
 perfidia, ae, f. (reachery perterritus, a, um, adj very
 perfringo, ere, fregi, fractum, v.| frightened
 break through, pertineo, ere, ui, v. (1) reach to,
 perfuga, ae, m. deserter (2) belong
 perfundo, ere, fudi, fusum, v. powr | pertundo, ere, tudi, tusum, v.
-over, àmbue perforate
+over, ï¿½mbue perforate
 perfungor, i, functus, v. perform | perturbo, are, avi, atum, v. dis-
-pergo, ere, perrexi, perrectum, v. go| | éurb
-periculum, i, n. danger perungo, ere, xi, ctum, v..onoin£
+pergo, ere, perrexi, perrectum, v. go| | ï¿½urb
+periculum, i, n. danger perungo, ere, xi, ctum, v..onoinï¿½
 perimo, ere, emi, emptum, v.|perveho, ere, xi, ctum, v. carry
 destroy through,
 perinde, adv. equally pervenio, ire, veni, ventum, v.
@@ -6856,10 +6755,10 @@ peritus, a, um, adj. skilled come through
 permaneo, ere, si, sum, v. endure | pes, pedis, m. foot
 permetior, iri, mensus, v. ?easure, | pessimus, a, um (sup. of malus),
 traverse adj. worst
-permitto, ere, si, ssum, v. a//ow . | pessum, adv. £o ruin
-permoveo, ére, movi, motum, v.| pestilens, tis; adj. wnwholesome
+permitto, ere, si, ssum, v. a//ow . | pessum, adv. ï¿½o ruin
+permoveo, ï¿½re, movi, motum, v.| pestilens, tis; adj. wnwholesome
 Touse pestis, is, f. plague
-permulceo, ére, si, sum, v. síroke, | peto, ere, ivi, itum, v. (1) go to,
+permulceo, ï¿½re, si, sum, v. sï¿½roke, | peto, ere, ivi, itum, v. (1) go to,
 Soothe (2) attack, (8) ask, seek
 permultus, a, um, adj. very manj | petulantia, ae, f. sauciness
 permutatio, onis, f. change phalanx, gis, f. arm $n close order
@@ -6873,15 +6772,15 @@ perpaucus, a, um, adj. very few | | pictura, ae, f. picture
 perpetior, i, pessus, v. endwure pietas, atis, f. affection, pieta
 perpetuus, a, um, adj. wnbroken | pignus, oris, n. pledge :
 perrumpo, ere, rupi, ruptum, v.| pilum, i, n. Aeavy javelin
-break through, pineus, a, um, adj. of píne
-perscrutor, ari, atus, v. exomíne | pingo, ere, xi, pictum, v. paint
+break through, pineus, a, um, adj. of pï¿½ne
+perscrutor, ari, atus, v. exomï¿½ne | pingo, ere, xi, pictum, v. paint
 persequor, i, secutus, v. pursue, | pinguis, e, adj. fat
-strive after, obtain pinus, üs, f. pine
-persolvo, ere, vi, utum, v. «nloose, | pirata, ae, m. pirate
-à pay C piraticus, a, um, adj. of pirate
+strive after, obtain pinus, ï¿½s, f. pine
+persolvo, ere, vi, utum, v. ï¿½nloose, | pirata, ae, m. pirate
+ï¿½ pay C piraticus, a, um, adj. of pirate
 ." a^ P"
 174 ( LATIN READER.
-piscator, oris, m. fisher | possideo, ére, sedi, sessum, v. possess
+piscator, oris, m. fisher | possideo, ï¿½re, sedi, sessum, v. possess
 piscis, is, m. fish | possum, posse, potui, v. be able
 piscor, ari, atus, v. fis/ post, adv. and prep. (1) behind, (2)
 pistor, oris, m. miller after
@@ -6889,7 +6788,7 @@ pistrinum, i, n. zuill postea, adv. afterwards
 pisum, i, n. pez posterus, a, um, adj. following
 pius, a, um, adj. affectionate, pious | posthac, adv. after this
 placenta, ae, f. cake postmodo, adv. afterwards
-placeo, ére, ui, itum, v. please postquam, conj. after that, when
+placeo, ï¿½re, ui, itum, v. please postquam, conj. after that, when
 placidus, a, um, adj. quiet postremus, a, um, adj. /ast
 placo, are, avi, atum, v. appease postridie, adv. next day
 plaga, ae, f. blow postulatio, onis, f. demand
@@ -6902,15 +6801,15 @@ plerique, aeque, aque, adj. very | poto, are, avi, atum, v. drink
 
 mana praealtus, a, um, adj. very high,
 plerumque, adv. offen very deep
-plumbum, i, n. /ead praebeo, ére, ui, itum, v. offer,
+plumbum, i, n. /ead praebeo, ï¿½re, ui, itum, v. offer,
 plurimus, a, um (sup. of multus) | grant
 
 adj. very many praecedo, ere, ssi, ssum, v. go
 plus, ris (comp. of multus),adj.more| before
 pluvialis, e, adj. rainy | proecens cipitis, adj. Aeadlong
-poculum, i, n. cup praeceptor, oris, m. £eacher
-poena, ae, f. punishment praeceptum, i, n. (1) ma«im, (2)
-poenitet, ere, uit, v. i£ repents order
+poculum, i, n. cup praeceptor, oris, m. ï¿½eacher
+poena, ae, f. punishment praeceptum, i, n. (1) maï¿½im, (2)
+poenitet, ere, uit, v. iï¿½ repents order
 
 a poeta, ae, m. poet praecido, ere, cidi, cisum, v. cut off
 
@@ -6918,7 +6817,7 @@ polliceor, eri, itus, v. promise praecipio, ere, cepi, ceptum, v.
 pomum, i, n. frwit teach
 pondus, eris, n. eceight praecipito, are, avi, atum, v. (I)
 pone, adv. and prep. behind throw, seize before, (2) rush down
-pono, ere, sui, situm, v. »/ace, lay | pracipue, adv. particularly
+pono, ere, sui, situm, v. ï¿½/ace, lay | pracipue, adv. particularly
 
 down praecipuus, a, um, adj. particular
 pons, tis, m. bridge praeclarus, a, um, adj. famous,
@@ -6928,37 +6827,37 @@ native, popular praecludo, ere, si, sum, v. shut
 populus, i, m. people praeco, onis, m. crier, herald
 porcellus, i, m. [iiie pig praeda, ae, f. booty
 porcus, i, m. pig praedico, ere, xi, ctum, v. (1) pre-
-porrigo, ere, exi, ectum, v. síretch, dict, (2) advise
+porrigo, ere, exi, ectum, v. sï¿½retch, dict, (2) advise
 
 offer praedico, are, avi, atum, v. declare
 porro, adv. further, again praeditus, a, um, adj. endued. with
 porta, ae, f. gate praedo, onis, m. robber
 porto, are, avi, atum, v. carry praedor, ari, atus, v. plunder
-portus, üs, m. harbour praeficio, ere, feci, fectum, v. set over
+portus, ï¿½s, m. harbour praeficio, ere, feci, fectum, v. set over
 posco, ere, poposci, v. demand praefigo, ere, xi, xum, v. fasten on
 possessio, onis, f. possession praefluo, ere, v. flow past 2d
 " - - VOCABULARY 175
 praefor, ari, atus, v. say beforehand | primus, a, um, adj. first
 praefrigidus, a, um, adj. very cold | princeps, ipis, m. cAief, emperor
-praefulgeo, ére, si, v. shine principatus, üs, m. suwpremaey
-praegusto, are, avi, atum, v. £osíe | prior, us, adj. (1) former, (2) front *
+praefulgeo, ï¿½re, si, v. shine principatus, ï¿½s, m. suwpremaey
+praegusto, are, avi, atum, v. ï¿½osï¿½e | prior, us, adj. (1) former, (2) front *
 praemitto,ere,si,ssum, v.send before | priscus, a, um, adj. of former
 praemium, ii, n. reward time
 praenuntio, are, avi, atum, v. | priusquam, conj. before that
 
 announce before privatus, a, um, adj. private
 praeopto, are, avi, atum, v. prefer | pro, prep. 9m front of, instead of,
-praeparo, are, avi, atum, v. prepare | — on behalf of
+praeparo, are, avi, atum, v. prepare | ï¿½ on behalf of
 praepono, ere, sui, situm, v. place | probo, are, avi, atum, v. prove,
 
 over approve
 praerumpo, ere, rupi, ruptum, v. | proboscis, idis, f. trunk
 
 break off procedo, ere, cessi, cessum, v.
-praeseco, are, ui, sectum, v. cu£off | | walk on, go on
+praeseco, are, ui, sectum, v. cuï¿½off | | walk on, go on
 praesens, entis, adj. present proclamo, are, avi, atum, v. pro-
 praeses, idis, m. (1) guard, (2) chief | | claim.
-praesidium, ii, n. protection, fort, |proconsularis, e, adj. of « pro-
+praesidium, ii, n. protection, fort, |proconsularis, e, adj. of ï¿½ pro-
 
 garrison consul
 praestigiae, arum, f. tricks procul, adv. far off
@@ -6978,29 +6877,29 @@ praetextatus, a, um, adj. wearing | profero, ferre, tuli, latum, v.
 toga praetexta (bordered with | bring forth, reveal
 purple) proficiscor, i, fectus, v. set out
 praetor, oris, m. praetor profiteor, eri, fessus, v. Gvow
-precor, ari, atus, v. prag profugio, ere, fügi, v. fee away
+precor, ari, atus, v. prag profugio, ere, fï¿½gi, v. fee away
 prehendo, ere, di, sum, v. seize profundo, ere, fudi, fusum, v.
 premo, ere, pressi, pressum, v.| pour forth, spend
 qress, subdue, cover profundus, a, um, adj. deep
-pretiosus, a, um, adj. costly progredior, i, gressus, v. «march
+pretiosus, a, um, adj. costly progredior, i, gressus, v. ï¿½march
 pretium, ii, n. price, wort/, on
 prex, precis, f. prayer prohibeo, ere, ui, itum, v. prevent
 pridem, adv, /ong ago proicio, ere, ieci, iectum, v. //vrow
 pridie, adv. the day before Jorth,
-primo, adv. a£ first prolabor, i, lapsus, v. s/ip down
+primo, adv. aï¿½ first prolabor, i, lapsus, v. s/ip down
 primores, um, m. cAef men proles, is, f. offspring
 primum, adv. first; (with quam) as | promiscuus, a, um, adj ndis.
-8001, as possible - we erimánate —u—
-p^ MEME ———
+8001, as possible - we erimï¿½nate ï¿½uï¿½
+p^ MEME ï¿½ï¿½ï¿½
 176 LATIN READER
 ^ promissum, i, n. promise provincia, ae, f. goverument, pro-
  promissus, a, um, adj. /ong vince
 promitto, ere, si, ssuim, v. promise | provisio, onis, f. foreseeing
-' promoveo, ére, movi, motum, v. | proximus, a, um, adj. «warest
+' promoveo, ï¿½re, movi, motum, v. | proximus, a, um, adj. ï¿½warest
 advance, move on prudens, tis, adj. prudent
 promptus, a, um, adj. ready prudentia, ae, f. prudence
 pronuntio, are, avi, atum, v. pro-| psittacus, i, m. parrot
-elam . puber, eris, adj. grown «p
+elam . puber, eris, adj. grown ï¿½p
 propatulum, i, n. open court publice, adv. officially, publicly
 prope, adv. and prep. (1) 2ear, (2) | publicus, a, um, adj. public
 nwarly pudet, ere, uit, v. if causes shame
@@ -7029,40 +6928,40 @@ proscribo, ere, psi, ptum, v. (1)| puppis, is, f. stern, ship
 prosequor, i, eutus, v. aiiend, | pusillus, a, um, adj. small, nean
 pursue puto, are, avi, atum, v. (ink,
 . prosino, jre, ui, v. leap forth, believe
-prospectus, üs, m. prospect putrefacio, ere, feci, factum, v.
-prospicio, ere, exi, ectum, v. look | — snake soft, make rotten
-.— out, look out for putresco, ere, v. moulder, pine aaa
+prospectus, ï¿½s, m. prospect putrefacio, ere, feci, factum, v.
+prospicio, ere, exi, ectum, v. look | ï¿½ snake soft, make rotten
+.ï¿½ out, look out for putresco, ere, v. moulder, pine aaa
 prosterno, ere, stravi, stratum, v.
 tArow before, overtlurow quadraginta, num. forty
 prosum, fui, prodesse, v. be of use | quadriduum, i, n. four days! space
 protego, ere, xi, ctum, v. protect. | quaero, ere, sivi, situm, v. seek, ask
-protinus, adv. a£ once, forthwith ^ | quaeso, ere, ivi, v. beseech, beg
+protinus, adv. aï¿½ once, forthwith ^ | quaeso, ere, ivi, v. beseech, beg
 provenio, ire, veni, ventum, v. go | quaestuosus, a, um, adj. of gain
-on, thrive qualis, adj. of «Aat kind D
-provideo, ére, vidi, visum, v. sec | quam, adv. Aow, as, than
-before, provide before quamdiu, eonj. «s long as p
+on, thrive qualis, adj. of ï¿½Aat kind D
+provideo, ï¿½re, vidi, visum, v. sec | quam, adv. Aow, as, than
+before, provide before quamdiu, eonj. ï¿½s long as p
 providus, a, um, adj. provident quamobrem, adv, wherefore
 * - ] VOCABULARY h 177
 quamvis, conj. although, | quominus, conj. (Aa not q
-quando, adv. and conj. when? a£ | quomodo, adv. ow
+quando, adv. and conj. when? aï¿½ | quomodo, adv. ow
 
 any time quondam, adv. once, formerly
 quanquam, conj. although quoniam, conj. since
-quantus, a, um, adj. of 1wAa£ size, | quoque, adv. also . -
+quantus, a, um, adj. of 1wAaï¿½ size, | quoque, adv. also . -
 how mach, quorsum, adv. whither
 quare, adv. wherefore quot, adj. how many
-quartus, a, um, adj. fourt/, quotidianus, a, um, adj. daily —
-quasi, adv. «s if quotidie, adv. every day
-quasso, are, avi, atum, v. shake — | quoties, adv. Aow often
-quatio, ere, quassum, v. shake quotus, a, um, adj. of «hat number ?
-quattuor, num. fowr quum (cum), eonj. avhen, since —
+quartus, a, um, adj. fourt/, quotidianus, a, um, adj. daily ï¿½
+quasi, adv. ï¿½s if quotidie, adv. every day
+quasso, are, avi, atum, v. shake ï¿½ | quoties, adv. Aow often
+quatio, ere, quassum, v. shake quotus, a, um, adj. of ï¿½hat number ?
+quattuor, num. fowr quum (cum), eonj. avhen, since ï¿½
 que, conj. and
 quemadmodum, adv. ow radio, are, avi, atum, v. shine
 quercetum, i, n. oak grove radius, ii, m. raj
 querela, ae, f. complaint radix, icis, f. root
 queror, i, questus, v. complain rado, ere, si, sum, v. scrape, rub
-qui, quae, quod, (1) adj. «/Ao ? (2)  ramentum, i, n. serapings, dust
-rel. pron. 4vÀo ramus, i, m. bough
+qui, quae, quod, (1) adj. ï¿½/Ao ? (2)  ramentum, i, n. serapings, dust
+rel. pron. 4vï¿½o ramus, i, m. bough
 quia, conj. because rana, ae, f. frog
 quicunque, quaecunque, quod- |rapidus, a, um, adj. fast
 cunque (cum), rel. pron. wAoever | rapina, ae, f. rapine
@@ -7071,57 +6970,57 @@ dam), pron. some one hurry
 quidem, adv. indeed rapum, i, n. &urnip
 quies, tis, f. csi rarus, a, um, adj. vare
 quiesco; ere, evi, etum, v. rest ratio, onis, f. (1) pian, (2) account,
-quin, conj. (1) óu£ that, that not, (3) reason
-(2) «hy not, (3) indeed ratis, is, f. ship
+quin, conj. (1) ï¿½uï¿½ that, that not, (3) reason
+(2) ï¿½hy not, (3) indeed ratis, is, f. ship
 quindecim, num. fifteen ratus, a, um (reor), adj. settled
 quingenti, ae, a, num. five hundred | recedo, ere, cessi, cessum, v. retreat
 quini, ae, a, num. five each, recipio, ere, epi, eptum, v. (1l)
 quinquaginta, num. fifty Teceive, (2) with se, retreat, me-
 quinque, num. fivc turn, (3) regain, (4) allow
-quippe, adv. and conj. since, £o be | reclino, are, avi, atum, v. vecline
+quippe, adv. and conj. since, ï¿½o be | reclino, are, avi, atum, v. vecline
 sure reconditus, a, um, adj. abstruse
 quis, quid, pron. wo? any onc recondo, ere, idi, itum, v. hide
 quisnam, quaenam, quidnam, pron. | recordor, ari, atus, v. remember
 pho? recte, adv. rightly
-quisquam, quicquam, pron. «4j |rector, oris, m. ruler
+quisquam, quicquam, pron. ï¿½4j |rector, oris, m. ruler
 one rectus, a, um, adj. right
 quisque, quaeque, quodque (and | recumbo, ere, cubui, v. /ie down
 quidque), pron. eac recupero, are, avi, atum, v. (1)
 quisquis, quiequid, pron. wAoever regain, (2) refresh
 quivis, quaevis, quodvis (quidvis), | recuso, are, avi, atum, v. refuse
-pron. an one ow like redarguo, ere, ui, v. rofuíe, dis-
-quo, adv. «whither prove
-quoad, conj. «n£il, as long as reddo, ere, idi, itum, v. (1) give
+pron. an one ow like redarguo, ere, ui, v. rofuï¿½e, dis-
+quo, adv. ï¿½whither prove
+quoad, conj. ï¿½nï¿½il, as long as reddo, ere, idi, itum, v. (1) give
 quod, conj. because back, (2) represent "XN
 | N E-
 178 |. LATIN READER c
-redemptio, onis, f. buying back — | repleo, ére, evi, etum, v. fill up
+redemptio, onis, f. buying back ï¿½ | repleo, ï¿½re, evi, etum, v. fill up
 redeo, ire, ivi, itum, v. return repono, ere, sui, situm, v. replace,
-redigo, ere, egi, actum, v. (1) bríng | | preserve
+redigo, ere, egi, actum, v. (1) brï¿½ng | | preserve
 
 back, (2) reduce reporto, are, avi, atum, v. carry
 redimo, ere, emi, emptum, w buy| away, back
 back, buy cs ere, essi, essum, v. 7c-
-reditus, üs, m. refurn qress, erush, i
+reditus, ï¿½s, m. refurn qress, erush, i
 reduco, ere, xi, ctum, v. /ead back | repudio, are, avi, atum, v. reject
 refercio, ire, si, tum, v. stuff full | repugno, are, avi, atum, v. resist
 refero, ferre, tuli, latum, v. (1) carry | reputo, are, avi, atum, v. think
 back, restore, (2) report, record requiesoo, ere, evi, etum, v. vest
 reflcio, ere, eci, ectum, v. venew, | requiro, ere, sivi, situm, v. search,
 refresh, Jor, ask
-reformo, are, avi, atum, v. írans- | res, rei, f. (1) thing, event, (2) pro-
+reformo, are, avi, atum, v. ï¿½rans- | res, rei, f. (1) thing, event, (2) pro-
 form perty, (3) cause, (4) fact
 refoveo, ere, fovi, fotum, v. refresh | rescindo, ere, scidi, scissum, v.
 refreno, are, avi, atum, v. vestrain tear open
-refrigero, are, avi, atum, v. cool |resero, are, avi, atum, v. «nbar
-regia, ae, f. palace resideo, ére, sedi, v. sit down,
+refrigero, are, avi, atum, v. cool |resero, are, avi, atum, v. ï¿½nbar
+regia, ae, f. palace resideo, ï¿½re, sedi, v. sit down,
 regina, ae, f. queen tarry
 regio, onis, f. district resido, ere, sedi, v. settle
 regius, a, um, adj. royal resisto, ere, stiti, v. (1) withstand,
 regno, are, avi, atum, v. reign (2) stand still
 regnum, i, n. kingdom resolvo, ere, i, utum, v. wntie,
 regredior, i, gressus, v. retire annu
-reicio, ere, ieci, iectum, v. (Auow | resorbeo, ére, v. suck back
+reicio, ere, ieci, iectum, v. (Auow | resorbeo, ï¿½re, v. suck back
 back, reject respicio, ere, exi, ectum, v. /ook
 religio, onis, f. religion, scruple back at, regard
 " religo, are, avi, atum, v. tie respondeo, ere, di, sum, v. answer
@@ -7130,11 +7029,11 @@ reliquus, a, um, adj. /eft, remaining | respublica, reipublicae, f. state; e :
 remando, are, avi, atum, v. send | republica, for the welfare of the
 back word. state
 remedium, ii, n. remedy restituo, ere, ui, utum, v. restore
-remitto, ere, si, ssum, v. (1) send | retardo, are, avi, atum, v. émpede
+remitto, ere, si, ssum, v. (1) send | retardo, are, avi, atum, v. ï¿½mpede
 back, (2) with calces, kick, (3) /et go | rete, is, n. nct
 removeo, ere, vi, tum, v. "remove  |retiarius, i, m. net-fighter
 remus, i, m. oar retineo, ere, ui, tentum, v. vefain
-renuntio, are, avi, atum, v. «a-|retro, adv. backwards
+renuntio, are, avi, atum, v. ï¿½a-|retro, adv. backwards
 nownce retroversum, adv. backwards
 renuo, ere, ui, v. refuse, voject reus, i, m. accused. person
 reor, reri, ratus, v. think revello, ere, velli, vulsum, v. pull
@@ -7146,22 +7045,22 @@ reperio, ire, i, tum, v. find revincio, ire, nxi, nctum, v. fusten
 repeto, ere, ivi (ii), itum, v. (1) go | revoco, are, avi, atum, v. recall
 back to, (2) recall, (3) demand rex, regis, m. king D-
 VOCABULARY 179 .
-rideo, ére, si, sum, v. laugh salus, tis, f. safely, welfare
+rideo, ï¿½re, si, sum, v. laugh salus, tis, f. safely, welfare
 ridiculus, a, um, adj. ridiculous, | saluto, are, avi, atum, v. salute
 
-funny salve, imp. of salveo, AÀeil! good
+funny salve, imp. of salveo, Aï¿½eil! good
 rigor, oris, m. coidness, stiffness day !
 ripa, ae, f. bank salvus, a, um, adj. safe, sound
-risus, üs, m. laughter sanctitas, atis, f. holiness
+risus, ï¿½s, m. laughter sanctitas, atis, f. holiness
 rite, adv. fitly sanctus, a, um, adj. sacred, holjj
-rixor, ari, atus, v. quarrel sane, adv. indeed, £o be swre
+rixor, ari, atus, v. quarrel sane, adv. indeed, ï¿½o be swre
 robur, oris, n. (1) strength, (2) oak | sanguis, inis, m. blood
 robustus, a, um, adj. strong sanies, f. poisoned. gore
-rO£O, are, avi, atum, v. ask sanitas, atis, f. Aealth —
+rOï¿½O, are, avi, atum, v. ask sanitas, atis, f. Aealth ï¿½
 rogus, i, m. funeral-pile Sano, are, avi, atum, v. eal
 roseus, a, um, adj. rosy sanus, a, um, adj. healthy
-rotatus, a, um, adj. revolving sapiens, tis, adj. «vise .
-rubesco, ere, ui, v. redden sapientia, ae, f. «wisdom
+rotatus, a, um, adj. revolving sapiens, tis, adj. ï¿½vise .
+rubesco, ere, ui, v. redden sapientia, ae, f. ï¿½wisdom
 rudis, e, adj. untaught, wild sarcina, ae, f. bundle, baggage
 rudis, is, f. foil satelles, itis, c. attendant
 ruina, ae, f. ruin Satio, are, avi, atum, v. satisfy
@@ -7177,14 +7076,14 @@ Saccus, i, m. bag saxum, i, n. rock, stone
 Sacer, cra, crum, adj. Aoly scapha, ae, f. boat
 Sacerdos, otis, c. priest scelestus, a, um, adj. eccursed
 sacrificium, ii,.n. sacrifice scelus, eris, n. (1) erime, (2) villain
-S&criflco, are, avi, atum, v. sacri- | scena, ae, f. síage
+S&criflco, are, avi, atum, v. sacri- | scena, ae, f. sï¿½age
 
 Jice Scilicet, adv. of course, doubtless
 sacrilegium, ii, n. sacrilege Scio, ire, ivi, itum, v. know
 sacrilegus, a, um, adj. guiliy of |sciscitor, ari, atus, v. question
 
 saerilege Scribo, ere, psi, ptum, v. write
-Sacro, are, avi, atum, v. consecrate | scriptor, oris, m. «writer, author
+Sacro, are, avi, atum, v. consecrate | scriptor, oris, m. ï¿½writer, author
 saepe, adv. offen Scrutor, ari, atus, v. examine
 saepenumero, adv. often Sculpo, ere, psi, ptum, v. carve
 Saepio, ire, psi, ptum, v. fence in  |scurra, ae, m. buffoon
@@ -7196,11 +7095,11 @@ sagitta, ae, f. arrow secretus, a, um, adj. secre
 sal, salis, m. salt secundum, prep. affer, according to
 salictum, i, n. plantation of willows | secundus, a, um, adj. (1) second,
 salto, are, avi, atum, v. dance (2) favourable
-Saltus, üs, m. (1) /eap, (2) ravine | securis, is, f. axe
+Saltus, ï¿½s, m. (1) /eap, (2) ravine | securis, is, f. axe
 salubris, e, adj. Aecalthy securitas, atis, f. freedom from care
 salutatio, onis, f. sajutation Securus, a, um, adj. free from care
 salutator, oris, m, visitor sed, conj. but -- !
-pou -— —
+pou -ï¿½ ï¿½
 180 LATIN READER - M
 sedeo, ere, sedi, sessum, v. (1) sit, | sestertius, ii, m. (23 asses), about d.
 (2) settle Seu, v. sive
@@ -7214,12 +7113,12 @@ semel, adv. once Siccus, a, um, adj. dry
 semen, inis, n. seed Sicut, dv. ust
 semper, adv. always Sicuti, BO IULIAE
 senator, oris, m. senator | signiflcatio, onis, f. sign
-senatus, üs, m. senate signiflco, are, avi, atum, v. sAow,
+senatus, ï¿½s, m. senate signiflco, are, avi, atum, v. sAow,
 senectus, utis, f. old age make a, sign
 senex, is, m. old man signo, are, avi, atum, v. mark,
 senium, ii, n. decay stamp, seal
 sensim, adv. gradually signum, i, n. (1) mark, (2) stand-
-Sensus, üs, m. sense ard, (3) statue
+Sensus, ï¿½s, m. sense ard, (3) statue
 sententia, ae, f. opinion, decision | silentium, ii, n. silence
 sentio, ire, si, sum, v. (1) /Aink, | sileo, ere, ui, v. be silent
 perceive, (2) decide silex, icis, m. pebble, flint
@@ -7227,17 +7126,17 @@ separatim, adv. separately silva, ae, f. 4vood
 separo, are, avi, atum, v. separale | silvestris, e, adj. wood
 sepelio, ire, ivi, ultum, v. bury simia, ae, f. snonkey
 Septem, num. seven similis, e, adj. 7ike -
-Septendecim, num. seventeen simul, adv. a£ the same time r
-septimus, a, um, num. sevent/, simulac, conj. «s $00" a5
+Septendecim, num. seventeen simul, adv. aï¿½ the same time r
+septimus, a, um, num. sevent/, simulac, conj. ï¿½s $00" a5
 septingenti, ae,. a, num. seven|simulacrum, i, n. likeness, phantom
 ; hundred simulo, are, avi, atum, v. pretend
 septunx, uncis, m. seven ownces simultas, atis, f. rivalry
-Sepulcrum, i, n. é£omb sin, conj. but 4f
+Sepulcrum, i, n. ï¿½omb sin, conj. but 4f
 sepultura, ae, f. burial sine, prep. without
-sequor, i, secutus, v. follow singularis, e, adj. single, «nique
+sequor, i, secutus, v. follow singularis, e, adj. single, ï¿½nique
 Serius, a, um, adj. earnest singuli, ae, a, num. one each, single
 sermo, onis, m. conversation sinister, tra, trum, adj. /eft
-sero, adv. late sinus,üs, m. (1) fold, (2) bay, (3) purse
+sero, adv. late sinus,ï¿½s, m. (1) fold, (2) bay, (3) purse
 Sero, ere, ui, sertum, v. join Sitio, ire, ivi, v. be thirsty
 Sero, ere, sevi, satum, v. sow Sitis, is, f. thirst
 serpens, tis, c. serpent sive, conj. or 4f, whether
@@ -7245,52 +7144,52 @@ sertum, i, n. qwreat/, smaragdus, i, m. emerald
 serva, ae, f. female slave Soboles, is, f. offspring
 servio, ire, ivi, itum, v. serve sobrius, a, um, adj. temperate
 servitium, ii, n. slavery Socius, ii, m. companion, ally
-servitus, utis, f. slavery Socordia, ae, f. éndolence
+servitus, utis, f. slavery Socordia, ae, f. ï¿½ndolence
 Servo, are, avi, atum, v. preserve sodalis, is, c. comrade
 servus, i, m. slave Sodes (si audies), 2f yow please
 Sessor, oris, m. one aho sits 80l, solis, m. su
-sestertium (-sestertiorum), 1000 | soleo, ere, solitus, v. be «wont
-| . Sesterces, about £8 -» solidus, a, um, adj. solid
+sestertium (-sestertiorum), 1000 | soleo, ere, solitus, v. be ï¿½wont
+| . Sesterces, about ï¿½8 -ï¿½ solidus, a, um, adj. solid
 VOCABULARY 181 "
-solitudo, inis, f. (1) Joneliness, (2) | Squalor, oris, m. dértiness
+solitudo, inis, f. (1) Joneliness, (2) | Squalor, oris, m. dï¿½rtiness
 desert stabulum, i, n. stall -
 sollemnis, e, adj. customary, solemn | stadium, ii, n. (1) & furlong, (2)
 sollemniter, adv. solemnly TGC6-COWY'SE
 Sollertia, ae, f. seill Statio, onis, f. post
-sollicito, are, avi, atum, v. rouse | statim, adv. émmoediateljy
-sollicitus, a, um, adj. anxious Statua, ae, f. síatue
-Solum, i, n. (1) so?l, (2) region statuarius, a, um, adj. of « statue,
+sollicito, are, avi, atum, v. rouse | statim, adv. ï¿½mmoediateljy
+sollicitus, a, um, adj. anxious Statua, ae, f. sï¿½atue
+Solum, i, n. (1) so?l, (2) region statuarius, a, um, adj. of ï¿½ statue,
 Solus, a, um, adj. a/one, lonely statue-maker
 Solvo, ere, i, solutum, v. /oosen, |Statuo, ere, ui, utum, v. piace,
 pay, deliver B settle, determine
-somnium, ii, n. dream Statura, ae, f. síature
-somnus, i, m. sleep E status, üs, m. position, state
-Sonitus, üs, m. sownd m Sterno, ere, stravi, stratum, v.
+somnium, ii, n. dream Statura, ae, f. sï¿½ature
+somnus, i, m. sleep E status, ï¿½s, m. position, state
+Sonitus, ï¿½s, m. sownd m Sterno, ere, stravi, stratum, v.
 Sonus, i, m. sound sirew, spread, overthrow
 Sophistes, ae, m. sophist stilus, i, m. pen, style
 Sopio, ire, ivi, itum, v. /u/l to sleep | stimulo, are, avi, atum, v. rouse
 Sopor, oris, m. s/eep stimulus, i, m. sting "
-sordidus, a, um, adj. dirty Stipendium, ii, n. éribute, pay
-soror, oris, f. sister Sto, are, steti, statum, v. síand
+sordidus, a, um, adj. dirty Stipendium, ii, n. ï¿½ribute, pay
+soror, oris, f. sister Sto, are, steti, statum, v. sï¿½and
 Sors, tis, f. lot, fate stola, ae, f. gown
 Sortior, iri, itus, v. cast lots, allo | stomachor, ari, atus, v. be angry
 Spadix, icis, adj. brown Strages, is, f. overthrow
 Spargo, ere, si, sum, v. scalter stragulum, i, n. carpet, rug ]
 spatiosus, a, um, adj. roomy Strenuus, a, um, adj. active t
-Spatium, ii, n. space — . Strepitus,'üs, m. «noise
+Spatium, ii, n. space ï¿½ . Strepitus,'ï¿½s, m. ï¿½noise
 species, ei, f. (1) figure, appear- | Strepo, ere, ui, v. noke a noise
 ance, (2) pretence strideo, ere, i, v. ereak, whistle
 speciosus, a, um, adj. (1) hand-|stringo, ere, nxi, strictum, v. (1)
 some, (2) spacious grasp, graze, (2) pull off
-spectaculum, i, n. spectacle Stropha, ae, f. írick
-specto, are, avi, atum, v. look o£. |structor, oris, m. (1) builder, (2)
-speculor, ari, atus, v. examíne carver
-Specus, üs, m. f. n. cave Strues, is, f. pile
+spectaculum, i, n. spectacle Stropha, ae, f. ï¿½rick
+specto, are, avi, atum, v. look oï¿½. |structor, oris, m. (1) builder, (2)
+speculor, ari, atus, v. examï¿½ne carver
+Specus, ï¿½s, m. f. n. cave Strues, is, f. pile
 spero, are, avi, atum, v. Aope Struo, ere, xi, ctum, v. arrange
 Spes, ei, f. ope studeo, ere, ui, v. be eager for
 spina, ae, f. (horn studiosus, a, um, adj. eager, devoted
 spinosus, a,um, adj. tAorny, obscure | Studium, ii, n. (1) zeal, devotion,
-spiritus, üs, m. breath, energy (2) study
+spiritus, ï¿½s, m. breath, energy (2) study
 splendor, oris, m. brightness stultitia, ae, f. folly .
 spoliator, oris, m. robber stultus, a, um, adj. foolish
 spolio, are, avi, atum, v. spoil Stupefacio, ere, feci, factum, v.
@@ -7300,7 +7199,7 @@ sponsio, onis, f. agreement Stupor, oris, m. amazement
 Sponsor, oris, m. surety Suadeo, ere, si, sum, v. advise
 sponte (sua) f. abl. of one's own | suarius, ii, m. swine-herd m
 accord, Sub, prep. under, up to
-spuma, ae, f. foain Ps subdo, ere, didi, ditum, v. put «under
+spuma, ae, f. foain Ps subdo, ere, didi, ditum, v. put ï¿½under
 P P LATIN READER
 Subduco, ere, xi, ctum, v. vase, | sumo, ere, psi, ptum, v. take
 draw off, withdraw, haul up sumptuosus, a, um, adj. costly
@@ -7312,19 +7211,19 @@ subigo, ere, egi, actum, v. subdue, | superiacio, ere, ieci, iectum, v.
 compel thwow over
 Subito, adv. suddenly superior, us, adj. Aigher, former
 sublimis, e, adj. on high supero, are, avi, atum, v. go over,
-submitto, ere, si, ssum, v. pul «n- Swurpass, surmownt
+submitto, ere, si, ssum, v. pul ï¿½n- Swurpass, surmownt
 der, let down, despatch superstes, itis, adj. surviving
 gubrideo, re, si, v. smile supersum, esse, fui, v. (1) remain,
 |  Subrusticus, a, um, adj. elownish outlive, (2) abound
 . . gubsequor, i, secutus, v. follow supervenio, ire, veni, ventum, v.
 subsidium, ii, n. help, reserves come pon
-Subsisto, ere, stiti, v. stay, halt suppeto, ere, ivi, itum, v. be a£
+Subsisto, ere, stiti, v. stay, halt suppeto, ere, ivi, itum, v. be aï¿½
 substituo, ere, ui, utum, v. substi- hand
-» tute supplex, icis, adj. suppliant
+ï¿½ tute supplex, icis, adj. suppliant
 substringo, ere, nxi, strictum, v. | suppliciter, adv, suppliantly
 tie up supplicium, ii, n. punishment
 Subsum, esse, v. be under suppono, ere, sui, situm, v. pu
-Subtexo, ere, xui, xtum, v. affe, add | — under, apply, substitute
+Subtexo, ere, xui, xtum, v. affe, add | ï¿½ under, apply, substitute
 H subtilis, e, adj. fine, subtle supra, adv. and prep. above, be-
 subtilitas, atis, f. fineness, subtlety qond
 Subtraho, ere, xi, ctum, v. o'i(A- supremus, a, um, adj. Aighest, last
@@ -7341,7 +7240,7 @@ v. fall down, aield suspicio, ere, exi, ectum, v. /ook
 assist suspicio, onis, f. suspicion
 sudes, is, f. stake sustento, are, avi, atum, v. Sup-
 sudor, oris, m. sweat ort
-Sufficio, ere, feci, fectum, v. (l)|sustineo, ére, ui, entum, v. Aold
+Sufficio, ere, feci, fectum, v. (l)|sustineo, ï¿½re, ui, entum, v. Aold
 ] afford, (2) suffice ap, maintain
 suffoco, are, avi, atum, v. choke suus, a, um, adj. one's own
 suffragium, i,n. vote . sutor, oris, m. cobbler
@@ -7351,18 +7250,18 @@ summoveo, ere, movi, motum, v. | tabellarius, ii, m. letfer-carrier
 Temove taberna, ae, f. shop
 summus, a, um, adj. highest, best, | ta'besco, ere, bui, v. acaste away
 edge tabula, ae, f. tablet, picture, board.
-—ÁÁ pem
+ï¿½ï¿½ï¿½ pem
 VOCABULARY 183
-taceo, ere, cui, citum, v. be silent testis, is, c. ertíness
+taceo, ere, cui, citum, v. be silent testis, is, c. ertï¿½ness
 tacitus, a, um, adj. Dr testudo, inis, f. (1) tortoise, (2)
 taeda, ae, f. torch Dyre, (3) shields of soldiers held
-taedium, ii, n. 2vearíness over their heads .
+taedium, ii, n. 2vearï¿½ness over their heads .
 talis, is, adj. such testula, ae, f. voting tablet
 talus, i, m. ankle, knuckle-bone, die | teter, tra, trum, adj. foul
 tam, adv. so texo, ere, xui, xtum, v. 4ceave
 tamdiu, adv. so long theatrum, i, n. (/eatre
-temen, adv. yet, however thesaurus, i, m. éreasury, treasure
-tandem, adv. o£ length, pray tibia, ae, f. flute
+temen, adv. yet, however thesaurus, i, m. ï¿½reasury, treasure
+tandem, adv. oï¿½ length, pray tibia, ae, f. flute
 tango, ere, tetigi, tactum, v. touch | tibicen, inis, m. ffwte player
 tanquam, conj. just as, as if | tignum, i, n. beam
 tantum, adv. only | timeo, ere, ui, v. fear
@@ -7375,16 +7274,16 @@ tectum, i, n. roof, house tollo, ere, sustuli, sublatum, v.
 tego, ere, xi, ctum, v. cover Hift, remove
 tegula, ae, f. tile tonsa, ae, f. oar
 tellus, uris, f. earth, tormentum, i, n. cotapult
-telum, i, n. weapon torrens, tis, m. £orrené
+telum, i, n. weapon torrens, tis, m. ï¿½orrenï¿½
 temerarius, a, um, adj. Acedless torreo, ere, ui, tostum, v. scorchi
 templum, i, n. cemple torridus, a, um, adj. scorched
 tempus, oris, n. &ime torus, i,;m. (1) bed, (2) muscle
 temulentia, ae, f. drunkenness tot, adj. so many
-temulentus, a, um, adj. drunken — toties, adv. so many times
-tendo, ere, tetendi, tensum and |totus, a, um, adj. «wAole
+temulentus, a, um, adj. drunken ï¿½ toties, adv. so many times
+tendo, ere, tetendi, tensum and |totus, a, um, adj. ï¿½wAole
 tentum, v. (1) stretch, (2) aim toxicum, i, n. poison
 tenebrae, arum, f. darkness, tracto, are, avi, atum, v. handle
-teneo, ére, ui, tum, v. Aold tractus, üs, m. district
+teneo, ï¿½re, ui, tum, v. Aold tractus, ï¿½s, m. district
 tener, a, um, adj. soft, young trado, ere, didi, ditum, v. hand
 tento, are, avi, atum, v. (1) touch, over, report
 test, (2) assail traduco, ere, xi, ctum, v. lead
@@ -7400,7 +7299,7 @@ tero, ere, trivi, tritum, v. zub QCros8
 terra, ae, f. earth, tranquillus, a, um, adj. ca/m
 terreo, ere, ui, itum, v. frighten trans, prep. across
 terribilis, e, adj. dreadful transeo, ire, ii, itum, v. go across
-terror, oris, m. £error transfero, ferre, tuli, latum, v.
+terror, oris, m. ï¿½error transfero, ferre, tuli, latum, v.
 tertius, a, um, num. (Ard carry across :
 184 | H | LATIN READER -
 transfigo, ere, xi, xum, v. pierce| turbidus, a, um, adj. disordered,
@@ -7415,147 +7314,147 @@ send, across, (2) cross tuto, adv. safely
 transporto, are, avi, atum, v. |tutor, ari, atus; v. protect
 transport tutor, oris, m. protector
 transtrum, i, n.cross-Limber, twart | vutus, a, um, adj. safe
-transverbero, are, avi, atum, v. | tuus, a, um, adj. £Aine
+transverbero, are, avi, atum, v. | tuus, a, um, adj. ï¿½Aine
 - transfio tyrannicus, a, um, adj. despotic
 transversus, a, um, adj. cross tyrannus, i, m. despot
-trecenti, ae, a, num. £hree hundred
+trecenti, ae, a, num. ï¿½hree hundred
 tremor, oris, m. shaking uber, eris, n. (1) udder, (2) richness
 trepido, are, avi, atum, v. be in uber, eris, ad). fruitful
-E alarm ubi, adv. (1) «where, (2) when
-trepidus, a, um, adj. £rembling ubinam, adv. avhere
-tres, tria, num. £Aree ubique, adv. everywhere
-tribunal, alis, n. éribunal, platform | ulciscor, i, ultus, v. avenge
-triceni, ae, a, num. £Airty each. ullus, a, um, adj. any
+E alarm ubi, adv. (1) ï¿½where, (2) when
+trepidus, a, um, adj. ï¿½rembling ubinam, adv. avhere
+tres, tria, num. ï¿½Aree ubique, adv. everywhere
+tribunal, alis, n. ï¿½ribunal, platform | ulciscor, i, ultus, v. avenge
+triceni, ae, a, num. ï¿½Airty each. ullus, a, um, adj. any
 tricies, num. /Airty times ulmeus, a, um, adj. of elm
 triclinium, ii, n. couch ultimus, a, um, adj. /ast
-triduum, i, n. space of three days — | ultio, onis, f. vengeance
+triduum, i, n. space of three days ï¿½ | ultio, onis, f. vengeance
 triennium, ii, n. space of three | ultra, adv. and prep. beyond
-gears ultro, adv. (1) ox £he other side,
-5 tripertito, adv. 4» tree parts thither, (2) of one's own accord
+gears ultro, adv. (1) ox ï¿½he other side,
+5 tripertito, adv. 4ï¿½ tree parts thither, (2) of one's own accord
 I |. tripudio, are, avi, atum, v. dance | umbra, ae, f. shade
 tristis, e, adj. sad umbrosus, a, um, adj. shady
-tristitia, ae, f. sadness unà, adv. £ogether
+tristitia, ae, f. sadness unï¿½, adv. ï¿½ogether
 triumpho, are, avi, atum, v.|unda, ae, f. water
-triumph, unde, adv. «vhence
-triumphus, i, m. ériwmph undecimus, a, um, num. eleventh
-triumvir, i, m. ériwmvir undequadraginta, num. í(hírty-
+triumph, unde, adv. ï¿½vhence
+triumphus, i, m. ï¿½riwmph undecimus, a, um, num. eleventh
+triumvir, i, m. ï¿½riwmvir undequadraginta, num. ï¿½(hï¿½rty-
 trucido, are, avi, atum, v. s/augh- mine
 ter undique, adv. on ail sides
-truncus, i, m. érunk ungo, xi, ctum, v. anoint ,
+truncus, i, m. ï¿½runk ungo, xi, ctum, v. anoint ,
 trux, cis, adj. savage  |unio, onis, m. peari
 tu, pron. tow universus, a, um, adj. entire
-tuba, ae, f. trumpet unquam, adv. a£ any time
+tuba, ae, f. trumpet unquam, adv. aï¿½ any time
 tubicen, inis, m. trwnpeter unus, a, um, num. one, single;
 tueor, eri, tuitus, v. watch, protect with quisque, each one
 tum, adv. then urbanitas, atis, f. politeness
-tumultus, üs, m. £umawlt urbanus, a, um, adj. polite
+tumultus, ï¿½s, m. ï¿½umawlt urbanus, a, um, adj. polite
 tuno, adv. then urbs, is, f. city
-tunica, ae, f. tunic urgeo, ere, ursi, v. «rge, beset
+tunica, ae, f. tunic urgeo, ere, ursi, v. ï¿½rge, beset
 turba, ae, f. crowd uro, ere, ussi, ustum, v. burn
 j "- VOCABULARY H 185
 ursa, ae, f. she-bear uU velox, cis, adj. swift
 ursus, i, m. bear velum, i, n. sai
 usquam, adv. anywhere veluti (velut), adv. just as
 usque, adv. constantly, right up (to) | venabulum, i, hunting-spear B
-usus, üs, m. «5e, experience venalis, e, adj. for sale
+usus, ï¿½s, m. ï¿½5e, experience venalis, e, adj. for sale
 ut (uti), adv. and conj. Aow, as, | venaticus, a, um, adj. of hunting
 that, in order that, so that, tough | venatio, onis, f. wnting
 uter, ris, m. skin, bottle venator, oris, m. Awntsman
 uter, tra, trum, pron. wich of two | venatorius, a, um, adj. of the chase
-utercunque (cum.), pron. «Aich-| venatus, üs, m. hunting
+utercunque (cum.), pron. ï¿½Aich-| venatus, ï¿½s, m. hunting
 ever of two vendito, are, avi, atum, v. offer
 uterque, utraque, utrumque, pron. | for sale
 eaeh, of two vendo, ere, didi, ditum, v. sell
-utilis, e, adj. «sefut venenatus, a, um, adj. poisoned
+utilis, e, adj. ï¿½sefut venenatus, a, um, adj. poisoned
 utor, i, usus, v. use venenum, i, n. poison
 utrinque (utrimque), adv. on both | veneo, ire, ivi, itum, v. be on sale
 sides veneror, ari, atus, v. reverence
-utrum, conj. «whether venia, ae, f. leave, pardon
+utrum, conj. ï¿½whether venia, ae, f. leave, pardon
 uva, ae, f. bunch of grapes venio, ire, veni, ventum, v. come
 uxor, oris, f. wife venor, ari, atus, v. Aunt
 venter, tris, m. belly
 vacuus, a, um, adj. empty, idle ventito, are, avi, atum, v. keep
 vadum, i, n. shallow, ford coming
-vae, interj. alas ! ventus, i, m. «vind
+vae, interj. alas ! ventus, i, m. ï¿½vind
 vafer, fra, frum, adj. s/y, artful venundo, are, dedi, datum, v. seil
 vagina, ae, f. sheath verber, eris, n. (1) a/hip, (2) blow
-vagitus, üs, m. erying, squalling | verbero, are, avi, atum, v. /log I
-vagor, ari, atus, v. «sander verbosus, a, um, adj. «ord L
-vagus, a, um, adj. «vandering verbum, i, n. 2rord
+vagitus, ï¿½s, m. erying, squalling | verbero, are, avi, atum, v. /log I
+vagor, ari, atus, v. ï¿½sander verbosus, a, um, adj. ï¿½ord L
+vagus, a, um, adj. ï¿½vandering verbum, i, n. 2rord
 valde, adv. exeeedingly vere, adv. really, truly
-valeo, ére, ui, itum, v. be strong, | vereor, eri, itus, v. fear
-be able, farewell veridicus, a, um, adj. £ruth-telling
-validus, a, um, adj. sérong verisimilis, e, adj. probable
+valeo, ï¿½re, ui, itum, v. be strong, | vereor, eri, itus, v. fear
+be able, farewell veridicus, a, um, adj. ï¿½ruth-telling
+validus, a, um, adj. sï¿½rong verisimilis, e, adj. probable
 vallis, is, f. valley vero, adv. certainly, but indeed.
 vallum, i, n. palisade versor, ari, atus, v. (1) dwell, (2)
 vallus, i, m. sioe be engaged. in,
 vanus, a, um, adj. empty, vain versum 1 adv. ] toward
 varius, a, um, adj. various versus | and prep. Made
-vas, vadis, m. suretaj versus, üs, m. verse
+vas, vadis, m. suretaj versus, ï¿½s, m. verse
 vas, vasis, n. vessel vertex, icis, m. (1) eddy, (2) top
 vasto, are, avi, atum, v. ravagc vertigo, inis, f. dizziness
 vates, is, m. bord, prophet verto, ere, ti, sum. v. furn
-ve, conj. or verus, a, um, adj. £rue
+ve, conj. or verus, a, um, adj. ï¿½rue
 vectis, is, m. erowbar, bolt vescor, i, v. eat .
 vehemens, tis, adj. eager vesper, eris and eri, m. evening
 vehementer, adv. vehemently vestibulum, i, n. entrance-court B
-vehiculum,i, n.(1) carríage, (2)ship | vestigium, ii, n. track
+vehiculum,i, n.(1) carrï¿½age, (2)ship | vestigium, ii, n. track
 veho, ere, xi, ctum, v. carry vestio, ire, ivi, itum, v. elothe
-vel, conj. or vestis, is, f. robe "a » [
-y 186 —-— LATIN READER u
-vestitus, üs, m. clothing |os e, adj. green
+vel, conj. or vestis, is, f. robe "a ï¿½ [
+y 186 ï¿½-ï¿½ LATIN READER u
+vestitus, ï¿½s, m. clothing |os e, adj. green
 veto, are, ui, itum, v. forbid virilis, e, adj. snanly
 . vetulus, a, um, adj. o/d virtus, utis, f. excellence, bravery,
 vetus, eris, adj. aged, old virtue
 vetustus, a, um, adj. ancient vis, pl. vires, f. sing. force, vigour ;
-via, ae, f. (1) «ay, path, (2) march pl. strength,
-viator, oris, m. íraveller viso, ere, si, sum, v. visit
-vibro, are, avi, atum, v. shake visus, üs, m. sight P
+via, ae, f. (1) ï¿½ay, path, (2) march pl. strength,
+viator, oris, m. ï¿½raveller viso, ere, si, sum, v. visit
+vibro, are, avi, atum, v. shake visus, ï¿½s, m. sight P
 - vicarius, a, um, adj. deputy vita, ae, f. Life
-vicinus, a, um, adj. «eighbouring | vitis, is, f. vine
+vicinus, a, um, adj. ï¿½eighbouring | vitis, is, f. vine
 victima, ae, f. victim vitium, ii, n. fault, vice
 victor, oris, m. and trix, f. con- | vito, are, avi, atum, v. avoid
 queror | vitulus, i, m. calf
 victoria, ae, f. victory vitupero, are, avi, atum, v. blame
-victus, üs, m. food vividus, a, um, adj. spirited
-vicus, i, m. síreet, village vivo, ere, xi, ctum, v. Jive
+victus, ï¿½s, m. food vividus, a, um, adj. spirited
+vicus, i, m. sï¿½reet, village vivo, ere, xi, ctum, v. Jive
 video, ere, di, sum, v. sec vivus, a, um, adj. a/ive
 videor, eri, visus, v. seen, seen good, | vix, adv. scarcely
 vidua, ae, f. widow vocabulum, i, n. name
 vigil, ilis, adj. ewake,, sentinel vociferor, ari, atus, v. ery out
 vigilia, ae, f. watch - voco, are, avi, atum, v. call
 vigilo, are, avi, atum v. watch volo, are, avi, atum, v. fy
-viginti, num. £wenty | volo, velle, volui, v. «cis
-vilis, e, adj. cheap, paltry volucer, cris, cre, adj. «'ónged, bird
+viginti, num. ï¿½wenty | volo, velle, volui, v. ï¿½cis
+vilis, e, adj. cheap, paltry volucer, cris, cre, adj. ï¿½'ï¿½nged, bird
 vilitas, atis, f. cheopness voluntarius, a, um, adj. volunteer
 villus, i, m. Aair, bristle voluntas, atis, f. will, choice
-vimen, inis, n. £»vig voluptas, atis, f. pleasure
+vimen, inis, n. ï¿½ï¿½vig voluptas, atis, f. pleasure
 vinco, ere, vici, victum, v. conquer | volvo, ere, i, utum, v. roll
-- vinculum (vinclum), i, n. bond, | vorago, inis, f. «ehirlpool
+- vinculum (vinclum), i, n. bond, | vorago, inis, f. ï¿½ehirlpool
 Fetter votum, i, n. ev/ish, vow
-vindex, icis, c. protector, avenger — | vox, vocis, f. voice
+vindex, icis, c. protector, avenger ï¿½ | vox, vocis, f. voice
 vindico, are, avi, atum, v. claim, | vulgaris, e, adj. usual, cominon
 save vulgus, i n people, mob
-vinum, i, n. vine vulnero, are, avi, atum, v. «wound
+vinum, i, n. vine vulnero, are, avi, atum, v. ï¿½wound
 violentus, a, um, adj. violent vulnus, eris, n. wownd
-vir, i, m. «nan, husband vulpes, is, f. fox, vicen
-viresco, ere, v. be green vultus, üs, m. (1) face, (2) Zook
+vir, i, m. ï¿½nan, husband vulpes, is, f. fox, vicen
+viresco, ere, v. be green vultus, ï¿½s, m. (1) face, (2) Zook
 virga, ae, f. (wig, rod.
 virgultum, i, n. copse zona, ae, f. girdle, purse
 I m. m - v
 Sis llli
-- — INDEX OF PLACES 187
+- ï¿½ INDEX OF PLACES 187
 '
-INDEX OF PLACES ü
+INDEX OF PLACES ï¿½
 A bdera, ae,f. town on T'hracian coast | Casilinum, i, n. fown in Campania
 Actium, i, n. promontory on IV. | Caspius, a, um, adj. of the Caspian
 coast of Greece Sea,
 Aduatici, m. Pelgic tribe in N. Gaul | Castalius, a, um, adj. of Castalia,
-Aegaeus, a, um, adj. sea between | — fountain in Phocis
+Aegaeus, a, um, adj. sea between | ï¿½ fountain in Phocis
 Greece amd, Asia, Minor Consentia, ae, f. town n S. Italy
 Aegyptus, i, f. Egypt Corinthus, i, f. city on the isthanus
 Afer, ri, m. on African joining Peloponwese to IN. Greece
-Albania, ae, f. district 1» Mount | Creta, ae, f. island in. E. of Moedi-
+Albania, ae, f. district 1ï¿½ Mount | Creta, ae, f. island in. E. of Moedi-
 Caucasus terranean
 Alexandria, ae, f. town on .N. coast | Orotoniates, ae, m. of Crotom, in
 of Egypt S. Italy
@@ -7564,7 +7463,7 @@ from Rome Cyprus, i, f. island in the Levant
 Ambiani, m. (ribe on the Sommoe, | Cyrene, es, f. city in IN.E. Africa
 in N. Gaul
 Arabs, is, m. en Arabian Delphicus, a, um, adj. of Delphi,
-Argos, i, Argi, n. and. m. £own in| — 4n Phocis
+Argos, i, Argi, n. and. m. ï¿½own in| ï¿½ 4n Phocis
 AN. E. of Peloponnese
 Asia, ae, f. IV. coast of Asia Minor | Ephesus, i, f. city cn IW. of Asia
 Athenae, arum, f. capital of Attica AMinor
@@ -7573,21 +7472,21 @@ Eretria, ae, f. city of Euboea,
 Babylon, onis, f. city on Euphrates , Etruria, ae, f. country on. W. coast
 Barca, ae, f. town in .N. Africa of Italy
 Batavus, a, um, adj. Dutch
-Britannia, ae, f. England Gabii, orum, m. « town twelve aniles
+Britannia, ae, f. England Gabii, orum, m. ï¿½ town twelve aniles
 Brutii, orum, m. town n S. Italy from Rome
-Busentinus, i, m. séream in S. Italy | Galli, orum, m. Gauls 4n. France
+Busentinus, i, m. sï¿½ream in S. Italy | Galli, orum, m. Gauls 4n. France
 Buto, f. town in N. Egypt and elsewhere
 Gela, ae, f. city on S. coast of Sicily
 Calydonius, a, um, adj. of Caly- | Gortyni, orum, m. people in Crete
 don, & town 4n Aetolia, Graecia, ae, f. Greece
 Campania, ae, f. territory on IV. | Grumentum, i, n. town in S. Italy
 coast of Italy : VEN
-Cannae, arum, f. town i» Apulia. | Helvetii, orum, m. Swiss
+Cannae, arum, f. town iï¿½ Apulia. | Helvetii, orum, m. Swiss
 Capitolium, ii, n. ei/adel of Rome | Hibernicus, a, um, adj. Zrish
 Carthago, inis, f. city in IN. Africa | Hispania, ae, f. Spain B (0
 188 LATIN READER
-India, ae, f. Zudía | Phryges, um, m. people of Asia
-Insuber, ris, m. £ribe in N. Italy Minor
+India, ae, f. Zudï¿½a | Phryges, um, m. people of Asia
+Insuber, ris, m. ï¿½ribe in N. Italy Minor
 Ionia, ae, f. district on W. coast of | Piraeus, i, m. harbour of Athens
 Asia, Minor Poeni, orum, m. Carthaginians
 Ithaca, ae, f. island off IW. coast of | Praeneste, is, n. town in Latium
@@ -7597,11 +7496,11 @@ Lacedaemon, onis, f., or Sparta, | Rhodus, i, f. island off S. coast of
 city in S. of Peloponnwse Asia, Minor
 Lampsacus, i, f. city on the Helles-
 pont Sabini, orum, m. people of central
-Leontini, orum, m. íown in E. Italy
+Leontini, orum, m. ï¿½own in E. Italy
 Sicily Salamis, is, f. island near Attica
 Libycus, a, um, adj. of N. Africa | Salonae, arum, f. capital of Dal-
 Locri, orum, m. city ?n S. Italy matia,
-Lucani, orum, m. people ín S. Ital | Samnites, ium, m. people of cen-
+Lucani, orum, m. people ï¿½n S. Ital | Samnites, ium, m. people of cen-
 Lusitani, orum, m. people of Por- tral Italy
 tugal Samos, i, f. island off IW. coast of
 Lutetia, ae, f. Paris Asia, Minor
@@ -7610,8 +7509,8 @@ VV. coast of Asia Minor Scyros, i, f. island 4n Aegean Sea,
 Scythia, ae, f. South, Russia
 Macedones, um, m. people living | Senones, um, m. people in Gallia
 in AN. of Greece Cisalpina
-Maeander, dri, m. river of 4sía | Sericus, a, um, adj. Chinese
-Minor Seriphus, i, f. one of the Cyclades —
+Maeander, dri, m. river of 4sï¿½a | Sericus, a, um, adj. Chinese
+Minor Seriphus, i, f. one of the Cyclades ï¿½
 Magnetes, um, m. people in, Lydia | Sicilia, ae, f. Sicily
 Mantinea, ae, f. city of Arcadia Susa, orum, n. city E. of Babylon
 Megara, ae and orum, f. and n.| Sybaritae, arum, m. of Sybaris,
@@ -7624,7 +7523,7 @@ Mysi, orum, m. people in N. IV. of | Tamesis, is, m. Thames
 Asia. Minor Tanais, is, m. viver Don
 Tarentum, i, n. (own in S. Italy
 Neapolis, is, f. Naples Tarsus, i, f. city of Cilicia
-Nicaea, ae, f. city ón Bithynia Thebae, arum, f. city of Boeotia
+Nicaea, ae, f. city ï¿½n Bithynia Thebae, arum, f. city of Boeotia
 Nilus, i, m. Jile Thessalus, a, um, adj. ZAessalian
 Nola, ae, f. town in Campania Tiberis, is, m. ber, om which
 Rome stands
@@ -7633,17 +7532,17 @@ Orcades, um, f. Orkneys Troia, ae, f. city in. .N.IV. of Asia
 Minor
 Palestina, ae, f. Palestine Tyrrhenus, a, um. adj. Etrurian
 Pangaeus, i, m. range in Thrace
-Patavinus,a, um, adj. of Pataviwn, | Vectis, is, f£. Isle of Wight
+Patavinus,a, um, adj. of Pataviwn, | Vectis, is, fï¿½. Isle of Wight
 town in N. Italy (Padua) Vulturnus, i, m. 7?ver of Campania
 Ps MN 1B RAg& UN
-T — OM
+T ï¿½ OM
 non
 "M
 ke i i ] 9
-Eh —-— — .-—
+Eh ï¿½-ï¿½ ï¿½ .-ï¿½
 THIS BOOK IS DUE ON THE LAST DATE |
 STAMPED BELOW
-» - -
+ï¿½ - -
 
 AN INITIAL FINE OF 25 CENTS 4 '
 WILL BE ASSESSED FOR FAILURE TO RETURN
@@ -7653,47 +7552,47 @@ DAY AND TO $1.00 ON THE SEVENTH DAY y
 OVERDUE. T
 2 QQJO6ACI
 
-a a 73 | —————————————————
+a a 73 | ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 (
 RLCO LD
 
-- f^ »;
--Mit 7 084-5 pM-| — — — — — —
-— —— jl
+- f^ ï¿½;
+-Mit 7 084-5 pM-| ï¿½ ï¿½ ï¿½ ï¿½ ï¿½ ï¿½
+ï¿½ ï¿½ï¿½ jl
 . E E
 |. Anm.
 2
-Ec de — nA
--—. TM d ^
-WprewrET cupo CORE B ! és (€
-j^ dpi LEE IS : [—- D Lad Le
+Ec de ï¿½ nA
+-ï¿½. TM d ^
+WprewrET cupo CORE B ! ï¿½s (ï¿½
+j^ dpi LEE IS : [ï¿½- D Lad Le
 : UB en CES Va um "2 1 b: 1d l
 MO Ne r S-T d 5 E me or; 1
-Hg n m Ea. P rms Y Ü E d$-z - & "E "a -
+Hg n m Ea. P rms Y ï¿½ E d$-z - & "E "a -
 SER ESCUL, LIS * T) DONE - Ua -
 c EMEN ET EJ BE. L: v
 aem c. lc 7r pe cr ME C x ] a
 Ob cie cHEME GUAE M dem "3 " " r
-S. GOVAKRM C LEEREN € NN -
+S. GOVAKRM C LEEREN ï¿½ NN -
 Sup erm s e gx. E WE i - i" DN
 jk SEDCHELI- v. ^ - Aaa N^
 Fo ur am d 24- A a me i ;
 mier t irc E CH es XT 3 ET Xx E E
-zo ME T 3 - m Ó E - Ld T
+zo ME T 3 - m ï¿½ E - Ld T
 DEEDEMERM s.t 0 7 "M .
 MUERE ES UU n ^& -3 E EE
 suy. ho iescule- m M cT EE
-aum M ri. Dells M " SRM —-— E
+aum M ri. Dells M " SRM ï¿½-ï¿½ E
 XE Eur. 0-7 MN . NES - 2-56 SLAP
-DEED CERES uuu O16 D EMEEET—
+DEED CERES uuu O16 D EMEEETï¿½
 DURO . z 1 MO i ^. 2- C3BRON Jem Ll - D
 uu er LETZTE A i wv m) - EX-
 PET Mie ELI. M M ET " E
 DE. NE
 DEW eS uer N 5 SPI r
 Sec as Leu. EN UN rH 4 ^! ED
-"Y ag nI We ie fs r t -—-—-UL- d ^d E
+"Y ag nI We ie fs r t -ï¿½-ï¿½-UL- d ^d E
 sec. fim -
 viget. * E 4s * EJ $ za A . a. 5,
 PNEU. tg sv:
@@ -7701,31 +7600,31 @@ AR RYEL. D. Ev veo Ir D E E ES "s - 4 L7 -
 mute Nc ue ouem c X E Y. ^ dEMEENE
 gu IE AP -i M -
 "e A ES S 3s F j "un ! Ms -3ii
-drca tic ir ucro € ^ € E - E n
-pec c eee vc ) -—— EG jd
+drca tic ir ucro ï¿½ ^ ï¿½ E - E n
+pec c eee vc ) -ï¿½ï¿½ EG jd
 oJ: QM em. NT EET -
 S oxe exon ect x , PT :
-AME LINDA quise m x zÉ ' — —
+AME LINDA quise m x zï¿½ ' ï¿½ ï¿½
 NUS ANNMMR- 77 T - T " 2 p z
-E E EET Tom Ps 2 á -- "E t ur
+E E EET Tom Ps 2 ï¿½ -- "E t ur
 UAE IECIT S VCRDGU UE EESTI : :
 A qu c er ii - pe g" apu 2'4
 3 LUE E ue - s -
 TOUR C NONEM "x 2 c H Y
 pecu LET - CI'Iac D 3
 As cix E NECEM. TEN. Uhec- * AME |-
-TIS CT LS TAS E » id e ^
-D c asco rH u— P 3
-Uu ue Co Mer E ?o» 79 M
+TIS CT LS TAS E ï¿½ id e ^
+D c asco rH uï¿½ P 3
+Uu ue Co Mer E ?oï¿½ 79 M
 ESSA Wu Woo rU HN
-3109. o mak -— cs - n D RE ] ,
+3109. o mak -ï¿½ cs - n D RE ] ,
 4. 3 - c 9.3 EM J r
-E-—- m at - -»- a -
+E-ï¿½- m at - -ï¿½- a -
 2E. 50 BET r4 x No 3 -- "us :
 *. . 07 LM
 EUM MEE Re o Lot La 1 ("d
-pc ikea ma s E LE - -—- a. -- —
+pc ikea ma s E LE - -ï¿½- a. -- ï¿½
 m Ix sc Ac ^ Ar T M
-mS TORNA Leu M z b. P E —-- M
+mS TORNA Leu M z b. P E ï¿½-- M
 Jer gu go cx Y cones EN C
 JUR UD S ac dec c ME V rt lUITR OW nOMESMCAEUU INS C
