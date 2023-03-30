@@ -101,96 +101,82 @@ Vocabulary
 
 ---
 
-|
-T� an dud
-� |a -�c�
+## INTRODUCTORY STORIES
 
-] - * $i
+### 1. THE INNOCENT TRUMPETER.
 
-E
+Tubicen ab hostibus captus, "nolite me," inquit, "interficere;
+nam inermis sum neque quidquam habeo praeter
+hanc tubam." At hostes, "propter hoc ipsum," inquiunt,
+"te interimemus, quod, cum ipse pugnandi sis imperitus,
+alios ad pugnam incitare soles."
 
-E ]
 
-i i
-X | * � d
-E TARTE
-v ors "uu B
-, pM
-] UNIVERSITY ! *
-- ^ o V 7"
-CAL IPORSe �t
-r Y
-| INTRODUCTORY STORIES ]
-y 1. THE INNOCENT TRUMPETER.
-
-Tubicen ab hostibus captus, nolite me," inquit, *inter-
-ficere; nam inermis sum neque quidquam habeo praeter
-hanc tubam." At hostes, * propter hoc ipsum," inquiunt,
-
-*te interimemus, quod, cum ipse pugnandi sis imperitus,
-alios ad pugnam incitare soles." . ] [
-
-E 2. FoonisH SERVANTS.
+### 2. FOOLISH SERVANTS.
 
 Mulier vidua, quae texendo vitam sustentabat, solebat
 ancillas suas de nocte excitare ad opus, cum primum galli
 cantum audivisset. At illae diuturno labore fatigatae
-statuerunt gallum interficere. Quo facto deteriore condi-
-cione quam prius esse coeperunt: nam domina, de hora
+statuerunt gallum interficere. Quo facto deteriore condicione
+quam prius esse coeperunt: nam domina, de hora
 noctis incerta, nunc famulas saepe iam prima nocte
 excitabat.
 
-P 3. THE DoNKEY AND THE HORSE. b.
+
+### 3. THE DONKEY AND THE HORSE.
 
 Asinus onustus sarcinis equum rogavit, ut aliqua parte
 oneris se levaret, si se vivum videre vellet. Sed ille asini
-preces repudiavit. Paulo post igitur asinus labore con-
-sumptus in via corruit et efllavit animam. Tum agitator
-- & B mE
-Bw 2 �� �� |-9 3
-"TX ���
-2 LATIN READER i |
+preces repudiavit. Paulo post igitur asinus labore consumptus
+in via corruit et efllavit animam. Tum agitator
 omnes sarcinas, quas asinus portaverat, atque insuper etiam
 pellem asino detractam in equum imposuit. Ibi ille sero
-priorem superbiam deplorans, *O me miserum," inquit,
-*qui parvulum onus in me recipere noluerim, cum nunc
+priorem superbiam deplorans, "O me miserum," inquit,
+"qui parvulum onus in me recipere noluerim, cum nunc
 cogar tantas sarcinas ferre una cum pelle comitis mei,
 cuius preces tam superbe contempseram."
-7 " B 4. DEATH. : lr
-B B di
+
+
+### 4. DEATH.
+
 Senex in silva ligna ceciderat, iisque sublatis domum
 redire coepit. Cum aliquantum viae progressus esset, et
 onere et via defatigatus fascem deposuit, et secum aetatis
 et inopiae mala contemplatus, Mortem clara voce invocat,
-quae ipsum ab omnibus his malis liberet. "Tum Mors senis
+quae ipsum ab omnibus his malis liberet. Tum Mors senis
 precibus auditis subito adstitit et quid vellet percunctatus
 est. At Senex quem iam votorum poenitebat, "nihil," inquit,
-*sed requiro, qui onus paululum 'allevet, dum ego rursus
-*  subeo."
-1 P D. HANNIBAL'S TRICK. [
-Hannibal cum elephantos compellere non posset ut prae-
-altum flumen transirent neque rates haberet, quibus eos
-traiceret, iussit ferocissimum elephantorum sub aure vul-
-nerari et eum qui vulnerasset se in flumen conicere illud-
-que tranare. Tum elephas exasperatus ad persequendum
+"sed requiro, qui onus paululum allevet, dum ego rursus
+subeo."
+
+
+### 5. HANNIBAL'S TRICK.
+
+Hannibal cum elephantos compellere non posset ut praealtum
+flumen transirent neque rates haberet, quibus eos
+traiceret, iussit ferocissimum elephantorum sub aure vulnerari
+et eum qui vulnerasset se in flumen conicere illudque
+tranare. Tum elephas exasperatus ad persequendum
 doloris sui auctorem tranavit amnem et reliqui quoque eum
 secuti sunt.
-1. Tug GAULS INVADE ROME. E" v.
-[ Galli Senones ad urbem venerunt, et victos Romanos
-undecimo milliario a Roma apud flumen Alliam secuti,
-pe�� ��
 
-LATIN READER 3
+
+### 6. THE GAULS INVADE ROME.
+
+Galli Senones ad urbem venerunt, et victos Romanos
+undecimo milliario a Roma apud flumen Alliam secuti,
 etiam urbem occuparunt; neque defendi quidquam, nisi
 Capitolium, potuit. Quod cum diu obsedissent, et iam
-Romani fame laborarent, � Camillo, qui in vicina civitate
+Romani fame laborarent, a Camillo, qui in vicina civitate
 exsulabat, Gallis superventum est, gravissimeque victi
 sunt. Postea tamen, accepto etiam auro, ne Capitolium
 obsiderent, recesserunt: sed secutus eos Camillus ita cecidit,
-ut et aurum, quod his datum fuerat, e& omnia, quae cepe-
-rant, militaria signa revocaret. EN i
+ut et aurum, quod his datum fuerat, et omnia, quae ceperant,
+militaria signa revocaret.
 
-i , T. Tug SronY or PvnRHUS. ! j [
+
+### 7. THE STORY OF PYRRHUS.
+
 Tarentini Pyrrhum, Epiri regem, contra Romanos aux-
 ilium poposcerunt, qui ex genere Achillis originem trahebat.
 Is mox ad ltaliam venit, tumque primum Romani cum
