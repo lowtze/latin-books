@@ -127,6 +127,11 @@ faults the author is entirely responsible.
     - [25. Midas.](#25-midas)
   - [Latin Stories](#latin-stories)
     - [1. Not At Home.](#1-not-at-home)
+    - [2. Death Of Epaminondas.](#2-death-of-epaminondas)
+    - [3. The Cunning Frog](#3-the-cunning-frog)
+    - [4. Death The Brother Of Sleep.](#4-death-the-brother-of-sleep)
+    - [5. Pride Humbled](#5-pride-humbled)
+    - [6. The Contented Mind](#6-the-contented-mind)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -489,73 +494,69 @@ eique ab ostio quaerenti Ennium ancilla dixisset domi non
 esse, sensit illam domini iussu dixisse et illum intus esse.
 Paucis post diebus quum ad Nasicam venisset Ennius et
 eum a ianua quaereret, exclamat Nasica se domi non esse.
-Tum Ennius Quid?! Ego non cognosco," inquit, * vocem
-tuam." Hic Nasica, *Homo es impudens. Ego quum
-te quaererem, ancilae tuae credidi te domi non esse, tu
+Tum Ennius "Quid? Ego non cognosco," inquit, "vocem
+tuam." Hic Nasica, "Homo es impudens. Ego quum
+te quaererem, ancillae tuae credidi te domi non esse, tu
 mihi non credis ipsi."
 
-L � D 2. DEATH OF EPAMINONDAS. 2
+
+### 2. Death Of Epaminondas.
 
 Epaminondas quum mortifero vulnere ad Mantineam
-percussus esset, delatus in tentorium adhue vivus, Dio-
-phantum arcessere voluit, ut eum ducem declararet.
-Comites autem circumstantes ilum virum  occubuisse
-dieunt. Deinde rogat ut lolaidam cito vocent: quum
-vero illum etiam mortuum .esse certior esset factus, suis
+percussus esset, delatus in tentorium adhuc vivus, Diophantum
+arcessere voluit, ut eum ducem declararet.
+Comites autem circumstantes illum virum occubuisse
+dieunt. Deinde rogat ut Iolaidam cito vocent: quum
+vero illum etiam mortuum esse certior esset factus, suis
 persuasit ut bello cum hostibus composito amicitiam statim
-facerent. *''Nullus enim vir," inquit Epaminondas ** inter
-Thebanos relinquitur, qui nostro exercitui praesit." L h
-3 | 12 -� LATIN EE. d
-1 3. TuE CuxNING FRoo. � Ww 1
-Sapiens sane es& Aegyptiarum genus ranarum : namque
+facerent. "Nullus enim vir," inquit Epaminondas "inter
+Thebanos relinquitur, qui nostro exercitui praesit."
+
+
+### 3. The Cunning Frog
+
+Sapiens sane est Aegyptiarum genus ranarum: namque
 ob callidum ingenium maxima pericula saepe effugere
 possunt. Si enim in hydri os, qui in Nilo versatur, rana
-inciderit, frustum  arundinis demorsum obliquum tam
+inciderit, frustum arundinis demorsum obliquum tam
 strenue tenebit ut hydrus eam cum ipsa arundine simul
-
-' devorare nequeat: hydri enim os non satis amplum est
+devorare nequeat: hydri enim os non satis amplum est
 quod tantum, quantum extenditur arundo, complecti possit.
 Itaque incolumis in extremo ore, dum in loco arundinem
-retinere potest, insidet rana: cuius prudentiae robur, quam-
+retinere potest, insidet rana: cuius prudentiae robur, quamvis
+sit ingens, hydrorum cedere necesse est.
 
-vis sit ingens, hydrorum cedere necesse est. v
-P T TONG
-� Lu uu
-4. DEATH THE BROTHER OF SLEEP.
+
+### 4. Death The Brother Of Sleep.
 
 Poetae antiqui somnum fratrem mortis esse fingere
-
--  golebant: hoc commemoravit Gorgias Leontinus in extrema
+golebant: hoc commemoravit Gorgias Leontinus in extrema
 vita positus et senio bene confectus. Ad quem infirmitate
 correptum atque in somnum paulatim prolapsum quidam
-
 e necessariis invisendi causa accessit et quomodo se haberet
-qusisivit. Gorgias autem quum mortem sibi adesse sentiret
+quaesivit. Gorgias autem quum mortem sibi adesse sentiret
+nec lugubri usus est querela neque ullam exhibuit formidinem
+sed haec tranquilla voce dixit, "Iam me somnus
+incipit suo fratri tradere."
 
-nec lugubri usus est querela neque ullam exhibuit for-
-midinem sed haec tranquilla voce dixit, *Iam me somnus
 
-. incipit suo fratri tradere." .
+### 5. Pride Humbled
 
-�-
-5. P�inE HUMBLED.
-
-.. . Soerates Athenis non modo philosophum sapientem sed
-
+Socrates Athenis non modo philosophum sapientem sed
 etiam hominem prudentem semper se praestare solebat.
 Quum igitur Aleibiadem videret propter divitias inflatum
 et de agris gloriantem, adduxit eum in locum, in quo
-���I LATIN READER � 13
 tabula quaedam ut totum orbem terrarum ostenderet erat
 reposita, et Atticam ibi requirere iussit. Quam quum
-Alcibiades: invenisset, iussu Socratis suos fundos oculis
+Alcibiades invenisset, iussu Socratis suos fundos oculis
 investigare conabatur. At ei per longum tempus scrutanti
-atque illos nusquam esse pictos tandem confitenti, respon-
-dit Socrates "In iis qui nulla pars terrae sunt non dubium
+atque illos nusquam esse pictos tandem confitenti, respondit
+Socrates "In iis qui nulla pars terrae sunt non dubium
 est quin gloriari sit ineptissimum."
 
-EN � 6. THE CoNTENTED MiNp. � h
-(0
+
+### 6. The Contented Mind
+
 Epaminondas unum habebat pallium idque sordidum ;
 si-quando illud in fullonis officinam miserat, ipse se domi
 ob inopiam continebat. Sed quamvis pauper esset,
@@ -1545,7 +1546,7 @@ p � j��
 72. � LioN's DEVICE.
 
 Ursam tradunt in Pangaeo monte leonis latebras custode
-vacuas invasisse eiusdemque catulos, quia adhue parvuli
+vacuas invasisse eiusdemque catulos, quia adhuc parvuli
 erant nec se tueri poterant, interemisse. Quum autem leo
 et leaena alicunde ex venatu revertissent et caedem catu-
 lorum factam vidissent, acerrimo, ut par erat, dolore affecti
@@ -2782,7 +2783,7 @@ se eb annis et corpore gravem bene morituram, si mihi causa
 mortis non adfuisset. Ego contra salvum me nisi una non
 futurum: dein manum eius amplexus addere gradum cogo.
 Paret aegre incusatque se, quod me moretur. Iam cinis,
-adhue tamen rarus : respicio, densa caligo tergis imminebat,
+adhuc tamen rarus : respicio, densa caligo tergis imminebat,
 quae nos torrentis modo infusa terrae sequebatur. "Tandem
 ill caligo tenuata quasi in fumum nebulamve discessit :
 mox dies verus, sol etiam effulsit luridus tamen, qualis esse,
@@ -4853,7 +4854,7 @@ probare non possit, poenam ferat, quam laturus erat reus,
 si convictus fuisset. Negabat se contrectasse rem alienam
 invito domino, sed ultro deferente, nec ullam pretii men-
 tionem intercessisse. Se provocasse calcearium ad certamen
-eursus; ilum accepisse conditionem ; nec habere quod
+eursus; illum accepisse conditionem ; nec habere quod
 queratur, quum esset cursu superatus.
 Ge. Haec actio non multum abest ab umbra asini!
 Quid tandem!
