@@ -138,6 +138,12 @@ faults the author is entirely responsible.
     - [10. WHERE WILL THE STONE FALL?](#10-where-will-the-stone-fall)
     - [11.](#11)
     - [12. THE STORY OF DATAMES.](#12-the-story-of-datames)
+    - [13.](#13)
+    - [14.](#14)
+    - [15.](#15)
+    - [16. A FAITHFUL DOG.](#16-a-faithful-dog)
+    - [17.](#17)
+    - [18. A FRENCH IMPOSTOR.](#18-a-french-impostor)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -648,27 +654,27 @@ rati moesti omnes domum regressi sunt.
 
 ### 12. THE STORY OF DATAMES.
 
-Artaxerxe regnante Datames cum maximi consilii tum |
-animi fortissimi, primum erat militum numero eorum qui ]
+Artaxerxe regnante Datames cum maximi consilii tum
+animi fortissimi, primum erat militum numero eorum qui
 regiam tuebantur: deinde rex, quod Datamis laudem male
 ferebat, diu bellum adversus eum gerebat. Sed tandem
-quod implacabile odium in Datamen susceperat, postquam |
-bello eum opprimi non posse animadvertit, insidiis inter-
-ficere studuit: quas ille plerasque vitavit: sicut, cum nun-
-tiatum esset, quosdam sibi insidiari, qui in amicorum erant
-numero (de quibus, quod inimici detulerant, neque recipi-
-endum neque negligendum putavit), experiri voluit verum-
-ne an falsum esset relatum. H
+quod implacabile odium in Datamen susceperat, postquam
+bello eum opprimi non posse animadvertit, insidiis interficere
+studuit: quas ille plerasque vitavit: sicut, cum nuntiatum
+esset, quosdam sibi insidiari, qui in amicorum erant
+numero (de quibus, quod inimici detulerant, neque recipiendum
+neque negligendum putavit), experiri voluit verumne
+an falsum esset relatum.
 
 
-I 13.
+### 13.
 
 Itaque eo profectus est quo itinere futuras insidias
 dixerant; sed elegit corpore et statura similimum sui
-eique vestitum suum dedit atque eo loco ire quo ipse con-
-sueveratiussit. Ipse autem ornatu vestituque militari inter
-corporis custodes iter facere coepit. At insidiatores, post-
-quam in eum locum agmen pervenit, decepti ordine atque
+eique vestitum suum dedit atque eo loco ire quo ipse consueverat
+iussit. Ipse autem ornatu vestituque militari inter
+corporis custodes iter facere coepit. At insidiatores, postquam
+in eum locum agmen pervenit, decepti ordine atque
 vestitu in eum faciunt impetum, qui suppositus erat.
 Praedixerat autem his Datames cum quibus iter faciebat,
 ut parati essent facere, quod ipsum vidissent. Ipse, ut
@@ -676,28 +682,26 @@ concurrentes insidiatores animadvertit, tela in eos coniecit.
 Hoc idem cum universi fecissent, priusquam pervenirent ad
 eum quem aggredi volebant, confixi ceciderunt inimici.
 
-P � -� A
-a. Jj
+
+### 14.
 
 Hic tamen tam callidus vir in extremo tempore captus
 est dolo Mithridatis, qui per insidias persuasit Datami se
 infinitum adversus regem suscepisse bellum. Tum demum
 Datamen certiorem fecit tempus esse maiores exercitus
-
 parari, bellum cum ipso rege suscipi: de qua re, si ei
 videretur, quo loco vellet, in colloquium veniret. Probata
-
 re, colloquendi tempus sumitur locusque quo conveniretur.
-Hue Mithridates cum uno, cui maximam habebat fidem,
-
-� ante aliquot dies venit compluribusque locis separatim
+Huc Mithridates cum uno, cui maximam habebat fidem,
+ante aliquot dies venit compluribusque locis separatim
 gladios obruit, eaque loca diligenter notat. Ipso autem
-colloquendi die utrique servos qui locum explorarent mise-
-LEE w-� 9
-2 LATIN READER 17
-BD c�T79]
-Deinde ipsisunt congressi. Hic cum aliquamdiu in col-
-loquio fuissent et diversi discessisent iamque procul
+colloquendi die utrique servos qui locum explorarent miserunt.
+
+
+### 15.
+
+Deinde ipsisunt congressi. Hic cum aliquamdiu in colloquio
+fuissent et diversi discessisent iamque procul
 Datames abesset, eum Mithridates revocavit simulans se
 quiddam in colloquio esse oblitum. Interim telum quod
 latebat protulit nudatumque vagina veste texit ac Datami
@@ -707,35 +711,37 @@ Quem cum digito demonstraret et ille conspiceret, aversum
 ferro transfixit, priusque quam quisquam posset succurrere,
 interfecit. Ita vir qui multos consilio, neminem perfidia
 ceperat, simulata captus est amicitia.
-16. A FarruruL Doa. p" L
-i Sacrilegus quidam media nocte, quum iam sacerdotes
+
+
+### 16. A FAITHFUL DOG.
+
+Sacrilegus quidam media nocte, quum iam sacerdotes
 somnus artissimus esset complexus, in Aesculapii templum
 ingressus permulta sacra clam surripuerat. Quem canis
 excubitor sacerdotibus, qui noctu in aede vigilias agebant,
-multo diligentior insecutus, commissum sacrilegium hor-
-ribi quam maxime poterat fremitu praedicabat. Fur
+multo diligentior insecutus, commissum sacrilegium horribili
+quam maxime poterat fremitu praedicabat. Fur
 autem scelerisque socii magna lapidatione facta canem
 appetebant; deinde cum latrare non desisteret, offis et pane
-objectis, illum demulcere conabantur.  �t canis nec lapideo
-imbri deterritus nec duleibus seductus illecebris custos in-
-corruptus permansit. -�
-NT
+objectis, illum demulcere conabantur. At canis nec lapideo
+imbri deterritus nec dulcibus seductus illecebris custos incorruptus permansit.
+
+
+### 17.
+
 Sive enim fur domum, ubi habitabat, evaserat, sive inde
-exierat, canis ei implacabilem inexpiabilemque se praebebat :
+exierat, canis ei implacabilem inexpiabilemque se praebebat:
 itaque tandem est intellectum unde canis, qui semper
-latrabat, esset, nec multo post animadversum est quae orna-
-Cc
-.
-Pp � �
-y 18 LATIN READER
-uu menta templo deessent. Quo facto, is, qui tale furtum
-admiserat, in Atheniensium suspicionem adductus et tor-
-mentis cruciatus totam rem exposuit. Denique e lege hic
+latrabat, esset, nec multo post animadversum est quae ornamenta
+templo deessent. Quo facto, is, qui tale furtum
+admiserat, in Atheniensium suspicionem adductus et tormentis
+cruciatus totam rem exposuit. Denique e lege hic
 capite damnatus extremo supplicio affectus est: cani vero,
-ut sacerdotibus pari custodi, cibus publice datus maximam .
-meritamque gloriam praebebat, � ]
-| "�--� b
-E 18. A FRENCH �MPOSTOR. -
+ut sacerdotibus pari custodi, cibus publice datus maximam
+meritamque gloriam praebebat.
+
+
+### 18. A FRENCH IMPOSTOR.
 ] mE p"
 Mantaeius quum divitias paternas consumpsisset, ut
 / pecuniam colligeret hoc consilium dolosum iniit. Hic homo
