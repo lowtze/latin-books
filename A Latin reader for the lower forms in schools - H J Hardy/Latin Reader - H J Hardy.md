@@ -132,6 +132,12 @@ faults the author is entirely responsible.
     - [4. Death The Brother Of Sleep.](#4-death-the-brother-of-sleep)
     - [5. Pride Humbled](#5-pride-humbled)
     - [6. The Contented Mind](#6-the-contented-mind)
+    - [7. Sacrilege.](#7-sacrilege)
+    - [8. THE PIGS' REVENGE.](#8-the-pigs-revenge)
+    - [9. DANCING HORSES.](#9-dancing-horses)
+    - [10. WHERE WILL THE STONE FALL?](#10-where-will-the-stone-fall)
+    - [11.](#11)
+    - [12. THE STORY OF DATAMES.](#12-the-story-of-datames)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -557,86 +563,90 @@ est quin gloriari sit ineptissimum."
 
 ### 6. The Contented Mind
 
-Epaminondas unum habebat pallium idque sordidum ;
-si-quando illud in fullonis officinam miserat, ipse se domi
+Epaminondas unum habebat pallium idque sordidum;
+si quando illud in fullonis officinam miserat, ipse se domi
 ob inopiam continebat. Sed quamvis pauper esset,
-Thebanis praeclarum praebebat argumentum se nec in-
-felicem nec avarum in victu tam tenui fieri. Quum enim
+Thebanis praeclarum praebebat argumentum se nec infelicem
+nec avarum in victu tam tenui fieri. Quum enim
 Artaxerxes Persarum rex magnum auri pondus misisset,
-Epaminondas non modo non accepit sed hane edidit sen-
-tentiam haudquaquam indignam: **Equidem meis rebus
-exiguis contentus rege Persarunti quamvis sit opulentus,
+Epaminondas non modo non accepit sed hanc edidit sententiam
+haudquaquam indignam: "Equidem meis rebus
+exiguis contentus rege Persarum, quamvis sit opulentus,
 me feliciorem arbitror."
-| d 7. SACRILEGE. m q E b.
+
+
+### 7. Sacrilege.
+
 Puer aureum folium, quod e Dianae corona deciderat,
 secum sustulit, nec vero latuit. Iudices igitur, utrum
 quale scelus commisisset puer intelligeret necne, decernere
 conati, ei hic crepundia et talos, illic folium illud aureum
-proposuerunt, Ille vero in iudicium introductus primo
+proposuerunt. Ille vero in iudicium introductus primo
 lacrimas effundebat, deinde, auro iterum captatus, hoc illis
 rebus puerilibus anteposuit: quo facto a iudicibus inter
 reos sacrilegii relatus est. Itaque neque aetati veniam
-dabant, neque sceleris inscitiam attribuebant, sed ut sacrile-
-gum nocentem propter id quod fecerat capitis damnaverunt.
-� 1�"
-14 LATIN READER
-- "- 7
-8. THE Pras' REVENGE.
+dabant, neque sceleris inscitiam attribuebant, sed ut sacrilegum
+nocentem propter id quod fecerat capitis damnaverunt.
 
-Quum praedones ad Tyrrhenam terram navem pirati-
-cam appulissent, ex hara permultos sues furto abactos in
+
+### 8. THE PIGS' REVENGE.
+
+Quum praedones ad Tyrrhenam terram navem piraticam
+appulissent, ex hara permultos sues furto abactos in
 navem imposuerunt: funibus, quibus religata erat, solutis
-ad navigandum incubuerunt.  Suarii praesentibus piratis
+ad navigandum incubuerunt. Suarii praesentibus piratis
 silentium tenebant, quoad e portu illi se eripuissent, et e
 terra abessent tantum spatii quantum vox clamantis audiri
-posset: tum demum consueta voce utentes sues retro-
-versum ad se revocabant.  Porci ut primum clamorem
+posset: tum demum consueta voce utentes sues retroversum
+ad se revocabant.  Porci ut primum clamorem
 sublatum audiverunt, statim in unum navis latus collecti
 eam everterunt. taque piratae malefici naufragio mox ad
-unum perierunt: sues vero incolumes ad suos enatarunt. h
+unum perierunt: sues vero incolumes ad suos enatarunt.
 
-9. DANciNG HoRsEs.
-4 Equos inter Sybaritas tradunt esse institutos ut inter
-. epulas ad tibiarum numeros saltarent. Quod quum OCro-
-toniatae cognovissent, bello adversus eos incepto, tubarum
+
+### 9. DANCING HORSES.
+
+Equos inter Sybaritas tradunt esse institutos ut inter
+epulas ad tibiarum numeros saltarent. Quod quum Crotoniatae
+cognovissent, bello adversus eos incepto, tubarum
 sonitum aliosque, qui ad arma animos excitarent, clamores
 silere iusserunt: tibias vero et tibicines secum in acie
 adductos, quum iam hostes propius adessent, produxit
 Crotoniates dux iisque imperavit ut numeros ad saltandum
-aptos canerent. Quibus auditis, Sybaritarum equi tan-
-quam in mediis conviviis versati equitibus excussis saltare
+aptos canerent. Quibus auditis, Sybaritarum equi tanquam
+in mediis conviviis versati equitibus excussis saltare
 et tripudiare inceperunt et, confuso Sybaritarum ordine,
 stragis cladisque causa fuerunt suis dominis.
-B - [
-10. WHERE WILL THE STONE FALL! Ww
 
-li, qui de rerum omnium natura disceptent et sapientes
 
+### 10. WHERE WILL THE STONE FALL?
+
+Ii, qui de rerum omnium natura disceptent et sapientes
 inter homines habeantur, interdum facile decipiuntur.
-UU RS READER  - � Bo
-Accidit ut Florus vivido praeditus ingenio ac mpnes
+Accidit ut Florus vivido praeditus ingenio ac sapientes
 dolo captandi cupidus promitteret se iis rem difficilem
 propositurum esse. Qui ad hanc rem explorandam intenti
 Florum diligenter exaudiebant rogantem; quamobrem lapis
 de summo malo demissus in undas, quae navis puppi
 alludant, praecipitetur. His dictis omnes professi se rem
-tam spinosam accurate esse scrutaturos ad studia philoso-
-phorumque doctrinam repetendam se contulerunt. b
+tam spinosam accurate esse scrutaturos ad studia philosophorumque
+doctrinam repetendam se contulerunt.
 
-11.
 
-"n Paucis post diebus reversi alii de oceano, alii de nave,
+### 11.
 
-ali de aere, sermones reconditos et exquisitos habuerunt.
-Tum demum Florus *Si quis" inquit, *mecum navem
-conscendere et de malo lapidem deicere vult, facile intel-
-liget lapidem re vera non undas contingere sed iuxta ipsum
-malum transtra inter impingi Quae quum audivissent
+Paucis post diebus reversi alii de oceano, alii de nave,
+alii de aere, sermones reconditos et exquisitos habuerunt.
+Tum demum Florus "Si quis" inquit, "mecum navem
+conscendere et de malo lapidem deicere vult, facile intelliget
+lapidem re vera non undas contingere sed iuxta ipsum
+malum transtra inter impingi." Quae quum audivissent
 sapientes, cum Floro navigare noluerunt, veriti ne quid in
 navigio detrimenti caperent; sed se ab eo deceptos esse
-rati moesti omnes domum regressi Cu y
+rati moesti omnes domum regressi sunt.
 
-y 19. Tuz Sronv or Darawms.
+
+### 12. THE STORY OF DATAMES.
 
 Artaxerxe regnante Datames cum maximi consilii tum |
 animi fortissimi, primum erat militum numero eorum qui ]
@@ -647,16 +657,10 @@ bello eum opprimi non posse animadvertit, insidiis inter-
 ficere studuit: quas ille plerasque vitavit: sicut, cum nun-
 tiatum esset, quosdam sibi insidiari, qui in amicorum erant
 numero (de quibus, quod inimici detulerant, neque recipi-
-e- �� (��
-� 16 - LATIN READER
-p
-
 endum neque negligendum putavit), experiri voluit verum-
-
 ne an falsum esset relatum. H
 
-^ c-�
-Y i m
+
 I 13.
 
 Itaque eo profectus est quo itinere futuras insidias
@@ -768,7 +772,7 @@ in vitam redigeret, sestertia octo praebebant. Deinde vidua
 etiam formosa pedibus medici deiecta ** Mihi," inquit,
 * parce miserae; equidem alteri viro nubere volo, quod
 facere non potero, si vir prior per tuas artes in vitam redac-
-tus erit." Ex his aliisque civibus, qui hane miram potestatem
+tus erit." Ex his aliisque civibus, qui hanc miram potestatem
 timebant, magnam quum accepisset pecuniam, Mantacius
 Lutetia egressus est, ut divitias aliunde exquireret. 1 "
 
@@ -1092,7 +1096,7 @@ respondit alter. "Tunc deus suam ipsius statuam conspica-
 tus, ac sui ut nuntii deorum et, quaestuosi summam rationem
 homines habere ratus; * Dic mihi" inquit, *nonne haec
 maximi constat pretii?"  **Minime: nam si hasce alias
-emeris, libenter hane gratuitam adiciam."
+emeris, libenter hanc gratuitam adiciam."
 b 3 49. A UsgFUL DONKEY.  � a b
 C. Mario ominis observatio quondam saluti erat, quo tem-
 pore hostis a senatu iudicatus in domum Fanniae Minturnas
@@ -1330,7 +1334,7 @@ impudentissime dicere, ut ei qui maxime mentitus esset,
 amphora daretur. Quibus dietis obstupefactus augur monuit
 pessimi esse exempli tantis et tot mendaciis uti: se autem
 nunquam mentitum esse.  * At tibi danda est amphora,"
-conclamant omnes ; **tu maximo usus mendacio hane merito
+conclamant omnes ; **tu maximo usus mendacio hanc merito
 accipies."
 2 B u 58. PoPULAR TASTE. uu B b
 Polycletus, euius signa mira arte perfecta fuerunt, duo
@@ -1388,7 +1392,7 @@ omnibus urbis portis apertis, Barcaei Persis adeo confide-
 bant, ut et ipsi urbe egrederentur, et hostium quicunque
 intra muros vellet ingredi paterentur. At Persae occulto
 ponte disrupto in urbem irruebant. Pontem autem, quem
-fecerant, ob hane causam interruperunt, ut iureiurando se
+fecerant, ob hanc causam interruperunt, ut iureiurando se
 liberarent, quo cum DBarcaeis obstricti erant; tamdiu ratum
 fore foedus, quamdiu terra in eo statu, quo tunc fuisset,
 permansura esset. Itaque dolo devicti Bareaei Persis
@@ -1639,7 +1643,7 @@ morem libenter se contulit. " B | NE
 Iones per legatos a Cyro invitati, ub a Croeso Lydorum rege
 .. desciscerent, non paruerunt: confectis autem rebus et Croeso
 a Cyro devicto, ut iisdem legibus, quibus antea, uterentur,
-a Cyro petebant. Quibus rogantibus hane fabulam Cyrus
+a Cyro petebant. Quibus rogantibus hanc fabulam Cyrus
 ira commotus proposuit. Fuit olim tibicen, qui, pisces
 eonspectos in mari in terram ad sonitum egressuros esse
 ratus, tibia canebat. Tum, ubi spe depulsum se vidit,
@@ -2657,7 +2661,7 @@ eum haud immiti usus voce, quamobrem tam insulsus
 .. esset, ut nullum diserimen inter hospitium et palatium
 intellegeret. **Da mihi petenti veniam," respondit philo-
 . sophus; "cupio enim te pauca interrogare. Quis primus
-. hane domum iam aedifieatam incolebat?" Rex respondit
+. hanc domum iam aedifieatam incolebat?" Rex respondit
 primo suos incoluisse avos, tunc autem suum patrem.
 *Quis autem hodie incolit?" Se ipsum. '*Quis tandem
 tibi mortuo succedet!" Filium suum iuvenem. At
@@ -3066,7 +3070,7 @@ et ob rem corruptam domi poenas metuunt, criminantur
 Carthaginienses ante diem domo egressos, conturbant rem,
 denique omnia facere malunt quam victi abire. Sed cum
 Poeni alteram contionem, dummodo aequa esset, peterent,
-Cyrenenses hane iis obtulerunt, vel illos in iis finibus, quos
+Cyrenenses hanc iis obtulerunt, vel illos in iis finibus, quos
 peterent, vivos obrui, vel sese, quem in locum vellent, proces-
 suros. Philaeni, qui inter Poenos iuvenes praeclari habe-
 bantur, condicione probata seque suamque vitam reipublicae
@@ -4685,7 +4689,7 @@ sapientia ? � is RR
 
 E Non arbitror. � � -� !
 
-Ma. At hane sapientiam docent me libri. )
+Ma. At hanc sapientiam docent me libri. )
 
 -
 -
@@ -4822,7 +4826,7 @@ loquor; et serio facerem., Experiar, ait Maccus. En pro
 caleeis praecurro, tu cursu sequere. Simulque cum dicto
 coniecit se in pedes. Calcearius e vestigio consecutus est,
 quantum poterat; clamitans, Tenete furem, tenete furem.
-Ad hane vocem quum cives undique prosiliissent ex aedi-
+Ad hanc vocem quum cives undique prosiliissent ex aedi-
 � bus, hoc commento cohibuit illos Maccus, ne quis manum
 �� �
 
@@ -5061,7 +5065,7 @@ bona corporis. i
 Ph. Probabile dicis. l
 Ne. Sed inter animi bona primas tenet sapientia.!
 1 Ph. Fateor.
-Ne. Ad hane parandam nulla diei pars utilior, quam
+Ne. Ad hanc parandam nulla diei pars utilior, quam
 diluculum, quum sol novus exoriens vigorem et zlacritatem
 affert / rebus omnibus, discutitque nebulas quae mentis
 domicilium solent obnubilare.
