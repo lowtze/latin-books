@@ -144,6 +144,13 @@ faults the author is entirely responsible.
     - [16. A FAITHFUL DOG.](#16-a-faithful-dog)
     - [17.](#17)
     - [18. A FRENCH IMPOSTOR.](#18-a-french-impostor)
+    - [19.](#19)
+    - [20.](#20)
+    - [21. THE STRENGTH OF ASSOCIATION.](#21-the-strength-of-association)
+    - [22. GHOST STORY.](#22-ghost-story)
+    - [23.](#23)
+    - [24.](#24)
+    - [25. A BOUNDARY COMMISSION.](#25-a-boundary-commission)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -742,115 +749,110 @@ meritamque gloriam praebebat.
 
 
 ### 18. A FRENCH IMPOSTOR.
-] mE p"
-Mantaeius quum divitias paternas consumpsisset, ut
-/ pecuniam colligeret hoc consilium dolosum iniit. Hic homo
-callidus rerumque sagax, professus se homines mortuos re-
-portaturum, cives Lutetienses decipere conabatur. Idcirco
+
+Mantacius quum divitias paternas consumpsisset, ut
+pecuniam colligeret hoc consilium dolosum iniit. Hic homo
+callidus rerumque sagax, professus se homines mortuos reportaturum,
+cives Lutetienses decipere conabatur. Idcirco
 ut hoc manifestum exhibeat, promittit se post quindecim
 dies ad sepulcra iturum, ut omnes illic iacentes restituantur.
-Interea fama tam vulgaris exoriebatur, ut multi cives medi-
-cum tanta praeditum arte adire vellent. Hinc non modo
-. magnam gloriam sed etiam aliquantum pecuniae conseque-
-batur.
-B o D
-EN 7
-FL. A
-Tandem die iam appropinquante servo penitus obstupe-
-facto atque ut aufugeret admonenti respondit Mantacius
+Interea fama tam vulgaris exoriebatur, ut multi cives medicum
+tanta praeditum arte adire vellent. Hinc non modo
+magnam gloriam sed etiam aliquantum pecuniae consequebatur.
+
+
+### 19.
+
+Tandem die iam appropinquante servo penitus obstupefacto
+atque ut aufugeret admonenti respondit Mantacius
 eum ignorare quanta esset stultitia hominum. Quod quum
 vix dixisset, accurrit nuntius, quem miserat civis ditissimus,
 ut promitteret se septem sestertia medico daturum: sibi
 enim fuisse coniugem violentam et effrenatam; si ea
-revertisse�, maximum sibi dolorem illaturam: se idcirco
+revertisset, maximum sibi dolorem illaturam: se idcirco
 orare Mantacium ne illam pestem reportaret. Septem
 sestertiis persolutis Mantacius promisit se iis quae petiisset
 obsecutum, nulla arte usurum esse, ut illus coniugem in
-vitam redigeret. n J �
-.
-pn �
-LATIN READER p�� 19
-P 20.
+vitam redigeret.
+
+
+### 20.
 
 Mox duo iuvenes opulenti et prodigi, dum medicum
 obsecrant ne patrem avarum, cuius divitias ipsi acceperant,
 in vitam redigeret, sestertia octo praebebant. Deinde vidua
-etiam formosa pedibus medici deiecta ** Mihi," inquit,
-* parce miserae; equidem alteri viro nubere volo, quod
-facere non potero, si vir prior per tuas artes in vitam redac-
-tus erit." Ex his aliisque civibus, qui hanc miram potestatem
+etiam formosa pedibus medici deiecta "Mihi," inquit,
+"parce miserae; equidem alteri viro nubere volo, quod
+facere non potero, si vir prior per tuas artes in vitam redactus
+erit." Ex his aliisque civibus, qui hanc miram potestatem
 timebant, magnam quum accepisset pecuniam, Mantacius
-Lutetia egressus est, ut divitias aliunde exquireret. 1 "
+Lutetia egressus est, ut divitias aliunde exquireret.
 
-, 21. Tug STRENGTH OF ASSOCIATION.
+
+### 21. THE STRENGTH OF ASSOCIATION.
 
 Rex quidam Britannorum iracundam matrem puer
-habuisse dieitur. Apud quam tanta in offensa erat iuvenis,
+habuisse dicitur. Apud quam tanta in offensa erat iuvenis,
 ut saepissime verberatus poenas gravissimas dederit.
 Mater enim mulier ferox atque impotens non modo virgis
 ulmeis sed etiam longis candelis, quibus filium verberaret,
-utebatur  .Rex tandem, puerili aetate peracta, patrio
+utebatur. Rex tandem, puerili aetate peracta, patrio
 potitus regno dolorem, quo ipse affectus erat, in memoria
 tam acriter retinuit, ut iuberet ne unum quidem ex iis, qui
 in regia versabantur, candelis uti. Itaque tota domus
-taedis illuminata, quanto in odio essent regi candelae, -
+taedis illuminata, quanto in odio essent regi candelae,
 omnibus exhibere solita est.
 
-m 22. Ginosr STORY. ed �
+
+### 22. GHOST STORY.
+
 Erat Athenis spatiosa et capax domus, sed infamis et
 pestilens. Per silentium noctis sonus ferri et, si attenderes
 acrius, strepitus vinculorum longius primo, deinde e proximo
 reddebatur: mox apparebat idolon, senex macie et squalore
-p V 1��
-20 LATIN READER
-confectus, promissa barba, horrenti capillo: eruribus com-
-pedes, manibus catenas gerebat quatiebatque. Inde ab
-inhabitantibus tristes diraeque noctes per metum vigila-
-bantur; vigiliam morbus et crescenti formidine mors seque-
-batur. Nam interdiu quoque, quamquam abscesserat imago,
-memoria imaginis oculis inerrabat. Desertainde et damnata
+confectus, promissa barba, horrenti capillo: eruribus compedes,
+manibus catenas gerebat quatiebatque. Inde ab
+inhabitantibus tristes diraeque noctes per metum vigilabantur;
+vigiliam morbus et crescenti formidine mors sequebatur.
+Nam interdiu quoque, quamquam abscesserat imago,
+memoria imaginis oculis inerrabat. Deserta inde et damnata
 domus totoque illi monstro relicta: proscribebatur tamen
+seu quis emere seu quis conducere ignarus tanti mali vellet.
 
-j seu quis emere seu quis conducere ignarus tanti mali vellet.
 
- . EM
-
-EB �x
+### 23.
 
 Venit Athenas philosophus Athenodorus, legit titulum
 auditoque pretio, quia suspecta vilitas, percunctatus, omnia
 docetur ac nihilo minus, immo tanto magis conducit. Ubi
 coepit advesperascere, iubet lectum sterni sibi in prima
-domus parte, poscit pugillar�s, stilum, lumen: suos omnes
+domus parte, poscit pugillares, stilum, lumen: suos omnes
 in interiora dimittit, ipse ad scribendum animum, oculos,
-
-' manum intendit, ne vacua mens audita simulacra et inanes
+manum intendit, ne vacua mens audita simulacra et inanes
 sibi metus fingat. Initio, quale ubique, silentium noctis,
-Sun concuti ferrum, vincula moveri: ille non tollere oculos,
-non remittere stilum, sed offirmare animum : tum crebres-
-cere fragor, adventare, et iam ut in limine, iam ut intra
+dein concuti ferrum, vincula moveri: ille non tollere oculos,
+non remittere stilum, sed offirmare animum: tum crebrescere
+fragor, adventare, et iam ut in limine, iam ut intra
 limen audiri: respicit, videt agnoscitque narratam sibi
 effigiem.
 
-24.
+
+### 24.
 
 Stabat imago innuebatque digito similis vocanti: hic
 contra, ut paulum exspectet, manu significat rursusque ceris
 et stilo incumbit: illa scribentis capiti catenis insonabat:
 respicit rursus Athenodorus nec moratus tollit lumen et
-sequitur. Ibat illa lento gradu, quasi gravis vinculis ;
-
-ORCI deflexit in aream domus, repente dilapsa deserit
-�� �
-
-; LATIN READER 21
+sequitur. Ibat illa lento gradu, quasi gravis vinculis;
+postquam deflexit in aream domus, repente dilapsa deserit
 comitem: desertus herbas et folia concerpta signum loco
 ponit. Postero die adit magistratus, monet, ut illum locum
-effodi iubeant.  Inveniuntur ossa inserta catenis et impli-
-cita, quae corpus aevo terraque putrefactum nuda et exesa
-reliquerat vinculis: collecta publice sepeliuntur. -
+effodi iubeant. Inveniuntur ossa inserta catenis et implicita,
+quae corpus aevo terraque putrefactum nuda et exesa
+reliquerat vinculis: collecta publice sepeliuntur.
 
-] 25. A BouNDARY COMMISSION. B "
+
+### 25. A BOUNDARY COMMISSION.
 
 Q. Fabius Labeo, arbiter a senatu finium consuituendorum
 inter Nolanos et Neapolitanos datus, cum in rem prae-
