@@ -30,17 +30,18 @@ PRINTER TO THE UNIVERSITY
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [PREFACE](#preface)
-- [MATER GRACCHORUM](#mater-gracchorum)
-  - [Scaena I. Apud Corneliam.](#scaena-i-apud-corneliam)
-  - [Scaena II. In Foro.](#scaena-ii-in-foro)
-  - [Scaena III. In Foro. Vesperi.](#scaena-iii-in-foro-vesperi)
-  - [Scaena IV. In Capitolio.](#scaena-iv-in-capitolio)
-  - [Scaena V. Apud Corneliam.](#scaena-v-apud-corneliam)
-- [GEMINI](#gemini)
-  - [Scaena I. Extra Numitoris Domum.](#scaena-i-extra-numitoris-domum)
-  - [Scaena II. Intra Numitoris Domum.](#scaena-ii-intra-numitoris-domum)
+- [Easy Latin Plays](#easy-latin-plays)
+  - [Table of Contents](#table-of-contents)
+  - [PREFACE](#preface)
+  - [MATER GRACCHORUM](#mater-gracchorum)
+    - [Scaena I. Apud Corneliam.](#scaena-i-apud-corneliam)
+    - [Scaena II. In Foro.](#scaena-ii-in-foro)
+    - [Scaena III. In Foro. Vesperi.](#scaena-iii-in-foro-vesperi)
+    - [Scaena IV. In Capitolio.](#scaena-iv-in-capitolio)
+    - [Scaena V. Apud Corneliam.](#scaena-v-apud-corneliam)
+  - [GEMINI](#gemini)
+    - [Scaena I. Extra Numitoris Domum.](#scaena-i-extra-numitoris-domum)
+    - [Scaena II. Intra Numitoris Domum.](#scaena-ii-intra-numitoris-domum)
 
 ---
 
@@ -178,7 +179,7 @@ tribunum sacrosanctum, ita violas.
 
 *civ. I.* quid tu sentis? num Gracchus...
 
-*civ. II.* hoc equidem sentio. Graechus... sed
+*civ. II.* hoc equidem sentio. Gracchus... sed
 ecce! inde venit ipse.
 
 *(intrat Ti. Gracchus cum filio)*
@@ -274,7 +275,7 @@ est; vivit alter—pro patria vivet et laborabit!
 *(civibus)* vobis, amici, gratias reddo, quod haec tam
 laeta mihi nuntiavistis, hoc tam carum corpus
 ad me adduxistis. *(famulis)* venite, puellae!
-exceedemus. Deis Immortalibus gratias reddemus.
+excedemus. Deis Immortalibus gratias reddemus.
 festinate! mulierem beatissimam ad templa deorum
 adducite—Scipionis filiam, Gracchi uxorem. matrem
 Gracchorum!

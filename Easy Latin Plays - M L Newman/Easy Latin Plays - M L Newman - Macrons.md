@@ -178,7 +178,7 @@ tribūnum sacrōsanctum, ita violās.
 
 *civ. I.* quid tū sentīs? num Gracchus...
 
-*civ. II.* hoc equidem sentiō. Graechus... sed
+*civ. II.* hoc equidem sentiō. Gracchus... sed
 ecce! inde venit ipse.
 
 *(intrat Ti. Gracchus cum fīliō)*
@@ -274,7 +274,7 @@ est; vīvit alter—prō patriā vīvet et labōrābit!
 *(cīvibus)* vōbīs, amīcī, grātiās reddō, quod haec tam
 laeta mihi nuntiāvistis, hoc tam cārum corpus
 ad mē adduxistis. *(fāmulīs)* venīte, puellae!
-exceēdēmus. Deīs Immortālibus grātiās reddēmus.
+excēdēmus. Deīs Immortālibus grātiās reddēmus.
 festīnāte! mulierem beātissimam ad templa deōrum
 adducite—Scipiōnis fīliam, Gracchi uxōrem. mātrem
 Gracchōrum!
