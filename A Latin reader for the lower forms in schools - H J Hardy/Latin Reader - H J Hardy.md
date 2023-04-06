@@ -133,24 +133,32 @@ faults the author is entirely responsible.
     - [5. Pride Humbled](#5-pride-humbled)
     - [6. The Contented Mind](#6-the-contented-mind)
     - [7. Sacrilege.](#7-sacrilege)
-    - [8. THE PIGS' REVENGE.](#8-the-pigs-revenge)
-    - [9. DANCING HORSES.](#9-dancing-horses)
-    - [10. WHERE WILL THE STONE FALL?](#10-where-will-the-stone-fall)
+    - [8. The Pigs' Revenge.](#8-the-pigs-revenge)
+    - [9. Dancing Horses.](#9-dancing-horses)
+    - [10. Where Will The Stone Fall?](#10-where-will-the-stone-fall)
     - [11.](#11)
-    - [12. THE STORY OF DATAMES.](#12-the-story-of-datames)
+    - [12. The Story Of Datames.](#12-the-story-of-datames)
     - [13.](#13)
     - [14.](#14)
     - [15.](#15)
-    - [16. A FAITHFUL DOG.](#16-a-faithful-dog)
+    - [16. A Faithful Dog.](#16-a-faithful-dog)
     - [17.](#17)
-    - [18. A FRENCH IMPOSTOR.](#18-a-french-impostor)
+    - [18. A French Impostor.](#18-a-french-impostor)
     - [19.](#19)
     - [20.](#20)
-    - [21. THE STRENGTH OF ASSOCIATION.](#21-the-strength-of-association)
-    - [22. GHOST STORY.](#22-ghost-story)
+    - [21. The Strength Of Association.](#21-the-strength-of-association)
+    - [22. Ghost Story.](#22-ghost-story)
     - [23.](#23)
     - [24.](#24)
-    - [25. A BOUNDARY COMMISSION.](#25-a-boundary-commission)
+    - [25. A Boundary Commission.](#25-a-boundary-commission)
+    - [26. The Pursuit Of Knowledge.](#26-the-pursuit-of-knowledge)
+    - [27. Ancient Cannibals.](#27-ancient-cannibals)
+    - [28. The Miller.](#28-the-miller)
+    - [29. Waste Of Words.](#29-waste-of-words)
+    - [30. Out Of Frying Pan Into The Fire.](#30-out-of-frying-pan-into-the-fire)
+    - [31. Unpopular Vatinius.](#31-unpopular-vatinius)
+    - [32. Compulsion Or Persuasion?](#32-compulsion-or-persuasion)
+    - [33. Crocodile Hunting.](#33-crocodile-hunting)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -602,7 +610,7 @@ dabant, neque sceleris inscitiam attribuebant, sed ut sacrilegum
 nocentem propter id quod fecerat capitis damnaverunt.
 
 
-### 8. THE PIGS' REVENGE.
+### 8. The Pigs' Revenge.
 
 Quum praedones ad Tyrrhenam terram navem piraticam
 appulissent, ex hara permultos sues furto abactos in
@@ -617,7 +625,7 @@ eam everterunt. taque piratae malefici naufragio mox ad
 unum perierunt: sues vero incolumes ad suos enatarunt.
 
 
-### 9. DANCING HORSES.
+### 9. Dancing Horses.
 
 Equos inter Sybaritas tradunt esse institutos ut inter
 epulas ad tibiarum numeros saltarent. Quod quum Crotoniatae
@@ -632,7 +640,7 @@ et tripudiare inceperunt et, confuso Sybaritarum ordine,
 stragis cladisque causa fuerunt suis dominis.
 
 
-### 10. WHERE WILL THE STONE FALL?
+### 10. Where Will The Stone Fall?
 
 Ii, qui de rerum omnium natura disceptent et sapientes
 inter homines habeantur, interdum facile decipiuntur.
@@ -659,7 +667,7 @@ navigio detrimenti caperent; sed se ab eo deceptos esse
 rati moesti omnes domum regressi sunt.
 
 
-### 12. THE STORY OF DATAMES.
+### 12. The Story Of Datames.
 
 Artaxerxe regnante Datames cum maximi consilii tum
 animi fortissimi, primum erat militum numero eorum qui
@@ -720,7 +728,7 @@ interfecit. Ita vir qui multos consilio, neminem perfidia
 ceperat, simulata captus est amicitia.
 
 
-### 16. A FAITHFUL DOG.
+### 16. A Faithful Dog.
 
 Sacrilegus quidam media nocte, quum iam sacerdotes
 somnus artissimus esset complexus, in Aesculapii templum
@@ -748,7 +756,7 @@ ut sacerdotibus pari custodi, cibus publice datus maximam
 meritamque gloriam praebebat.
 
 
-### 18. A FRENCH IMPOSTOR.
+### 18. A French Impostor.
 
 Mantacius quum divitias paternas consumpsisset, ut
 pecuniam colligeret hoc consilium dolosum iniit. Hic homo
@@ -789,7 +797,7 @@ timebant, magnam quum accepisset pecuniam, Mantacius
 Lutetia egressus est, ut divitias aliunde exquireret.
 
 
-### 21. THE STRENGTH OF ASSOCIATION.
+### 21. The Strength Of Association.
 
 Rex quidam Britannorum iracundam matrem puer
 habuisse dicitur. Apud quam tanta in offensa erat iuvenis,
@@ -804,7 +812,7 @@ taedis illuminata, quanto in odio essent regi candelae,
 omnibus exhibere solita est.
 
 
-### 22. GHOST STORY.
+### 22. Ghost Story.
 
 Erat Athenis spatiosa et capax domus, sed infamis et
 pestilens. Per silentium noctis sonus ferri et, si attenderes
@@ -852,111 +860,114 @@ quae corpus aevo terraque putrefactum nuda et exesa
 reliquerat vinculis: collecta publice sepeliuntur.
 
 
-### 25. A BOUNDARY COMMISSION.
+### 25. A Boundary Commission.
 
 Q. Fabius Labeo, arbiter a senatu finium consuituendorum
-inter Nolanos et Neapolitanos datus, cum in rem prae-
-sentem venisset, utrosque separatim monuit, ut omissa
+inter Nolanos et Neapolitanos datus, cum in rem praesentem
+venisset, utrosque separatim monuit, ut omissa
 cupiditate regredi, quam progredi mallent. Quod cum
 utraque pars, mota viri auctoritate, fecisset, aliquantum in
-medio vacul agri relictum est: constitutis deinde finibus
+medio vacui agri relictum est: constitutis deinde finibus
 ut ipsi terminaverant, quidquid reliqui soli fuit, populo
-Romano adiudicavit. ^t sententia secundum ipsorum
+Romano adiudicavit. At sententia secundum ipsorum
 demonstrationem dicta, nec Nolani nec Neapolitani queri
-potuerunt; improbis tamen usus praestigis Romanae
+potuerunt; improbis tamen usus praestigiis Romanae
 civitati illos fines Labeo adiunxit.
 
--
-2 26. THE PunsuiT OF KNOWLEDGE. q ,
+
+### 26. The Pursuit Of Knowledge.
 
 Is, quem Britanni sapientissimum arbitrantur, omnium
 rerum naturam causasque tanta diligentia exquirebat, ut
-hominum coetum solitosque mores saepius negligeret. Cuius :
+hominum coetum solitosque mores saepius negligeret. Cuius
 quum amicus ad cenam invitatus nil nisi duos pisces
 appositos invenisset, hospitem, qui philosophorum doctrinae
-operam dabat neque alias res recordabatur, diu exspectabat ;
+operam dabat neque alias res recordabatur, diu exspectabat;
 primo unum, deinde alterum edit. Quibus consumptis
 atque conviva egresso, reversus philosophus, qualis cena
-esset apparata, animadvertit; sed dum patellam cibo vae-
-uam aspicit, *Equidem", inquit, iam cenavi;" studiis enim
+esset apparata, animadvertit; sed dum patellam cibo vacuam
+aspicit, "Equidem", inquit, "iam cenavi;" studiis enim
 penitus intentus re vera est oblitus utrum cenasset necne.
-� �
-22 �� LATIN �P 8
-:
-] dE
-E 27. �NCIENT CANNIBALS.
+
+
+### 27. Ancient Cannibals.
+
 Ferunt Indorum barbaram gentem in orientis partibus
 habitare solere, qui Padaei vocati hoc instituto uterentur.
 Si quis civium morbo laborabat, sive mulier sive vir erat,
 tunc virum vivi maxime familiares occidebant, professi eum
 si morbo consumptus esset non ad edendum fore idoneum.
 Ille autem negabat se aegrotare; hi vero non assentientes
-ilo interfecto epulabantur. Si quando mulier aegrotabat,
-pariter mulieres eadem faciebant. Ex his facile intelligen-
-dum est, haud multos ad senectutem pervenire potuisse:
+illo interfecto epulabantur. Si quando mulier aegrotabat,
+pariter mulieres eadem faciebant. Ex his facile intelligendum
+est, haud multos ad senectutem pervenire potuisse:
 sin autem id accidit, senis ad aram deorum mactati carne
-vescebantur. .
-mE 28. THE MILLER. - a r
-�� S
+vescebantur.
+
+
+### 28. The Miller.
+
 Homines quidam, seditione ac discordia concitata, in
 diversas partes discedunt. Militibus tandem ad provinciam
-. missis ut multos, qui contra regem arma sumpserant,
-oppressos trucidarent, rex imperavit. |t quum ab iis
+missis, ut multos, qui contra regem arma sumpserant,
+oppressos trucidarent, rex imperavit. At quum ab iis
 Balatro, qui pistrino multisque servis praeerat, praecipue
 peteretur, servo quem fidelissimum habuit, ut simularet se
-esse Dalatronem, persuasit. Itaque DBalatro ipse tecto
+esse Balatronem, persuasit. Itaque Balatro ipse tecto
 delituit: servus autem a militibus oppressus excruciatusque,
-se esse Balatronem magna voce negavit. Cuirespondit dux
-*'Tu merito supplicium pateris: si enim es Dalatro, ut
+se esse Balatronem magna voce negavit. Cui respondit dux
+"Tu merito supplicium pateris: si enim es Balatro, ut
 homo nequam morieris; sin autem nos conaris decipere,
-mendacii poenam dabis. His dictis servus infelix pro
-domino Balatrone est suspensus. Bs
-s B
-B 29. WasTE or WORDS.
-.. Samii Spartam venerunt, ut opem a Lacedaemoniis
+mendacii poenam dabis." His dictis servus infelix pro
+domino Balatrone est suspensus.
+
+
+### 29. Waste Of Words.
+
+Samii Spartam venerunt, ut opem a Lacedaemoniis
 peterent. Introducti ad magistratus, sollicitis animis multa
-u�� ��
-LATIN READER 23
 verba faciebant. Illi autem, primo constituto concilio,
 Samiis responderunt se ea, quae prima dixissent, oblitos
 esse; ea, quae secuta essent, non intelligere. Posthac iterum
-admissi Samii, dum saccum offerunt, nihil aliud. dicunt nisi
-haec verba *Saceus farina indiget." ^ Quibus Spartani
-responderunt eos vocabulum **sacecus" omittere potuisse.
-Nec tamen Samiis auxilium praestare noluerunt, sed mag-
+admissi Samii, dum saccum offerunt, nihil aliud dicunt nisi
+haec verba "Saceus farina indiget." Quibus Spartani
+responderunt eos vocabulum "saccus" omittere potuisse.
+Nec tamen Samiis auxilium praestare noluerunt, sed magnum
+apparatum navalem mittere decreverunt.
 
-num apparatum navalem mittere decreverunt. " "
 
-30. OuT or FRviNG PAN INTO THE FIRE.
+### 30. Out Of Frying Pan Into The Fire.
 
-b. Bubuleus vitulum, dum gregem armentorum pascit
+Bubulcus vitulum, dum gregem armentorum pascit
 amissum, per omnes solitudines diu vagatus quaerebat:
-quem ubi nusquam invenire potuit, lovem precatus pro-
-misit, si furem, qui vitulum abstulisset, ostendisset, hoedum
-in sacrificio se oblaturum. � Deinde in quercetum progressus
-leone vitulum devoratum cognovit.  Trepidus igitur et
-humi demissus manibus ad caelum sublatis, ait, **O
+quem ubi nusquam invenire potuit, Iovem precatus promisit,
+si furem, qui vitulum abstulisset, ostendisset, hoedum
+in sacrificio se oblaturum. Deinde in quercetum progressus
+leone vitulum devoratum cognovit. Trepidus igitur et
+humi demissus manibus ad caelum sublatis, ait, "O
 Iuppiter, promisi me tibi hoedum daturum esse, si furem
-invenissem : nunc autem taurum tibi me sacrificaturum
+invenissem: nunc autem taurum tibi me sacrificaturum
 polliceor, si istius morsum leonis incolumis effugerim."
 
-^^" (0 31. UNPOPULAR VATINIUS. A2 .
+
+### 31. Unpopular Vatinius.
 
 Casellius iurisconsultus non modo propter urbanitatem et
-facetias sed ob dicendi licentiam laudem maximam conse-
-cutus est: neque enim cum seriis ioca interdum coniungere
-noluit.  Vatinius, qui propter corporis deformitatem et
+facetias sed ob dicendi licentiam laudem maximam consecutus
+est: neque enim cum seriis ioca interdum coniungere
+noluit. Vatinius, qui propter corporis deformitatem et
 vitae turpitudinem omnibus in odio erat, dum gladiatorium
 munus edit, ab omni parte lapillis est ita petitus, ut gravi
 dolore afficeretur. Quo facto, quum ad aediles accessisset,
 effecit ut ii edicerent, ne cui in arenam nisi pomum
-demittere liceret. "Haud multo post Casellium ab amico
-p� /�
-24 LATIN READER
+demittere liceret. Haud multo post Casellium ab amico
 consultum utrum nux pinea pomum habenda esset necne,
-respondisse ferunt, *Si in Vatinium missurus es, pomum
+respondisse ferunt, "Si in Vatinium missurus es, pomum
 est."
-32. CoMPULSION OR PERSUASION 1 m � h
+
+
+### 32. Compulsion Or Persuasion?
+
 Sol et ventus Aquilo olim certabant uter esset fortior.
 Itaque inter eos convenit ut vires in viatore experirentur:
 e quibus qui amictum homine excussisset, palmam ferret.
@@ -965,9 +976,11 @@ amictum adhuc diffusum ad se adduxit. Quum autem sol
 nimbo paulatim evicto radiare inciperet, et viator magis
 magisque aestuaret, ob calorem progredi non potuit: sed
 abiecto amictu in nemore, ut frigus captaret, resedit.
-Itaque soli, ut homine victo, victoria contigit. E -
-: B
-1 33. CRocopiLE HuuTING.
+Itaque soli, ut homine victo, victoria contigit.
+
+
+### 33. Crocodile Hunting.
+
 Crocodilorum venatio multis et variis modis inter
 . Aegyptios instituta est: quorum eum, qui maxime
 memoratu dignus videtur, exponam. Suis tergus pro esca
