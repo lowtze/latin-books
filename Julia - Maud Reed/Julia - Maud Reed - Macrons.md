@@ -184,83 +184,84 @@ M. R.
 
 ## CONTENTS 
 
-- [INTRODUCTION](#introduction)
-- [PREFACE](#preface)
-- [CONTENTS](#contents)
-- [IŪLIA](#iūlia)
-  - [I](#i)
-  - [II](#ii)
-  - [III](#iii)
-  - [IV](#iv)
-- [ĪTALIA](#ītalia)
-  - [V](#v)
-- [RŌMA](#rōma)
-  - [VI](#vi)
-- [CERĒS ET PERSEPHONĒ](#cerēs-et-persephonē)
-  - [VII](#vii)
-  - [VIII](#viii)
-  - [IX](#ix)
-  - [X](#x)
-  - [XI](#xi)
-  - [XII](#xii)
-- [RŌMULUS ET SABĪNA](#rōmulus-et-sabīna)
-  - [XIII](#xiii)
-  - [XIV](#xiv)
-- [MARS RŌMULUM IN CAELUM VOCAT](#mars-rōmulum-in-caelum-vocat)
-  - [XV](#xv)
-  - [XVI](#xvi)
-- [HORĀTIUS PUER](#horātius-puer)
-  - [XVII](#xvii)
-  - [XVIII](#xviii)
-- [BACCHUS ET PĪRĀTAE](#bacchus-et-pīrātae)
-  - [XIX](#xix)
-  - [XX](#xx)
-  - [XXI](#xxi)
-- [HORĀTIUS CODES](#horātius-codes)
-  - [XXII](#xxii)
-  - [XXIII](#xxiii)
-  - [XXIV](#xxiv)
-  - [XXV](#xxv)
-  - [XXVI](#xxvi)
-  - [XXVII](#xxvii)
-- [ĪPHIGENEIA \[^7\]](#īphigeneia-7)
-  - [XXVIII](#xxviii)
-  - [XXIX](#xxix)
-  - [XXX](#xxx)
-  - [XXXI](#xxxi)
-  - [XXXII](#xxxii)
-- [CȲRUS, CROESUS, SOLŌN](#cȳrus-croesus-solōn)
-  - [XXXIII](#xxxiii)
-  - [XXXIV](#xxxiv)
-  - [XXXV](#xxxv)
-- [MŪSAE ET CICĀDAE](#mūsae-et-cicādae)
-  - [XXXVI](#xxxvi)
-  - [XXXVII](#xxxvii)
-- [RŌMULUS ET REMUS](#rōmulus-et-remus)
-  - [XXXVIII](#xxxviii)
-  - [XXXIX](#xxxix)
-  - [XL](#xl)
-  - [XLI](#xli)
-  - [XLII](#xlii)
-- [METTIUS CURTIUS](#mettius-curtius)
-  - [XLIII](#xliii)
-- [RĒGULUS](#rēgulus)
-  - [XLIV](#xliv)
-  - [XLV](#xlv)
-- [HECTOR ET ANDROMACHĒ](#hector-et-andromachē)
-  - [XLVI](#xlvi)
-  - [XLVII](#xlvii)
-- [EQUUS TRŌIĀNUS](#equus-trōiānus)
-  - [XLVIII](#xlviii)
-  - [XLIX](#xlix)
-- [ORPHEUS ET EURYDICĒ](#orpheus-et-eurydicē)
-  - [L](#l)
-  - [LI](#li)
-  - [LII](#lii)
-- [VOCABULARY OF NEW WORDS IN EACH SECTION](#vocabulary-of-new-words-in-each-section)
-- [VOCABULARY OF WORDS USED IN QUOTED PASSAGES](#vocabulary-of-words-used-in-quoted-passages)
-- [GENERAL VOCABULARY](#general-vocabulary)
-- [FOOTNOTES](#footnotes)
+- [JULIA: A LATIN READING BOOK](#julia-a-latin-reading-book)
+  - [INTRODUCTION](#introduction)
+  - [PREFACE](#preface)
+  - [CONTENTS](#contents)
+  - [IŪLIA](#iūlia)
+    - [I](#i)
+    - [II](#ii)
+    - [III](#iii)
+    - [IV](#iv)
+  - [ĪTALIA](#ītalia)
+    - [V](#v)
+  - [RŌMA](#rōma)
+    - [VI](#vi)
+  - [CERĒS ET PERSEPHONĒ](#cerēs-et-persephonē)
+    - [VII](#vii)
+    - [VIII](#viii)
+    - [IX](#ix)
+    - [X](#x)
+    - [XI](#xi)
+    - [XII](#xii)
+  - [RŌMULUS ET SABĪNA](#rōmulus-et-sabīna)
+    - [XIII](#xiii)
+    - [XIV](#xiv)
+  - [MARS RŌMULUM IN CAELUM VOCAT](#mars-rōmulum-in-caelum-vocat)
+    - [XV](#xv)
+    - [XVI](#xvi)
+  - [HORĀTIUS PUER](#horātius-puer)
+    - [XVII](#xvii)
+    - [XVIII](#xviii)
+  - [BACCHUS ET PĪRĀTAE](#bacchus-et-pīrātae)
+    - [XIX](#xix)
+    - [XX](#xx)
+    - [XXI](#xxi)
+  - [HORĀTIUS CODES](#horātius-codes)
+    - [XXII](#xxii)
+    - [XXIII](#xxiii)
+    - [XXIV](#xxiv)
+    - [XXV](#xxv)
+    - [XXVI](#xxvi)
+    - [XXVII](#xxvii)
+  - [ĪPHIGENEIA \[^7\]](#īphigeneia-7)
+    - [XXVIII](#xxviii)
+    - [XXIX](#xxix)
+    - [XXX](#xxx)
+    - [XXXI](#xxxi)
+    - [XXXII](#xxxii)
+  - [CȲRUS, CROESUS, SOLŌN](#cȳrus-croesus-solōn)
+    - [XXXIII](#xxxiii)
+    - [XXXIV](#xxxiv)
+    - [XXXV](#xxxv)
+  - [MŪSAE ET CICĀDAE](#mūsae-et-cicādae)
+    - [XXXVI](#xxxvi)
+    - [XXXVII](#xxxvii)
+  - [RŌMULUS ET REMUS](#rōmulus-et-remus)
+    - [XXXVIII](#xxxviii)
+    - [XXXIX](#xxxix)
+    - [XL](#xl)
+    - [XLI](#xli)
+    - [XLII](#xlii)
+  - [METTIUS CURTIUS](#mettius-curtius)
+    - [XLIII](#xliii)
+  - [RĒGULUS](#rēgulus)
+    - [XLIV](#xliv)
+    - [XLV](#xlv)
+  - [HECTOR ET ANDROMACHĒ](#hector-et-andromachē)
+    - [XLVI](#xlvi)
+    - [XLVII](#xlvii)
+  - [EQUUS TRŌIĀNUS](#equus-trōiānus)
+    - [XLVIII](#xlviii)
+    - [XLIX](#xlix)
+  - [ORPHEUS ET EURYDICĒ](#orpheus-et-eurydicē)
+    - [L](#l)
+    - [LI](#li)
+    - [LII](#lii)
+  - [VOCABULARY OF NEW WORDS IN EACH SECTION](#vocabulary-of-new-words-in-each-section)
+  - [VOCABULARY OF WORDS USED IN QUOTED PASSAGES](#vocabulary-of-words-used-in-quoted-passages)
+  - [GENERAL VOCABULARY](#general-vocabulary)
+  - [FOOTNOTES](#footnotes)
 
 ---
 
@@ -333,7 +334,7 @@ nāviculam properant. Tum agricola pīrātās vocat;
 "Ubi," inquit, "est fīlia mea?" Pīrātae, "Fīlia 
 tua," inquiunt, "in nāviculā nostrā est." Tum 
 agricola pecūniam multam pīrātīs dat. Pīrātae 
-lūliam ad agricolae nāviculam portant. 
+Iūliam ad agricolae nāviculam portant. 
 
 
 ### IV 
@@ -345,7 +346,7 @@ tabulās dat. Pecūniam quoque lūdī magistrō dat.
 Cotīdiē puella ad lūdum per agrōs ambulat. Multī
 iuvencī in agrīs sunt, sed impavida est puella. 
 Tabulās ad lūdum Iūlia portat. In tabulīs 
-litterae multae sunt. Lūdī magister lūliam laudat 
+litterae multae sunt. Lūdī magister Iūliam laudat 
 quod litterās bene cotīdiē recitat. In lūdō multī
 puerī, multae puellae cum Iūliā sunt. Magister 
 lūdum bene gubernat. Industriīs puerīs magister 
@@ -356,13 +357,13 @@ puerī pigrī in angulīs stant. Multae sunt lacrimae
 puerōrum malōrum. Itaque puerī industriī sunt 
 et litterās bene recitant. Iūlia prandium ad 
 lūdum cotīdiē portat, quod longa est via. In 
-agrīs prandium est lūliae grātum. 
+agrīs prandium est Iūliae grātum. 
 
 Multās fābulās puerīs et puellīs magister benignus 
 in lūdō narrat; nunc dē Britanniā, nunc dē 
 longinquīs terrīs fābulās narrat. Grātae puerīs 
 et puellīs sunt fābulae. Nunc igitur in librō nōn 
-sōlum lūliae sed multīs etiam puerīs et puellīs
+sōlum Iūliae sed multīs etiam puerīs et puellīs
 fābulās narro. 
 
 ---
@@ -759,7 +760,7 @@ ornābant. Deus igitur vītēs Ītalicās cūrābat, et ā
 perīculō dēfendēbat. Formōsus erat Deus, et, 
 quod vītēs amābat, capillōs suōs pampinīs saepe 
 ornābat. Nec Ītalōs Graecōsque sōlum docēbat, 
-sed ad longinquās tenās nāvigābat, aliīsque gentibus 
+sed ad longinquās terrās nāvigābat, aliīsque gentibus 
 vīnum dabat, artēsque rusticās docēbat. 
 
 
@@ -872,7 +873,7 @@ Italian Warrior
 
 Intereā Porsennae facta Rōmānōs nōn fefellērunt. 
 Virginēs vestālēs prope ignem sacrum deōs ōrābant; 
-mātrōnae cum līberīs suīs dāna ad templa ferēbant; 
+mātrōnae cum līberīs suīs dōna ad templa ferēbant; 
 senēs victimās in ārīs mactābant; iuvenēs in 
 Campō Martiō sē ad arma proeliumque parābant, 
 et moenia multō labōre firmābant; vigilēs in 
@@ -993,7 +994,7 @@ an earlier day :
 
 ## ĪPHIGENEIA [^7]
 
->*sanguine plācastis venios et virgine caesā,* 
+>*sanguine plācastis ventos et virgine caesā,* 
 >
 >*cum prīmum Īliacas Danai vēnistis ad ōras:* 
 >
@@ -1020,7 +1021,7 @@ dedit, et trans mare ad urbem Trōiam properāvit.
 
 ### XXIX 
 
-Menelāus, ubi hospitis perfidiam vTdit, ad 
+Menelāus, ubi hospitis perfidiam vīdit, ad 
 frātrem contendit et omnia narrāvit. Agamemnōn 
 īrā terribilī exclāmāvit, "Perfidus est Paris; 
 perfidum est tōtum Trōiānōrum genus, sed perfidiae 
@@ -1067,7 +1068,7 @@ portum mīsit.
 ### XXXI 
 
 Itaque magnā spē Īphigeneia ad castra Graecōrum 
-vēnit. Simul āc reēgem vīdit, tum cito ad 
+vēnit. Simul āc rēgem vīdit, tum cito ad 
 patrem cucurrit, et collo cāro bracchia candida dedit. 
 Sed ubi maestum rēgis vultum vīdit, "Cūr," 
 inquit, "mī pater, vultū maesto, capite dēmisso 
@@ -1487,7 +1488,7 @@ Inter captīvos Rēgulus ipse Carthāginem ductus
 est. Tum summo gaudio Poeni, "Nunc," inquiunt, 
 "Rōmānos vicīmus; Rōmāni igitur pācem 
 dēsīderābunt et bonas condiciōnes ferent. Tē, 
-Rēgule, Rōman iam mittēmus. Tū lēgāti modō 
+Rēgule, Rōmam iam mittēmus. Tū lēgāti modō 
 in Senātum intrā—sī verbīs tuis animos cīvium 
 tuōrum ad pācem addūxeris, tu vinculis liberāberis, 
 et līber in līberā urbe tuā habitābis. Sed sī 
@@ -1763,7 +1764,7 @@ Omnia flōrum genera sub pedibus ēius flōrēbant.
 Uxor erat eī Eurydicē nōmine, quam maximē 
 amābat. Cum eā in prātis nitidis lūdere gaudēbat. 
 Prope Thrāciae ōram poēta uxorque ēius bene 
-beātēque vivēbant. Mox tarnen Eurydicē, misera 
+beātēque vivēbant. Mox tamen Eurydicē, misera 
 puella, morbo tristī languescēbat, et ad Inferos 
 adhūc iuvenis descendit. Diū Orphēūs per tōtam 
 ōram sōlus cum lyrā māne sērōque errābat, et 
@@ -1811,7 +1812,7 @@ uxōrem tuam tenebrae fundentur."
 
 Iam Orphēūs magnā spē ad Superos ascendēbat; 
 iam Eurydicē pōst virum ad lūcem properābat, 
-iam ad extreēmas tenebras veniēbat. Orphēūs, 
+iam ad extrēmas tenebras veniēbat. Orphēūs, 
 verbōrum rēgīnae immemor, oculos retrō ad puellam 
 revertit. Tum vērō ex īmis Inferis fragor ingens 
 audītus est. Eurydice, "O Orphēū," inquit,  
