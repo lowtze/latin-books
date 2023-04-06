@@ -184,83 +184,84 @@ M. R.
 
 ## CONTENTS 
 
-- [INTRODUCTION](#introduction)
-- [PREFACE](#preface)
-- [CONTENTS](#contents)
-- [IULIA](#iulia)
-  - [I](#i)
-  - [II](#ii)
-  - [III](#iii)
-  - [IV](#iv)
-- [ITALIA](#italia)
-  - [V](#v)
-- [ROMA](#roma)
-  - [VI](#vi)
-- [CERES ET PERSEPHONE](#ceres-et-persephone)
-  - [VII](#vii)
-  - [VIII](#viii)
-  - [IX](#ix)
-  - [X](#x)
-  - [XI](#xi)
-  - [XII](#xii)
-- [ROMULUS ET SABINA](#romulus-et-sabina)
-  - [XIII](#xiii)
-  - [XIV](#xiv)
-- [MARS ROMULUM IN CAELUM VOCAT](#mars-romulum-in-caelum-vocat)
-  - [XV](#xv)
-  - [XVI](#xvi)
-- [HORATIUS PUER](#horatius-puer)
-  - [XVII](#xvii)
-  - [XVIII](#xviii)
-- [BACCHUS ET PIRATAE](#bacchus-et-piratae)
-  - [XIX](#xix)
-  - [XX](#xx)
-  - [XXI](#xxi)
-- [HORATIUS CODES](#horatius-codes)
-  - [XXII](#xxii)
-  - [XXIII](#xxiii)
-  - [XXIV](#xxiv)
-  - [XXV](#xxv)
-  - [XXVI](#xxvi)
-  - [XXVII](#xxvii)
-- [IPHIGENEIA](#iphigeneia)
-  - [XXVIII](#xxviii)
-  - [XXIX](#xxix)
-  - [XXX](#xxx)
-  - [XXXI](#xxxi)
-  - [XXXII](#xxxii)
-- [CYRUS, CROESUS, SOLON](#cyrus-croesus-solon)
-  - [XXXIII](#xxxiii)
-  - [XXXIV](#xxxiv)
-  - [XXXV](#xxxv)
-- [MUSAE ET CICADAE](#musae-et-cicadae)
-  - [XXXVI](#xxxvi)
-  - [XXXVII](#xxxvii)
-- [ROMULUS ET REMUS](#romulus-et-remus)
-  - [XXXVIII](#xxxviii)
-  - [XXXIX](#xxxix)
-  - [XL](#xl)
-  - [XLI](#xli)
-  - [XLII](#xlii)
-- [METTIUS CURTIUS](#mettius-curtius)
-  - [XLIII](#xliii)
-- [REGULUS](#regulus)
-  - [XLIV](#xliv)
-  - [XLV](#xlv)
-- [HECTOR ET ANDROMACHE](#hector-et-andromache)
-  - [XLVI](#xlvi)
-  - [XLVII](#xlvii)
-- [EQUUS TROIANUS](#equus-troianus)
-  - [XLVIII](#xlviii)
-  - [XLIX](#xlix)
-- [ORPHEUS ET EURYDICE](#orpheus-et-eurydice)
-  - [L](#l)
-  - [LI](#li)
-  - [LII](#lii)
-- [VOCABULARY OF NEW WORDS IN EACH SECTION](#vocabulary-of-new-words-in-each-section)
-- [VOCABULARY OF WORDS USED IN QUOTED PASSAGES](#vocabulary-of-words-used-in-quoted-passages)
-- [GENERAL VOCABULARY](#general-vocabulary)
-- [FOOTNOTES](#footnotes)
+- [JULIA: A LATIN READING BOOK](#julia-a-latin-reading-book)
+  - [INTRODUCTION](#introduction)
+  - [PREFACE](#preface)
+  - [CONTENTS](#contents)
+  - [IULIA](#iulia)
+    - [I](#i)
+    - [II](#ii)
+    - [III](#iii)
+    - [IV](#iv)
+  - [ITALIA](#italia)
+    - [V](#v)
+  - [ROMA](#roma)
+    - [VI](#vi)
+  - [CERES ET PERSEPHONE](#ceres-et-persephone)
+    - [VII](#vii)
+    - [VIII](#viii)
+    - [IX](#ix)
+    - [X](#x)
+    - [XI](#xi)
+    - [XII](#xii)
+  - [ROMULUS ET SABINA](#romulus-et-sabina)
+    - [XIII](#xiii)
+    - [XIV](#xiv)
+  - [MARS ROMULUM IN CAELUM VOCAT](#mars-romulum-in-caelum-vocat)
+    - [XV](#xv)
+    - [XVI](#xvi)
+  - [HORATIUS PUER](#horatius-puer)
+    - [XVII](#xvii)
+    - [XVIII](#xviii)
+  - [BACCHUS ET PIRATAE](#bacchus-et-piratae)
+    - [XIX](#xix)
+    - [XX](#xx)
+    - [XXI](#xxi)
+  - [HORATIUS CODES](#horatius-codes)
+    - [XXII](#xxii)
+    - [XXIII](#xxiii)
+    - [XXIV](#xxiv)
+    - [XXV](#xxv)
+    - [XXVI](#xxvi)
+    - [XXVII](#xxvii)
+  - [IPHIGENEIA \[^7\]](#iphigeneia-7)
+    - [XXVIII](#xxviii)
+    - [XXIX](#xxix)
+    - [XXX](#xxx)
+    - [XXXI](#xxxi)
+    - [XXXII](#xxxii)
+  - [CYRUS, CROESUS, SOLON](#cyrus-croesus-solon)
+    - [XXXIII](#xxxiii)
+    - [XXXIV](#xxxiv)
+    - [XXXV](#xxxv)
+  - [MUSAE ET CICADAE](#musae-et-cicadae)
+    - [XXXVI](#xxxvi)
+    - [XXXVII](#xxxvii)
+  - [ROMULUS ET REMUS](#romulus-et-remus)
+    - [XXXVIII](#xxxviii)
+    - [XXXIX](#xxxix)
+    - [XL](#xl)
+    - [XLI](#xli)
+    - [XLII](#xlii)
+  - [METTIUS CURTIUS](#mettius-curtius)
+    - [XLIII](#xliii)
+  - [REGULUS](#regulus)
+    - [XLIV](#xliv)
+    - [XLV](#xlv)
+  - [HECTOR ET ANDROMACHE](#hector-et-andromache)
+    - [XLVI](#xlvi)
+    - [XLVII](#xlvii)
+  - [EQUUS TROIANUS](#equus-troianus)
+    - [XLVIII](#xlviii)
+    - [XLIX](#xlix)
+  - [ORPHEUS ET EURYDICE](#orpheus-et-eurydice)
+    - [L](#l)
+    - [LI](#li)
+    - [LII](#lii)
+  - [VOCABULARY OF NEW WORDS IN EACH SECTION](#vocabulary-of-new-words-in-each-section)
+  - [VOCABULARY OF WORDS USED IN QUOTED PASSAGES](#vocabulary-of-words-used-in-quoted-passages)
+  - [GENERAL VOCABULARY](#general-vocabulary)
+  - [FOOTNOTES](#footnotes)
 
 ---
 
@@ -315,8 +316,8 @@ sunt lacrimae puellae, sed frustra—pirata in extrema
 navicula stat et naviculam gubernat. 
 
 
-### III 
-
+### III
+ 
 Agricola ad casam venit. Filia parva non 
 est in casa. Tum agricola, "Iulia," exclamat, 
 "filia mea, ubi es?" Iterum Iuliam vocat, sed 
@@ -333,7 +334,7 @@ naviculam properant. Tum agricola piratas vocat;
 "Ubi," inquit, "est filia mea?" Piratae, "Filia 
 tua," inquiunt, "in navicula nostra est." Tum 
 agricola pecuniam multam piratis dat. Piratae 
-luliam ad agricolae naviculam portant. 
+Iuliam ad agricolae naviculam portant. 
 
 
 ### IV 
@@ -345,7 +346,7 @@ tabulas dat. Pecuniam quoque ludi magistro dat.
 Cotidie puella ad ludum per agros ambulat. Multi
 iuvenci in agris sunt, sed impavida est puella. 
 Tabulas ad ludum Iulia portat. In tabulis 
-litterae multae sunt. Ludi magister luliam laudat 
+litterae multae sunt. Ludi magister Iuliam laudat 
 quod litteras bene cotidie recitat. In ludo multi
 pueri, multae puellae cum Iulia sunt. Magister 
 ludum bene gubernat. Industriis pueris magister 
@@ -356,13 +357,13 @@ pueri pigri in angulis stant. Multae sunt lacrimae
 puerorum malorum. Itaque pueri industrii sunt 
 et litteras bene recitant. Iulia prandium ad 
 ludum cotidie portat, quod longa est via. In 
-agris prandium est luliae gratum. 
+agris prandium est Iuliae gratum. 
 
 Multas fabulas pueris et puellis magister benignus 
 in ludo narrat; nunc de Britannia, nunc de 
 longinquis terris fabulas narrat. Gratae pueris 
 et puellis sunt fabulae. Nunc igitur in libro non 
-solum luliae sed multis etiam pueris et puellis
+solum Iuliae sed multis etiam pueris et puellis
 fabulas narro. 
 
 ---
@@ -685,9 +686,9 @@ numen adorabant.
 > 
 > *audita Musarum sacerdos*
 > 
-> *virginibus puerisque canto.*
+> *virginibus puerisque canto.[^2]*
 > 
->Horace.[^2] 
+>Horace.[^3] 
 
 
 ### XVII 
@@ -744,7 +745,7 @@ carmina mox legetis et in memoriae tabulis scribetis.
 >
 >*To scare thee, Melancholy!* 
 >
->Keats.[^3] 
+>Keats.[^4] 
 
 
 ### XIX 
@@ -759,7 +760,7 @@ ornabant. Deus igitur vites Italicas curabat, et a
 periculo defendebat. Formosus erat Deus, et, 
 quod vites amabat, capillos suos pampinis saepe 
 ornabat. Nec Italos Graecosque solum docebat, 
-sed ad longinquas tenas navigabat, aliisque gentibus 
+sed ad longinquas terras navigabat, aliisque gentibus 
 vinum dabat, artesque rusticas docebat. 
 
 
@@ -827,7 +828,7 @@ umbra Bacchus ad terras longinquas navigavit.
 >
 >*In the brave days of old.* 
 >
->Macaulay.[^4]
+>Macaulay.[^5]
 
 
 ### XXII 
@@ -872,7 +873,7 @@ Italian Warrior
 
 Interea Porsennae facta Romanos non fefellerunt. 
 Virgines vestales prope ignem sacrum deos orabant; 
-matronae cum liberis suis dana ad templa ferebant; 
+matronae cum liberis suis dona ad templa ferebant; 
 senes victimas in aris mactabant; iuvenes in 
 Campo Martio se ad arma proeliumque parabant, 
 et moenia multo labore firmabant; vigiles in 
@@ -905,7 +906,7 @@ contra hostes in angusto loco pugnabo. Ita
 omnes pro aris templisque Romanis, pro uxoribus 
 liberisque, pro sacris virginibus pugnabimus. Ita 
 urbem Romam conservabimus. Quis mecum in 
-extremo ponte stabit et contra Etruscos pugnabit?"
+extremo ponte stabit et contra Etruscos pugnabit?" 
 Tum Lartius, "Ego," inquit, "a dextra stabo, et 
 pontem tecum conservabo"; et magna voce 
 Herminius, "Ego," inquit, "a sinistra stabo et 
@@ -987,17 +988,17 @@ an earlier day :
 >
 >*septemque una sibi muro circumdedit arces.* 
 >
->Virgil.[^5] 
+>Virgil.[^6] 
 
 ---
 
-## IPHIGENEIA
+## IPHIGENEIA [^7]
 
->*sanguine placastis venios et virgine caesa,* 
+>*sanguine placastis ventos et virgine caesa,* 
 >
 >*cum primum Iliacas Danai venistis ad oras:* 
 >
->Virgil.[^6]
+>Virgil.[^8]
 
 
 ### XXVIII 
@@ -1020,7 +1021,7 @@ dedit, et trans mare ad urbem Troiam properavit.
 
 ### XXIX 
 
-Menelaus, ubi hospitis perfidiam vTdit, ad 
+Menelaus, ubi hospitis perfidiam vidit, ad 
 fratrem contendit et omnia narravit. Agamemnon 
 ira terribili exclamavit, "Perfidus est Paris; 
 perfidum est totum Troianorum genus, sed perfidiae 
@@ -1067,7 +1068,7 @@ portum misit.
 ### XXXI 
 
 Itaque magna spe Iphigeneia ad castra Graecorum 
-venit. Simul ac reegem vidit, tum cito ad 
+venit. Simul ac regem vidit, tum cito ad 
 patrem cucurrit, et collo caro bracchia candida dedit. 
 Sed ubi maestum regis vultum vidit, "Cur," 
 inquit, "mi pater, vultu maesto, capite demisso 
@@ -1213,7 +1214,7 @@ carum amicum habebat.
 >
 >*But all are divine.* 
 >
->Matthew Arnold.[^7] 
+>Matthew Arnold.[^9] 
 
 
 ### XXXVI 
@@ -1284,7 +1285,7 @@ cantant.
 >
 >*The spirit of thy sire."* 
 >
->Macaulay.[^8] 
+>Macaulay.[^10] 
 
 
 ### XXXVIII 
@@ -1338,8 +1339,8 @@ Silvia geminos, Martis filios, in gremio tenebat.
 The Wolf of the Capitol.
 
 
-### XL
- 
+### XL 
+
 Amulio, ubi in regia sedebat, cives hanc rem 
 nuntiaverunt. Tum vero rex ira et timore vehementer 
 commotus est. Itaque servis perterritis,
@@ -1419,7 +1420,7 @@ etiam nunc lupam vivam in Capitolio habent.
 >
 >*iactat ultorem.* 
 >
->Horace.[^9]
+>Horace.[^11]
 
 ---
 
@@ -1481,13 +1482,13 @@ cucurrerunt. Maior pars exercitus aut necati aut
 capti sunt. 
 
 
-### XLV
- 
+### XLV 
+
 Inter captivos Regulus ipse Carthaginem ductus 
 est. Tum summo gaudio Poeni, "Nunc," inquiunt, 
 "Romanos vicimus; Romani igitur pacem 
 desiderabunt et bonas condiciones ferent. Te, 
-Regule, Roman iam mittemus. Tu legati modo 
+Regule, Romam iam mittemus. Tu legati modo 
 in Senatum intra—si verbis tuis animos civium 
 tuorum ad pacem adduxeris, tu vinculis liberaberis, 
 et liber in libera urbe tua habitabis. Sed si 
@@ -1528,7 +1529,7 @@ mortique se tradidit.
 >
 >*aut Lacedaemonium Tarentum.* 
 >
->Horace.[^10]
+>Horace.[^12]
 
 ---
 
@@ -1574,7 +1575,7 @@ mortique se tradidit.
 >
 >*In fragrant bosom, smiling through her tears.*
 >
->Charles Kingsley.[^11] 
+>Charles Kingsley.[^13] 
 
 
 ### XLVI 
@@ -1646,7 +1647,7 @@ et omnium rerum maxime viri sui mortem timebat.
 >
 >*dulce rideat ad patrem.*
 >
->Catullus.[^12]
+>Catullus.[^14]
 
 ---
 
@@ -1660,7 +1661,7 @@ et omnium rerum maxime viri sui mortem timebat.
 >
 >*Of ashen-speared Priam, perish all.*
 >
->Charles Kingsley.[^13]
+>Charles Kingsley.[^15]
 
 
 ### XLVIII 
@@ -1725,7 +1726,7 @@ terram alienam in servitutem ductae.
 >
 >*quidquid id est, timeo Danaos et dona ferentes.*
 >
->Virgil.[^14]
+>Virgil.[^16]
 
 ---
 
@@ -1743,7 +1744,7 @@ terram alienam in servitutem ductae.
 >
 >*There had made a lasting spring,*
 >
->Shakespeare (?)[^15] 
+>Shakespeare (?)[^17] 
 
 
 ### L 
@@ -1763,7 +1764,7 @@ Omnia florum genera sub pedibus eius florebant.
 Uxor erat ei Eurydice nomine, quam maxime 
 amabat. Cum ea in pratis nitidis ludere gaudebat. 
 Prope Thraciae oram poeta uxorque eius bene 
-beateque vivebant. Mox tarnen Eurydice, misera 
+beateque vivebant. Mox tamen Eurydice, misera 
 puella, morbo tristi languescebat, et ad Inferos 
 adhuc iuvenis descendit. Diu Orpheus per totam 
 oram solus cum lyra mane seroque errabat, et 
@@ -1811,7 +1812,7 @@ uxorem tuam tenebrae fundentur."
 
 Iam Orpheus magna spe ad Superos ascendebat; 
 iam Eurydice post virum ad lucem properabat, 
-iam ad extreemas tenebras veniebat. Orpheus, 
+iam ad extremas tenebras veniebat. Orpheus, 
 verborum reginae immemor, oculos retro ad puellam 
 revertit. Tum vero ex imis Inferis fragor ingens 
 auditus est. Eurydice, "O Orpheu," inquit,  
@@ -1835,7 +1836,7 @@ in tenebras fugit.
 >
 >*inpositique rogis iuvenes ante ora parentum.*
 >
->Virgil.[^16]
+>Virgil.[^18]
 
 Haec et alia multa Iulia e benigno ludi magistro 
 audiebat. Postea, iam adolescens, ad longinquas 
