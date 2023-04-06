@@ -42,21 +42,22 @@ L'illustrazione della. copertina riproduce un'incisione di Bartolommeo
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [FABELLAE](#fabellae)
-  - [I. - ASINUS, BOS, MERCATOR PRAEDIVES](#i---asinus-bos-mercator-praedives)
-  - [II. - DE EQUO PROMETHEUM CULPANTE](#ii---de-equo-prometheum-culpante)
-  - [III. - DE REGIS FILIA PULCHERRIMA](#iii---de-regis-filia-pulcherrima)
-- [COLLOQUIA](#colloquia)
-  - [COLLOQUIUM I (De haedo et lupo)](#colloquium-i-de-haedo-et-lupo)
-  - [COLLOQUIUM II (De Cynegeri virtute)](#colloquium-ii-de-cynegeri-virtute)
-  - [COLLOQUIUM III (De duobus anguibus)](#colloquium-iii-de-duobus-anguibus)
-  - [COLLOQUIUM IV (Marius et Cimbricus servus)](#colloquium-iv-marius-et-cimbricus-servus)
-  - [COLLOQUIUM V (De animalibus)](#colloquium-v-de-animalibus)
-  - [COLLOQUIUM VI (Malus quidam discipulus)](#colloquium-vi-malus-quidam-discipulus)
-  - [COLLOQUIUM VII (Discipulorum rixa)](#colloquium-vii-discipulorum-rixa)
-  - [COLLOQUIUM VIII (De novis verbis Latine fingendis)](#colloquium-viii-de-novis-verbis-latine-fingendis)
-- [INDORUM PROVERBIA](#indorum-proverbia)
+- [Varius Libellus](#varius-libellus)
+  - [Table of Contents](#table-of-contents)
+  - [FABELLAE](#fabellae)
+    - [I. - ASINUS, BOS, MERCATOR PRAEDIVES](#i---asinus-bos-mercator-praedives)
+    - [II. - DE EQUO PROMETHEUM CULPANTE](#ii---de-equo-prometheum-culpante)
+    - [III. - DE REGIS FILIA PULCHERRIMA](#iii---de-regis-filia-pulcherrima)
+  - [COLLOQUIA](#colloquia)
+    - [COLLOQUIUM I (De haedo et lupo)](#colloquium-i-de-haedo-et-lupo)
+    - [COLLOQUIUM II (De Cynegeri virtute)](#colloquium-ii-de-cynegeri-virtute)
+    - [COLLOQUIUM III (De duobus anguibus)](#colloquium-iii-de-duobus-anguibus)
+    - [COLLOQUIUM IV (Marius et Cimbricus servus)](#colloquium-iv-marius-et-cimbricus-servus)
+    - [COLLOQUIUM V (De animalibus)](#colloquium-v-de-animalibus)
+    - [COLLOQUIUM VI (Malus quidam discipulus)](#colloquium-vi-malus-quidam-discipulus)
+    - [COLLOQUIUM VII (Discipulorum rixa)](#colloquium-vii-discipulorum-rixa)
+    - [COLLOQUIUM VIII (De novis verbis Latine fingendis)](#colloquium-viii-de-novis-verbis-latine-fingendis)
+  - [INDORUM PROVERBIA](#indorum-proverbia)
 
 ---
 
@@ -85,7 +86,7 @@ quid clamitarent gallinae, cum stomachosis raucisque
 conviciis in gallinario streperent
 ac rixarentur. Sed dea eadem,
 quae tanto illum beneficio adfecerat, severissime admonuerat,
-ne cui unquam quicquam proderet, quod ex animalibus locquentibus audisset: capital id illi futurum.
+ne cui unquam quicquam proderet, quod ex animalibus loquentibus audisset: capital id illi futurum.
 
 Cum igitur quadam die mercator ad stabulum adsideret, ubi bos atque
 asinus iuxta pascebantur, asinum sic bovem compellantem audivit.
@@ -189,9 +190,9 @@ obliviscar».
 
 ![asinus et bos]()
 
-Sic asinus; simulatisque lacrimis fictum eftundebat maerorem.
+Sic asinus; simulatisque lacrimis fictum effundebat maerorem.
 
-Tum dominus: «Vater est asinus meus, inquit; quam
+Tum dominus: «Vafer est asinus meus, inquit; quam
 bene callet!»; atque magna cachinnatione exagitari subito
 coepit.
 
@@ -243,7 +244,7 @@ non licet».
 ![mercator]()
 
 At magis illa suscensuit, virumque
-suum convicus ac maledictis consectari coepit:
+suum conviciis ac maledictis consectari coepit:
 
 «Mendax es, vir pessime, uxoremque
 tuam vix ferenda superbia contemnis».
@@ -306,7 +307,7 @@ statim adferrent. Quo arrepto, minaci vultu thalamum ingressus est.
 ![mercator cum baculo uxorem verberat]()
 
 Quem ubi primum ancillae advenientem conspexerunt
-intentis oculis, obdurata facie baculumque manu horribliter
+intentis oculis, obdurata facie baculumque manu horribiliter
 quatientem, magnus statim clamor ortus est, magna
 ac miserabilis eiulatio; diffugere miserae, quiritare, pectora
 sibi plangere. Nihil ille movetur, sed uxorem intuens: «Visne,
@@ -411,7 +412,7 @@ cute tectum ursi atque elephanti, se alteri velleribus suis iactantes, alteri be
 quod homo, quamquam vocis sonum aptius ederet ac distinctius quam
 cetera animalia, eo praeclaro naturae munere
 ad id tantum uteretur, ut de se uno usque ad fastidium
-praedicaret. Simius vero, dum cauda celsioribus ramis arbors
+praedicaret. Simius vero, dum cauda celsioribus ramis arboris
 advolvitur ac pendulus in aere huc illuc convicia fundit, clamitans
 ex omnibus quaerebat, quidnam causae esset
 cur, cum apud omnia animalia mares feminis firmiter imperitarent, vir
@@ -469,14 +470,14 @@ sagittarum simillimae nunc
 sublimia petunt, nunc hominum tecta radunt, ita ut, cum
 ineunte autumno illae, ut adsolent, in diversas terras transmigraverunt, caelum, vel vespertina serenitate, mutum atque
 omni varietate carens torpescere videatur. Simius ipse, perpetua
-vivens inlaetitia, agili ac pernici corpore fretus, summos arborum
-ramos nullo labore adtingens paene infinta libertate
-fruitur, ac mira quadam petulantia in omnnes
+vivens in laetitia, agili ac pernici corpore fretus, summos arborum
+ramos nullo labore adtingens paene infinita libertate
+fruitur, ac mira quadam petulantia in omnes
 iocatur. Quotquot animalia sunt, nihil
 est quod illa iure desiderent. Mirarisne igitur
 me indigne habitum dolere ac queri,
 quod Prometheus, artifex ille egregius, cum
-in singulis animantibus fingendis dilgentissime
+in singulis animantibus fingendis diligentissime
 elaboraverit, in me uno opus imperfectum
 ac prope mancum reliquerit? An potes tu, iustissimum
 numen, tantam iniquitatem non improbare? Id te
@@ -528,7 +529,7 @@ indicia sint vel summae sagacitatis.
 ![leo pardusque tigrisque]()
 
 «Quid, quod insimiles suos rabido semper odio rapitur
-perpetuisque inrixis versatur? Nullum animal, unum si hominem
+perpetuisque in rixis versatur? Nullum animal, unum si hominem
 exceperis, eo usque
 insanit, ut bella per se ipsa
 diligat; ferae immanesque
@@ -616,7 +617,7 @@ capite immurmuravit. Nec mora ulla: camelus creatus est.
 Piger ille, pilis horridus, longumque collum lentus incurvans, ubi
 primum vitales auras hausit, diductis labiis absonum quendam gemitum
 emisit, ita ut undique magna omnium cachinnatio
-orta sit. Tum luppiter, equum adlocutus:
+orta sit. Tum Iuppiter, equum adlocutus:
 
 «Ecce, optime, inquit, quod in animal
 mutari vis. Quae optas, camelus
@@ -639,7 +640,7 @@ diutius id naturae dedecus intueri cogar. Erravi, fateor,
 meque temeritatis meae paenitet pigetque; stultus ac levis
 condicionem meam non recte aspernatus sum, nec iam quicquam habeo,
 cur Prometheo neglegentiam obiciam. Falso
-illum culpavi. Id unum te rogo, ut posthac quibus inregionibus equus
+illum culpavi. Id unum te rogo, ut posthac quibus in regionibus equus
 vivere soleat, inde camelus absit. Alias ille plagas incolat, sub
 alio caelo versetur, longinquis in terris servitutem suam hominibus
 praestet. Semper enim, conspecto
@@ -663,7 +664,7 @@ fateamur necesse est. Nos enim generosam equi naturam in
 animis nostris inesse credimus, latentem camelum non videmus, cuius,
 dum turpitudinem referimus, patientia caremus.
 Circumit tamen veritas, suoque in speculo nos veram hominis effigiem
-vel invitos spectare cogit: pilosa crura nobis, defornem faciem,
+vel invitos spectare cogit: pilosa crura nobis, deformem faciem,
 obscenum ac gibberosum dorsum repercussa imagine obicit exprobratque.
 Sed nostra nos inanitas
 falsis nominibus ludere docet, ac temere nobis ipsis blandiri,
@@ -677,7 +678,7 @@ magni animi appellatione obtegimus.
 
 ### III. - DE REGIS FILIA PULCHERRIMA
 
-![regia puella et quattor adulescenti]()
+![regia puella et quattuor adulescenti]()
 
 Regiam puellam quattuor adulescentuli, summo genere
 orti, misere perditeque amabant.
@@ -692,12 +693,12 @@ paucis diebus periit.
 
 Postquam autem, perfectis exsequiis, corpus mortuae virginis
 in rogo est impositum flammisque involutum ardere
-coepit, unus ex illis adulescentulis inignem periturus se
+coepit, unus ex illis adulescentulis in ignem periturus se
 proiecit, ut, quandoquidem spem nuptiarum mors ademisset,
 uno dumtaxat eodemque monumento cum puella conderetur.
 
 Ubi vero omnia combusta sunt flammaeque resederunt,
-alter illorum iuvenum, cineribus dihgentissime collectis,
+alter illorum iuvenum, cineribus diligentissime collectis,
 splendidum mortuae puellae sepulcrum exstruxit, idque
 area circumdedit pretiosis arboribus exquisitisque floribus
 consita, quam summa diligentia ac pietate cotidie colebat,
@@ -713,7 +714,7 @@ posset, quo adhibito puella ad vitam revocaretur.
 
 Unus tantum ex quattuor, quamquam et ipse gravi maerore adficiebatur,
 seu quod blandius puellam amaverat, sive
-eo quod tribus illis, ut suspicari licet, sapientor erat, nullum
+eo quod tribus illis, ut suspicari licet, sapientior erat, nullum
 amoris pietatisve documentum edidit: domi mansit, lacrimis temperavit, negotia sua gessit.
 
 Accidit vero ut ille, qui eo animo in externis regionibus
@@ -752,7 +753,7 @@ qui iisdem flammis consumptus eodem monumento, permixtis
 cineribus, conditus erat, incredibili omnium gaudio
 ad vitam redditi sunt.
 
-Sed rursus, ut sunt adulescentuli inamando obstinati,
+Sed rursus, ut sunt adulescentuli in amando obstinati,
 lis magna orta est, quis puellam uxorem duceret, quam suam
 quisque fieri cupiebat. Neque longe res aberat ab armis et
 sanguine, atroxque certamen exarsurum erat, nisi puellae
@@ -833,8 +834,8 @@ a grege lupus persequebatur, conversus ad illum:
 ne iniucunde moriar, cane tibiis, ut saltem'. Cum autem et
 lupus tibiis caneret et haedus saltaret, canes audiverunt statimque
 lupum persecuti sunt. Tum lupus: 'Merito, inquit,
-haec mihi fiunt; oportebat enim me, cocus cum essem, tibi-
-cinem non agere'».
+haec mihi fiunt; oportebat enim me, cocus cum essem, tibicinem
+non agere'».
 
 ![magister ad alium discipulum conversus]()
 
@@ -869,10 +870,10 @@ Visne, Carole, eandem rem alius verbis exponere?
 quidem, cum nullam viam salutis sibi videret superesse,
 lupum ut tibiis caneret oravit, ne
 ipse iniucunde, ut aiebat, moreretur.
-Adnuit lupus, tibiisque canere bs
+Adnuit lupus, tibiisque canere
 coepit; at canes venatici, cantu excitati,
 ipsum lupum insecuti sunt.
-Tum fera, haedo dimisso, infugam
+Tum fera, haedo dimisso, in fugam
 est conversa.
 
 *Magister.* — Quid tum lupus exclamavit?
@@ -998,7 +999,7 @@ narrationem expone.
 *Fabullus.* — (*Celerrime*). Tiberius Gracchus duos angues,
 marem et feminam, deprehendit. Haruspicem....
 
-*Magister.* — (*Manu ut deststat imperat*). Nihil prorsus intellego;
+*Magister.* — (*Manu ut desistat imperat*). Nihil prorsus intellego;
 tanta est enim tua celeritas in dicendo. Dixi sescenties: articulatim
 verba proferenda sunt, clare, distincte, non
 sine aliqua gravitate, cui nil tantum obest quam pronuntiandi
@@ -1028,7 +1029,7 @@ femina, tibi». Tiberius statim marem necari iussit.
 Mario et Cimbrico servo; sed non, ut plerumque
 in ludis fit, incondito quodam murmure aut (quod contrarium est
 vitium, sed aeque improbandum) nimis intente instanterque
-pronuntiando, voce quam decet editiore, tamquam si incontione potius
+pronuntiando, voce quam decet editiore, tamquam si in contione potius
 quam in ludo quis loquatur. Apte,
 sapienter dicendum est, pausis notatis, voce, prout res postulat,
 nunc intenta, nunc remissa, ut ipsa sonorum varietate sententia plane
@@ -1042,7 +1043,7 @@ ac naribus eminentibus, extractus
 arundineto circa paludem Maricae,
 in quam fugiens consectantes Sullae
 equites se abdiderat, iniecto in collum
-loro, incarcerem perductus est.
+loro, in carcerem perductus est.
 Ad quem interficiendum missus est
 cum gladio servus publicus, natione
 Germanus, qui forte ab eo imperatore
@@ -1138,7 +1139,7 @@ varium natura gulosis viris obtulit, nihil delicatius.
 
 *Magister.* — Iure id addidisti. Etiam veteres scriptores
 suillae carnis suavitatem laudibus efferunt; quin etiam
-Plinius ille, quo nullus curiosior naturaliuum
+Plinius ille, quo nullus curiosior naturalium
 rerum indagator exstitit,
 quinquaginta sapores aetatis suae
 coquos in carne suilla invenisse refert.
@@ -1168,7 +1169,7 @@ corio calceos efficit curatque ut ad pedes habiles aptique sint?
 
 *Discipulus.* — Ovis.
 
-*Magister.* — Quasnam utilhtates ex ove percipimus?
+*Magister.* — Quasnam utilitates ex ove percipimus?
 
 ![oves]()
 
@@ -1179,7 +1180,7 @@ Agnis quoque quos illa parit pro cibo
 utimur.
 
 *Discipulus alter.* — Sic igitur ea munera pensamus! Lanam illa et caseum
-suppeditat, nos tanti beneficii memores illius prolem iugulamus atque comedirnus. Malum genus
+suppeditat, nos tanti beneficii memores illius prolem iugulamus atque comedimus. Malum genus
 homines, semper beneficiorum acceptorum immemor!
 
 *Magister.* — Tace, philosophe, atque, si libet, oleribus vescere.
@@ -1188,7 +1189,7 @@ quotidianos usus sufficiat?
 
 *Discipulus.* — Ante omnia lana nendo in filum ducitur.
 Nebant olim ancillae, aniculae; quibusdam locis mulieres
-omnes; colu et fusis nebant, lanae pensa instamina ducentes.
+omnes; colu et fusis nebant, lanae pensa in stamina ducentes.
 Nostris vero temporibus hominum industria nendi operam
 a mulieribus ad machinas transtulit.
 
@@ -1286,8 +1287,8 @@ clare profer.
 meminisse? Quod nil reminisceris, voluntatis vitium est,
 non memoriae.
 
-*Publius.* — Nescio quid nunc memoriae officit; sed expe-
-riar: «In prato quondam.... rana... conspexit bovem....»;
+*Publius.* — Nescio quid nunc memoriae officit; sed experiar:
+«In prato quondam.... rana... conspexit bovem....»;
 dixi igitur:... «conspexit bovem....». (*Ad quendam conversus,
 submissa voce*): Subice, quaeso. (*Distorquet oculos; digitis
 significat ut aliquas sibi subveniat*).
@@ -1313,7 +1314,7 @@ praeterita pensa emendaveris.
 
 *Magister.* — Haec quidem
 summa neglegentia est. Quid? si
-miles eris, armis te instruere oblisceris?
+miles eris, armis te instruere oblivisceris?
 
 *Publius.* — Peccavi, fateor;
 sed libellus meus atramenti maculis
@@ -1348,7 +1349,7 @@ magister sis, exerceto. (*Abit*).
 
 *Undique submissa murmura audiuntur; puellae statim alacriter,*
 *ut adsolent, confabulari incipiunt; hic ridet, ille plumbum*
-*acuit; monnulli oscitant. Titus, discipulorum pessimus,*
+*acuit; nonnulli oscitant. Titus, discipulorum pessimus,*
 *brachium Iulii carpit; hic aegre vocem premit.*
 
 *Gaius.* — St! Vos oro ut silentium teneatis; si quid turbabitur,
@@ -1421,7 +1422,7 @@ istius loquacitatis.
 
 *Tullius.* — Patere; stultus est.
 Qui stultus nascitur, stulte loquitur,
-stulte agit, insuaque stultitia
+stulte agit, in suaque stultitia
 involutus, tamquam sus in
 coeno, vivit. Dies veniet: stulte
 peribit. In ludo iste nil proficit; mente parum validus cum
@@ -1455,7 +1456,7 @@ utor quam lingua: experire, vapulabis.
 
 *Titus.* — Accipe et tu. (*Pugnum in Tullii caput impingit*).
 
-*Gravis tum oritur tumultus et puellarum quiriatio; conclave*
+*Gravis tum oritur tumultus et puellarum quiritatio; conclave*
 *totum clamoribus personat; in omnibus scamnis turbatur.*
 *De improviso magister in limine insistens conspicitur:*
 *magnum fit silentium.*
@@ -1472,7 +1473,7 @@ enarrabis; quod ubi feceris, statim redito.
 
 *Magister.* — (*Obducta fronte diu tacet; deinde*
 *Caesarem adloquitur*): Tu, Caesar, pygmaeorum
-narratiunculam, quod pensuni heri accepistis,
+narratiunculam, quod pensum heri accepistis,
 liberius expone.
 
 *Caesar.* — Pygmaei ternis mensibus expeditionem
@@ -1487,7 +1488,7 @@ acuisti; at prima acuenda erat: *ínsident* pronuntiandum
 est, non *insídent*!
 
 *Gaius.* — Te orat praeses ut discipulis recites quae ille
-in his classis commentarus scripsit. (*Commentarios porrigit*).
+in his classis commentariis scripsit. (*Commentarios porrigit*).
 
 *Magister.* — (*Recitat*).
 
@@ -1533,8 +1534,8 @@ essent, recte Latine converti possent.
 
 *Magister.* — Ede exemplum.
 
-*Discipulus.* — Audi. Eam tabernam, quam saepe ingre-
-dimur, ut stantes fabae Arabicae sucum ducere, vel cervisiae
+*Discipulus.* — Audi. Eam tabernam, quam saepe ingredimur,
+ut stantes fabae Arabicae sucum ducere, vel cervisiae
 poculum haurire possimus, ut nos barbarico verbo
 (prosunt enim et verba externa, si brevitas illa commendet)
 '*bar*' appellamus, *tabernam potoriam* Latine dicendam puto.
@@ -1786,7 +1787,7 @@ non erubescit.
 inter asinos equus, vir sapiens in turba indoctorum.
 
 37. Improbos beneficio adficere idem est ac si in aere
-aedifices, in vento pingas, inaqua scribas.
+aedifices, in vento pingas, in aqua scribas.
 
 38. Qui flecti nequit, magna illi pericula obeunda sunt;
 erectas arbores lignator caedit, distortas neglegit.
@@ -1861,7 +1862,7 @@ mos non est dormientis leonis in ore cubilia sua facere.
 
 55. Stultum hominem, si simplex erit, miserare; si malus, metue.
 
-![vir gladiam lingit]()
+![vir gladium lingit]()
 
 56. Potentioribus
 hominibus servire
@@ -1931,7 +1932,7 @@ armatus ad se caedendam venerit.
 69. Hic citharae cantus, illic ploratus ac feminarum eiulatio;
 hic docti disserunt,
 illic ebrii rixantur; decens hic puella,
-anus illc senectute
+anus illic senectute
 confecta. Haec rerum
 natura utrum ambrosia
 an veneno conflata sit prorsus non intellego.
@@ -1985,7 +1986,7 @@ semper vitato.
 
 78. Sine sole dies, sine magnanimitate potentia, sine decore
 excellentia, sine dignitate facundia, sine lotorum floribus
-lacus, sine liberis familia omni iucun ditate carent.
+lacus, sine liberis familia omni iucunditate carent.
 
 ![forficula]()
 
@@ -2001,9 +2002,9 @@ servet, pecuniae parcat.
 ![rana capiti elephanti insultat]()
 
 81. Te si calamitas adflixerit, infimus quivis homo facile
-contumelus obruet: proterva est enim ignavia et stultitia
+contumeliis obruet: proterva est enim ignavia et stultitia
 contumax: item ranunculi, si forte
-elephantus inpaludem incidit
+elephantus in paludem incidit
 caenoque submersus haesit, illius
 capiti insultant ac temere gloriantur.
 
@@ -2032,9 +2033,9 @@ turba; quid enim muscae, vel in pulcherrimo corpore,
 praeter vulnera cernunt?
 
 85. Benignitas vel advenas conciliat, malus animus et
-amicos extraneos facit: febrim odimus, quae incorpore nostro
+amicos extraneos facit: febrim odimus, quae in corpore nostro
 sponte nata est; gratum nobis adfertur
-remedium procul ortum insilvis.
+remedium procul ortum in silvis.
 
 ![graculus niger]()
 
@@ -2045,13 +2046,13 @@ erit, cuculus cuculus.
 87. Liberis quos parentes verberaverint,
 discipulis quos magister punierit, auro quod
 malleolus feriendo in laminas duxerit, nihil praestabilius
-est interris.
+est in terris.
 
 88. Bonum virum qui vituperat semetipsum foedat, ut
 si cinerem in altum proieceris, cito in caput tuum turpiter
 casurum.
 
-![cerva vanatorum sagittas vitat]()
+![cerva venatorum sagittas vitat]()
 
 89. Quod cuique fata minantur, nemo effugere valet.
 Laqueum cerva abrupit, ex insidiis evasit, discissa retia
@@ -2086,15 +2087,15 @@ animi infirmitatem.
 92. Bonorum societas improbos meliores
 reddit, nec tamen societas malorum
 bonos homines corrumpit. Florum
-odor ipsum vas fictile circumtundit
+odor ipsum vas fictile circumfundit
 in quo illi creverunt; num flores testam olent?
 
 ![arborem fluvius rapuit]()
 
 93. Arbor virens fructibus suis aves multas satiaverat,
 locumque iisdem dederat, ubi inter folia securae ac placidae
-dormirent. Eradicatam tandem fluvius rapuit, undisque mi-
-serrime iactatam caenoque involutam trahebat.
+dormirent. Eradicatam tandem fluvius rapuit, undisque miserrime
+iactatam caenoque involutam trahebat.
 Quid illae ? Spectabant
 lentae quiescebantque.
 
