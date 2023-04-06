@@ -280,7 +280,7 @@ Britannis imperaverat. Id ei satis erat. Sed
 Britanniam non revera debellaverat, nec victoria
 eius magna fuerat. Tacitus eum non magnam
 victoriam reportavisse in capite tertio decimo Vitae
-Agricolae affirmat. "Divus Tulius" inquit "Britanniam 
+Agricolae affirmat. "Divus Iulius" inquit "Britanniam 
 Romanis monstravit, sed non debellavit."
 Britanni autem viri animo forti erant. Tributum
 et servitutem non tolerabant. Et Romanis post
@@ -314,7 +314,7 @@ litteras nonnullas eius nominis lectitare possumus:
 ![more coins](./images/more_coins.png)
 
 exstant quoque nummi patris eius Tasciovani et
-fratris eius Epaticci. Cunobelimus multos annos
+fratris eius Epaticci. Cunobelinus multos annos
 regnavit ; eo fere tempore rex Britannorum erat
 cum Tiberius et Caligula principes Romanorum
 erant. Ei ab anno quarto decimo ad annum primum
@@ -464,7 +464,7 @@ virorum ad Tamesam properavit. Nam Londinium,
 quamquam nondum colonia Romana erat, tamen
 iam tum copia mercatorum et navigiorum celebre
 erat. Sic Tacitus in capite tertio et tricesimo libri
-quarti decimi Annalium affirmiat. Sed urbem ex
+quarti decimi Annalium affirmat. Sed urbem ex
 clade servare non poterat. Britanni Londinium
 et Verulamium oppugnant, septuaginta milia,
 Romanorum trucidant, ingentem praedam captant.
@@ -892,7 +892,7 @@ iterum haesit: nos nihil respondimus. Sed ille
 "Abhinc annos duos saecula tredecim fuerant,
 ex quo Sanctus Augustinus, nuntius verbi divini,
 cum parva manu ministrorum fidorum huc cursum
-tenuit. Nam anno quingentesimio nonagesimo septimo 
+tenuit. Nam anno quingentesimo nonagesimo septimo 
 post Christum natum Gregorius Primus, pontifex 
 Romanus, Augustinum notitiam Dei veri in
 Anglia docere iusserat. Itaque Augustinus ex Gallia
@@ -915,7 +915,7 @@ usque ad muros castelli pertinebat. Rex Christianis
 in hunc modum respondisse narratur. *Pulchra sunt
 verba et promissa vestra; sed nova sunt et incerta;
 nec deos antiquos, quos per multos annos ego et populus
-meus adovavimus, oblivioni dare possumus. Sed, quia
+meus adoravimus, oblivioni dare possumus. Sed, quia
 ex terra peregrina huc cursum tenuistis, et in animo
 habetis ea docere quae vera esse existimatis, non prohibebo 
 vos in regno meo manere et notitiam Dei vestri
@@ -934,8 +934,8 @@ Neronis multi Christiani in imperio Romano fuerunt;
 nam anno primo et sexagesimo post Christum natum
 Sanctus Paulus Romam captivus deportatus est.
 Et uxor illius Auli Plautii, qui iam aetate principis
-Claudii Britanniae praefuit, Christiana fuisse exis-
-timatur. Nam 'superstitionis peregrinae' accusata
+Claudii Britanniae praefuit, Christiana fuisse existimatur.
+Nam 'superstitionis peregrinae' accusata
 est. Nomen ei fuit Pomponiae Graecinae. Sed
 Angli et Saxones, qui multos deos adorabant, basilicas
 Christianas plerumque deleverant. Basilica
@@ -1433,7 +1433,7 @@ non hilarae erunt. Nam de tertia clade, in Terra
 Natali accepta, acta diurna haec nuntiant:—"Magnus 
 ille exercitus Britannicus, cui imperator noster
 praeest, plus quam viginti milia virorum numero,
-Castra Mariana obsidioneliberare contendebat. Inter
+Castra Mariana obsidione liberare contendebat. Inter
 nostros et oppidum fluebat Tugela, quem Batavi occupaverant 
 et in ripis fossas suas mortiferas foderant.
 Mane diei quinti decimi mensis Decembris imperator
@@ -1545,7 +1545,7 @@ Batavos faciunt ut eos propulsent et castra salva
 praestent. Pulcherrimum erat facinus. Sed in
 oppido summa inopia est, ut litterae, quae per
 columbas mittuntur, nuntiant. Cibus carissimus
-est; nuli iam boves, nullae oves, nulli porci in
+est; nulli iam boves, nullae oves, nulli porci in
 oppido sunt. Carne equina victitant. Multi
 homines aegrotant; sed ubi nullae vaccae sunt, lac
 deest. Gallinae denariis viginti constant, duodecim 
@@ -1622,7 +1622,7 @@ ego die vicesimo mensis Februarii scripsi.
 53. Kalendae sunt hodie Martiae. Victoria per
 totum imperium Britannicum conclamatur! Nam
 duas magnas victorias a Batavis reportavimus.
-In finibus Orangiae noster veuit, vidit, vicit. Batavus 
+In finibus Orangiae noster venit, vidit, vicit. Batavus 
 castra sua ad Montem Equinum moverat, ubi in
 ripis. Fluminis Turbulenti fossas cuniculosque more
 suo foderat, in quibus sui tuti essent. Ibi noster
@@ -1630,7 +1630,7 @@ eum velut indagine circumdedit, ne evadere posset.
 Batavi se per decem dies fortissime defenderunt, sed
 frustra. Nostri quoque fossas contra fossas Batavorum 
 foderunt; has ita cotidie propius moverunt,
-ut tandem septingentos tautum passus a fossis Batavorum
+ut tandem septingentos tantum passus a fossis Batavorum
 abessent. Postremo duae centuriae Canadensium 
 noctu etiam propius appropinquaverunt,
 et ibi novas fossas foderunt. Tum Batavus salutem
@@ -1642,7 +1642,7 @@ tantae virtutis significat, et mortem tot
 virorum fortium deplorat. De imperatore nostro
 Marcus hunc versum scripsit:
 
-> Unus homo nobis properaudo restituit rem.
+> Unus homo nobis properando restituit rem.
 
 (*Past Imperfect Subjunctive of First, Second, Third, and
 Fourth Conjugations.*)
