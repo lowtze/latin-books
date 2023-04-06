@@ -191,7 +191,7 @@ excitabat.
 Asinus onustus sarcinis equum rogavit, ut aliqua parte
 oneris se levaret, si se vivum videre vellet. Sed ille asini
 preces repudiavit. Paulo post igitur asinus labore consumptus
-in via corruit et efllavit animam. Tum agitator
+in via corruit et efflavit animam. Tum agitator
 omnes sarcinas, quas asinus portaverat, atque insuper etiam
 pellem asino detractam in equum imposuit. Ibi ille sero
 priorem superbiam deplorans, "O me miserum," inquit,
@@ -273,7 +273,7 @@ qui cum consule sequebatur, in Campaniam se recepit.
 Legati ad Pyrrhum de redimendis captivis missi, ab eo
 honorifice suscepti sunt; captivos sine pretio Romam misit.
 Unum ex legatis Romanorum, Fabricium, sic admiratus
-est, ub, cum eum pauperem esse cognovisset, quarta parte
+est, ut, cum eum pauperem esse cognovisset, quarta parte
 regni promissa, sollicitare voluerit, ut ad se transiret; contemptusque
 a Fabricio est.
 
@@ -333,7 +333,7 @@ suppliciis exstinctus est.
 ### 14. Death Of Pompey
 
 Nunquam adhuc Romanae copiae in unum neque
-majores, neque melioribus ducibus, convenerant, totum
+maiores, neque melioribus ducibus, convenerant, totum
 terrarum orbem facile subacturae, si contra barbaros ducerentur.
 Pugnatum tamen est ingenti contentione, victusque
 ad postremum Pompeius, et castra eius direpta sunt. Ipse
@@ -375,16 +375,16 @@ Aegyptus Romanum iudicem habuit.
 
 ### 17. Claudius Invades Britain.
 
-Britanniae bellum Claudius intulit, quam nullus Roman-
-orum post Iulium Caesarem attigerat, eaque devicta per Cn.
-Sentium et �. Plautium, illustres et nobiles viros, triumphum
+Britanniae bellum Claudius intulit, quam nullus Romanorum
+post Iulium Caesarem attigerat, eaque devicta per Cn.
+Sentium et A. Plautium, illustres et nobiles viros, triumphum
 celebrem egit. Quasdam insulas etiam, ultra Britanniam in
 Oceano positas, Romano imperio addidit, quae appellantur
 Oreades, filioque suo Britannici nomen imposuit  'Tam
-civilis autem cirea quosdam amicos exstitit, ut etiam
+civilis autem circa quosdam amicos exstitit, ut etiam
 Plautium, nobilem virum, qui in expeditione Britannica
 multa egregie fecerat, triumphantem ipse prosequeretur, et
-eonscendenti Capitolium laevus incederet. Is vixit annos
+conscendenti Capitolium laevus incederet. Is vixit annos
 IV. et LX. imperavit XIV.
 
 
@@ -472,7 +472,7 @@ sub saxo relinquendum esse censeo."
 Cervus, quum sitiret, ad fontem accessit, et suam in
 aqua imaginem conspiciens, cornuum magnitudinem laudavit,
 crura vero uti nimis exilia vituperavit. Ecce leo
-advenit. Quo viso cervus aufugit, ub ei nullum periculum
+advenit. Quo viso cervus aufugit, ut ei nullum periculum
 immineret, donec in planitie esset. Quum vero in silvam
 venisset, inter virgulta cornibus adhaesit, et a leone captus
 est, quod pedum celeritate uti non poterat. Tum moriturus,
@@ -489,8 +489,8 @@ Apollinem rogavit ut se in hoc negotio adiuvaret. Is cum ab
 Admeto, dum ei serviebat, liberaliter esset tractatus, aprum
 ei et leonem currui iunxit, quibus ille Alcestim avexit.
 Idem gravi morbo implicitus munus ab Apolline accepit,
-ub praesens periculum effugeret, si quis sponte pro eo
-moriturus esset. Jam cum neque pater neque mater
+ut praesens periculum effugeret, si quis sponte pro eo
+moriturus esset. Iam cum neque pater neque mater
 Admeti pro eo mori voluisset, uxor se Aleestis morti
 obtulit, quam Hercules forte adveniens Orci manibus
 eripuit et Admoto reddidit.
@@ -533,7 +533,7 @@ Epaminondas quum mortifero vulnere ad Mantineam
 percussus esset, delatus in tentorium adhuc vivus, Diophantum
 arcessere voluit, ut eum ducem declararet.
 Comites autem circumstantes illum virum occubuisse
-dieunt. Deinde rogat ut Iolaidam cito vocent: quum
+dicunt. Deinde rogat ut Iolaidam cito vocent: quum
 vero illum etiam mortuum esse certior esset factus, suis
 persuasit ut bello cum hostibus composito amicitiam statim
 facerent. "Nullus enim vir," inquit Epaminondas "inter
@@ -557,7 +557,7 @@ sit ingens, hydrorum cedere necesse est.
 ### 4. Death The Brother Of Sleep.
 
 Poetae antiqui somnum fratrem mortis esse fingere
-golebant: hoc commemoravit Gorgias Leontinus in extrema
+solebant: hoc commemoravit Gorgias Leontinus in extrema
 vita positus et senio bene confectus. Ad quem infirmitate
 correptum atque in somnum paulatim prolapsum quidam
 e necessariis invisendi causa accessit et quomodo se haberet
@@ -621,7 +621,7 @@ terra abessent tantum spatii quantum vox clamantis audiri
 posset: tum demum consueta voce utentes sues retroversum
 ad se revocabant.  Porci ut primum clamorem
 sublatum audiverunt, statim in unum navis latus collecti
-eam everterunt. taque piratae malefici naufragio mox ad
+eam everterunt. Itaque piratae malefici naufragio mox ad
 unum perierunt: sues vero incolumes ad suos enatarunt.
 
 
@@ -685,7 +685,7 @@ an falsum esset relatum.
 ### 13.
 
 Itaque eo profectus est quo itinere futuras insidias
-dixerant; sed elegit corpore et statura similimum sui
+dixerant; sed elegit corpore et statura simillimum sui
 eique vestitum suum dedit atque eo loco ire quo ipse consueverat
 iussit. Ipse autem ornatu vestituque militari inter
 corporis custodes iter facere coepit. At insidiatores, postquam
@@ -715,7 +715,7 @@ colloquendi die utrique servos qui locum explorarent miserunt.
 
 ### 15.
 
-Deinde ipsisunt congressi. Hic cum aliquamdiu in colloquio
+Deinde ipsi sunt congressi. Hic cum aliquamdiu in colloquio
 fuissent et diversi discessisent iamque procul
 Datames abesset, eum Mithridates revocavit simulans se
 quiddam in colloquio esse oblitum. Interim telum quod
@@ -780,7 +780,7 @@ enim fuisse coniugem violentam et effrenatam; si ea
 revertisset, maximum sibi dolorem illaturam: se idcirco
 orare Mantacium ne illam pestem reportaret. Septem
 sestertiis persolutis Mantacius promisit se iis quae petiisset
-obsecutum, nulla arte usurum esse, ut illus coniugem in
+obsecutum, nulla arte usurum esse, ut illius coniugem in
 vitam redigeret.
 
 
@@ -818,7 +818,7 @@ Erat Athenis spatiosa et capax domus, sed infamis et
 pestilens. Per silentium noctis sonus ferri et, si attenderes
 acrius, strepitus vinculorum longius primo, deinde e proximo
 reddebatur: mox apparebat idolon, senex macie et squalore
-confectus, promissa barba, horrenti capillo: eruribus compedes,
+confectus, promissa barba, horrenti capillo: cruribus compedes,
 manibus catenas gerebat quatiebatque. Inde ab
 inhabitantibus tristes diraeque noctes per metum vigilabantur;
 vigiliam morbus et crescenti formidine mors sequebatur.
@@ -862,7 +862,7 @@ reliquerat vinculis: collecta publice sepeliuntur.
 
 ### 25. A Boundary Commission.
 
-Q. Fabius Labeo, arbiter a senatu finium consuituendorum
+Q. Fabius Labeo, arbiter a senatu finium constituendorum
 inter Nolanos et Neapolitanos datus, cum in rem praesentem
 venisset, utrosque separatim monuit, ut omissa
 cupiditate regredi, quam progredi mallent. Quod cum
@@ -930,7 +930,7 @@ verba faciebant. Illi autem, primo constituto concilio,
 Samiis responderunt se ea, quae prima dixissent, oblitos
 esse; ea, quae secuta essent, non intelligere. Posthac iterum
 admissi Samii, dum saccum offerunt, nihil aliud dicunt nisi
-haec verba "Saceus farina indiget." Quibus Spartani
+haec verba "Saccus farina indiget." Quibus Spartani
 responderunt eos vocabulum "saccus" omittere potuisse.
 Nec tamen Samiis auxilium praestare noluerunt, sed magnum
 apparatum navalem mittere decreverunt.
