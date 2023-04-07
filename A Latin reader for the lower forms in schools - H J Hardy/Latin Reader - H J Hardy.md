@@ -1009,10 +1009,10 @@ obstatur, quominus id faciat, non sine labore res conficitur.
 
 ### 34. Roman Names.
 
-“Asina” inquit hic “quod viro non mediocri cognomen
+"Asina" inquit hic "quod viro non mediocri cognomen
 est, velim dicas unde contigerit; quum hoc nomen contumeliae
 quam honori propius videatur." Tum respondit ille:
-“Neque honor neque iniuria sed casus cognomina eiusmodi
+"Neque honor neque iniuria sed casus cognomina eiusmodi
 fecit. Namque iis qui nomine gentili Corneliis usi sunt,
 cognomen Asina est additum, quoniam quum ab homine
 quodam Corneliae gentis principe fundum  empturo,
@@ -1066,7 +1066,7 @@ eius rei memoriam in posterum tradidit. Saturnum adeo
 venerabatur ut, quoniam ille nave fuisset avectus, ex una
 quidem parte sui capitis effigies, ex altera navis exprimeretur.
 Aere igitur ita signato, dum Romani pueri aieam
-ludunt, denarios in sublime iactant et “capita aut navim"
+ludunt, denarios in sublime iactant et "capita aut navim"
 exclamant.
 
 
@@ -1093,9 +1093,9 @@ hospitio praefuit, se libenter regi ova gallinarum praestiturum.
 Imperavit rex ut quam celerrime ea apponeret:
 quae apposita quum cupide edisset, quanti constarent sciscitatus,
 cognovit quingentos sestertios sibi esse persolvendos.
-“Edepol," inquit rex obstupefactus, “inter Batavos rara et
+"Edepol," inquit rex obstupefactus, "inter Batavos rara et
 infrequens avis gallina esse videtur, si quidem tria ova quingentis
-sestertiis veneunt." Cui respondit caupo: “Nobis
+sestertiis veneunt." Cui respondit caupo: "Nobis
 et gallinarum et ovorum est satis magna copia, reges autem
 haud frequenter in hoc hospitio excipimus."
 
@@ -1109,7 +1109,7 @@ nuper erectus, philosophos ad convivium congregasset,
 multa et minuta sciscitatus iis irridere conatus est. Tandem
 scire se velle dixit, cur ex nigra et alba faba pulmentum
 unius coloris edatur.  Aridices philosophus quum hoc aegre
-ferret, “At tu," inquit, “hanc rem ambiguam fac ut resolvas,
+ferret, "At tu," inquit, "hanc rem ambiguam fac ut resolvas,
 cur de albis et nigris loris similes maculae gignantur."
 Quibus verbis auditis, libertus, qui servus olim verberibus
 saepius est affectus, subito obstupefactus, nec philosophos
@@ -1121,12 +1121,12 @@ neque alios posthac unquam cavillari conabatur.
 Mercurius cognoscendi cupidus quanti apud homines
 esset, statuarii domum in hominis speciem transformatus
 ivit et visa Iovis statua, statuarium rogavit quanti eam
-emere posset. Quum autem dixisset “drachmæ," risu Mercurius
-dixit, “Quanti Iunonis statua constat?"  “Pluris,"
+emere posset. Quum autem dixisset "drachmæ," risu Mercurius
+dixit, "Quanti Iunonis statua constat?" "Pluris,"
 respondit alter. "Tunc deus suam ipsius statuam conspicatus,
 ac sui ut nuntii deorum et, quaestuosi summam rationem
-homines habere ratus; “Dic mihi" inquit, “nonne haec
-maximi constat pretii?" “Minime: nam si hasce alias
+homines habere ratus; "Dic mihi" inquit, "nonne haec
+maximi constat pretii?" "Minime: nam si hasce alias
 emeris, libenter hanc gratuitam adiciam."
 
 
@@ -1141,6 +1141,7 @@ religionum interpretandarum peritissimus, a multitudine,
 quae ad opem ferendam confluxerat, impetravit ut ad mare
 perduceretur. Protinus naviculam conscendit, in qua in
 Africam pervectus arma Sullae victricia effregit.
+
 
 ### 43. Cyrus And His Soldiers.
 
@@ -1161,7 +1162,7 @@ quae ipso die passi essent.
 
 E Multum illi interesse responderunt: pridie enim omnia
 se mala habuisse, deinde omnibus bonis fructos esse. Quibus
-dictis, “Viri Persae," inquit, “ita res se habet: si me
+dictis, "Viri Persae," inquit, "ita res se habet: si me
 sequi vultis, his et plurimis aliis bonis certe fruemini;
 sin autem regi Astyagi obsequemini, labores, quales erant
 hesterni, habebitis perpetuos. Persae igitur, qui iam pridem
@@ -1177,7 +1178,7 @@ Seriphii de suis ranis gloriantur eas strepentes Persea,
 quum magno e certamine adversus Medusam commisso
 rediret et longo itinere peracto prope lacum fessus requiesceret,
 ne somnum caperet, interpellasse: idcirco eum
-molestia affectum a love patre deprecatum esse, ut ranae
+molestia affectum a Iove patre deprecatum esse, ut ranae
 quominus clamarent impedirentur. Quibus precibus exauditis,
 patrem filio suo gratificatum ranas illius loci incolas
 silentii perpetui damnavisse. Theophrastus autem homo
