@@ -159,6 +159,11 @@ faults the author is entirely responsible.
     - [31. Unpopular Vatinius.](#31-unpopular-vatinius)
     - [32. Compulsion Or Persuasion?](#32-compulsion-or-persuasion)
     - [33. Crocodile Hunting.](#33-crocodile-hunting)
+    - [34. Roman Names.](#34-roman-names)
+    - [35. The Industry of Cleanthes.](#35-the-industry-of-cleanthes)
+    - [36. A Valuable Pillow.](#36-a-valuable-pillow)
+    - [37. Heads and Tails.](#37-heads-and-tails)
+    - [38. False Friendship.](#38-false-friendship)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -982,24 +987,24 @@ Itaque soli, ut homine victo, victoria contigit.
 ### 33. Crocodile Hunting.
 
 Crocodilorum venatio multis et variis modis inter
-. Aegyptios instituta est: quorum eum, qui maxime
+Aegyptios instituta est: quorum eum, qui maxime
 memoratu dignus videtur, exponam. Suis tergus pro esca
 hamo insertum in medium flumen demittit venator: ipse
 in ripa fluminis vivum habet porcellum, quem vehementer
-ferit.  Crocodilus autem, voce porcellii audita, ad eius
+ferit.  Crocodilus autem, voce porcelli audita, ad eius
 sonum accurrit: in tergus vero suis ubi incidit, illud
 devorat: mox in terram detrahitur. Postquam in terram
 extractus est, primum oculos eius luto oblinit venator: eo
 facto admodum facile reliqua administrat: sin autem illi
-obstatur, quominus id faciat, non sine labore res conficitur
-| 34. RoMAN NAMES,
-* Asina ? inquit hic *quod viro non mediocri cognomen
-est, velim dicas unde contigerit; quum hoc nomen contume-
-u� �
+obstatur, quominus id faciat, non sine labore res conficitur.
 
-- LATIN READER 25
-liae quam honori propius videatur Tum respondit ille:
-** Neque honor neque iniuria sed casus cognomina eiusmodi
+
+### 34. Roman Names.
+
+“Asina” inquit hic “quod viro non mediocri cognomen
+est, velim dicas unde contigerit; quum hoc nomen contumeliae
+quam honori propius videatur." Tum respondit ille:
+“Neque honor neque iniuria sed casus cognomina eiusmodi
 fecit. Namque iis qui nomine gentili Corneliis usi sunt,
 cognomen Asina est additum, quoniam quum ab homine
 quodam Corneliae gentis principe fundum  empturo,
@@ -1007,7 +1012,9 @@ sponsores solemniter poscerentur, subito asinam cum onere
 pecuniae in forum productam, quasi pro sponsoribus
 pignus praesens, Cornelii iussu servi afferebant. De quo
 casu in posterum ad nomen gentile hoc cognomen accessit."
-13 35. Tug INDUSTRY OF CLEANTHES. , |
+
+
+### 35. The Industry of Cleanthes.
 
 Cleanthes primo pugil fuerat: sed quum Athenas ad
 Zenonem se contulisset, in philosophorum doctrinam
@@ -1016,62 +1023,57 @@ ut laboris studio sit celebratus; quippe qui cum pauper
 esset, pecuniae colligendae esset valde appetens; noctu
 enim in aquis ex hortis exhauriendis, die vero in sermonibus
 exercebatur. Ferunt eum in iudicium abductum esse, ut
-rationem redderet, unde tam opimo corporis habitu prae-
-ditus vietum sibi quaereret: quem et horti custode apud
+rationem redderet, unde tam opimo corporis habitu praeditus
+vietum sibi quaereret: quem et horti custode apud
 quem exhauriebat, et pistore apud quem farinam molebat,
 testibus productis, iudicio liberatum esse.
 
-E H 36. A VALUABLE PILLOW. a q 1
+
+### 36. A Valuable Pillow.
 
 Accidit ut eques Romanus ex aere alieno tam graviter
 laboraret, ut amplius ducenties HS. deberet. Quum hanc
 tam grandem pecuniam persolvere nequiret, ad hoc celandum
-maximam, dum vivit, adhibebat curam. lam tandem
+maximam, dum vivit, adhibebat curam. Iam tandem
 quum mortem obiisset, et bona sub hasta essent vendenda,
 quantum esset aes alienum undique renunciatur. Quod
-[� ���
-
-26 LATIN READER -
 quum ad Augustum principem allatum esset, uni e libertis,
-
-ut statim ad auctionem properaret et culcitam cubicu-
-larem equitis iam mortui emeret, imperavit. Maecenati
+ut statim ad auctionem properaret et culcitam cubicularem
+equitis iam mortui emeret, imperavit. Maecenati
 autem aliisque sodalibus hoc praeceptum mirantibus hanc
 rationem reddidit Augustus; illam culcitam maximi esse
 aestimandam, in qua is, qui tantum pecuniae deberet,
 securus dormire posset.
 
-P - EN
-[P 37. HEADS AND TaAirrs.
 
-A. Romanis scriptoribus traditur fabula in regem Ianum
+### 37. Heads and Tails.
+
+A Romanis scriptoribus traditur fabula in regem Ianum
 magna beneficia deum Saturnum contulisse. Quem ubi
 classe pervectum rex hospitio exceperat, et ab eo edoctus
 quo modo agri iuste essent colendi, pro rudi victu fruges
-nuper inventas acceperat, Saturno semper maximam gra-
-tiam habebat. Idcirco quum primus quoque aera signaret,
+nuper inventas acceperat, Saturno semper maximam gratiam
+habebat. Idcirco quum primus quoque aera signaret,
 eius rei memoriam in posterum tradidit. Saturnum adeo
 venerabatur ut, quoniam ille nave fuisset avectus, ex una
+quidem parte sui capitis effigies, ex altera navis exprimeretur.
+Aere igitur ita signato, dum Romani pueri aieam
+ludunt, denarios in sublime iactant et “capita aut navim"
+exclamant.
 
-- quidem parte sui capitis effigies, ex altera navis exprimere-
-tur. Aere igitur ita signato, dum Romani pueri aieam
-ludunt, denarios in sublime iactant et *capita aut navim"
-exclamant. E S T]
 
-38. FALSE FRIENDSHIP. H
-" Duobus amicis una iter facientibus "ursa fit obviam:
+### 38. False Friendship.
+
+Duobus amicis una iter facientibus ursa fit obviam:
 e quibus unus perterritus, ut periculum evitaret, arborem
 conscendit, alter, cum se imparem ursae fore et, si pugnare
-vellet, superatum iri intelligeret, humi deiectus, se mor-
-tuum esse simulabat. Ursa vero, ut accessit, aures et os
+vellet, superatum iri intelligeret, humi deiectus, se mortuum
+esse simulabat. Ursa vero, ut accessit, aures et os
 iacentis et spiritum continentis contrectat, tunc eum cadaver
 esse rata abit. Mox alter, qui inter frondes arboris latuerat,
-descendit: cui pereunctanti quidnam in aure eius iacentis
-�w�m �
-
-LATIN READER 2T
-dixisset ursa respondit amicus ursam se monuisse, ne post.
-ea cum istiusmodi amicis iter faceret. hien
+descendit: cui percunctanti quidnam in aure eius iacentis
+dixisset ursa respondit amicus ursam se monuisse, ne post
+ea cum istiusmodi amicis iter faceret.
 
 --
 y /� 839. DrAR Eaos.
