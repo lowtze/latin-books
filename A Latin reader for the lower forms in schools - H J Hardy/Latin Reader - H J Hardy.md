@@ -164,6 +164,14 @@ faults the author is entirely responsible.
     - [36. A Valuable Pillow.](#36-a-valuable-pillow)
     - [37. Heads and Tails.](#37-heads-and-tails)
     - [38. False Friendship.](#38-false-friendship)
+    - [39. Dear Eggs.](#39-dear-eggs)
+    - [40. The Bitter Bit.](#40-the-bitter-bit)
+    - [41. A Reproof.](#41-a-reproof)
+    - [42. A Useful Donkey.](#42-a-useful-donkey)
+    - [43. Cyrus And His Soldiers.](#43-cyrus-and-his-soldiers)
+    - [44.](#44)
+    - [45. Why Are Frogs Dumb At Seriphus?](#45-why-are-frogs-dumb-at-seriphus)
+    - [46. A Patriotic Mule.](#46-a-patriotic-mule)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -1075,106 +1083,111 @@ descendit: cui percunctanti quidnam in aure eius iacentis
 dixisset ursa respondit amicus ursam se monuisse, ne post
 ea cum istiusmodi amicis iter faceret.
 
---
-y /� 839. DrAR Eaos.
 
-Rex quidam quum inter Batavos iter faceret, in oppid-
-ulo constitit, ut se suumque equum reficeret; cui roganti,
+### 39. Dear Eggs.
+
+Rex quidam quum inter Batavos iter faceret, in oppidulo
+constitit, ut se suumque equum reficeret; cui roganti,
 qualis cena sibi comparari posset, respondit caupo, qui agresti
-hospitio praefuit, se libenter regi ova gallinarum praestitu-
-rum. Imperavit rex ut quam celerrime ea apponeret:
-quae apposita quum cupide edisset, quanti constarent scisci-
-tatus, cognovit quingentos sestertios sibi esse persolvendos.
-
-* Edepol," inquit rex obstupefactus, *inter Batavos rara et
-infrequens avis gallina esse videtur, si quidem tria ova quin-
-gentis sestertiis veneunt." Cui respondit caupo: **Nobis
+hospitio praefuit, se libenter regi ova gallinarum praestiturum.
+Imperavit rex ut quam celerrime ea apponeret:
+quae apposita quum cupide edisset, quanti constarent sciscitatus,
+cognovit quingentos sestertios sibi esse persolvendos.
+“Edepol," inquit rex obstupefactus, “inter Batavos rara et
+infrequens avis gallina esse videtur, si quidem tria ova quingentis
+sestertiis veneunt." Cui respondit caupo: “Nobis
 et gallinarum et ovorum est satis magna copia, reges autem
 haud frequenter in hoc hospitio excipimus."
-0 n
-B 40. Tux BriTER Brr. I q )b
 
-. Philosophos quidem per indignationem in cavillationes
+
+### 40. The Bitter Bit.
+
+Philosophos quidem per indignationem in cavillationes
 nonnunquam incurrisse negare nequeo. Nam eum Antigoni
-regis libertus, ex humili et turpi servitio ad novas divitias .
+regis libertus, ex humili et turpi servitio ad novas divitias
 nuper erectus, philosophos ad convivium congregasset,
-multa et minuta sciscitatus iis irridere conatus est. ''andem
+multa et minuta sciscitatus iis irridere conatus est. Tandem
 scire se velle dixit, cur ex nigra et alba faba pulmentum
 unius coloris edatur.  Aridices philosophus quum hoc aegre
-ferret, * At tu," inquit, * hanc rem ambiguam fac ut resolvas,
+ferret, “At tu," inquit, “hanc rem ambiguam fac ut resolvas,
 cur de albis et nigris loris similes maculae gignantur."
 Quibus verbis auditis, libertus, qui servus olim verberibus
-saepius est affectus, subito obstupefactus, nec. philosophos
-neque alios posthac unquam cavillari conabatur. " i
-"uu (�
-2 li READER
-E � UT- Nw
-p 41. A REPROOF.
+saepius est affectus, subito obstupefactus, nec philosophos
+neque alios posthac unquam cavillari conabatur.
+
+
+### 41. A Reproof.
+
 Mercurius cognoscendi cupidus quanti apud homines
 esset, statuarii domum in hominis speciem transformatus
-ivit et visa lovis statua, statuarium rogavit quanti eam
-emere posset. Quum autem dixisset ** drachmzx," risu Mer-
-eurius dixit, Quanti Iunonis statua constat?"  **Pluris,"
-respondit alter. "Tunc deus suam ipsius statuam conspica-
-tus, ac sui ut nuntii deorum et, quaestuosi summam rationem
-homines habere ratus; * Dic mihi" inquit, *nonne haec
-maximi constat pretii?"  **Minime: nam si hasce alias
+ivit et visa Iovis statua, statuarium rogavit quanti eam
+emere posset. Quum autem dixisset “drachmæ," risu Mercurius
+dixit, “Quanti Iunonis statua constat?"  “Pluris,"
+respondit alter. "Tunc deus suam ipsius statuam conspicatus,
+ac sui ut nuntii deorum et, quaestuosi summam rationem
+homines habere ratus; “Dic mihi" inquit, “nonne haec
+maximi constat pretii?" “Minime: nam si hasce alias
 emeris, libenter hanc gratuitam adiciam."
-b 3 49. A UsgFUL DONKEY.  � a b
-C. Mario ominis observatio quondam saluti erat, quo tem-
-pore hostis a senatu iudicatus in domum Fanniae Minturnas
-- eustodiae causa deductus est. Animadvertit enim asellum,
+
+
+### 42. A Useful Donkey.
+
+C. Mario ominis observatio quondam saluti erat, quo tempore
+hostis a senatu iudicatus in domum Fanniae Minturnas
+custodiae causa deductus est. Animadvertit enim asellum,
 neglecto quod ei obiciebatur pabulo, ad aquam procurrentem.
 Quod rei venturae signum habendum esse ratus, alioquin
 religionum interpretandarum peritissimus, a multitudine,
 quae ad opem ferendam confluxerat, impetravit ut ad mare
 perduceretur. Protinus naviculam conscendit, in qua in
 Africam pervectus arma Sullae victricia effregit.
-: EL
-| ' 43. CvRUS AND HIS SOLDIERS. D ]
+
+### 43. Cyrus And His Soldiers.
+
 Ubi omnes milites convenerunt, Cyrus, ut quam primum
 ab Astyage, rege Medo, desciscerent, hoc usus est consilio.
-Illos Persieae regionis tractum spinis obsitum iussit uno die
-faleibus purgare: proposito labore iam tandem Persis per-
-funetis, iisdem Cyrus praedixit ut in posterum diem loti
-RERUM E�
-LATIN READER � � . 29
+Illos Persicae regionis tractum spinis obsitum iussit uno die
+falcibus purgare: proposito labore iam tandem Persis perfunctis,
+iisdem Cyrus praedixit ut in posterum diem loti
 adessent: interim caprarum oviumque greges omnes in
 unum congregatos interfecit paravitque: ubi postridie
 Persae convenerunt, discumbere per herbam iussos lautis
 epulis recepit. Deinde postquam a cena surrexerant, ex iis
 quaesivit Cyrus, utrum potiora viderentur quae pridie an
-quae ipso die passi essent. hb h n
-44.
+quae ipso die passi essent.
+
+
+### 44.
 
 E Multum illi interesse responderunt: pridie enim omnia
-se mala habuisse, deinde omnibus bonis fructos esse. Qui-
-bus dictis, ** Viri Persae," inquit, *ita res se habet: si me
+se mala habuisse, deinde omnibus bonis fructos esse. Quibus
+dictis, “Viri Persae," inquit, “ita res se habet: si me
 sequi vultis, his et plurimis aliis bonis certe fruemini;
-sin autem regi �styagi obsequemini, labores, quales erant
+sin autem regi Astyagi obsequemini, labores, quales erant
 hesterni, habebitis perpetuos. Persae igitur, qui iam pridem
 Medorum imperium aegre ferebant, ducem tandem nacti,
 libenter in libertatem se vindicaverunt: Cyrus autem his
 usus adiutoribus et Medorum regno potitus, iis praemia large
-effuseque donabat. JA �n |
+effuseque donabat. 
 
-B 45. Wuv ARE Fnocs DuMB AT SERIPHUS |
+
+### 45. Why Are Frogs Dumb At Seriphus?
 
 Seriphii de suis ranis gloriantur eas strepentes Persea,
-quum magno e certamine adversus Medusam commisso .
-rediret et longo itinere peracto prope lacum fessus requi-
-escereb, ne somnum caperet, interpellasse: idcirco eum
+quum magno e certamine adversus Medusam commisso
+rediret et longo itinere peracto prope lacum fessus requiesceret,
+ne somnum caperet, interpellasse: idcirco eum
 molestia affectum a love patre deprecatum esse, ut ranae
-quominus clamarent impedirentur. Quibus precibus exau-
-ditis, patrem filio suo gratificatum ranas illius loci incolas
-silentii perpetui damnavisse. "Theophrastus autem homo
+quominus clamarent impedirentur. Quibus precibus exauditis,
+patrem filio suo gratificatum ranas illius loci incolas
+silentii perpetui damnavisse. Theophrastus autem homo
 sagacissimus non modo hanc fabulam explodit, sed Seriphios
-gloriantes redarguit: frigidis enim aquis, non Persei in-
-somniis ranarum silentium esse imputandum. un "
-� M � -�
-30 LATIN READER
-E �
-46. A PaTRIOTIO MULE. �
+gloriantes redarguit: frigidis enim aquis, non Persei insomniis
+ranarum silentium esse imputandum.
+
+
+### 46. A Patriotic Mule.
+
 i Mulus Atheniensis quidam iam vetulus, quamvis ab omni
 onere vehendo tandem immunis factus esset, studio laborum
 liberatus esse noluit. Namque ubi Athenienses Parthe-
