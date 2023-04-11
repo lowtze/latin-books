@@ -1230,12 +1230,12 @@ valuit, casus imitatus est.
 
 ### 48. The Death of the Tyrant Jason.
 
-1 . Utrum satis iusta ultione Iason Thessalus tyrannus
+Utrum satis iusta ultione Iason Thessalus tyrannus
 absumptus sit necne, incertum est. Taxillo enim gymnasiarcho,
 a quibusdam iuvenibus pulsatum se conquesto, permisit
 ut aut tricenas ab his drachmas exigeret aut denas
 plagas singulis imponeret. Iuvenes autem quum iustis
-verberibus essent caesi,et poenae modum animi, non corporis
+verberibus essent caesi, et poenae modum animi, non corporis
 dolore aestimarent, ad Iasonem ulciscendum consilium
 inibant. E quibus alii in Taxillum ut crudelem et immanem
 animadvertere volebant, alii antem a Iasone, quod iniuriae
