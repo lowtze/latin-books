@@ -181,6 +181,11 @@ faults the author is entirely responsible.
     - [53. Bird-catching.](#53-bird-catching)
     - [54. The Artful Elephant.](#54-the-artful-elephant)
     - [55. Amasis And His Thefts.](#55-amasis-and-his-thefts)
+    - [56. An Incurable.](#56-an-incurable)
+    - [57. The Greatest Liar.](#57-the-greatest-liar)
+    - [58. Popular Taste.](#58-popular-taste)
+    - [59. A Ghost Story.](#59-a-ghost-story)
+    - [60. Persian Stratagem.](#60-persian-stratagem)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -1343,81 +1348,87 @@ dedit puerumque invicem ludibrio affecit.
 
 ### 55. Amasis And His Thefts.
 
-Amasis privatus nullo modo in serias res animum inten-.
-debat sed cum scurris et compotoribus aetatem degebat;
+Amasis privatus nullo modo in serias res animum intendebat
+sed cum scurris et compotoribus aetatem degebat;
 ubi autem potanti necessaria defecerant, furto aliena auferre
 solebat. Ab iis autem, qui eum sua bona habere affirmabant,
 accusatus ad proxima quaeque templa deducebatur, et modo
 condemnatus modo absolutus decedebat Amasis. Postquam
 autem regno potitus est, quicumque Di furti criminis
-absolverant, eorum templa negligebat, neque iis sacra facie-
-bat, quippe qui nullius essent momenti neque oracula veridica
-exhiberent. Qui vero furti arguerant, his, ut vera dicenti-
-bus, praecipuam curam praestabat. ^ r
-- 56. AN m !
+absolverant, eorum templa negligebat, neque iis sacra faciebat,
+quippe qui nullius essent momenti neque oracula veridica
+exhiberent. Qui vero furti arguerant, his, ut vera dicentibus,
+praecipuam curam praestabat.
+
+
+### 56. An Incurable.
+
 Traditur Carlinus, comoedus inter Patavinos praeclarus,
 lepide et iocose partes agere solitus esse. Illo tempore
 homo vultu tristi et capite demisso tabernam medici, qui
 propter artem laudem maximam consecutus erat, petit,
 eumque obsecrat, ut ad morbum gravissimum remedium
-adhibeat; se enim aegrum animi esse. Quae quum audi-
-visset medicus, dixit opus esse eum ad theatrum ventitare,
+adhibeat; se enim aegrum animi esse. Quae quum audivisset
+medicus, dixit opus esse eum ad theatrum ventitare,
 ut, dum Carlinum histrionem iocose partes agentem
 observat, laetitiam concipere possit. "Frustra," respondit
-alter, *hoc me admones : ego Carlinus sum ; dum alios per
-iocos et ludiera delecto, ipse gravissimo dolore afficior.
-Quae quum ita sint, hic morbus mihi videtur esse insana-
-biis" | | 1. - d B :
-"d D p
-pn EM
-LATIN READER p 35
-P 57. TuE GREATEST LiAR. m. P
+alter, "hoc me admones: ego Carlinus sum; dum alios per
+iocos et ludicra delecto, ipse gravissimo dolore afficior.
+Quae quum ita sint, hic morbus mihi videtur esse insanabilis."
+
+
+### 57. The Greatest Liar.
+
 Quum augur ob priscam severitatem praeter ceteros
 praeclarus pedibus ibat, in sutores sordidos et incultos forte
 incidit. Quos quum animadvertisset tam clare exclamantes
-ub omnibus praetereuntibus molestiam gravem adhiberent,
-rogavit, *Quid vultis?" Illi respondit unus e sutoribus
+ut omnibus praetereuntibus molestiam gravem adhiberent,
+rogavit, "Quid vultis?" Illi respondit unus e sutoribus
 se amphora vino plena potitos decernere velle, quis ea
 dignus esset. Ad id perficiendum se omnes mendacia quam
 impudentissime dicere, ut ei qui maxime mentitus esset,
-amphora daretur. Quibus dietis obstupefactus augur monuit
+amphora daretur. Quibus dictis obstupefactus augur monuit
 pessimi esse exempli tantis et tot mendaciis uti: se autem
-nunquam mentitum esse.  * At tibi danda est amphora,"
-conclamant omnes ; **tu maximo usus mendacio hanc merito
+nunquam mentitum esse. "At tibi danda est amphora,"
+conclamant omnes; "tu maximo usus mendacio hanc merito
 accipies."
-2 B u 58. PoPULAR TASTE. uu B b
-Polycletus, euius signa mira arte perfecta fuerunt, duo
-simulaera uno eodem tempore, alterum multitudini obse-
-cutus, alterum de artis norma, olim confecit. Primum enim
-ex sententia singulorum, qui intrabant, finxit alia parte com-
-mutata, alia reformata, ut praecepto uniuscuiusque diligen-
-tissime obediret; alterum autem maxima usus arte ipse
+
+
+### 58. Popular Taste.
+
+Polycletus, cuius signa mira arte perfecta fuerunt, duo
+simulacra uno eodem tempore, alterum multitudini obsecutus,
+alterum de artis norma, olim confecit. Primum enim
+ex sententia singulorum, qui intrabant, finxit alia parte commutata,
+alia reformata, ut praecepto uniuscuiusque diligentissime
+obediret; alterum autem maxima usus arte ipse
 solus perfecit. Utrumque ergo tandem hoc modo expolitum
-in medium proposuit ; ex quibus sane alterum in admiratione
-omnibus, alterum erat ludibrio. Hoe iudicio accepto Poly-
-cletus, * At hoc," inquit, quod vituperatis, vos fecistis,
+in medium proposuit; ex quibus sane alterum in admiratione
+omnibus, alterum erat ludibrio. Hoc iudicio accepto Polycletus,
+"At hoc," inquit, "quod vituperatis, vos fecistis,
 illud vero, quod admiramini, ego:" quod maximo fuit
-argumento, quantum illus ars et disciplina vulgarem
-popularemque sensum superaret. 101NMPUB ,
-� �
-36 LATIN READER
-n� -�
-P , a 59. A GnosT STORY. EN �
-m "m.
+argumento, quantum illius ars et disciplina vulgarem
+popularemque sensum superaret.
+
+
+### 59. A Ghost Story.
+
 Chrysippus refert, apud Megaream tabernam Atheniensem
 quendam zonam auro plenam secum ferentem devertisse.
 Ilum vero caupo, apud quem vesperi deverterat, quum
 pecuniam avide respiceret, ex insidiis obtruncat; deinde
-caesum atque in plaustro, in quo fimus vehebatur, abscondi-
-tum extra urbem portare vult. At Atheniensis ita trucidati
+caesum atque in plaustro, in quo fimus vehebatur, absconditum
+extra urbem portare vult. At Atheniensis ita trucidati
 anima Megarensi alii noctu adstitit, et, quid factum esset
-et � quo et quomodo et quas per portas corpus exportandum
-esset, enarravit. llle vero quum ea audivisset, haud
+et a quo et quomodo et quas per portas corpus exportandum
+esset, enarravit. Ille vero quum ea audivisset, haud
 segniter prima luce exsurgit observatoque plaustro manibus
-iniectis e fimo cadaver eruit. Quo facto hic quidem sepul-
-turae, ille vero supplicio datus est.
-: E 60. PERSIAN STRATAGEM. B ]
-NM
+iniectis e fimo cadaver eruit. Quo facto hic quidem sepulturae,
+ille vero supplicio datus est.
+
+
+### 60. Persian Stratagem.
+
 Persae postquam obsidione urbem PBarcam cinxerunt,
 et cuniculis, quibus in urbem intrarent, usi sunt, et validos
 in murum impetus fecerunt. Quibus rebus quum multum
