@@ -172,6 +172,15 @@ faults the author is entirely responsible.
     - [44.](#44)
     - [45. Why Are Frogs Dumb At Seriphus?](#45-why-are-frogs-dumb-at-seriphus)
     - [46. A Patriotic Mule.](#46-a-patriotic-mule)
+    - [47. A Convenient Accident.](#47-a-convenient-accident)
+    - [48. The Death of the Tyrant Jason.](#48-the-death-of-the-tyrant-jason)
+    - [49. Kalid's Sagacity.](#49-kalids-sagacity)
+    - [50. Addition Of Fractions In The East.](#50-addition-of-fractions-in-the-east)
+    - [51.](#51)
+    - [52. Democritus And The Honey.](#52-democritus-and-the-honey)
+    - [53. Bird-catching.](#53-bird-catching)
+    - [54. The Artful Elephant.](#54-the-artful-elephant)
+    - [55. Amasis And His Thefts.](#55-amasis-and-his-thefts)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -1189,10 +1198,10 @@ ranarum silentium esse imputandum.
 
 ### 46. A Patriotic Mule.
 
-i Mulus Atheniensis quidam iam vetulus, quamvis ab omni
+Mulus Atheniensis quidam iam vetulus, quamvis ab omni
 onere vehendo tandem immunis factus esset, studio laborum
-liberatus esse noluit. Namque ubi Athenienses Parthe-
-nonem Minervae templum aedificabant, nulla re onustus
+liberatus esse noluit. Namque ubi Athenienses Parthenonem
+Minervae templum aedificabant, nulla re onustus
 sua sponte cum mulis adolescentibus, qui de Pentelico
 marmor portabant, tanquam ad iter faciendum socius et
 hortator ambulabat, et iuniores ipse aetate confectus ultro
@@ -1200,41 +1209,43 @@ citroque progressus incitare conabatur. Quod quidem ut
 populus Atheniensis intellexit, per praeconem declarari
 iussit, ne a frumento neve ab hordeo prohiberetur; itaque
 decretum est ut pretium iustum ei, sicut athletae iam rude
-donato, ex aerario penderetur. mn i - D
-hs. 47. A. CONVENIENT �CCIDENT.
-5 Protogenes pictor egregius equum ab exercitatione veni-
+donato, ex aerario penderetur.
 
-. entem modo non vivum mira arte reddiderat. Cuius tamen
+
+### 47. A Convenient Accident.
+
+Protogenes pictor egregius equum ab exercitatione venientem
+modo non vivum mira arte reddiderat. Cuius tamen
 spumam anhelantis se exprimere potuisse non iudicavit,
 quum in reliqua parte tabulae omni, quod difficillimum
 erat, sibi ipsi satisfecisset. Cum enim spuma pingi, non ex
 ore nasci videretur, anxio animi cruciatu colores saepius
-absterserat, saepe penicilum mutaverat. Postremo indig-
-natione accensus corripit spongiam, omnibus imbutam
+absterserat, saepe penicillum mutaverat. Postremo indignatione
+accensus corripit spongiam, omnibus imbutam
 coloribus, forte iuxta se positam et veluti corrupturus opus
 suum tabulae illisit. Quae ad ipsas nares equi directa forte
 desiderium pictoris explevit; et quod ars adumbrare non
-valuit, casus imitatus est. H 3 p
+valuit, casus imitatus est. 
 
-48. Tug DEATH d TYRANT JASON.
-1 . Utrum satis iusta ultione lason 'Thessalus tyrannus
-absumptus sit necne, incertum est. 'Caxillo enim gymnasi-
-"cust dil
-LATIN READER 31
 
-archo, a quibusdam iuvenibus pulsatum se conquesto, per-
-misit ut aut tricenas ab his drachmas exigeret aut denas
+### 48. The Death of the Tyrant Jason.
+
+1 . Utrum satis iusta ultione Iason Thessalus tyrannus
+absumptus sit necne, incertum est. Taxillo enim gymnasiarcho,
+a quibusdam iuvenibus pulsatum se conquesto, permisit
+ut aut tricenas ab his drachmas exigeret aut denas
 plagas singulis imponeret. Iuvenes autem quum iustis
-verberibus essent caesi,et poenae modum animi, non cor-
-poris dolore aestimarent, ad Iasonem ulciscendum consilium
+verberibus essent caesi,et poenae modum animi, non corporis
+dolore aestimarent, ad Iasonem ulciscendum consilium
 inibant. E quibus alii in Taxillum ut crudelem et immanem
-animadvertere volebant, alii antem a lasone, quod iniuriae
+animadvertere volebant, alii antem a Iasone, quod iniuriae
 auctor fuisset, poenas repetendas censebant. Haud multo
 post Iason dum faciles aditus privatorum ad se admittit,
 ab his septem iuvenibus interfectus iniquam potestatem
 expiavit.
 
-B 49. KArrp's SAGACITY.
+
+### 49. Kalid's Sagacity.
 
 Kalidus inter Persas ob animum providum et sagacem
 praeclarus, quondam sub incauto duce ad hostes vincendos
@@ -1242,22 +1253,21 @@ legatus missus est. Quum autem dux, ut se recuperaret,
 agmen constituisset, subito damarum grex e deserto effugiunt
 atque inter milites discurrunt. Quae dum videt Kalidus,
 statim ducem admonet, ut milites extemplo arma expedire
-iubeat. Dux autem respondet, *Quid vis?" ** Hostes
-praesto sunt," inquit Kalidus, *damae enim natura ferae in
+iubeat. Dux autem respondet, "Quid vis?" "Hostes
+praesto sunt," inquit Kalidus, "damae enim natura ferae in
 nostra castra ab exercitu hostili se immittere coactae sunt."
 His dictis quum iam milites vix in equos insiluissent,
-agmen hostile adesse omnes vident: undique acclamatum se �
+agmen hostile adesse omnes vident: undique acclamatum se
 unumquemque ad Kalidi prudentiam vitam suam et salutem
 debitam referre.
 
-50. ApDITION OF FRACTIONS IN THE EAST. x
+
+### 50. Addition Of Fractions In The East.
 
 Homo moriturus quidam equos septendecim inter tres
 filios dividendos reliquerat. Qui quidem alius in alium se
 iustum praestandi alioquin cupidi, equos tamen in eas
 partes, quas pater descripserat, dispertire nequeunt. Nam
-db m � ��
-32 ! LATIN READER
 ille dimidiam, tertiam, nonam partem singulis pro sua aetate
 iusserat distribui. Fratres ergo rei difficultate devicti ad
 iudicem se contulerunt, et cum unus causam accurate
@@ -1265,32 +1275,33 @@ exposuisset, se patris voluntati obsequi velle, sed quomodo
 septendecim equos iuste possent dividere, nisi nonnullos
 discidissent, rationem habere non posse, iudex silentio facto
 rem disceptandi diem differre decrevit, ut paucis post diebus
-suam cuique partem iustam ipse distribueret. uf T
-B
-| B B |
-Pu dm PEN
+suam cuique partem iustam ipse distribueret.
+
+
+### 51.
+
 Septem autem diebus peractis, ad certum tempus fratres
-apud iudicem iterum accedentes, quid consilii iniisset roga-
-verunt: quibus respondit iudex, ** Vultisne ampliorem quam
-debitam partem de haereditate accipere 1"  ** Immo vero,"
+apud iudicem iterum accedentes, quid consilii iniisset rogaverunt:
+quibus respondit iudex, "Vultisne ampliorem quam
+debitam partem de haereditate accipere?" "Immo vero,"
 ilii libenter responderunt. Iudex igitur eos in agrum duxit,
 in quo non modo septendecim equi, sed equus etiam alius,
-. quem ipse immiserat, pascebantur ; et fratri natu maximo
+quem ipse immiserat, pascebantur; et fratri natu maximo
 imperavit ut partem dimidiam, secundo ut partem tertiam,
 natu minimo ut partem nonam reciperet. Itaque primo
 novem, secundo sex, tertio duobus equis pro sua cuique
 parte distributis, iudex ipse, postquam animi non modo
-integritatem, sed etiam benevolentiam tali iudicio monstra-
-verat, equum suum domum reducit. n D
-, �. 52. DEMOCRITUS AND THE HONEY. J ] !
-| "m
+integritatem, sed etiam benevolentiam tali iudicio monstraverat,
+equum suum domum reducit.
+
+
+### 52. Democritus And The Honey.
+
 Fama est Democritum Abderitem ob taedium senectutis
 de quotidiano cibo aliquid detrahendo mortem sibi
-conseiscere decrevisse. Sed instantibus iam Thesmophoriis
+consciscere decrevisse. Sed instantibus iam Thesmophoriis
 eum ancillae rogaverunt, ne per id celeberrimum tempus
 moreretur, quippe quae eo mortuo illos solemnes et festos
-��M� � �
-^ LATIN READER 33
 dies agere non possent. Hic annuit igitur, et, quum mellis
 vas sibi propius admoveri iussisset, vitam multos dies mellis
 odore et halitu continuatam sic prorogavit. Thesmophoriis
@@ -1298,39 +1309,40 @@ autem tandem peractis, ac melle asportato, quo delectatus
 fuerat, Democritus haud invitus exspiravit; servae illis
 fructae diebus alium dominum aliamque familiam quaerere
 moestae cogebantur.
-b
-EE. a 53. BIRD-CATCHING. 0 ] H
+
+
+### 53. Bird-catching.
 
 Otos ex Libya vicina Alexandriam transire tradunt.
 Haec avis imitatrix est eorum, quae praecipue ab hominibus
 fieri videt; quidquid enim aucupem facientem cernit, idem
 ipsa agere coepit. Stantes igitur ex adverso aucupes oculos
 suos medicamento quodam oblinunt; dum aliud, quod
-oculorum cilia glutinet, non procul a se in patellis apposi-
-tum habent. Quos sese ungentes oti conspicati idem
+oculorum cilia glutinet, non procul a se in patellis appositum
+habent. Quos sese ungentes oti conspicati idem
 extemplo faciunt; itaque medicamento in oculos iniecto
 ciliisque cohaerentibus neque aspicere hostes neque aufugere
 possunt. Aucupes igitur has aves facillime deceptas non
-sine risu secum auferunt. PTS c�� D
+sine risu secum auferunt.
 
-�n 54. Tug ARTFUL ELEPHANT.
+
+### 54. The Artful Elephant.
 
 Pictor elephantum esse providum animal ex hac clade
 certe intellexit. Elephantum enim, dum proboscidem alte
-sublatam retinet, per imaginem exhibere voluit ; itaque puero
+sublatam retinet, per imaginem exhibere voluit; itaque puero
 imperavit ut poma in os illius iniceret. Quo poma iniciente
-diu elephas proboscidem extollebat; at, quum iam illa de-
-fuissent, nec quid sibi esset faciendum sciret puer, re vera
+diu elephas proboscidem extollebat; at, quum iam illa defuissent,
+nec quid sibi esset faciendum sciret puer, re vera
 ei illudens poma se offerre simulabat. Idcirco animal id
 sagax, quum nihil in ore reciperet, non modo proboscidem
-demisit sed puerum impudentem ultum est : imaginem enim
-
-D
-� ���
-34 LATIN READER
+demisit sed puerum impudentem ultum est: imaginem enim
 paene confectam, peracutis dentibus totam pertusam, pessum
-dedit puerumque invicem ludibrio affecit. -�]
-, 55. AMASIS AND HIS THEFTS. 1
+dedit puerumque invicem ludibrio affecit.
+
+
+### 55. Amasis And His Thefts.
+
 Amasis privatus nullo modo in serias res animum inten-.
 debat sed cum scurris et compotoribus aetatem degebat;
 ubi autem potanti necessaria defecerant, furto aliena auferre
