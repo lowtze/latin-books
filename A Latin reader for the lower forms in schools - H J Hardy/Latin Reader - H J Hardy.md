@@ -186,6 +186,12 @@ faults the author is entirely responsible.
     - [58. Popular Taste.](#58-popular-taste)
     - [59. A Ghost Story.](#59-a-ghost-story)
     - [60. Persian Stratagem.](#60-persian-stratagem)
+    - [61.](#61)
+    - [62. A Valuable Lesson.](#62-a-valuable-lesson)
+    - [63. Beef Or Pastry?](#63-beef-or-pastry)
+    - [64. An Ancient Lunacy.](#64-an-ancient-lunacy)
+    - [65. Dyed Hair.](#65-dyed-hair)
+    - [66. The Fighting Habits Of The Magnetes.](#66-the-fighting-habits-of-the-magnetes)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -1429,38 +1435,41 @@ ille vero supplicio datus est.
 
 ### 60. Persian Stratagem.
 
-Persae postquam obsidione urbem PBarcam cinxerunt,
+Persae postquam obsidione urbem Barcam cinxerunt,
 et cuniculis, quibus in urbem intrarent, usi sunt, et validos
 in murum impetus fecerunt. Quibus rebus quum multum
-temporis tereretur, eb multi utrinque caderent, pedestrium
+temporis tereretur, et multi utrinque caderent, pedestrium
 Persarum dux, ratus Barcaeos non vi sed dolo vinci posse,
 hane rationem iniit. Noctu latam fodit fossam, cui ligna
 parum solida instravit, et super ligna humum ita ingessit,
 ut reliquae terrae aequalis esset. Ut illuxit, Barcaei, ad
 colloquium invitati, illi libenter morem gesserunt; denique
-omnibus placuit a bello utrumque discedere. His com-
-positis, dum super occultam fossam utrique sacrificant, his
-condicionibus pacem conciliant: *quamdiu haec terra ita
-manebit, integrum manebit iusiurandum." �*522
-���� n
-(0 usce - eS
-"m ' 2 �-
-y 61.
+omnibus placuit a bello utrumque discedere. His compositis,
+dum super occultam fossam utrique sacrificant, his
+condicionibus pacem conciliant: "quamdiu haec terra ita
+manebit, integrum manebit iusiurandum."
+
+
+### 61.
+
 Barcaei promittunt mulctam se regi soluturos; Persae,
 se nihil porro contra Barcaeos novaturos.  Foedere peracto,
-omnibus urbis portis apertis, Barcaei Persis adeo confide-
-bant, ut et ipsi urbe egrederentur, et hostium quicunque
+omnibus urbis portis apertis, Barcaei Persis adeo confidebant,
+ut et ipsi urbe egrederentur, et hostium quicunque
 intra muros vellet ingredi paterentur. At Persae occulto
 ponte disrupto in urbem irruebant. Pontem autem, quem
 fecerant, ob hanc causam interruperunt, ut iureiurando se
-liberarent, quo cum DBarcaeis obstricti erant; tamdiu ratum
+liberarent, quo cum Barcaeis obstricti erant; tamdiu ratum
 fore foedus, quamdiu terra in eo statu, quo tunc fuisset,
-permansura esset. Itaque dolo devicti Bareaei Persis
-concedere coacti sunt. | VN
-62. � VALUABLE LESSON. d B B
+permansura esset. Itaque dolo devicti Barcaei Persis
+concedere coacti sunt.
+
+
+### 62. A Valuable Lesson.
+
 Adolescens quidam Eretricus Zenonis domum, qui multos
-discipulos ad sapientiam adipiscendam ocolligebat, longum
-tempus �frequentaverat.  Reversum vero pater homo
+discipulos ad sapientiam adipiscendam colligebat, longum
+tempus frequentaverat.  Reversum vero pater homo
 subrusticus et incultus interrogavit, quid tandem sapientiae
 apud Zenonem didicisset. Ille vero re ipsa se id ostensurum
 pollicitus est: pater autem, haec dicta maxime indignatus,
@@ -1469,51 +1478,55 @@ adolescens quietem agebat neque haec omnia impatienter
 ferebat; hoc ipsum enim ait se ab Zenone didicisse, non
 modo iram patris sustinere sed convicium etiam idque
 iniustum non aegre ferre: tali modo se Zenonis doctrina
-dignam praestabat. B B m B
-63. BEEF oR PasTRY! I i
-m Lysandro Spartiatae, quum in Ioniam venisset, hospites,
+dignam praestabat.
+
+
+### 63. Beef Or Pastry?
+
+Lysandro Spartiatae, quum in Ioniam venisset, hospites,
 qui Ioniam colebant, inter alia bovem et placentam dono
-� �
-38 LATIN READER '
 miserunt. Ille vero placentam intuitus nuntium rogabat,
 quidnam esset id quod offerret. Cui quum is, qui attulerat,
 respondisset, id e melle, caseo, aliisque nonnullis confectum
-esse, idemque omnibus, lonibus gratissimum, * At illud,"
-inquit Lysander, *date servis Helotibus: non enim liberi
-civis cibus est." � Bovem autem ad patrium morem apparari
-iussit e� maxima cum voluptate ipse cenavit: placenta
-autem, utrum Helotes fruerentur necne, pro incerto haben-
-dum est.
-1 E 64. AN ANCIENT LUNACY. m B B
-E�. pM
-Thrasyllus inusitata quadam dementia quondam afficie-
-batur. Urbe enim Athenis relicta, in Piraeum migravit
+esse, idemque omnibus, Ionibus gratissimum, "At illud,"
+inquit Lysander, "date servis Helotibus: non enim liberi
+civis cibus est." Bovem autem ad patrium morem apparari
+iussit et maxima cum voluptate ipse cenavit: placenta
+autem, utrum Helotes fruerentur necne, pro incerto habendum est.
+
+
+### 64. An Ancient Lunacy.
+
+Thrasyllus inusitata quadam dementia quondam afficiebatur.
+Urbe enim Athenis relicta, in Piraeum migravit
 atque ibi habitans omnes naves ad eum appulsas suas esse
 putabat et in rationes suas accurate referebat: quibus
 salvis in portum reversis supra modum gaudebat. Quem
 multos annos hoc morbo implicitum frater e Sicilia reversus
-. medico tradidit, ut sanaretur. taque ab hoc morbo tandem
-liberatus vitam in amentia actam saepissime recordabatur ;
-negavitque se unquam gaudium percepisse tantum, quan-
-tum tunc ex navibus illis, quae ad se nihil pertinerent,
-servatis percipere solitus esset. mE � ] i
-) - p n 65. DyED Har. 0 ! , ,
-. Ceus quidam, iam senex, Lacodaemonem venit: quem
+medico tradidit, ut sanaretur. Itaque ab hoc morbo tandem
+liberatus vitam in amentia actam saepissime recordabatur;
+negavitque se unquam gaudium percepisse tantum, quantum
+tunc ex navibus illis, quae ad se nihil pertinerent,
+servatis percipere solitus esset.
+
+
+### 65. Dyed Hair.
+
+Ceus quidam, iam senex, Lacedaemonem venit: quem
 gloriosum ostentatorem senectutis pudebat: ideoque crines,
 qui natura cani erant, tinctura dissimulare conabatur. Hic
-autem hac arte dolosa usus, quum in contionem Lacedae-
-moniorum prodiisset, negotium, de quo apud Lacedaemonios
-venerat, coram populo exposuit. Quibus expositis con-
-surgit �rchidamus rex et ad cives conversus interrogat,
-ERRIIENIUUUSMU. �
-LATIN READER 39
-* Quid Ceus hie sani consilii dicere potest, quippe qui non
+autem hac arte dolosa usus, quum in contionem Lacedaemoniorum
+prodiisset, negotium, de quo apud Lacedaemonios
+venerat, coram populo exposuit. Quibus expositis consurgit
+Archidamus rex et ad cives conversus interrogat,
+"Quid Ceus hic sani consilii dicere potest, quippe qui non
 in animo tantum sed etiam in capite mendacium circumferre
-videatur 1" Hoc dicto obedientes cives, dum ingenium Cei
+videatur?" Hoc dicto obedientes cives, dum ingenium Cei
 ex iis, quae videndo cognoscere possunt, redarguunt, ea,
 quae proponit, strenue reiciunt.
-] �
-66. THE FiagriNG HABITS OF THE MAGNETES.
+
+
+### 66. The Fighting Habits Of The Magnetes.
 
 Magnetes accolae Maeandri bellum contra Ephesios
 gerentes reputare videbantur ea, quae per alios facerent,
@@ -1528,7 +1541,7 @@ auxilium ferebant. "Tum demum tertio loco Magnetes
 equites in hostem et per canes et per servos inclinantem
 ipsi invadebant. LONE � |
 
-a
+
 D 67. TRUE FRIENDSHIF.
 
 Damon et Phintias tam fidelem inter se amicitiam iunx--
@@ -1545,6 +1558,8 @@ temerarium sponsorem damnat, is nihil de amici constantia
 se metuere praedicat. Cum autem ad diem alter se recep-
 isset, admiratus amborum animum tyrannus supplicio
 remisso petivit, ut se ad amicitiam tertium ascriberent.
+
+
 , 68. Tug MxzTING oF BROTHERS. u r
 Miles, qui in castris Cn. Pompeii stipendia merebat,
 quum Sertorianum militem acrius sibi in acie instantem
@@ -1557,6 +1572,8 @@ rogo imposuit. Ac deinde, subiecta face, protinus eodem
 gladio, quo illum interemerat, pectus suum transverberavit:
 seque super corpus fratris prostratum communibus flammis
 cremandum tradidit.
+
+
 i 69. TuE DEvicE or EUMENES. i E
 [ Antigonus, dux rei militaris peritus, se Eumenem hostem
 imprudentem oppressurum esse sperabat; cum ex fumo
@@ -1574,6 +1591,8 @@ aum |o EE
 ��� �
 | LATIN READER , 4l
 "mug
+
+
 TO. :
 
 Ad Antigoni autem impetum refrenandum tale cepit
@@ -1607,7 +1626,7 @@ Hannibale, ne ille pecuniam secreto auferret secumque
 duceret. - ] - ] 0 ,
 p � j��
 - 42 LATIN READER
-72. � LioN's DEVICE.
+1.  � LioN's DEVICE.
 
 Ursam tradunt in Pangaeo monte leonis latebras custode
 vacuas invasisse eiusdemque catulos, quia adhuc parvuli
