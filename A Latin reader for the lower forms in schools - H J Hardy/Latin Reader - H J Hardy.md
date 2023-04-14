@@ -201,6 +201,11 @@ faults the author is entirely responsible.
     - [73.](#73)
     - [74. Thales' Revenge.](#74-thales-revenge)
     - [75. The Value Of A Scolding Wife.](#75-the-value-of-a-scolding-wife)
+    - [76. Whom Did Alexander Meet First?](#76-whom-did-alexander-meet-first)
+    - [77. The Philosopher.](#77-the-philosopher)
+    - [78. Cyrus And The Ionians.](#78-cyrus-and-the-ionians)
+    - [79. The Prisoner Foiled.](#79-the-prisoner-foiled)
+    - [80. Early History Of Mankind.](#80-early-history-of-mankind)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -1659,7 +1664,7 @@ securim in ore exceptam illi porrexit, ipsumque in latebras
 perduxit. E quibus cum agricola leones ab ursa iniuria
 affectos esse intellexisset, quanta vi poterat, arborem exscindebat:
 qua eversa ursam in terram praecipitem dilaniaverunt
- leones.
+leones.
 
 
 ### 74. Thales' Revenge.
@@ -1693,89 +1698,89 @@ domo non exigeret. "Insuesco enim," inquit Socrates,
 petulantiam et iniuriam facilius ferre."
 
 
-'6. WHOM DID ALEXANDER MEET FIRST! ]
+### 76. Whom Did Alexander Meet First?
 
 Cum Alexander Macedonum rex, sorte divina monitus,
 ut eum, qui sibi porta egresso primus occurrisset, interfici
 iuberet, asinarium forte ante omnes obviam factum vidisset,
-ut ad mortem abriperetur imperavit. Seiscitatus quidnam
+ut ad mortem abriperetur imperavit. Sciscitatus quidnam
 immeritus capitali supplicio addiceretur, cum ad factum
-didis �
-hi 44 LATIN READER
-suum excusandum oraculi praeceptum rex retulisset, asi-
-narius **Si ita est," inquit, *rex, alium sors morti destinavit :
+suum excusandum oraculi praeceptum rex retulisset, asinarius
+"Si ita est," inquit, "rex, alium sors morti destinavit:
 namque asellus, quem ego ante agebam, prior tibi occurrit."
 Delectatus Alexander et illius tam callido dicto et quod ab
 errore revocatus erat, occasionem expiandae religionis in
 aliquanto viliore animali rapuit, atque asinario libenter
 pepercit.
-0 17. THE PHILOSOPHER.
+
+
+### 77. The Philosopher.
 
 Ingenium omnium et cogitata cum rebus externis miram
 coniunctionem interdum habere solent. Philosophus enim,
 qui ad hominum mentes et cogitationes explorandas omnem
-euram conferebat, in horto quotidie ambulabat, et, cum
+curam conferebat, in horto quotidie ambulabat, et, cum
 advesperasceret, nescio quid meditatus oculos in summum
 templi cuiusdam propinqui fastigium defigebat, ut mentem
-quoque ea contentione in proposito detineret. .� quo, ut
+quoque ea contentione in proposito detineret. A quo, ut
 mos erat, meditante fastigium templi conspici non potuit,
-
-. quod arbores iam paulatim grandiores factae prospectum
-interruperunt. Quamobrem philosophus graviter com-
-motus amicum, cuius erant arbores interlectae, oravit ut
+quod arbores iam paulatim grandiores factae prospectum
+interruperunt. Quamobrem philosophus graviter commotus
+amicum, cuius erant arbores interiectae, oravit ut
 illorum capita decuteret. Quo facto ad solitum meditandi
-morem libenter se contulit. " B | NE
+morem libenter se contulit.
 
-78. CYRUS AND THE �ONIANS.
-Iones per legatos a Cyro invitati, ub a Croeso Lydorum rege
-.. desciscerent, non paruerunt: confectis autem rebus et Croeso
+
+### 78. Cyrus And The Ionians.
+
+Iones per legatos a Cyro invitati, ut a Croeso Lydorum rege
+desciscerent, non paruerunt: confectis autem rebus et Croeso
 a Cyro devicto, ut iisdem legibus, quibus antea, uterentur,
 a Cyro petebant. Quibus rogantibus hanc fabulam Cyrus
 ira commotus proposuit. Fuit olim tibicen, qui, pisces
-eonspectos in mari in terram ad sonitum egressuros esse
+conspectos in mari in terram ad sonitum egressuros esse
 ratus, tibia canebat. Tum, ubi spe depulsum se vidit,
-� �� mn��
-
-LATIN READER 45
 retibus usus ingentem piscium numerum inclusum extraxit.
-Quos ubi vidit palpitantes, ** Desinite" inquit *nunc saltare,
+Quos ubi vidit palpitantes, "Desinite" inquit "nunc saltare,
 quum me tibia canente egredi et saltare nolueritis." Quae
 quum audiissent legati et se piscibus in terra palpantibus a
 Cyro comparari intellexissent, domum re infecta redierunt.
 
-. 79. THE PRISONER FoILED. 0 p
 
-Servilius, in carcere inter ��mbianos detentus, tantum
+### 79. The Prisoner Foiled.
+
+Servilius, in carcere inter Ambianos detentus, tantum
 aufugiendi studium concepit, ut consilium caperet, quo in
 feretro impositus sub specie cadaveris per custodes ferretur.
 At dux, qui castello praeerat, de illo consilio certior factus
 constituit ei obstare, quominus per illum modum aufugeret.
-Itaque quum forte Servilio obviam esset, rogavit ** Audivis-
-tine quot cives ab inimicis veneno sint absumpti ?? Negavit
-se audiisse Servilius. *At ego, inquit dux, **idcirco
+Itaque quum forte Servilio obviam esset, rogavit "Audivistine
+quot cives ab inimicis veneno sint absumpti?" Negavit
+se audiisse Servilius. "At ego, " inquit dux, "idcirco
 medicos iussi omnia cadavera in castello mortuorum
-aperire, ut manifestum sib utrum veneno an per aliam
-causam sint mortui" Quae quum Servilius intellexisset,
+aperire, ut manifestum sit utrum veneno an per aliam
+causam sint mortui." Quae quum Servilius intellexisset,
 maluit in carcere permanere, quam pro mortuo cadavere
 medicis, ut concideretur, se concedere.
 
-80. EARLY HisTORY OF MANKIND. ] -
+
+### 80. Early History Of Mankind.
 
 De prima hominum origine multa et diversa a Graecis
-auctoribus referuntur. Sunt qui narrent Vuleanum iussu
+auctoribus referuntur. Sunt qui narrent Vulcanum iussu
 Iovis Pandoram formasse, deinde e magno diluvio neminem
-nisi Deucalionem Pyrrhamque esse superstitem. ^ Haec
+nisi Deucalionem Pyrrhamque esse superstitem. Haec
 atque alia huiuscemodi declarant poetae, qui de antiquis
 temporibus canunt: apud quos non elegantior exstitit fabula
 quam ea quae materiem, e qua comparata sunt hominum
-eorpora, demonstrat. Lutum, ut haec fama est, e quo con-
-�
-' 46 LATIN READER
-E. erant cetera animalia, aqua pluviali madefactum
-: erat: at ad homines comparandos, ut taedium vitae in-
-finitumque dolorem passuros, lacrimae cum materie lutea
-sunt commixtae. .� quo initio hominum vita posterorum
-. haudquaquam discrepat.
+corpora, demonstrat. Lutum, ut haec fama est, e quo conformata
+erant cetera animalia, aqua pluviali madefactum
+erat: at ad homines comparandos, ut taedium vitae infinitumque
+dolorem passuros, lacrimae cum materie lutea
+sunt commixtae. A quo initio hominum vita posterorum
+haudquaquam discrepat.
+
+
 L 81. WnuICH 1$ THE OLDEST NATION! |
 ] Ferunt Psammetichum regem Aegyptiorum, quum
 quinam essent primi et antiquissimi homines reperire
