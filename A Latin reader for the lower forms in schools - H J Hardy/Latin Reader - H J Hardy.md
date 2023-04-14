@@ -5,7 +5,7 @@ publisher: Macmillan and Co.
 year: 1889
 lang: la
 cover-image: "./images/cover.png"
-version: 0.2
+version: 0.3
 ---
 
 # A Latin Reader
