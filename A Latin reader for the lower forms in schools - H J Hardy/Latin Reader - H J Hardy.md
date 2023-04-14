@@ -192,6 +192,10 @@ faults the author is entirely responsible.
     - [64. An Ancient Lunacy.](#64-an-ancient-lunacy)
     - [65. Dyed Hair.](#65-dyed-hair)
     - [66. The Fighting Habits Of The Magnetes.](#66-the-fighting-habits-of-the-magnetes)
+    - [67. True Friendship.](#67-true-friendship)
+    - [68. The Meeting of Brothers.](#68-the-meeting-of-brothers)
+    - [69. The Device of Eumenes.](#69-the-device-of-eumenes)
+    - [70.](#70)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -1531,21 +1535,21 @@ quae proponit, strenue reiciunt.
 Magnetes accolae Maeandri bellum contra Ephesios
 gerentes reputare videbantur ea, quae per alios facerent,
 se ipsos facere. Singuli enim equites non modo canem
-venaticum sed servum etiam  iaculatorem secum ad
+venaticum sed servum etiam iaculatorem secum ad
 proelium ducebant. Quum vero concurrendum esset,
 canes prosilientes, quoniam erant visu terribiles et in
 occursu minime mites, aciem hostium saepe turbabant.
 Deinde servi ante dominos iaculati, postquam iam acies per
-impetum caninum erat turbata, ad. victoriam consequendam
-auxilium ferebant. "Tum demum tertio loco Magnetes
+impetum caninum erat turbata, ad victoriam consequendam
+auxilium ferebant. Tum demum tertio loco Magnetes
 equites in hostem et per canes et per servos inclinantem
-ipsi invadebant. LONE � |
+ipsi invadebant.
 
 
-D 67. TRUE FRIENDSHIF.
+### 67. True Friendship.
 
-Damon et Phintias tam fidelem inter se amicitiam iunx--
-erunt, ut, quum alterum ex his Dionysius Syracusanus
+Damon et Phintias tam fidelem inter se amicitiam iunxerunt,
+ut, quum alterum ex his Dionysius Syracusanus
 interficere vellet, atque is tempus ab eo, quo, priusquam
 periret, domum profectus res suas ordinaret, impetravisset,
 alter vadem se pro reditu eius tyranno dare non dubitavit.
@@ -1553,19 +1557,18 @@ Igitur omnes et in primis Dionysius novae atque ancipitis
 rei exitum speculabantur. Appropinquante deinde definita
 die neque illo redeunte, dum unusquisque stultitiae tam
 temerarium sponsorem damnat, is nihil de amici constantia
-� cCo^�
-40 LATIN READER
-se metuere praedicat. Cum autem ad diem alter se recep-
-isset, admiratus amborum animum tyrannus supplicio
+se metuere praedicat. Cum autem ad diem alter se recepisset,
+admiratus amborum animum tyrannus supplicio
 remisso petivit, ut se ad amicitiam tertium ascriberent.
 
 
-, 68. Tug MxzTING oF BROTHERS. u r
+### 68. The Meeting of Brothers.
+
 Miles, qui in castris Cn. Pompeii stipendia merebat,
 quum Sertorianum militem acrius sibi in acie instantem
-cominus interemisset, iacentemque spoliaret, fratrem ger-
-manum esse cognovit. Accidit enim ut in diversas partes
-nonnunquam �ratres distracti essent. Is autem multum
+cominus interemisset, iacentemque spoliaret, fratrem germanum
+esse cognovit. Accidit enim ut in diversas partes
+nonnunquam fratres distracti essent. Is autem multum
 ac diu convicio deos ob impiae victoriae donum insecutus,
 cadaver prope castra translatum et pretiosa veste opertum
 rogo imposuit. Ac deinde, subiecta face, protinus eodem
@@ -1574,39 +1577,36 @@ seque super corpus fratris prostratum communibus flammis
 cremandum tradidit.
 
 
-i 69. TuE DEvicE or EUMENES. i E
-[ Antigonus, dux rei militaris peritus, se Eumenem hostem
+### 69. The Device of Eumenes.
+
+Antigonus, dux rei militaris peritus, se Eumenem hostem
 imprudentem oppressurum esse sperabat; cum ex fumo
-castrorum eius allata est suspicio ad Eumenem hostem ap-
-propinquare. Conveniunt duces: quaeritur quid opus sit
+castrorum eius allata est suspicio ad Eumenem hostem appropinquare.
+Conveniunt duces: quaeritur quid opus sit
 facto.  Intelligebant omnes tam celeriter copias ipsorum
 contrahi non posse, quam Antigonus adfuturus videbatur.
-Hie omnibus titubantibus et de summis rebus desperanti-
-bus, Eumenes ait, si celeritatem velint adhibere et imperata
-facere, quod ante non fecerint, se rem expediturum ; nam
+Hic omnibus titubantibus et de summis rebus desperantibus,
+Eumenes ait, si celeritatem velint adhibere et imperata
+facere, quod ante non fecerint, se rem expediturum; nam
 se effecturum, ut non minus quinque dierum spatio hostis
-retardaretur: quare circumirent, suas quisque copias con-
-traheret. S bos � ] mE
-aum |o EE
-��� �
-| LATIN READER , 4l
-"mug
+retardaretur: quare circumirent, suas quisque copias contraheret.
 
 
-TO. :
+### 70.
 
 Ad Antigoni autem impetum refrenandum tale cepit
 consilium. Certos mittit homines ad infimos montes, qui
 obvii erant adversariorum itineri; hisque praecipit ut
 prima nocte, quam latissime possint, ignes faciant quam
-maximos, atque hos secunda vigilia minuant, tertia perex-
-iguos reddant; et, assimulata castrorum consuetudine, sus- *
-pieionem iniciant hostibus, his locis esse castra ac de eorum
+maximos, atque hos secunda vigilia minuant, tertia perexiguos
+reddant; et, assimulata castrorum consuetudine, suspicionem
+iniciant hostibus, his locis esse castra ac de eorum
 adventu praenuntiatum; idemque postera nocte faciant.
 Quibus imperatum erat, diligenter praeceptum curant.
 Antigonus tenebris obortis ignes conspicatur: credit de
-suo adventu esse auditum et adversarios illuc suas con-
-traxisse copias. Hic igitur dolo victus mutat consilium.
+suo adventu esse auditum et adversarios illuc suas contraxisse
+copias. Hic igitur dolo victus mutat consilium.
+
 
 i i 2 71. HANNIBAU'S CRAFT. | -u
 
