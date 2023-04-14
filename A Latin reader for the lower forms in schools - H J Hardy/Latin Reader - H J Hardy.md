@@ -196,6 +196,11 @@ faults the author is entirely responsible.
     - [68. The Meeting of Brothers.](#68-the-meeting-of-brothers)
     - [69. The Device of Eumenes.](#69-the-device-of-eumenes)
     - [70.](#70)
+    - [71. Hannibal’s Craft.](#71-hannibals-craft)
+    - [72. A Lion’s Device.](#72-a-lions-device)
+    - [73.](#73)
+    - [74. Thales' Revenge.](#74-thales-revenge)
+    - [75. The Value Of A Scolding Wife.](#75-the-value-of-a-scolding-wife)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -417,7 +422,7 @@ post Iulium Caesarem attigerat, eaque devicta per Cn.
 Sentium et A. Plautium, illustres et nobiles viros, triumphum
 celebrem egit. Quasdam insulas etiam, ultra Britanniam in
 Oceano positas, Romano imperio addidit, quae appellantur
-Oreades, filioque suo Britannici nomen imposuit  'Tam
+Oreades, filioque suo Britannici nomen imposuit 'Tam
 civilis autem circa quosdam amicos exstitit, ut etiam
 Plautium, nobilem virum, qui in expeditione Britannica
 multa egregie fecerat, triumphantem ipse prosequeretur, et
@@ -656,7 +661,7 @@ ad navigandum incubuerunt. Suarii praesentibus piratis
 silentium tenebant, quoad e portu illi se eripuissent, et e
 terra abessent tantum spatii quantum vox clamantis audiri
 posset: tum demum consueta voce utentes sues retroversum
-ad se revocabant.  Porci ut primum clamorem
+ad se revocabant. Porci ut primum clamorem
 sublatum audiverunt, statim in unum navis latus collecti
 eam everterunt. Itaque piratae malefici naufragio mox ad
 unum perierunt: sues vero incolumes ad suos enatarunt.
@@ -1023,7 +1028,7 @@ Aegyptios instituta est: quorum eum, qui maxime
 memoratu dignus videtur, exponam. Suis tergus pro esca
 hamo insertum in medium flumen demittit venator: ipse
 in ripa fluminis vivum habet porcellum, quem vehementer
-ferit.  Crocodilus autem, voce porcelli audita, ad eius
+ferit. Crocodilus autem, voce porcelli audita, ad eius
 sonum accurrit: in tergus vero suis ubi incidit, illud
 devorat: mox in terram detrahitur. Postquam in terram
 extractus est, primum oculos eius luto oblinit venator: eo
@@ -1039,7 +1044,7 @@ quam honori propius videatur." Tum respondit ille:
 "Neque honor neque iniuria sed casus cognomina eiusmodi
 fecit. Namque iis qui nomine gentili Corneliis usi sunt,
 cognomen Asina est additum, quoniam quum ab homine
-quodam Corneliae gentis principe fundum  empturo,
+quodam Corneliae gentis principe fundum empturo,
 sponsores solemniter poscerentur, subito asinam cum onere
 pecuniae in forum productam, quasi pro sponsoribus
 pignus praesens, Cornelii iussu servi afferebant. De quo
@@ -1132,7 +1137,7 @@ regis libertus, ex humili et turpi servitio ad novas divitias
 nuper erectus, philosophos ad convivium congregasset,
 multa et minuta sciscitatus iis irridere conatus est. Tandem
 scire se velle dixit, cur ex nigra et alba faba pulmentum
-unius coloris edatur.  Aridices philosophus quum hoc aegre
+unius coloris edatur. Aridices philosophus quum hoc aegre
 ferret, "At tu," inquit, "hanc rem ambiguam fac ut resolvas,
 cur de albis et nigris loris similes maculae gignantur."
 Quibus verbis auditis, libertus, qui servus olim verberibus
@@ -1457,7 +1462,7 @@ manebit, integrum manebit iusiurandum."
 ### 61.
 
 Barcaei promittunt mulctam se regi soluturos; Persae,
-se nihil porro contra Barcaeos novaturos.  Foedere peracto,
+se nihil porro contra Barcaeos novaturos. Foedere peracto,
 omnibus urbis portis apertis, Barcaei Persis adeo confidebant,
 ut et ipsi urbe egrederentur, et hostium quicunque
 intra muros vellet ingredi paterentur. At Persae occulto
@@ -1473,7 +1478,7 @@ concedere coacti sunt.
 
 Adolescens quidam Eretricus Zenonis domum, qui multos
 discipulos ad sapientiam adipiscendam colligebat, longum
-tempus frequentaverat.  Reversum vero pater homo
+tempus frequentaverat. Reversum vero pater homo
 subrusticus et incultus interrogavit, quid tandem sapientiae
 apud Zenonem didicisset. Ille vero re ipsa se id ostensurum
 pollicitus est: pater autem, haec dicta maxime indignatus,
@@ -1583,7 +1588,7 @@ Antigonus, dux rei militaris peritus, se Eumenem hostem
 imprudentem oppressurum esse sperabat; cum ex fumo
 castrorum eius allata est suspicio ad Eumenem hostem appropinquare.
 Conveniunt duces: quaeritur quid opus sit
-facto.  Intelligebant omnes tam celeriter copias ipsorum
+facto. Intelligebant omnes tam celeriter copias ipsorum
 contrahi non posse, quam Antigonus adfuturus videbatur.
 Hic omnibus titubantibus et de summis rebus desperantibus,
 Eumenes ait, si celeritatem velint adhibere et imperata
@@ -1608,89 +1613,92 @@ suo adventu esse auditum et adversarios illuc suas contraxisse
 copias. Hic igitur dolo victus mutat consilium.
 
 
-i i 2 71. HANNIBAU'S CRAFT. | -u
+### 71. Hannibal’s Craft.
 
-Accidit ut. Hannibal Cretam ad Gortynios veniret, ut
+Accidit ut Hannibal Cretam ad Gortynios veniret, ut
 ibi, quo se conferret, consideraret. Vidit autem vir omnium
 callidissimus magno se fore periculo, nisi quid providisset
-propter avaritiam Cretensium: magnam enim secum pecu-
-niam portabat, de qua sciebat exiisse famam. Itaque tale
+propter avaritiam Cretensium: magnam enim secum pecuniam
+portabat, de qua sciebat exiisse famam. Itaque tale
 consilium capit: amphoras complures complet plumbo:
-summas operit auro et argento. Has, praesentibus prin-
-cipibus, deponit in templo Dianae: simulans se suas for-
-tunas illorum fidei credere. His in errorem inductis,
-Statuas aeneas, quas secum portabat, omnes sua pecunia
-complet easque in propatulo domi abicit. Gortynii tem- -
-plum magna cura custodiunt non tam a ceteris quam ab
+summas operit auro et argento. Has, praesentibus principibus,
+deponit in templo Dianae: simulans se suas fortunas
+illorum fidei credere. His in errorem inductis,
+statuas aeneas, quas secum portabat, omnes sua pecunia
+complet easque in propatulo domi abicit. Gortynii templum
+magna cura custodiunt non tam a ceteris quam ab
 Hannibale, ne ille pecuniam secreto auferret secumque
-duceret. - ] - ] 0 ,
-p � j��
-- 42 LATIN READER
-1.  � LioN's DEVICE.
+duceret.
+
+
+### 72. A Lion’s Device.
 
 Ursam tradunt in Pangaeo monte leonis latebras custode
 vacuas invasisse eiusdemque catulos, quia adhuc parvuli
 erant nec se tueri poterant, interemisse. Quum autem leo
-et leaena alicunde ex venatu revertissent et caedem catu-
-lorum factam vidissent, acerrimo, ut par erat, dolore affecti
+et leaena alicunde ex venatu revertissent et caedem catulorum
+factam vidissent, acerrimo, ut par erat, dolore affecti
 ursam insequebantur; haec vero metu perculsa, quantum
-pedibus poterat, in arborem conscendit ibique eorum in-
-sidias evitare conata consedit. Quum autem illi viderent
+pedibus poterat, in arborem conscendit ibique eorum insidias
+evitare conata consedit. Quum autem illi viderent
 se eam ulcisci non posse, leaena quidem custodiam non
 intermisit, sed insidias ursae moliens ad arboris truncum
-morata est: leo vero quasi inops consilii et moerore pertur-
-batus instar hominis angebatur.
+morata est: leo vero quasi inops consilii et moerore perturbatus
+instar hominis angebatur.
 
-b - E
-P ^� ME
-� Tandem in montibus diu vagatus hominem arbores
+
+### 73.
+
+Tandem in montibus diu vagatus hominem arbores
 secantem offendit; cui, quum timore perculso securis e
-manu decidit, leo faciem blande lingua permulsit. Quam-
-obrem homini paulatim fiduciam habenti non permisit
-ut securim relinqueret, sed ut eam tolleret pede suo in-
-dieabat: at, cum hoe indieium homo non intelligeret, leo
+manu decidit, leo faciem blande lingua permulsit. Quamobrem
+homini paulatim fiduciam habenti non permisit
+ut securim relinqueret, sed ut eam tolleret pede suo indicabat:
+at, cum hoc indicium homo non intelligeret, leo
 securim in ore exceptam illi porrexit, ipsumque in latebras
-perduxit. XE quibus cum agricola leones ab ursa iniuria
-affectos esse intellexisset, quanta vi poterat, arborem ex-
-scindebat: qua eversa ursam in terram praecipitem dilani-
-averunt leones. ...
-74. THALES' REVENGE. wc
+perduxit. E quibus cum agricola leones ab ursa iniuria
+affectos esse intellexisset, quanta vi poterat, arborem exscindebat:
+qua eversa ursam in terram praecipitem dilaniaverunt
+ leones.
+
+
+### 74. Thales' Revenge.
 
 Mulus sale onustus fluvium transmittebatur; forte
-
-evenit ut lapsus sarcinas demergeret et salem aqua per-
-ms LATIN READER � 43
-fusum liquefaceret. Mulus, magna laetitia ex eo quod iam
+evenit ut lapsus sarcinas demergeret et salem aqua perfusum
+liquefaceret. Mulus, magna laetitia ex eo quod iam
 ab onere solutus esset accepta, quum quantum inter laborem
 et otium interesset cognovisset, in reliquum tempus idem,
 quod semel invitus fecerat, ex industria iterare constituit.
 Hoc igitur quum Thales intellexisset, per sapientiam illius
-malitiam uleiscendam arbitratus, spongiis et lana pro sale
+malitiam ulciscendam arbitratus, spongiis et lana pro sale
 onerari mulum iussit. Mulus insidiarum sibi instructarum
 ignarus e consueto more cecidit: sed, quum aqua repletum
-onus gravius esse sensisset, ex eo tempore nunquam delap-
-sus salem integrum trans flumen transportabat. � y
+onus gravius esse sensisset, ex eo tempore nunquam delapsus
+salem integrum trans flumen transportabat.
 
-75. THE VALUE OF A SCOLDING WIFE.
+
+### 75. The Value Of A Scolding Wife.
 
 Varro in satira, quam de maritorum officio scripsit, dixit
 vitia uxoris aut tollenda aut ferenda esse: virum tollendo
 vitia uxorem commodiorem praestare, ferendo sese meli
 orem facere. De quibus haud dissidet Socrates philosophus,
 cuius Xantippe adeo morosa et maligna fuisse traditur, ut
-per diem perque noctem viro se molestissimam praeberet. �
+per diem perque noctem viro se molestissimam praeberet.
 Cuius intemperiem Alcibiades discipulus miratus, Socratem
 interrogavit, quaenam ratio esset, cur mulierem tam acerbam
-domo non exigeret.  *Insuesco enim," inquit Socrates,
-*dum illam domi talem patior, externorum quoque foris
-petulantiam et iniuriam facilius ferre." m : y
+domo non exigeret. "Insuesco enim," inquit Socrates,
+"dum illam domi talem patior, externorum quoque foris
+petulantiam et iniuriam facilius ferre."
+
 
 '6. WHOM DID ALEXANDER MEET FIRST! ]
 
 Cum Alexander Macedonum rex, sorte divina monitus,
 ut eum, qui sibi porta egresso primus occurrisset, interfici
 iuberet, asinarium forte ante omnes obviam factum vidisset,
-ut ad mortem abriperetur imperavit.  Seiscitatus quidnam
+ut ad mortem abriperetur imperavit. Seiscitatus quidnam
 immeritus capitali supplicio addiceretur, cum ad factum
 didis �
 hi 44 LATIN READER
@@ -1744,7 +1752,7 @@ At dux, qui castello praeerat, de illo consilio certior factus
 constituit ei obstare, quominus per illum modum aufugeret.
 Itaque quum forte Servilio obviam esset, rogavit ** Audivis-
 tine quot cives ab inimicis veneno sint absumpti ?? Negavit
-se audiisse Servilius.  *At ego, inquit dux, **idcirco
+se audiisse Servilius. *At ego, inquit dux, **idcirco
 medicos iussi omnia cadavera in castello mortuorum
 aperire, ut manifestum sib utrum veneno an per aliam
 causam sint mortui" Quae quum Servilius intellexisset,
@@ -1859,7 +1867,7 @@ ut mihi a domino, terrae illius praeside, tutiores latebrae
 forent, in camporum et arenarum solitudines concessi : ac si
 defuisset cibus, consilium fuisset mortem aliquo pacto
 quaerere. Tum sole medio specum quandam nactus, in
-eam merecondo"  � �
+eam merecondo" � �
 -� 0 MB
 V�� oos oii
 - LATIN READER 49
@@ -1975,7 +1983,7 @@ ille amicus morbo sit consumptus: quod quum audiisset
 rex, sine mora servis imperavit ut astrologum arcesserent.
 Quum is apud regem praesto esset, *quando tu," inquit
 Ludovicus, *qui te res venturas praedicere posse simulas,
-diem supremum obibis?"  Astrologus autem, quum, quo in
+diem supremum obibis?" Astrologus autem, quum, quo in
 periculo esset, intelligeret neque tamen vocem neque animum
 demitteret, respondit, * Tertio ante die quam ipse moriere."
 Quo responso perterritus rex servos iussit summam curam
@@ -1991,7 +1999,7 @@ exhibuit. Cui minorem quam quae constituta erat pecu-
 niam praebuit, idque aegre ferenti respondit, * Ni hanc
 pecuniam acceperis, ista pictura nullum tibi commodum
 consequetur." *At tu erras; hanc enim maioris pretii, si
-tu reieceris, facile vendam."  **Dic mihi, quemadmodum id
+tu reieceris, facile vendam." **Dic mihi, quemadmodum id
 facturus sis: iste enim vultus mihi neque ulli alii consi-
 milis est." * Haec sunt vera: sin autem caudam corpori
 adiecero, simiae imago non hominis omnibus videbitur."
@@ -2120,7 +2128,7 @@ apportarem et te bene valere iuberem." Haec locutus
 piscem in mensam sollicitus deposuit: servus autem vafro
 consilio adhibito hoc quoque Celerem docere constituit.
 * Heus tu," respondit: *fac ut gratias maximas tuo domino
-pro me agas et ipse hanc mercedem accipias."  Celeri enim
+pro me agas et ipse hanc mercedem accipias." Celeri enim
 quinquaginta nummos dat. taque cum Celer servum,
 quomodo decenter piscem offerre posset, docebat, tum
 invicem servus, quomodo Celer se munificum posset prae-
@@ -2160,7 +2168,7 @@ Ita accidit ut Gobryae verba ab iis, quae postea evenerunt,
 haud discreparent.
 
 104. A BET. . �� tdi �
-Diseipulus quum  Xanthum philosophum . ebrium. et
+Diseipulus quum Xanthum philosophum . ebrium. et
 temulentum esse videret, * O praeceptor," inquit, *num
 quis mare ebibere potest!" "Immo vero," respondit
 Xanthus, *ego enim hoc ipse ebibere possum: at si
@@ -2170,7 +2178,7 @@ Postridie Xantho interroganti, ubi esset annulus, respondit
 servus Aesopus eum heri ebrium mare ebibere posse
 gloriatum esse, et in pacto annulum eius deposuisse.
 * At te nunc oro, ut praesto sis et opem porrigas, ut aut
-vincam aut pacta dissolvam."  ** Vincere quidem haud tibi
+vincam aut pacta dissolvam." ** Vincere quidem haud tibi
 licet, sed, ut pacta solvas, ipse efficiam. Cum hodie rursus
 in unum convenerint amici, ne tuo proposito destiteris,
 neve ea, quae facere volebas ebrius, te sobrium facere nolle
@@ -2210,7 +2218,7 @@ quam anulum e smaragdo lapide auro devinctum delegerat
 
 et navem ipse conscenderat, nautas in altum navigare iussit :
 quum procul ab insula abessent, annulum de manu de-
-tractum cunctis conspicientibus in mare proiecit.  Piscator
+tractum cunctis conspicientibus in mare proiecit. Piscator
 autem, quum ingentem pulchrumque piscem cepisset, Poly-
 crati eum voluit dono dare: itaque in regia illo oblato ait
 
@@ -2229,7 +2237,7 @@ et manu mea victum quaeram, te tuoque imperio haud
 indignum eum affero. His verbis delectatus Polycrates in
 hunc modum respondit: "Recte fecisti; duplicem tibi
 orationis et doni causa gratiam reddo: te igitur ad cenam
-invitamus."  Piscator domum abiit laetus: famuli vero
+invitamus." Piscator domum abiit laetus: famuli vero
 dum piscem concidunt, in ventre repositum anulum Poly-
 cratis reperiunt. Quem ut viderunt, protinus correptum,
 animis gaudio perfusis, ad Polycratem deferunt, nuntiant-
@@ -2253,7 +2261,7 @@ calidum et frigidum halitum emittere potes! Vale: neque
 enim tecum posthac amicitiam exercebo." m
 
 -
-1.   Two SrpEs To EvERY QUESTION. Y
+1.  Two SrpEs To EvERY QUESTION. Y
 Leo et homo dum in eadem via simul progrediuntur, et
 vario sermone inter se utuntur, columnam vident, in qua
 erat incisus leo ab homine suffocatus. Hanc ubi homo
@@ -2301,7 +2309,7 @@ ad fervorem vitandum, et sessoris et, asini umbra protectus,
 ambulabat. Quum autem hoc mercator vidisset, descendit
 et de asini umbra cum Aegyptio strenue contendit. Hic
 enim asinum ipsum, neque umbram se locasse asseveravit:
-ille autem se cum asino umbram conduxisse.  ��t dum
+ille autem se cum asino umbram conduxisse. ��t dum
 rixantur, asinus aufugit; quo facto neuter umbra potitur.
 mE 112. PERSIAN JUSTICE. 0 E
 Xerxes, in proelio apud Salamina commisso devictus, in
@@ -2343,7 +2351,7 @@ uterentur. ''Abscisis mulorum eius," inquit, "capitibus,
 non modo ipsi Nicaeam securi vos conferetis, sed Spyridi-
 onem, ne sequatur, impedire poteritis. Hoc consilio libenter
 accepto, quum mulorum alterius candidi, alterius spadicis
-capita decidissent, maxima celeritate aufugerunt.  Spyridio
+capita decidissent, maxima celeritate aufugerunt. Spyridio
 autem prima luce experrectus servos ad mulos inveniendos
 statim demisit, qui, cum sine mora rediissent, primo stupe-
 facti tacebant.- B
@@ -2413,7 +2421,7 @@ ut alterum dimidium daret, quo die causam apud iudices
 orasset et vicisset. Postea quum diu Protagorae auditor
 assentatorque fuisset et in studio facundiae abunde se
 promovisset, causas tamen non reciperet, tempusque iam
-longum  praeteriret, reliquam mercedis partem solvere
+longum praeteriret, reliquam mercedis partem solvere
 noluit. B
 x
 nL��M�� �
@@ -2602,7 +2610,7 @@ secuti ; a quibus cum audiisset non multum superesse muni-
 tionis, apud Ephoros Lacedaemoniorum accessit et con-
 tendit, falsa iis esse delata: quare aequum esse illos bonos
 nobilesque viros mittere, quibus fides haberetur, qui rem
-explorarent; interea se obsidem retinerent.  Gestus est ei
+explorarent; interea se obsidem retinerent. Gestus est ei
 mos: tresque legati summis functi honoribus Athenas
 missi sunt. Cum his collegas suos Themistocles iussit pro-
 fiisci eisque praedixit, ut ne prius Lacedaemoniorum
@@ -2646,14 +2654,14 @@ dum Hannibal talem iniit rationem. � Classe paucis diebus
 erant decreturi. Superabatur Hannibal navium multitudine.
 Dolo igitur erat pugnandum, cum par non esset armis.
 Hie iussit quam plurimas venenatas serpentes vivas colligi
-easque in vasa fictilia conici. Harum cum  confecisset
+easque in vasa fictilia conici. Harum cum confecisset
 magnam multitudinem, die ipso, quo facturus erat navale
 proelium, classiarios convocat hisque praecepit, omnes ut in
 unam Eumenis regis concurrant navem; rex autem in qua
 nave veheretur, ut scirent, se facturum promittit; quem
 si aut cepissent, aut interfecissent, magno illis pollicetur
 praemio fore. - n e
--�  . "A
+-� . "A
 � ��:
 12 LATIN READER
 , 133.
@@ -2704,7 +2712,7 @@ quae ibi conduntur, expositis, magnum concipit dolorem :
 * Vae mihi misero," inquit, *nihil inest praeter margaritas
 inutiles." L5
 4 136. ALEXANDER's DocTOR. m
-Quum Alexander  Tarsum venisset, captus Cydni
+Quum Alexander Tarsum venisset, captus Cydni
 amoenitate in praefrigidam undam se proiecit. Tum
 repente tantus nervos eius occupavit rigor, ut nulla spes
 remedii inveniretur. At unus erat ex medicis nomine
@@ -2729,7 +2737,7 @@ erant exposita, conspicatus, stragulo, ut mos est, humi
 deposito requiescere voluit. Cui haec molienti obviam se
 ferebat unus e custodibus, qui eum rogavit, quid facere
 vellet. Respondit philosophus se in illo hospitio dever-
-surum esse  '.At," inquit ille iratus, **haec domus revera
+surum esse '.At," inquit ille iratus, **haec domus revera
 regis palatium est, non publicum hospitium." Dum haec
 aegre ferebant custodes, accidit ut rex ipse haud procul
 ambularet atque eos disceptantes exaudiret. 1
@@ -2880,7 +2888,7 @@ inopinato incurrerent, accuratius vigilabat. Cui multa peri-
 cula et graves labores perpesso, quum fere finem itineris
 attigisset, subito obviam irruit homo ferox et robustus, et
 tanta vi oppressit, ub mox omnibus rebus viatorem exspol-
-iaverit.  �t ille quem vicerat latro impetu repentino,
+iaverit. �t ille quem vicerat latro impetu repentino,
 ad amissam pecuniam recuperandam animum applicabat :
 eui reputanti manifestum videtur doloso utendum esse
 consilio. Propterea ad latronem conversus *Invitus,"
@@ -2899,7 +2907,7 @@ iniquum videtur non modo pecuniam sed etiam existima-
 tionem eodem die perdidisse. Quare fac ut digitum, quem
 in hoc ligno deponam, gladio abscidas, quo absciso facile
 hoe argumentum omnibus praebebo me re vera pro mea
-pecunia dimicasse."  Viatori haec loquenti quum respon-
+pecunia dimicasse." Viatori haec loquenti quum respon-
 disset latro, se libenter digitum in ligno depositum abscis-
 urum, gladium e vagina extractum in digitum viatoris
 magna vi deiecit. At ille, subito motu manu de ligno
@@ -2944,7 +2952,7 @@ euspis quam tu timeas?" ^ Hoc modo Croesus evictus
 - veniam exeundi filio haud libenter dedit.
 -� u
 ]
-E  �
+E �
 Deinde Atys cum iuvenibus canibusque selectis pro-
 fectus, ubi Olympum pervenit, beluam indagant et in-
 ventam iaculis incessunt. Ibi Adrastus hospes, vibrato in
@@ -2953,7 +2961,7 @@ qui euspide ictus statim mortem obiit. Atys autem, dum
 cadaver domum Lydi ferunt, pone secutus, Croeso se
 tradidit atque eum oravit ut se super cadavere mactaret:
 neque enim esse sibi vivendum. Quibus auditis, rex
-Adrastum miseratus, ait:  '**Satis poenae a te repeto:
+Adrastum miseratus, ait: '**Satis poenae a te repeto:
 quoniam ipse te capitis condemmnas, neque tu tamen huius
 �� ��
 
@@ -3156,7 +3164,7 @@ bantur, condicione probata seque suamque vitam reipublicae
 . condonavere ; it� vivi obruti. Carthaginienses in eo loco
 Philaenis fratribus aras consecravere, aliique illis domi
 honores sunt instituti. LI " Lo
-" SERE Lun  .:�DL
+" SERE Lun .:�DL
 �OCAETS nn
 
 LATIN READER 87
@@ -3183,7 +3191,7 @@ j ume ��
 At Simonides iuvenum iussu arcessitus, cum foras se pro-
 ripuisset, mox Deorum beneficium percepit; illos quidem
 non vidit, sed magno exaudito strepitu atrium, e quo
-excesserat, dilapsum conspexit.  Tectum enim subito
+excesserat, dilapsum conspexit. Tectum enim subito
 corruit; et servi et convivae, una strage correpti, tignis,
 tegulis, lapidibus opprimebantur. Tum demum Simonides
 reversus, cum convivas inter pocula iam mortuos aspexisset,
@@ -3238,7 +3246,7 @@ oculis ac vestigia huc atque illuc errantis benevolo studio
 subsecutus, ad latus comes arrepsit. Mox, ut sentit
 cupidos sanguinis milites supervenire amoto domino,
 rogum exstruit eique senem a se comprehensum et occisum
-inicit.  Interrogantibus deinde militibus ubinam esset
+inicit. Interrogantibus deinde militibus ubinam esset
 Antius, manu in rogum intentata, ibi illum, datis sibi
 erudelitatis piaculis, uri respondit. Quia verisimilis res
 erat, habita est voci fides: Antius autem incolumis
@@ -3368,7 +3376,7 @@ p 9 � 28
 zi 175. THE DEATH OF �RCHIMEDES. " 1
 
 Captis Syracusis Marcellus machinationibus Archimedis
-diu victoriam suam inhibitam senserat.  Eximia tamen
+diu victoriam suam inhibitam senserat. Eximia tamen
 hominis prudentia delectatus, ut capiti illius parceretur,
 edixit : quia non multo minoris �rchimedis salutem quam
 Syracusarum expugnationem habuit. At dum, animo et
@@ -3394,7 +3402,7 @@ ravit. Accidit deinde ut proximo ab Aterio loco retiarius
 cum mirmillone introduceretur; cuius cum faciem vidisset,
 dixit idem, ab illo se retiario trucidari putasse, protinusque
 inde discedere voluit. Illi autem, metu eius sermonibus
-discusso, causam exitii misero attulerunt.  Retiarius enim,
+discusso, causam exitii misero attulerunt. Retiarius enim,
 in eum locum compulso mirmillone et abiecto, dum iacentem
 ferire conatur, traiectum gladio Aterium interimit. m
 
@@ -3437,7 +3445,7 @@ Tanain dominabatur, dormienti apparuisse; Zariadrae au-
 tem imaginem eodem modo ab Odatide visam esse. Quum
 imaginem tam pulchram vidisset Zariadra Odatidemque
 ipsam formosissimam esse audivisset, ad Omartem nuntios
-misit, qui uxorem sibi Odatidem poscerent.  Renuit autem
+misit, qui uxorem sibi Odatidem poscerent. Renuit autem
 Omartes, quod ipse filiis careret, et cuidam ex suis familiari-
 bus eam collocare decrevisset. Ilaud ita multo post con-
 vocatis regni optimatibus et amicis et cognatis, illi ut viro
@@ -3526,7 +3534,7 @@ arte usum, absolvere tamen iustius videbatur consilium.
 
 184. BunrAL OF ALARIC. NE
 
-Alii homines aliis sepulturis utuntur.  Alaricus, qui
+Alii homines aliis sepulturis utuntur. Alaricus, qui
 Honorio imperatore Romam ceperat, haud multo postea
 subito morbo confectus in Italia mortuus est. Quem, cum
 in vita ferocem et audacem se semper praestitisset, haud
@@ -3589,7 +3597,7 @@ pretiose armatorum ignaviam et imperitiam eludit, *Satis
 plane," inquit, *satis esse Romanis haec omnia credo,
 etiamsi avarissimi sunt." Nihil prorsus neque tam lepide
 neque tam acerbe dici potest: rex de numero exercitus
-sui cum Romanis comparando  quaesierat, de praeda
+sui cum Romanis comparando quaesierat, de praeda
 respondit Hannibal. uA a
 2
 B 188. THE GATES OF THE TEMPLE OF JANUS.
@@ -3852,7 +3860,7 @@ bus vallum ac loricam rescindunt. Mittit primo Brutum
 adolescentem cum cohortibus Caesar, post cum aliis C.
 Fabium legatum; postremo ipse, cum vehementius pug-
 
-B naretur, integros subsidio adducit.  Restituto proelio ac
+B naretur, integros subsidio adducit. Restituto proelio ac
 repulsis hostibus, eo, quo Labienum miserat, contendit;
 cohortes quattuor ex proximo castello deducit, equitum
 partem sequi, partem circumire exteriores munitiones, et ab
@@ -3955,7 +3963,7 @@ LE -
 P . 28
 Territus e summo despexit in aequore caelo : B
 Nox oculis pavido venit oborta metu :
-.  Tabuerant cerae : nudos quatit ille lacertos,
+. Tabuerant cerae : nudos quatit ille lacertos,
 Et trepidat, nec, quo sustineatur, habet. |
 Decidit atque cadens, *Pater, O pater, auferor," inquit,
 Clauserunt virides ora loquentis aquae. v
@@ -3991,7 +3999,7 @@ faciunt, eamque, cum et vis venti apta faciendo igni coorta
 esset, succendunt ardentiaque saxa infuso aceto putre-
 faciunt. Itaque torridam incendio rupem ferro pandunt,
 molliuntque anfractibus modicis clivos, ut non iumenta
-solum sed elephanti etiam deduci possent.  Quadriduum
+solum sed elephanti etiam deduci possent. Quadriduum
 circa rupem consumptum iumentis prope fame absumptis ;
 nuda enim fere cacumina sunt et, si quid est pabuli, obruunt
 nives.
@@ -4019,20 +4027,20 @@ sidiumque ad ultimum inopiae adduxerat. Quod aegre
 patiens Tib. Sempronius Gracchus qui castris Romanis
 : praeerat, farre ex agris circa undique convecto, quum com-
 plura dolia complesset, nuntium ad magistratum Casilinum
-misit, ut exciperent dolia quae amnis deferret.  Inse-
+misit, ut exciperent dolia quae amnis deferret. Inse-
 quenti nocte intentis omnibus in flumen ac spem ab nuntio
 Romano factam, dolia medio missa amni defluxerunt,
 aequaliterque inter omnes frumentum divisum. Id postero
 quoque die ac tertio factum est: nocte et mittebantur et
 perveniebant, eo custodias hostium fallebant., '*
-Ec  . 9i
+Ec . 9i
 z
 [ Imbribus deinde continuis citatior solito amnis transverso
 vertice dolia impulit ad ripam quam hostes servabant;
 ibi haerentia inter obnata ripis salicta conspiciuntur nun-
 tiatumque Hannibali est, et. deinde intentiore custodia
 cautum ne quid falleret in amni Vulturno ad urbem
-missum.  Nuces tamen fusae ab Romanis castris, quum
+missum. Nuces tamen fusae ab Romanis castris, quum
 medio amni ad Casilinum defluerent, cratibus excipiebantur.
 Postremo ad id ventum inopiae est, ut lora detractasque
 scutis pelles, ubi fervida mollissent aqua, mandere conar-
@@ -4046,7 +4054,7 @@ murum erat, raporum semen iniecerunt, ut Eannibal
 * Eone usque, dum ea nascuntur, ad Casilinum sessurus
 sum ?" exclamaret, et, qui nullam antea pactionem auribus
 admiserat, tum demum agi secum est passus de redemptione
-liberorum capitum.  Septunces auri in singulos pretium
+liberorum capitum. Septunces auri in singulos pretium
 convenit : fide accepta tradiderunt sese: donec omne aurum
 persolutum est, in vinculis habiti, tum remissi Cannas cum
 fide. Casilinum oppidum redditum Campanis est, firmatum
@@ -4067,7 +4075,7 @@ Saepe suas igitur, Liber, miratus es uvas:
 Mirata est oleas saepe Minerva suas.
 n m -�
 TER
-TQ  �
+TQ �
 
 114 : LATIN READER -
 
@@ -4102,7 +4110,7 @@ omnes naves afflictas atque in litore eiectas esse, quod
 neque ancorae funesque subsisterent, neque nautae guber-
 natoresque vim tempestatis pati possent; itaque ex eo
 
-|  eoneursu navium magnum esse incommodum acceptum.
+| eoneursu navium magnum esse incommodum acceptum.
 His rebus cognitis, Caesar legiones equitatumque revocari
 atque itinere desistere iubet, ipse ad naves revertitur:
 eadem fere, quae ex nuntiis litterisque cognoverat, coram
@@ -4121,7 +4129,7 @@ res erat multae operae ac laboris, tamen commodissimum
 esse statuit omnes naves subduci et cum castris una muni-
 tione coniungi. In his rebus circiter dies decem consumit,
 ne nocturnis quidem temporibus ad laborem militum inter-
-missis.  Subductis navibus castrisque egregie munitis,
+missis. Subductis navibus castrisque egregie munitis,
 easdem copias, quas ante, praesidio navibus reliquit: ipse
 eodem, unde redierat, proficiscitur. ^ Eo cum venisset,
 maiores iam undique in eum locum copiae Britannorum
@@ -4170,7 +4178,7 @@ Venator defessa toro cum membra reponit,
 Mens tamen ad silvas et sua lustra redit.
 Iudicibus lites, aurigae somnia currus,
 Vanaque nocturnis meta cavetur equis.
-.  Furto gaudet amans: permutat navita merces :
+. Furto gaudet amans: permutat navita merces :
 Et vigil elapsas quaerit avarus opes. �
 Blandaque largitur frustra sitientibus aegris
 Irriguus gelido pocula fonte sopor.
@@ -4227,7 +4235,7 @@ tamen circiter parte tertia, ut postea perspectum est, celata
 atque in oppido retenta, portis patefactis, eo die pace sunt
 usi. Sub vesperum Caesar portas claudi militesque ex oppido
 exire iussit, ne quam noctu oppidani ab militibus iniuriam
-c acciperent.  - a
+c acciperent. - a
 | 224.
 
 - Ili ante inito, ut intellectum est, consilio, quod,
@@ -4245,7 +4253,7 @@ facta, ex proximis castellis eo concursum est ; pugnatumque
 ab hostibus ita acriter est, ut a viris fortibus in extrema spe
 salutis, iniquo loco, contra eos, qui ex vallo turribusque tela
 iacerent, pugnari debuit, cum in una virtute omnis spes
-salutis consisteret.  Occisis hominum millibus quattuor,
+salutis consisteret. Occisis hominum millibus quattuor,
 
 L reliqui in oppidum reiecti sunt.
 �� Mu
@@ -4478,7 +4486,7 @@ queat.
 
 Hi. Apte quidem dictum, extorqueat. Nam citius cla-
 vam extorseris e manu Herculis, quam ab hoc ludendi
-veniam,  �t olim illo nemo fuit ludendi avidior.
+veniam, �t olim illo nemo fuit ludendi avidior.
 
 Ni. Verum; sed iam olim ille oblitus est, se fuisse
 puerum. Ad verbera facilimus est et liberalis: hic par-
@@ -4493,7 +4501,7 @@ Ni. Eat, qui volet: ego carere malo, quam rogare.
 D Hi. Nemo magis accommodus ad hanc legationem, quam
 Cocles.
 
-Ni. Nemo profecto. Nam  perfrictae frontis est, ac
+Ni. Nemo profecto. Nam perfrictae frontis est, ac
 benelinguax. Deinde sensum hominis pulchre callet.
 
 Li. l, Cocles, ab omnibus nobis magnum initurus gra-
@@ -4526,7 +4534,7 @@ Pae. Nihil aliud quam luditis, etiam absque venia.
 Co. Seit tua prudentia, vigorem ingeniorum excitari
 moderato lusu, quemadmodum nos docuisti ex Quintiliano.
 
-Pae. Sane ut istuc tenes, quoad pro te facit.  Laxa-
+Pae. Sane ut istuc tenes, quoad pro te facit. Laxa-
 mento opus est iis, qui vehementer laborant: vobis, qui
 segniter studetis, et acriter luditis, fraeno magis opus est,
 quam laxatis habenis.
@@ -4589,7 +4597,7 @@ Jo. Quid loquebatur! EN o
 
 N Sy. Horam esse quintam. - . -
 
-Io. Sed est et aliud, unde magis etiam timeam.  Red-
+Io. Sed est et aliud, unde magis etiam timeam. Red-
 denda est memoriter hesterna lectio, satis prolixa. � Vereor
 ut possim.
 
@@ -4778,7 +4786,7 @@ Ma. At hanc sapientiam docent me libri. )
 Ph. Nuper incidit mihi iter, quum satis prolixum, tum
 etiam accelerandum. ^ Adeo Hippoplanum, quem dixisses
 eius generis minime malum; et intercedebat mihi cum
-homine nonnihil etiam amicitiae.  Narro, mihi rem esse
+homine nonnihil etiam amicitiae. Narro, mihi rem esse
 seriam ; opus esse praestrenuo equo : si unquam praebuisset
 se mihi bonum virum, nunc praestaret. Ille pollicetur, sese
 sic mecum acturum, ub ageret cum fratre suo carissimo.
@@ -4864,7 +4872,7 @@ ex omnibus, quem voles; tuum habere non potes. Rogo,
 quam ob rem? Quoniam venditus est, inquit. Ibi ego
 simulata magna perturbatione: Prohibeant, inquam, superi
 quod dicis. Hoc obiecto itinere non vendam eum equum,
-etiamsi quis numeret quadruplum.  Incipio rixam, clamo
+etiamsi quis numeret quadruplum. Incipio rixam, clamo
 me perditum. Tandem incaluitetille. Quid opus, inquit, his
 iurgiis! Indicasti equum, ego vendidi: si numero pretium.
 nihil habes quod mecum agas; suntin hae urbe leges: ad
@@ -4948,14 +4956,14 @@ mE i
 136 LATIN READER
 Maccum ad cenam, et numeravit �calceario pretium.
 Simile quiddam accidit Daventriae me puero. Erat
-tempus illud, quo regnant piscatores, [rigent  lanii
+tempus illud, quo regnant piscatores, [rigent lanii
 Quidam adstabat ad fenestram fructuariae, sive Graece
-mavultis, oporapolidis, feminae vehementer  obesae,
+mavultis, oporapolidis, feminae vehementer obesae,
 oculis intentis in ea, quae proposita venum erant; illa ex
 more invitavit, si quid vellet: et quum videret hominem
 intentum ficis: Vis, ait, ficos! sunt perquam elegantes.
 Quum ille annuisset, rogat quot libras vellet : Vis, inquit,
-quinque libras?  Annuenti, tantum ficorum effudit in
+quinque libras? Annuenti, tantum ficorum effudit in
 gremium. Dum illa reponit lances, ille se subducit, non
 cursu, sed placide. Ubi prodisset aeceptura pecuniam,
 vidit emptorem abire: insequitur maiore voce, quam
@@ -4981,11 +4989,11 @@ otiosi contemplantur, sed observant sollicite, si quid possint
 �-�-�-��� NEED
 LATIN READER 137
 involare. Atque in hoc genere reperiuntur quidam mire
-dextri; dicas esse Mercurio favente natos.  Convivator
+dextri; dicas esse Mercurio favente natos. Convivator
 dedit fabulam cum coronide; ego dabo cum prooemio.
 Nune aecipite, quod nuper accidit �ntverpiae. Sacrificus
 quidam receperat illic mediocrem summam pecuniae, sed
-argenteae. Id Batavus quidam animadverterat.  Adiit
+argenteae. Id Batavus quidam animadverterat. Adiit
 sacrificum, qui gestabat in zona crumenam nummis turgi-
 dam: salutat civiliter ; narrat, sibi datum negotium a suis,
 ut amico cuidam mercaretur novum pallium sacrum, quae
@@ -4997,12 +5005,12 @@ videri staturam ipsius cum illius magnitudine vehementer
 congruere. Hoc officium, quum leve videretur, facile polli-
 citus est sacrificus. Adeunt aedes cuiusdam. ^ Prolatum
 est pallium, sacrificus induit, venditor affirmat mire con-
-gruere.  DBatavus quum nunc a fronte, nunc a tergo con-
+gruere. DBatavus quum nunc a fronte, nunc a tergo con-
 templatus esset sacrificum, satis probavit pallium ; sed
 causatus est, a fronte brevius quam par esse. Ibi venditor,
 ne non procederet negotium, negat id esse pallii vitium,
 sed crumenam turgidam efficere, ut ea parte offenderet
-brevitas. Quid multa?  Sacrifious deponit crumenam:
+brevitas. Quid multa? Sacrifious deponit crumenam:
 denuo contemplantur. Ibi Batavus averso sacrifico cru-
 menam arripit, ac semet in pedes conicit. Sacerdos cursu
 insequitur ut erat palliatus, et sacrificum venditor. Sacri-
@@ -5025,9 +5033,9 @@ apud eum magna cum voluptate vescebatur rapis. Mox
 ubi Ludovicus restitutus iam rerum potiretur apud Gallos,
 submonuit Cononem uxor, ut regem veteris hospitii com-
 monefaceret; adiret illum, et rapas aliquot insignes illi
-dono afferret.  "Tergiversatus est Conon, se lusurum
+dono afferret. "Tergiversatus est Conon, se lusurum
 operam: principes enim non meminisse talia officia.
-Sed vicit uxor.  Deligit Conon rapas aliquot insignes;
+Sed vicit uxor. Deligit Conon rapas aliquot insignes;
 accingitur itineri. Verum ipse per viam captus illecebra
 cibi, paulatim devoravit omnes, una dumtaxat excepta in-
 signiter magna. � Ubi Conon prorepsisset in aulam, qua rex
@@ -5085,7 +5093,7 @@ proferre noctem ; id dispendii matutino somno pensamus.
 p�� �
 140 LATIN READER
 
-Ph. Mihi parsimonia videtur magis, quam  profusio.
+Ph. Mihi parsimonia videtur magis, quam profusio.
 Interim nec candelas absumo, nec vestes detero.
 
 JNe. Praepostera sane parsimonia, servare vitrum, ut per-
@@ -5287,7 +5295,7 @@ torrentis modo ; ''like a torrent."
 167. & triumviris Octavian, Antony, Lepidus were appointed to
 1 regulate public affairs, B.c. 48.
 dno
-�  �����
+� �����
 144 NOTES "
 173. Sexto ubi... patuit; ' when it was elear to Sextus."
 Tarquinius and his son Sextus were banished from Rome z.c. 509.
