@@ -1781,39 +1781,41 @@ sunt commixtae. A quo initio hominum vita posterorum
 haudquaquam discrepat.
 
 
-L 81. WnuICH 1$ THE OLDEST NATION! |
-] Ferunt Psammetichum regem Aegyptiorum, quum
+### 81. Which Is The Oldest Nation?
+
+Ferunt Psammetichum regem Aegyptiorum, quum
 quinam essent primi et antiquissimi homines reperire
 vellet, talia machinatum esse. Duos pueros nuper natos
 pastori tradidit, qui eos inter greges hoc modo aleret:
 praecipit, ut nemo coram illis ullam vocem ederet, ad quos
 iustis temporibus caprae adducerentur. Haec praecepit
 Psammetichus, ut cognosceret, quam vocem post obscuros
-infantium vagitus primam essent edituri ^ Postquam
+infantium vagitus primam essent edituri. Postquam
 autem duos annos mandatis obsecutus erat pastor, aperienti
-lanuam atque intranti ambo pueruli allabentes et manus
-- .porrigentes *becos" clamabant. Quod ubi ipse Psam-
- metichus cognoverat, eti sciscitando compererat apud
- Phrygas eo vocabulo panem significari, Phrygibus concessit
+ianuam atque intranti ambo pueruli allabentes et manus
+porrigentes "becos" clamabant. Quod ubi ipse Psammetichus
+cognoverat, et sciscitando compererat apud
+Phrygas eo vocabulo panem significari, Phrygibus concessit
 eos esse Aegyptiis antiquiores.
-82. A SCHOOLMASTER'S TRICK. B |
+
+
+### 82. A Schoolmaster's Trick.
+
 E plurimis pueris quis furtum commisisset, incertum
 erat. Nam, quum nescio quid cupediarum esset consumptum,
 erat omnibus manifestum unum alterumve delicto obnoxium
 esse. At, ne innocentes cum nocentibus in uno crimine
-eoniungeret, ludi magister hoc comparavit. Dixit opus
+coniungeret, ludi magister hoc comparavit. Dixit opus
 esse omnes per atrium caligine offusum deductos gallum
-manu mulcere: deinde eo, qui id facinus admisisset, mul-
-cente, gallum statim cantaturum esse. Qua re simulata,
-T� ���
-
-LATIN READER 4T
-ipse iussit galli pennas atro circumfundi pulvere, ut, puero-
-rum manus sordidae fierent. His comparatis pueri per
+manu mulcere: deinde eo, qui id facinus admisisset, mulcente,
+gallum statim cantaturum esse. Qua re simulata,
+ipse iussit galli pennas atro circumfundi pulvere, ut, puerorum
+manus sordidae fierent. His comparatis pueri per
 atrium deducti, pro, se quisque magistri iussu galli pennas
-mulsit, veritus ne forte id temporis gallus cantaret. 2 7
+mulsit, veritus ne forte id temporis gallus cantaret.
 
-" 83.
+
+### 83.
 
 Sed quum omnes per atrium ambulasse visi essent, neque
 ullo mulcente cantum edere gallus voluisset, pueri, ut
@@ -1827,93 +1829,98 @@ facinoris admissi conscium et veritum, ne gallus cantando
 ipsum reum declararet, in illud atrium non ivisse, poenas
 meritas persolvit.
 
-84. THE& ELEPHANT'S REVENGE. Q 1
+
+### 84. The Elephant's Revenge.
 
 Elephantum iure haberi inter Indos animal sagacissimum,
-hoe documentum memoriae traditum est. Mane praeter
+hoc documentum memoriae traditum est. Mane praeter
 tabernam sutrinam deducto elephanto malum quotidie aliudve
 pomum sutor ipse dare solebat. Sed accidit ut sutor, forte
-propter iniuriam nuper acceptam iratus, elephanti probos-
-cidi praetereuntis adeo non, ut solebat, pomum praeberet,
+propter iniuriam nuper acceptam iratus, elephanti proboscidi
+praetereuntis adeo non, ut solebat, pomum praeberet,
 ut subulam acutam offerret. Quo facto elephas magno
 dolore affectus, quum ad paludem pervenisset atque aqua
 turbida proboscidem complevisset, ad tabernam reversus
 supra sutoris caput aquam coenumque profusum demisit;
-scilicet, ut. demonstraret se, iniuriae haud immemorem,
-sutorem inhumanum ulcisci velle. ^- - I
-� MM.
-48 LATIN READER
-80. ANDROCLUS AND THE LION. |
+scilicet, ut demonstraret se, iniuriae haud immemorem,
+sutorem inhumanum ulcisci velle.
+
+
+### 85. Androclus And The Lion.
+
 In circo maximo amplissimae venationis apparatus
 populo Romano dabatur. Multae ibi apparebant ferae,
 magnitudine excellenti et ferocia inusitata: sed praeter
 alia omnia unus leo corporis impetu et fremitu terribili,
 toris comisque cervicum fluctuantibus, animos oculosque
 spectantium in se converterat. Ad pugnam bestiarum viri
-consularis servus, cui nomen Androclus fuit, inter com-
-plures ceteros introductus erat: hunc ubi ille leo procul
+consularis servus, cui nomen Androclus fuit, inter complures
+ceteros introductus erat: hunc ubi ille leo procul
 vidit, repente quasi admiratus stetit, ac deinde sensim
 atque placide ad hominem tanquam agnitum accessit: tum
 caudam more adulantium canum clementer et blande movet;
 deinde crura et manus prope iam metu exanimati leniter
-demulcet. ^ Androclus autem inter illa tam atrocis ferae
+demulcet. Androclus autem inter illa tam atrocis ferae
 blandimenta amissum animum receperat; paulatim oculos
 ad contuendum leonem refert.
-EE t7 � m i
-D. s M
+
+
+### 86.
+
 Tandem, postquam homo vitam priorem recordatus
 leonem laetus agnoverat, inter maximos populi clamores ad
-id exeitatos, a Caesare arcessitus Androclus interrogatusque
-eausam, eur ille leonum atrocissimus uni pepercisset, hanc
-rem mirificam narrasse fertur. ** Quum provinciam Africam
+id excitatos, a Caesare arcessitus Androclus interrogatusque
+causam, cur ille leonum atrocissimus uni pepercisset, hanc
+rem mirificam narrasse fertur. "Quum provinciam Africam
 proconsulari imperio meus dominus obtineret, ego ibi
 iniquis eius et quotidianis verberibus ad fugam coactus,
 ut mihi a domino, terrae illius praeside, tutiores latebrae
-forent, in camporum et arenarum solitudines concessi : ac si
+forent, in camporum et arenarum solitudines concessi: ac si
 defuisset cibus, consilium fuisset mortem aliquo pacto
 quaerere. Tum sole medio specum quandam nactus, in
-eam merecondo" � �
--� 0 MB
-V�� oos oii
-- LATIN READER 49
-8T. ,
+eam me recondo."
+
+
+### 87.
+
 Neque multo post ad eandem specum venit hic leo
-claudus uno et cruento pede, atque illic primo quidem con-
-spectu advenientis territum animum habeo. Sed postquam
+claudus uno et cruento pede, atque illic primo quidem conspectu
+advenientis territum animum habeo. Sed postquam
 ingressus leo, ut re ipsa apparuit, in suum latibulum me
 procul delitescentem vidit, mitis et mansuetus accessit ac
 sublatum pedem ostendere et porrigere quasi opis petendae
 gratia visus est. Ibi ego spinam ingentem, quae pedi
-inhaerebat, revellij conceptamque saniem vulnere intimo
-expressi, aceuratiusque sine magna iam formidine cruorem
-penitus siccavi atque detersi llle tunc mea opera levatus
+inhaerebat, revelli, conceptamque saniem vulnere intimo
+expressi, accuratiusque sine magna iam formidine cruorem
+penitus siccavi atque detersi. Ille tunc mea opera levatus
 pede in manibus meis posito recubuit et quievit: e quo die
 triennium totum ego et leo in eadem specu eodemque victu
 viximus. Namque earum, quas venabatur feras, membra
-sole meridiano tosta edebam. - . i
-� 88. r[
-Sed, ubi me vitae illius ferinae iam pertaesum est, leone |
+sole meridiano tosta edebam.
+
+
+### 88.
+
+Sed, ubi me vitae illius ferinae iam pertaesum est, leone
 in venatum profecto, specum reliqui: et viam ferme tridui
 permensus, a militibus visus apprehensusque sum, atque
 ad dominum ex Africa Romam sum deductus. Qui statim
 me rei capitalis damnandum dandumque bestiis curavit.
-Hunc quoque leonem a me tunc separatum atque ab homini-
-bus captum nunc etiam pro beneficiis gratiam mihi referre
-intelligo." � Quibus dictis, Androclus dimissus cunctis pe-
-tentibus poena solvitur et leone populi suffragiis donatur.
+Hunc quoque leonem a me tunc separatum atque ab hominibus
+captum nunc etiam pro beneficiis gratiam mihi referre
+intelligo." Quibus dictis, Androclus dimissus cunctis petentibus
+poena solvitur et leone populi suffragiis donatur.
 Postea ferunt Androclum et leonem loro tenui revinctum
 urbe tota circum tabernas ire; donari aere Androclum,
-floribus spargi leonem : omnes fere ubique obvios dicere
-* hie est leo hospes hominis, hic est homo medicus leonis.
-E
-� ��
-50 LATIN READER
-7" "7 -- C
-f 89. MYCERINUS PROVES THE ORACLE FALSE.
+floribus spargi leonem: omnes fere ubique obvios dicere
+'hic est leo hospes hominis, hic est homo medicus leonis.'
+
+
+### 89. Mycerinus Proves The Oracle False.
 
 Mycerino regi ex oppido Buto est allatum oraculum sex
 tantum annos eum victurum esse, septimo autem vitam
-finiturum. . Tum Mycerinus, qui. hoc aegrius ferebat,
+finiturum. Tum Mycerinus, qui hoc aegrius ferebat,
 dixisse traditur, se, qui deos coluerit, indigna et iniusta pati.
 Alterum igitur responsum editur eum certe moriturum
 esse. Quibus auditis, quum sententiam Deorum iam contra
@@ -1923,27 +1930,27 @@ nec die nec nocte ulla intermissis indulgebat. Per loca
 Aegypti amoena et nemorosa vagatus, hoc consilio utebatur,
 ut oraculum mendacii argueret; quippe qui, noctibus in
 dies conversis, non sex tantum annos sed duodecim victurus
-esset. .
+esset.
 
-90. EXAMPLE IS BETTER THAN PRECEPT. 4
-: Non dubium est quin Spartiatae fortitudinis et patientiae
+
+### 90. Example Is Better Than Precept.
+
+Non dubium est quin Spartiatae fortitudinis et patientiae
 exempla mira omnibus praebuerint. Neque tamen a ceteris
 Graecis amabantur, quod saepius se fastidio et superbia
 plenos praestare solebant: neque placebant Helotibus
-(quorum origo de incolis primo devictis deducta esse dici-
-tur) quippe qui multa et gravia perpessi sint. Quos si
+(quorum origo de incolis primo devictis deducta esse dicitur)
+quippe qui multa et gravia perpessi sint. Quos si
 ephori corpore et numero valentes viderant, eos secretis
 usi modis interficiebant: sin autem, quam ridiculus esset is
 qui ebrius est factus, pueris Spartiatis exhibere pater
 volebat, Heloti tantum vini offerre solitus est, ut mox
 ebrius in ludibrium incideret. Cui turpiter et indecenter
-se gerenti puerum obviam latum pater monebat: ** Noli, mi
+se gerenti puerum obviam latum pater monebat: "Noli, mi
 fili, ebrius fieri: si enim haec feceris, te in ludibrium inter
+sodales adduces."
 
-sodales adduces" � � ��. | |.
-Ino c 2
-� MM ���
-4 p LATIN READER PS
+
 91. SvLosoN's RED CroaK.
 
 N Syloson, ut Aegyptiorum regiones et mores exploraret,
