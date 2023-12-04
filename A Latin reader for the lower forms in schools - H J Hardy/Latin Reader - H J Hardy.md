@@ -216,6 +216,9 @@ faults the author is entirely responsible.
     - [88.](#88)
     - [89. Mycerinus Proves The Oracle False.](#89-mycerinus-proves-the-oracle-false)
     - [90. Example Is Better Than Precept.](#90-example-is-better-than-precept)
+    - [91. Syloson's Red Cloak.](#91-sylosons-red-cloak)
+    - [92.](#92)
+    - [93. AN ARTFUL �MPOSTOR.](#93-an-artful-mpostor)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -1961,15 +1964,15 @@ fili, ebrius fieri: si enim haec feceris, te in ludibrium inter
 sodales adduces."
 
 
-91. SvLosoN's RED CroaK.
+### 91. Syloson's Red Cloak.
 
-N Syloson, ut Aegyptiorum regiones et mores exploraret,
+Syloson, ut Aegyptiorum regiones et mores exploraret,
 e patria Samo eiectus, Memphide pallio indutus coccino
 in foro forte ambulabat: quem ubi conspexit Darius, qui in
-Cambysis exercitu tune stipendia merebat, adipiscendi
+Cambysis exercitu tunc stipendia merebat, adipiscendi
 pallium cupidus Sylosontem adiit ut mercaturus. Quem
 quum videret Syloson vehementer cupidum, casu secundo
-ait *Equidem hoc pallium nullo pretio vendere volo: at
+ait "Equidem hoc pallium nullo pretio vendere volo: at
 tibi id gratis do." Quo responso delectatus, pallium Darius
 libenter accipit: Syloson autem se propter nimiam animi
 benevolentiam pallium perdidisse existimat. Haud multo
@@ -1978,9 +1981,10 @@ potitus est. Syloson igitur, quum Susa ascendisset, in aedium
 regiarum vestibulo sedebat et praedicabat se de Dario bene
 meritum esse.
 
-92.
 
-u Quod ubi audiverat unus e satellitibus et regi nuntiaverat,
+### 92.
+
+Quod ubi audiverat unus e satellitibus et regi nuntiaverat,
 Darius secum colloquebatur : ** Quis tandem Graecus est qui
 bene de me meritus sit? Fac ut intro deducatur, ut sciam
 quid ille velit." Sylosontem a ianitore introductum atque
@@ -1993,10 +1997,9 @@ Darium collati. **Noli, inquit Syloson, * me auro et
 argento donare: patria enim mea Samos a tyranno est occu-
 pata: hane, quaeso, mihi da � caedibus et servitute libera-
 tam." Quae petita non recusat Darius: sed exercitum ad
-Samum liberandam statim mittit. ECL
-� C���
-52 LATIN READER
-] 93. AN ARTFUL �MPOSTOR.
+Samum liberandam statim mittit.
+
+### 93. AN ARTFUL �MPOSTOR.
 
 Astrologus mendax idemque impudens amicum, quem
 Ludovieus rex Gallorum praecipue diligebat, mox mori-
