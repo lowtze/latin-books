@@ -220,6 +220,9 @@ faults the author is entirely responsible.
     - [92.](#92)
     - [93. An Artful Impostor.](#93-an-artful-impostor)
     - [94. The Missing Link.](#94-the-missing-link)
+    - [95. Rhampsinitus’ Treasure-House.](#95-rhampsinitus-treasure-house)
+    - [96.](#96)
+    - [97.](#97)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2036,61 +2039,61 @@ Quae quum audiisset Democritus, pretium constitutum extemplo
 persolvit.
 
 
-95. RHAMPSINITUS' TREASURE-HOUSE
+### 95. Rhampsinitus’ Treasure-House.
 
 Rhampsinitus rex tantas opes tantamque argenti vim
 habuit, ut nemo inter posteros divitiis ei exaequari posset.
-Quae ut in tuto reponeret, conclave e lapidibus aedifican-
-dum curavit: cuius aedificii quum unus paries extrorsum
+Quae ut in tuto reponeret, conclave e lapidibus aedificandum
+curavit: cuius aedificii quum unus paries extrorsum
 spectaret, structor, cui opus mandatum erat, hoc machinatus
-est; elapidibus unum ita parare, ut e pariete a duobus vel
+est; e lapidibus unum ita parare, ut e pariete a duobus vel
 etiam ab uno homine facile eximi posset. Qui, interiecto
 tempore, quum prope vitae finem esset, duobus filiis ad se
-advocatis exposuit, quo pacto lapide illo extracto regiis opi-
-bus frui possent. Cui iam vita functo obsecuti, lapide noctu
-extracto, multum pecuniae identidem extulerunt. Rex au-
-tem, quum forte conclave aperuisset et pecuniam diminutam
+advocatis exposuit, quo pacto lapide illo extracto regiis opibus
+frui possent. Cui iam vita functo obsecuti, lapide noctu
+extracto, multum pecuniae identidem extulerunt. Rex autem,
+quum forte conclave aperuisset et pecuniam diminutam
 videret, miratus haerebat, quum signa ianuae impressa
 integra manerent.
 
-y 96.
+
+### 96.
 
 Laqueos ergo confici et circa vasa, in quibus inerat
-pecunia, collocari iussit. Deinde, ut antea, ventitant fures :
+pecunia, collocari iussit. Deinde, ut antea, ventitant fures:
 quorum unus quum irrepsisset et ad vasa accessisset, laqueo
 capitur. Idem fratri imperavit ut statim irreperet sibique
 caput abscideret, ne ille etiam secum esset male periturus.
 Alter autem, probato fratris consilio, caput abscisum abstulit
-et lapide reposito domum abiit. Ubi illuxit, rex obstupe-
-factus, cadavere muro urbis suspenso, custodibus imperavit
-ut, si quem deplorantem vidissent, prehensum ad se addu-
-
-erent, Interea tam graviter ferebat furis mater filii alterius
-
+et lapide reposito domum abiit. Ubi illuxit, rex obstupefactus,
+cadavere muro urbis suspenso, custodibus imperavit
+ut, si quem deplorantem vidissent, prehensum ad se adducerent.
+Interea tam graviter ferebat furis mater filii alterius
 cadaver indigna pati, ut filio superstiti imperaret ut cadaver
-
 fratris recuperatum domum afferret; quod si perficere
-
 nollet, regem se adituram atque eum, ut ilius pecuniae
-2 spoliatorem, delaturam minabatur.
-EE �O��X���
-54 � LATIN READER pDA�
-97. .
-7 Asinos igitur utribus vino plenis instructos per viam
+spoliatorem, delaturam minabatur.
+
+
+### 97. 
+Asinos igitur utribus vino plenis instructos per viam
 publicam agitabat; quum prope locum, ubi erant custodes
-cadaveris, venisset, utres clam solvit et vino effluente in-
-gentem edidit clamorem: custodes autem, quum vinum
+cadaveris, venisset, utres clam solvit et vino effluente ingentem
+edidit clamorem: custodes autem, quum vinum
 effusum viderent et avide colligerent, dum vehementer se
 iratum simulat, maledictis lacerabat. Deinde, quum unus
 e custodibus facete esset cavillatus, donum iis unum ex
 utribus dedit: custodes autem quum id libenter accepissent
-atque eum manu prehensum ut secum maneret im-
-petrassent, potandi causa discumbebant: tandem tanta usi
+atque eum manu prehensum ut secum maneret impetrassent,
+potandi causa discumbebant: tandem tanta usi
 sunt potione, ut vino mersi somnoque oppressi eodem loco,
-ubi potaverant, obdormiverint. 'Tum demum nocte iam
-multum progressa, custodum: dextras genas in contumeliam
+ubi potaverant, obdormiverint. Tum demum nocte iam
+multum progressa, custodum dextras genas in contumeliam
 rasit et cadaver fratris solutum asinisque impositum domum
 incolumis retulit.
+
+
+
 : 98. THE INTELLIGENT �SSs.
 
 Thebanus quidam, qui Athenas nuper venerat, ad
