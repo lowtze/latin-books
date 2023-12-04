@@ -223,6 +223,7 @@ faults the author is entirely responsible.
     - [95. Rhampsinitus’ Treasure-House.](#95-rhampsinitus-treasure-house)
     - [96.](#96)
     - [97.](#97)
+    - [98. The Intelligent Ass.](#98-the-intelligent-ass)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2093,27 +2094,23 @@ rasit et cadaver fratris solutum asinisque impositum domum
 incolumis retulit.
 
 
-
-: 98. THE INTELLIGENT �SSs.
+### 98. The Intelligent Ass.
 
 Thebanus quidam, qui Athenas nuper venerat, ad
 cenam ab hospite invitatus asinum conducendum curaverat,
-ub propositum iter satis maturaret. Asinus autem, quem,
+ut propositum iter satis maturaret. Asinus autem, quem,
 ut sibi auxilio esset, comparavit, inimicos et malignos
 mores mox exhibebat: namque Thebanum artis equitandi
-minime peritum excutere conatus, saepe constitit Hoc
+minime peritum excutere conatus, saepe constitit. Hoc
 modo in via progressus maximos spectantium risus
 Thebanus movebat: inter quos ut eum vidit qui asinum
 elocaverat, vehementi ira incensus magna voce clamavit,
-* Heus tu, scelus, nonne vides quanta sit istius asini malig-
-nitasi" Cui respondit ille * At tu nostrorum asinorum
+"Heus tu, scelus, nonne vides quanta sit istius asini malignitas?"
+Cui respondit ille "At tu nostrorum asinorum
 mores non intelligis; hic enim, quum te peregrinum esse
-cognosset, saepe constitit, ut templa aliaque aedificia per-
-scrutari posses."
+cognosset, saepe constitit, ut templa aliaque aedificia perscrutari posses."
 
-� B
-li n MER E adimi
-! LATIN READER 55
+
 B 99. A VALUABLE CROW. E
 Augusto post �ctiacam victoriam Romam reverso inter
 gratulantes occurrit opifex quidam cum corvo, quem in-
