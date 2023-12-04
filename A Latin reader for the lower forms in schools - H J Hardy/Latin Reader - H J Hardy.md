@@ -224,6 +224,7 @@ faults the author is entirely responsible.
     - [96.](#96)
     - [97.](#97)
     - [98. The Intelligent Ass.](#98-the-intelligent-ass)
+  - [99. A Valuable Crow.](#99-a-valuable-crow)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2111,22 +2112,25 @@ mores non intelligis; hic enim, quum te peregrinum esse
 cognosset, saepe constitit, ut templa aliaque aedificia perscrutari posses."
 
 
-B 99. A VALUABLE CROW. E
-Augusto post �ctiacam victoriam Romam reverso inter
-gratulantes occurrit opifex quidam cum corvo, quem in-
-stituerat ad hoc dicendum, ** Ave, Caesar, victor Imperator."
+## 99. A Valuable Crow.
+
+Augusto post Actiacam victoriam Romam reverso inter
+gratulantes occurrit opifex quidam cum corvo, quem instituerat
+ad hoc dicendum, "Ave, Caesar, victor Imperator."
 Quam avem officiosam miratus Caesar viginti millibus
 nummorum emit: neque picam neque psittacum eadem
 locutos emere noluit. Haec autem sutorem quendam
-pauperem excitavere, ut alium corvum ad parem saluta-
-tionem institueret: qui impendiis exhaustus, quotiens avem
-non respondentem obiurgabat, dicebat **opera et impensa
-periit. Quum iam corvus salutationem dictatam dicere
-coepisset et Augustus respondisset **Satis domi saluta-
-torum talium habeo," adeo subvenit corvo memoria, ut et
+pauperem excitavere, ut alium corvum ad parem salutationem
+institueret: qui impendiis exhaustus, quotiens avem
+non respondentem obiurgabat, dicebat "opera et impensa
+periit." Quum iam corvus salutationem dictatam dicere
+coepisset et Augustus respondisset "Satis domi salutatorum
+talium habeo," adeo subvenit corvo memoria, ut et
 illa, quae dominum querentem audire solebat, subtexeret,
-* opera et impensa periit." 'Tum Caesar arrisit, avemque
+"opera et impensa periit." Tum Caesar arrisit, avemque
 tanti emit quanti nullam adhuc emerat.
+
+
 u " 100. Tug SERVANT AND THE FISH. � D
 Celer homo dicax et lepidus omnes in cavillando longe
 superare existimabatur: accidit autem ut etiam Celer a
