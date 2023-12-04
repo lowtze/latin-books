@@ -219,6 +219,7 @@ faults the author is entirely responsible.
     - [91. Syloson's Red Cloak.](#91-sylosons-red-cloak)
     - [92.](#92)
     - [93. An Artful Impostor.](#93-an-artful-impostor)
+    - [94. The Missing Link.](#94-the-missing-link)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2017,26 +2018,25 @@ facere, ne astrologo palatium incolenti victus neu cetera
 commoda deessent.
 
 
-94. THE MissiNG LINKE. E q
-? Inter Athenienses Democritus quidam pusillo erat cor-
-pore et deformato, maximas tamen divitias consecutus erat.
+### 94. The Missing Link.
+
+Inter Athenienses Democritus quidam pusillo erat corpore
+et deformato, maximas tamen divitias consecutus erat.
 Hic autem, quum imaginem suam pingendam curavisset, et
 picturam iam confectam attulisset pictor, avaram mentem
-exhibuit. Cui minorem quam quae constituta erat pecu-
-niam praebuit, idque aegre ferenti respondit, * Ni hanc
+exhibuit. Cui minorem quam quae constituta erat pecuniam
+praebuit, idque aegre ferenti respondit, "Ni hanc
 pecuniam acceperis, ista pictura nullum tibi commodum
-consequetur." *At tu erras; hanc enim maioris pretii, si
-tu reieceris, facile vendam." **Dic mihi, quemadmodum id
-facturus sis: iste enim vultus mihi neque ulli alii consi-
-milis est." * Haec sunt vera: sin autem caudam corpori
+consequetur." "At tu erras; hanc enim maioris pretii, si
+tu reieceris, facile vendam." "Dic mihi, quemadmodum id
+facturus sis: iste enim vultus mihi neque ulli alii consimilis
+est." "Haec sunt vera: sin autem caudam corpori
 adiecero, simiae imago non hominis omnibus videbitur."
-Quae quum audiisset Democritus, pretium constitutum ex-
+Quae quum audiisset Democritus, pretium constitutum extemplo
+persolvit.
 
-templo persolvit. � 2 "P
-na -� 4
-"��MM�� ���
-W p � LATIN READER M 93
-N 95. RHAMPSINITUS' TREASURE-HOUSE
+
+95. RHAMPSINITUS' TREASURE-HOUSE
 
 Rhampsinitus rex tantas opes tantamque argenti vim
 habuit, ut nemo inter posteros divitiis ei exaequari posset.
