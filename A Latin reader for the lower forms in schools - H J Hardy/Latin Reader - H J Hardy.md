@@ -1985,19 +1985,20 @@ meritum esse.
 ### 92.
 
 Quod ubi audiverat unus e satellitibus et regi nuntiaverat,
-Darius secum colloquebatur : ** Quis tandem Graecus est qui
+Darius secum colloquebatur: "Quis tandem Graecus est qui
 bene de me meritus sit? Fac ut intro deducatur, ut sciam
 quid ille velit." Sylosontem a ianitore introductum atque
 in medio stantem interpretes interrogant, quis sit, quove
 facto bene de rege meritum esse dicat. Cui, tota re exposita,
-respondit rex ** Tu ergo ille es, qui mihi nullam potestatem
+respondit rex "Tu ergo ille es, qui mihi nullam potestatem
 habenti donum dedisti. Pro quo ingens auri argentique
 pondus tibi reddo, ne te unquam poeniteat beneficii in
-Darium collati. **Noli, inquit Syloson, * me auro et
-argento donare: patria enim mea Samos a tyranno est occu-
-pata: hane, quaeso, mihi da � caedibus et servitute libera-
-tam." Quae petita non recusat Darius: sed exercitum ad
+Darium collati. "Noli," inquit Syloson, "me auro et
+argento donare: patria enim mea Samos a tyranno est occupata:
+hanc, quaeso, mihi da a caedibus et servitute liberatam."
+Quae petita non recusat Darius: sed exercitum ad
 Samum liberandam statim mittit.
+
 
 ### 93. AN ARTFUL �MPOSTOR.
 
