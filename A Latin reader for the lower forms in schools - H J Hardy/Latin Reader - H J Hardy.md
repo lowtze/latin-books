@@ -225,6 +225,8 @@ faults the author is entirely responsible.
     - [97.](#97)
     - [98. The Intelligent Ass.](#98-the-intelligent-ass)
   - [99. A Valuable Crow.](#99-a-valuable-crow)
+    - [100. The Servant And The Fish.](#100-the-servant-and-the-fish)
+    - [101.](#101)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2131,7 +2133,8 @@ illa, quae dominum querentem audire solebat, subtexeret,
 tanti emit quanti nullam adhuc emerat.
 
 
-u " 100. Tug SERVANT AND THE FISH. � D
+### 100. The Servant And The Fish.
+
 Celer homo dicax et lepidus omnes in cavillando longe
 superare existimabatur: accidit autem ut etiam Celer a
 servo quodam homine non insulso devinceretur. Hic enim
@@ -2140,31 +2143,30 @@ solebat: itaque piscibus, quos identidem dominus ad
 Celerem mittebat, ad incultum et agrestem morem deiectis
 in mensam, statim domum abiit. Quae quum ita fuerint,
 Celer iratus semel ostendere voluit, quemadmodum piscis,
-quem dominus illius misisset, in mensam esset deponendus,
-Idcireo exemplum praestare constituit, quo usus servus
+quem dominus illius misisset, in mensam esset deponendus.
+Idcirco exemplum praestare constituit, quo usus servus
 piscem in postremum decenter offerret. Itaque servum,
 pisce ut mos erat deiecto, domum digressurum Celer
-monuit, ut ea, quae 1pse docere vellet, disceret. 2 i
-MEME l���
-56 LATIN READER
-p
-^
-d 101. m
+monuit, ut ea, quae ipse docere vellet, disceret.
 
-Ad hoc perficiendum Celer servi partes acturus calathum,.
+
+### 101.
+
+Ad hoc perficiendum Celer servi partes acturus calathum,
 in quo erat piscis, sustulit: servus autem in loco Celeris
-in triclinio reclinabat. **Salve," inquit Celer: *Di tibi
+in triclinio reclinabat. "Salve," inquit Celer: "Di tibi
 sint fausti: imperabat mihi dominus ut hunc piscem tibi
 apportarem et te bene valere iuberem." Haec locutus
 piscem in mensam sollicitus deposuit: servus autem vafro
 consilio adhibito hoc quoque Celerem docere constituit.
-* Heus tu," respondit: *fac ut gratias maximas tuo domino
+"Heus tu," respondit: "fac ut gratias maximas tuo domino
 pro me agas et ipse hanc mercedem accipias." Celeri enim
-quinquaginta nummos dat. taque cum Celer servum,
+quinquaginta nummos dat. Itaque cum Celer servum,
 quomodo decenter piscem offerre posset, docebat, tum
-invicem servus, quomodo Celer se munificum posset prae-
+invicem servus, quomodo Celer se munificum posset praestare,
+demonstrabat.
 
-stare, demonstrabat. m A �
+
 102. SCYTHIAN PRESENTS. :
 : Persae, qui sub duce Dario fines Scytharum invaserant,
 magna incommoda passi tandem redire volebant; at, quo
