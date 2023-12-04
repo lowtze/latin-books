@@ -218,7 +218,7 @@ faults the author is entirely responsible.
     - [90. Example Is Better Than Precept.](#90-example-is-better-than-precept)
     - [91. Syloson's Red Cloak.](#91-sylosons-red-cloak)
     - [92.](#92)
-    - [93. AN ARTFUL �MPOSTOR.](#93-an-artful-mpostor)
+    - [93. An Artful Impostor.](#93-an-artful-impostor)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2000,21 +2000,22 @@ Quae petita non recusat Darius: sed exercitum ad
 Samum liberandam statim mittit.
 
 
-### 93. AN ARTFUL �MPOSTOR.
+### 93. An Artful Impostor.
 
 Astrologus mendax idemque impudens amicum, quem
-Ludovieus rex Gallorum praecipue diligebat, mox mori-
-turum esse palam praedicabat. Haud multo post accidit ut
+Ludovicus rex Gallorum praecipue diligebat, mox moriturum
+esse palam praedicabat. Haud multo post accidit ut
 ille amicus morbo sit consumptus: quod quum audiisset
 rex, sine mora servis imperavit ut astrologum arcesserent.
-Quum is apud regem praesto esset, *quando tu," inquit
-Ludovicus, *qui te res venturas praedicere posse simulas,
+Quum is apud regem praesto esset, "quando tu," inquit
+Ludovicus, "qui te res venturas praedicere posse simulas,
 diem supremum obibis?" Astrologus autem, quum, quo in
 periculo esset, intelligeret neque tamen vocem neque animum
-demitteret, respondit, * Tertio ante die quam ipse moriere."
+demitteret, respondit, "Tertio ante die quam ipse moriere."
 Quo responso perterritus rex servos iussit summam curam
 facere, ne astrologo palatium incolenti victus neu cetera
 commoda deessent.
+
 
 94. THE MissiNG LINKE. E q
 ? Inter Athenienses Democritus quidam pusillo erat cor-
