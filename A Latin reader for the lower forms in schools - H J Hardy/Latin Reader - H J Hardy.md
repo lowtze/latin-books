@@ -224,7 +224,7 @@ faults the author is entirely responsible.
     - [96.](#96)
     - [97.](#97)
     - [98. The Intelligent Ass.](#98-the-intelligent-ass)
-  - [99. A Valuable Crow.](#99-a-valuable-crow)
+    - [99. A Valuable Crow.](#99-a-valuable-crow)
     - [100. The Servant And The Fish.](#100-the-servant-and-the-fish)
     - [101.](#101)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
@@ -2114,7 +2114,7 @@ mores non intelligis; hic enim, quum te peregrinum esse
 cognosset, saepe constitit, ut templa aliaque aedificia perscrutari posses."
 
 
-## 99. A Valuable Crow.
+### 99. A Valuable Crow.
 
 Augusto post Actiacam victoriam Romam reverso inter
 gratulantes occurrit opifex quidam cum corvo, quem instituerat
