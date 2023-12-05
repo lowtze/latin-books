@@ -229,6 +229,8 @@ faults the author is entirely responsible.
     - [101.](#101)
     - [102. Scythian Presents.](#102-scythian-presents)
     - [103.](#103)
+    - [104. A Bet.](#104-a-bet)
+    - [105.](#105)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2205,44 +2207,41 @@ Ita accidit ut Gobryae verba ab iis, quae postea evenerunt,
 haud discreparent.
 
 
-104. A BET. . �� tdi �
-Diseipulus quum Xanthum philosophum . ebrium. et
-temulentum esse videret, * O praeceptor," inquit, *num
+### 104. A Bet.
+
+Discipulus quum Xanthum philosophum ebrium et
+temulentum esse videret, "O praeceptor," inquit, "num
 quis mare ebibere potest!" "Immo vero," respondit
-Xanthus, *ego enim hoc ipse ebibere possum: at si
+Xanthus, "ego enim hoc ipse ebibere possum: at si
 non potuero, totam meam domum tibi tradam." Itaque
 depositis anulis, ut pactum confirmarent, discesserunt.
 Postridie Xantho interroganti, ubi esset annulus, respondit
 servus Aesopus eum heri ebrium mare ebibere posse
 gloriatum esse, et in pacto annulum eius deposuisse.
-* At te nunc oro, ut praesto sis et opem porrigas, ut aut
-vincam aut pacta dissolvam." ** Vincere quidem haud tibi
+"At te nunc oro, ut praesto sis et opem porrigas, ut aut
+vincam aut pacta dissolvam." "Vincere quidem haud tibi
 licet, sed, ut pacta solvas, ipse efficiam. Cum hodie rursus
 in unum convenerint amici, ne tuo proposito destiteris,
 neve ea, quae facere volebas ebrius, te sobrium facere nolle
+dixeris."
 
-dixeris." m 22 ,
 
-! E
-� (��
-58 LATIN READER
-�-- � C
-EF 2m
-^ 105.
+### 105.
 
 Igitur iussit lectos et mensam in litore poni et pueros
 ad aquam marinam porrigendam cum poculis paratos.
 Cum autem Xanthus omnem turbam ad spectaculum
-coneurrisse vidisset, ipse discumbens e mari poculum
+concurrisse vidisset, ipse discumbens e mari poculum
 impleri iussit: quo accepto, omnibus audientibus rogavit
-* Quaenam foedera apud vos inivi?" Ei respondit unus ex
-amicis, Tu mare ebibere posse gloriatus es." Quibus
-dictis Xanthus ad populum conversus, *Viri Samii" in-
-quit, ** vos scitis, quot et quanti fluvii in mare perrumpant :
+"Quaenam foedera apud vos inivi?" Ei respondit unus ex
+amicis, "Tu mare ebibere posse gloriatus es." Quibus
+dictis Xanthus ad populum conversus, "Viri Samii" inquit,
+"vos scitis, quot et quanti fluvii in mare perrumpant:
 ego autem fore ut mare solum ebiberem pollicitus sum.
 Hic igitur prius flumina omnia coerceat, deinde statim
 mare solum ebibam." Quum haec Xanthus dixisset, amicus
 vietum se confessus, eum obsecravit ut pacta dissolveret.
+
 
 1 a 106. PoLvcRATES AND His RiNGc. | ]
 K Polyeratis, tyranni Samii, ita res auctae sunt, ut per
