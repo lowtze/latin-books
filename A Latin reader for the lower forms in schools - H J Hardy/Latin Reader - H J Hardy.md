@@ -227,6 +227,8 @@ faults the author is entirely responsible.
     - [99. A Valuable Crow.](#99-a-valuable-crow)
     - [100. The Servant And The Fish.](#100-the-servant-and-the-fish)
     - [101.](#101)
+    - [102. Scythian Presents.](#102-scythian-presents)
+    - [103.](#103)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2167,25 +2169,27 @@ invicem servus, quomodo Celer se munificum posset praestare,
 demonstrabat.
 
 
-102. SCYTHIAN PRESENTS. :
-: Persae, qui sub duce Dario fines Scytharum invaserant,
+### 102. Scythian Presents.
+
+Persae, qui sub duce Dario fines Scytharum invaserant,
 magna incommoda passi tandem redire volebant; at, quo
 diutius in Scythia manerent et penuria rerum omnium
-premerentur, pecoribus nonnullis. cum pastoribus relictis,
+premerentur, pecoribus nonnullis cum pastoribus relictis,
 Scythae in alium locum paulatim se recipiebant. Persae
-quidem, quoties impetum facerent, pecoribus captis exsulta-
-bant. Quum autem id saepius fieret, ad extremum Darius,
+quidem, quoties impetum facerent, pecoribus captis exsultabant.
+Quum autem id saepius fieret, ad extremum Darius,
 quid consilii caperet, incertus haerebat. Quod ubi
-Seytharum reges animadverterant, praeconem ad eum
+Scytharum reges animadverterant, praeconem ad eum
 miserunt, qui dona avem et murem et ranam et quinque
-sagittas ferret. ^ laec adferentem dona interrogaverunt
+sagittas ferret. Haec adferentem dona interrogaverunt
 Persae, quid esset mittentium consilium. Ille respondit
 nihil aliud sibi mandatum fuisse nisi ut, illis datis, quam
-m GG -���
-pe LATIN READER 0 57
-103.
+primum abiret.
 
-P Deinde, dum inter se colloquuntur Persae, abiturus
+
+### 103.
+
+Deinde, dum inter se colloquuntur Persae, abiturus
 nuntius monuit ipsos, si sapientes essent, quidnam ista dona
 significarent, facile cognituros. Darii autem regis sententia
 erat Scythas sese et terram et aquam ipsi tradere: id inde
@@ -2193,12 +2197,13 @@ colligebat, quod mus in terra viveret, rana vero aquam
 habitaret, avis autem similis esset equo, denique tela quasi
 dediti imperii signum esset. Cui opposita erat sententia
 Gobryae, militis inter primos egregii, qui diverso usus
-consilio ad hunc modum rem explicare voluit. **Nisi aves
-facti, O Persae, in caelum evolaveritis, aut in mures con-
-versi terram subieritis, aut ut ranae in paludem insilueritis,
-salvi hine non revertemini, sed sagittis confixi moriemini."
+consilio ad hunc modum rem explicare voluit. "Nisi aves
+facti, O Persae, in caelum evolaveritis, aut in mures conversi
+terram subieritis, aut ut ranae in paludem insilueritis,
+salvi hinc non revertemini, sed sagittis confixi moriemini."
 Ita accidit ut Gobryae verba ab iis, quae postea evenerunt,
 haud discreparent.
+
 
 104. A BET. . �� tdi �
 Diseipulus quum Xanthum philosophum . ebrium. et
