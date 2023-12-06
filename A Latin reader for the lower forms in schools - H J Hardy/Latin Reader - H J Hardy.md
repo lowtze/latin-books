@@ -231,6 +231,9 @@ faults the author is entirely responsible.
     - [103.](#103)
     - [104. A Bet.](#104-a-bet)
     - [105.](#105)
+    - [106. Polycrates And His Ring.](#106-polycrates-and-his-ring)
+    - [107.](#107)
+    - [108. Blowing Hot And Cold.](#108-blowing-hot-and-cold)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2243,59 +2246,57 @@ mare solum ebibam." Quum haec Xanthus dixisset, amicus
 vietum se confessus, eum obsecravit ut pacta dissolveret.
 
 
-1 a 106. PoLvcRATES AND His RiNGc. | ]
-K Polyeratis, tyranni Samii, ita res auctae sunt, ut per
+### 106. Polycrates And His Ring.
+
+Polycratis, tyranni Samii, ita res auctae sunt, ut per
 universam Graeciam gloriam maximam consequeretur. At
 Amasin regem amicum non latebat, quam secundae res
-Polyeratis essent; qui veritus, ne ei ingenti uso felicitate
+Polycratis essent; qui veritus, ne ei ingenti uso felicitate
 adversam fortunam Di invidi inferrent, eum admonuit ut,
 quodcunque ei maximi esset pretii id abiceret; quo facto
-Deorum invidos animos placaturus esset. Is igitur, post-
-quam anulum e smaragdo lapide auro devinctum delegerat
+Deorum invidos animos placaturus esset. Is igitur, postquam
+anulum e smaragdo lapide auro devinctum delegerat
+et navem ipse conscenderat, nautas in altum navigare iussit:
+quum procul ab insula abessent, annulum de manu detractum
+cunctis conspicientibus in mare proiecit. Piscator
+autem, quum ingentem pulchrumque piscem cepisset, Polycrati
+eum voluit dono dare: itaque in regia illo oblato ait
+se velle in Polycratis conspectum venire.
 
-et navem ipse conscenderat, nautas in altum navigare iussit :
-quum procul ab insula abessent, annulum de manu de-
-tractum cunctis conspicientibus in mare proiecit. Piscator
-autem, quum ingentem pulchrumque piscem cepisset, Poly-
-crati eum voluit dono dare: itaque in regia illo oblato ait
 
-se velle in Polycratis conspectum venire. i
+### 107.
 
-EM -
-pu� n
-LATIN READER 59
-Pp
-]
-
-Tandem pisce deposito dixit: *I�une piscem, o rex,
+Tandem pisce deposito dixit: "Hunc piscem, o rex,
 postquam ego ceperam, non iudicavi in forum rerum
-venalium esse ferendum ; sed quamvis sim homo pauper
+venalium esse ferendum; sed quamvis sim homo pauper
 et manu mea victum quaeram, te tuoque imperio haud
 indignum eum affero. His verbis delectatus Polycrates in
 hunc modum respondit: "Recte fecisti; duplicem tibi
 orationis et doni causa gratiam reddo: te igitur ad cenam
 invitamus." Piscator domum abiit laetus: famuli vero
-dum piscem concidunt, in ventre repositum anulum Poly-
-cratis reperiunt. Quem ut viderunt, protinus correptum,
-animis gaudio perfusis, ad Polycratem deferunt, nuntiant-
-que quo paeto sit repertus. 'Tum rex, cuius in mentem
+dum piscem concidunt, in ventre repositum anulum Polycratis
+reperiunt. Quem ut viderunt, protinus correptum,
+animis gaudio perfusis, ad Polycratem deferunt, nuntiantque
+quo pacto sit repertus. Tum rex, cuius in mentem
 venit rem esse divinam, ne male vitam esset finiturus,
 verebatur. Quod quidem postea accidit.
 
-1 qe" BrLowiwe Hor AND Corp. - b
+
+### 108. Blowing Hot And Cold.
 
 Homo quidam cum Satyro amicitiam habuit. Apud
-quem quum edendi eausa homo sederet, exorta coeli tem-
-pestate, manus ad os admotas anhelitu refovere conabatur.
-At Satyro id intuenti et roganti, quamobrem faceret, re-
-spondit id facere, ut manus frigidas calefaceret. Deinde
+quem quum edendi causa homo sederet, exorta coeli tempestate,
+manus ad os admotas anhelitu refovere conabatur.
+At Satyro id intuenti et roganti, quamobrem faceret, respondit
+id facere, ut manus frigidas calefaceret. Deinde
 ubi, exstructo foco, apposita mensa, in fervidam pultem
 inflabat, magis etiam admiratus Satyrus sciscitatus est
-quid vellet. ** Ut pultem," inquit ille, * nimium ferventem
-halitu refrigerem." Tune Satyrus, dum a mensa surgit,
-*Quid audio?" inquit, * Tune eodem ex ore pariter et
-calidum et frigidum halitum emittere potes! Vale: neque
-enim tecum posthac amicitiam exercebo." m
+quid vellet. "Ut pultem," inquit ille, "nimium ferventem
+halitu refrigerem." Tunc Satyrus, dum a mensa surgit,
+"Quid audio?" inquit, "Tune eodem ex ore pariter et
+calidum et frigidum halitum emittere potes? Vale: neque
+enim tecum posthac amicitiam exercebo."
+
 
 -
 1.  Two SrpEs To EvERY QUESTION. Y
