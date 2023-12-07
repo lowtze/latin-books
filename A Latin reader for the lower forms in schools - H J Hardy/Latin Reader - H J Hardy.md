@@ -241,6 +241,8 @@ faults the author is entirely responsible.
     - [113. Story Of An Early Saint.](#113-story-of-an-early-saint)
     - [114.](#114)
     - [115.](#115)
+    - [116. The Fate Of Lampsacus.](#116-the-fate-of-lampsacus)
+    - [117. The Deaths Of Aeschylus, Euripides, Sophocles.](#117-the-deaths-of-aeschylus-euripides-sophocles)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2425,37 +2427,40 @@ modo distinguere potuerat, capita invicem mutata candido
 spadix, spadici candidum forte reposuit.
 
 
-E 116. Tug FATE OF LAMPSACUS.
+### 116. The Fate Of Lampsacus.
 
-v Ad vafrum consilium Anaximenis, qui in omni dicendi
+Ad vafrum consilium Anaximenis, qui in omni dicendi
 ratione clarissimus erat, urbis Lampsaci salus est referenda.
 Nam cum ad excidium urbis summo studio Alexander
-ferretur, progressumque extra moenia �naximenem prae-
-ceptorem suum vidisset, quia manifestum erat futurum ut
-preces suas irae eius opponeret et ad dissuadendum D
+ferretur, progressumque extra moenia Anaximenem praeceptorem
+suum vidisset, quia manifestum erat futurum ut
+preces suas irae eius opponeret et ad dissuadendum ore
 eloquenti usurus esset, id se non facturum, quod petiturus
 esset, rex iuravit. "Tunc Anaximenes tam acrem exhibuit
-sagacitatem, ut Alexandri etiam ingenium vinceret: extem-
-plo enim respondit: * Peto ut Lampsacum diruas." His
-dictis rex obstrietus iureiurando et Anaximenis voluntati
+sagacitatem, ut Alexandri etiam ingenium vinceret: extemplo
+enim respondit: "Peto ut Lampsacum diruas." His
+dictis rex obstrictus iureiurando et Anaximenis voluntati
 obsecutus, urbem vetusta mobilitate inclitam exitio, cui
-destinata erat, subtraxit. - | ] |
-"Fr j�
-64 T LATIN READER
-117. THE DEATHS or AESCHYLUS, EuRiPIDES, SOPHOCLES.
+destinata erat, subtraxit.
+
+
+### 117. The Deaths Of Aeschylus, Euripides, Sophocles.
+
 Poetarum tragicorum quantum inter se distarent mortes,
 cognoscere operae pretium est. Moenibus Gelae urbis, in
-qua morabatur, �eschylus egressus aprico in loco resedit.
+qua morabatur, Aeschylus egressus aprico in loco resedit.
 Super quem aquila, quae testudinem ferebat, splendore
 capitis (erat enim calvum) elusa, ei perinde ac lapidi onus
 illisit, ut carne vesceretur. Quo occisus ictu extemplo
-Aeschylus est mortuus: Euripidis autem aliquanto atro-
-ciorem finem passus est. Dum enim ab Archelai Macedonis
+Aeschylus est mortuus: Euripidis autem aliquanto atrociorem
+finem passus est. Dum enim ab Archelai Macedonis
 cena domum repetit, canum morsibus laniatus obiit.
 Sophocles vero extremae iam senectutis, cum in certamine
-fabulam docuisset, ancipiti sententiarum eventu diu solli-
-citus, denique tamen una sententia victor, causam mortis
-gaudium habuit. Lad n - 1
+fabulam docuisset, ancipiti sententiarum eventu diu sollicitus,
+denique tamen una sententia victor, causam mortis
+gaudium habuit.
+
+
 . 118. A piFFICULT CASE.
 Protagoras sophista acerrimus cum Evathlo discipulo
  simultatem gessit: super pacta mercede inter eos haec lis
