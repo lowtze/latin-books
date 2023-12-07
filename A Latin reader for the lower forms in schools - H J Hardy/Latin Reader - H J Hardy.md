@@ -73,7 +73,7 @@ of Erasmus. It is suggested that they should be
 used for unseen translation either *viva voce* or on
 paper, and it is hoped that they may be of value in
 bringing before the minds of those who use them the
-language as & living vehicle of thought: the facility
+language as a living vehicle of thought: the facility
 of expression and sprightliness of manner will compensate
 for the slight deviations from strictly classical
 style.
