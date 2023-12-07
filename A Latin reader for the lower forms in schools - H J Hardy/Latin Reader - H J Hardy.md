@@ -237,6 +237,10 @@ faults the author is entirely responsible.
     - [109. Two Sides To Every Question.](#109-two-sides-to-every-question)
     - [110. Alcmaeon And The Gold.](#110-alcmaeon-and-the-gold)
     - [111. Whose Is The Shadow?](#111-whose-is-the-shadow)
+    - [112. Persian Justice.](#112-persian-justice)
+    - [113. Story Of An Early Saint.](#113-story-of-an-early-saint)
+    - [114.](#114)
+    - [115.](#115)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2354,72 +2358,72 @@ ille autem se cum asino umbram conduxisse. At dum
 rixantur, asinus aufugit; quo facto neuter umbra potitur.
 
 
-mE 112. PERSIAN JUSTICE. 0 E
+### 112. Persian Justice. 
+
 Xerxes, in proelio apud Salamina commisso devictus, in
-Asiam mare transmittebat. 'Tum, quum magis fureret tem-
-pestas et nimis onerata esset navis, magno Persarum numero
+Asiam mare transmittebat. Tum, quum magis fureret tempestas
+ et nimis onerata esset navis, magno Persarum numero
 invecto, rex timore perculsus e gubernatore quaesivit, ecqua
 salutis esset spes. Cui gubernator respondit non aliam esse
 spem, nisi de numero multorum hominum in nave vectorum
-pars amoveretur. * Viri Persae," inquit Xerxes, * ecquis
-regem esse sibi curae ostendere vult! namque in vobis mea
+pars amoveretur. "Viri Persae," inquit Xerxes, "ecquis
+regem esse sibi curae ostendere vult? namque in vobis mea
 salus posita esse videtur." Quibus auditis, illi, quum regem
 adorassent, in mare prosiluere e nave, quae, hoc modo levata,
 salva in Asiam pervenit. Xerxes vero simul atque in
 terram erat expositus, aurea corona gubernatorem donavit,
 quod regis ipsius vitam conservasset, deinde, quod magnum
-Persarum numerum perdidisset, caput ei praecidi iussit. ,
-� �� UOCE
-62 LATIN READER
-113. SroRY or AN EARLY SAINT. !
-Spyridio sacerdos ob priscam severitatem moresque in-
-tegros multos inter homines praeclarus, Cypro relicta, per
+Persarum numerum perdidisset, caput ei praecidi iussit. 
+
+
+### 113. Story Of An Early Saint.
+
+Spyridio sacerdos ob priscam severitatem moresque integros
+multos inter homines praeclarus, Cypro relicta, per
 Asiam quam celerrime se contulit, ut conventu apud Nicaeam
-ab imperatore constituto mature adesset. Alii autem sacer-
-dotes, qui tam insipientes erant, ut mirae sanctitatis illius
+ab imperatore constituto mature adesset. Alii autem sacerdotes,
+qui tam insipientes erant, ut mirae sanctitatis illius
 immemores habitum incultum contemnerent, in eodem
-itinere progrediebantur. Itaque, dum aperte cum Spyri-
-dione libenter colloqui videntur, quomodo eum in itinere
+itinere progrediebantur. Itaque, dum aperte cum Spyridione
+libenter colloqui videntur, quomodo eum in itinere
 detinere possent, secreto consilium parabant. Namque, dum
 eadem taberna et Spyridio et alii sacerdotes pernoctant, hi
-media nocte experrecti, cibo arrepto, foras se emittere incip-
-lebant, et Spyridioni quominus sequeretur, obstare cona-
-114. � [
+media nocte experrecti, cibo arrepto, foras se emittere incipiebant,
+et Spyridioni quominus sequeretur, obstare conabantur.
+
+
+### 114.
+
 E quibus unus, qui socios retinuerat, rogavit, quamobrem
 tanta celeritate domum relinquerent: respondebant omnes
 se id facere, ut sine Spyridione homine inculto et immundo
-reliquam itineris partem perficerent. Quibus autem per-
-suadebat, ut, priusquam e taberna exirent, subtili consilio
-uterentur. ''Abscisis mulorum eius," inquit, "capitibus,
-non modo ipsi Nicaeam securi vos conferetis, sed Spyridi-
-onem, ne sequatur, impedire poteritis. Hoc consilio libenter
+reliquam itineris partem perficerent. Quibus autem persuadebat,
+ut, priusquam e taberna exirent, subtili consilio
+uterentur. "Abscisis mulorum eius," inquit, "capitibus,
+non modo ipsi Nicaeam securi vos conferetis, sed Spyridionem,
+ne sequatur, impedire poteritis. Hoc consilio libenter
 accepto, quum mulorum alterius candidi, alterius spadicis
 capita decidissent, maxima celeritate aufugerunt. Spyridio
 autem prima luce experrectus servos ad mulos inveniendos
-statim demisit, qui, cum sine mora rediissent, primo stupe-
-facti tacebant.- B
-Eon x-� a nm
-�� n
-. LATIN READER m.
-| E
-" i
-� -� uu 115. �
-m -
+statim demisit, qui, cum sine mora rediissent, primo stupefacti
+tacebant.
 
-Dominus autem * Nonne mulos," inquit, *in stabulo
-paratos invenistis!" "Immo vero," responderunt, *sed
+
+### 115.
+
+Dominus autem "Nonne mulos," inquit, "in stabulo
+paratos invenistis?" "Immo vero," responderunt, "sed
 homines scelesti et improbi capita iis detraxerunt." Ille
 autem neque hilarem deposuit vultum, neque irato utebatur
-animo ; sed servis, ut mulos adducerent, imperavit. Quibus -
+animo; sed servis, ut mulos adducerent, imperavit. Quibus
 quum in tabernam adductis mira quadam arte capita adhuc
-decisa reposuisset, in Asiam statim contendit. Quo facto, -
+decisa reposuisset, in Asiam statim contendit. Quo facto,
 additum est etiam detrectantibus maximum argumentum,
-sacerdotem illum re vera hoc tam difficile miraculum -
+sacerdotem illum re vera hoc tam difficile miraculum
 perfecisse: namque, quia sub incerta luce colores nullo
 modo distinguere potuerat, capita invicem mutata candido
 spadix, spadici candidum forte reposuit.
 
-E C uen
 
 E 116. Tug FATE OF LAMPSACUS.
 
