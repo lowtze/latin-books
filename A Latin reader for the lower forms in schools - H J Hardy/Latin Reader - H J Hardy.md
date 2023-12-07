@@ -234,6 +234,9 @@ faults the author is entirely responsible.
     - [106. Polycrates And His Ring.](#106-polycrates-and-his-ring)
     - [107.](#107)
     - [108. Blowing Hot And Cold.](#108-blowing-hot-and-cold)
+    - [109. Two Sides To Every Question.](#109-two-sides-to-every-question)
+    - [110. Alcmaeon And The Gold.](#110-alcmaeon-and-the-gold)
+    - [111. Whose Is The Shadow?](#111-whose-is-the-shadow)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2298,44 +2301,44 @@ calidum et frigidum halitum emittere potes? Vale: neque
 enim tecum posthac amicitiam exercebo."
 
 
--
-1.  Two SrpEs To EvERY QUESTION. Y
+### 109. Two Sides To Every Question.
+
 Leo et homo dum in eadem via simul progrediuntur, et
 vario sermone inter se utuntur, columnam vident, in qua
 erat incisus leo ab homine suffocatus. Hanc ubi homo
-leoni ostendit, * Hic videre," inquit, licet, quanto leonibus
+leoni ostendit, "Hic videre," inquit, licet, quanto leonibus
 ferisque omnibus sit homo praestantior et valentior."
-* Quis autem," rogavit leo, *ea, quae homo gessit, in hac
-columna incidit?" ^ Subridet ille et respondet scilicet
-hominem opus perfecisse. Atleo: "Sin autem inter leones
+"Quis autem," rogavit leo, "ea, quae homo gessit, in hac
+columna incidit?" Subridet ille et respondet scilicet
+hominem opus perfecisse. At leo: "Sin autem inter leones
 essent, sicut inter homines, ii qui marmor possent sculpere,
-plures a leonibus homines quam ab hominibus leones suffo-
-catos sculpi videres." Quo responso homo subito com-
-motus, veritus ne ipse exemplo esset, cum leone colloquium
+plures a leonibus homines quam ab hominibus leones suffocatos
+sculpi videres." Quo responso homo subito commotus,
+veritus ne ipse exemplo esset, cum leone colloquium
 diremit, et domum quam celerrime aufugit.
-] E 110. ALCMAEON AND THE GOLD. � r
-Croesus rex Lydorum, beneficiis ab Alemaeone Athen-
 
-� jiensi acceptis, eum ad se Sardes invitavit: eundemque
+
+### 110. Alcmaeon And The Gold.
+
+Croesus rex Lydorum, beneficiis ab Alcmaeone Atheniensi 
+acceptis, eum ad se Sardes invitavit: eundemque
 tanto auri pondere, quantum suo corpore asportare semel
-posset, se donaturum esse promisit. Tunc Alemaeon ad
-hoe donum accipiendum in hunc modum paratus accessit :
+posset, se donaturum esse promisit. Tunc Alcmaeon ad
+hoc donum accipiendum in hunc modum paratus accessit:
 grandi ornatus tunica, in qua amplior erat sinus, et
 cothurnis, quos maximos repererat, indutus in thesaurum
 deductus est. Ibi quum in aurea ramenta incidisset,
-primum circa crura, quantum auri.cothurni capere pote-
-rant, infersit, deinde toto sinu repleto et coma ramentis
+primum circa crura, quantum auri cothurni capere poterant,
+infersit, deinde toto sinu repleto et coma ramentis
 conspersa, denique aliis in os sumptis, thesauro egressus
 est, cuivis alii quam homini consimilis. Cuius os auro
 obseratum et omnia turgida Croesus conspicatus non risum
 continuit: nec modo ea, quae ferebat, sed alia etiam haud
-minora adiecit. he B ] | i� 2
-x
-5� mv j
-. mod 61
-mm
-i
-� 111. WHoSE IS THE SHADOW 1
+minora adiecit.
+
+
+### 111. Whose Is The Shadow?
+
 Mercator, quum per deserta Libyca progredi vellet,
 asinum conducendum curavit: quocum Aegyptius, cuius
 erat asinus, iter pedibus faciebat. Quibus compositis, quum
@@ -2347,8 +2350,10 @@ ad fervorem vitandum, et sessoris et, asini umbra protectus,
 ambulabat. Quum autem hoc mercator vidisset, descendit
 et de asini umbra cum Aegyptio strenue contendit. Hic
 enim asinum ipsum, neque umbram se locasse asseveravit:
-ille autem se cum asino umbram conduxisse. ��t dum
+ille autem se cum asino umbram conduxisse. At dum
 rixantur, asinus aufugit; quo facto neuter umbra potitur.
+
+
 mE 112. PERSIAN JUSTICE. 0 E
 Xerxes, in proelio apud Salamina commisso devictus, in
 Asiam mare transmittebat. 'Tum, quum magis fureret tem-
