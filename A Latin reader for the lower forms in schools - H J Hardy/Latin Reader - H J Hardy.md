@@ -2401,7 +2401,7 @@ reliquam itineris partem perficerent. Quibus autem persuadebat,
 ut, priusquam e taberna exirent, subtili consilio
 uterentur. "Abscisis mulorum eius," inquit, "capitibus,
 non modo ipsi Nicaeam securi vos conferetis, sed Spyridionem,
-ne sequatur, impedire poteritis. Hoc consilio libenter
+ne sequatur, impedire poteritis." Hoc consilio libenter
 accepto, quum mulorum alterius candidi, alterius spadicis
 capita decidissent, maxima celeritate aufugerunt. Spyridio
 autem prima luce experrectus servos ad mulos inveniendos
