@@ -2221,7 +2221,7 @@ haud discreparent.
 
 Discipulus quum Xanthum philosophum ebrium et
 temulentum esse videret, "O praeceptor," inquit, "num
-quis mare ebibere potest!" "Immo vero," respondit
+quis mare ebibere potest?" "Immo vero," respondit
 Xanthus, "ego enim hoc ipse ebibere possum: at si
 non potuero, totam meam domum tibi tradam." Itaque
 depositis anulis, ut pactum confirmarent, discesserunt.
