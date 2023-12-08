@@ -243,6 +243,9 @@ faults the author is entirely responsible.
     - [115.](#115)
     - [116. The Fate Of Lampsacus.](#116-the-fate-of-lampsacus)
     - [117. The Deaths Of Aeschylus, Euripides, Sophocles.](#117-the-deaths-of-aeschylus-euripides-sophocles)
+    - [118. A Difficult Case.](#118-a-difficult-case)
+    - [119.](#119)
+    - [120.](#120)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2461,12 +2464,13 @@ denique tamen una sententia victor, causam mortis
 gaudium habuit.
 
 
-. 118. A piFFICULT CASE.
+### 118. A Difficult Case.
+
 Protagoras sophista acerrimus cum Evathlo discipulo
  simultatem gessit: super pacta mercede inter eos haec lis
-erat et controversia. Evathlus dives adolescens, eloquen-
-tiae dicendae orandarumque causarum cupidus, in discip-
-linam Protagorae se dedit, seque daturum promisit grandem
+erat et controversia. Evathlus dives adolescens, eloquentiae
+dicendae orandarumque causarum cupidus, in disciplinam
+Protagorae se dedit, seque daturum promisit grandem
 mercedem, quantam pecuniam Protagoras petiisset: cuius
 dimidium tunc statim, priusquam disceret, dedit, pepigitque
 ut alterum dimidium daret, quo die causam apud iudices
@@ -2474,49 +2478,44 @@ orasset et vicisset. Postea quum diu Protagorae auditor
 assentatorque fuisset et in studio facundiae abunde se
 promovisset, causas tamen non reciperet, tempusque iam
 longum praeteriret, reliquam mercedis partem solvere
-noluit. B
-x
-nL��M�� �
-LATIN READER 65
-EM
-�t
-1 119.
+noluit.
 
-Protagoras autem, consilio quod tum astutum existima-
-bat inito, ab Evathlo pactam mercedem petiit: lite cum
-Evathlo contestata, quum ad iudices ad causam diiudi-
-candam utrique venissent, Protagoras sic exorsus est.
-*'Disce," inquit, *o adolescens stultissime, sive contra te
+
+### 119.
+
+Protagoras autem, consilio quod tum astutum existimabat
+inito, ab Evathlo pactam mercedem petiit: lite cum
+Evathlo contestata, quum ad iudices ad causam diiudicandam
+utrique venissent, Protagoras sic exorsus est.
+"Disce," inquit, "o adolescens stultissime, sive contra te
 sive pro te iudices sententias dixerint, fore ut reddas id
-quod peto. Nam si contra te constitutum erit, mercedem '
+quod peto. Nam si contra te constitutum erit, mercedem
 mihi e iudicum sententia debebis, quia ego vicero: sin
 autem secundum te iudicatum erit, mercedem mihi ex
 nostro pacto debebis, quia tu viceris." Cui respondit
-Evathlus; ''ITuie tuae tam ancipiti captioni obviam ire
+Evathlus; "Huic tuae tam ancipiti captioni obviam ire
 possem, si verba non ipse facerem atque alio patrono uterer.
 Sed maiorem mihi voluptatem victoria afferet, si te non
 in causa modo sed in isto argumento quoque vicero.
 
-|o 99
-mE
 
-*Disce igitur tu quoque, o magister sapientissime,
+### 120.
+
+"Disce igitur tu quoque, o magister sapientissime,
 utrocunque modo sit constitutum, id, quod petis, te non
-consecuturum esse, sive contra me, sive pro me sit pro-
-nuntiatum. Nam siiudices pro causa mea senserint, nihil
-tibi e iudicum sententia debebo, quia ego vicero : sin autem
+consecuturum esse, sive contra me, sive pro me sit pronuntiatum.
+Nam si iudices pro causa mea senserint, nihil
+tibi e iudicum sententia debebo, quia ego vicero: sin autem
 contra me pronuntiaverint, nihil tibi e nostro pacto debebo,
-quod non vicero." Tum iudices hoe spinosum esse et l
+quod non vicero." Tum iudices hoc spinosum esse et
 inexplicabile, quod utrinque dictum esset, rati, ne sententia
-Sua, utramcunque in partem esset dicta, ipsa sese rescin-
-deret, re integra relicta, causam in longinquum tempus
-distulerunt. Itaque Evathlus argumentum, quo usus erat -
+Sua, utramcunque in partem esset dicta, ipsa sese rescinderet,
+re integra relicta, causam in longinquum tempus
+distulerunt. Itaque Evathlus argumentum, quo usus erat
 Protagoras, contra eum conversum ita retulit, ut discipulus
-magistrum devicerit. 2200
+magistrum devicerit.
 
-�Tw�� �n
-"-� c�
-.66 LATIN READER
+
 1 121. AN INFAMOUS Honsx.
 
 Cn. Seium scribunt Romani auctores equum Argis natum
