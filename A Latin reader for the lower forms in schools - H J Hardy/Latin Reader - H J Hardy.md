@@ -5261,10 +5261,10 @@ obtinuit; "prevailed."
 
 ## Notes To Latin Stories.
 
-7. capitis damnaverunt; ''condemned to death ;" cp. 180, voti,
+7. capitis damnaverunt; "condemned to death ;" cp. 180, voti,
 * to pay his vow."
 12. cum ... tum; *notonly . . . but also."
-quosdam sibi insidiari; ''that some, who were friends, were
+quosdam sibi insidiari; "that some, who were friends, were
 3 plotting against him."
 
 31. gladiatorium munus ; a show of gladiators given to the people
@@ -5278,7 +5278,7 @@ Macedonicus.
 sestertii �sestertium, about �8. When such numeral adverbs
 as ducenties aro used, centena millia is to be supplied.
 
-46. rude donato. A gladiator received a ''rudis" (a staff) on his
+46. rude donato. A gladiator received a "rudis" (a staff) on his
 discharge ; rude donatus, **honourably discharged."
 
 50. discidissent ; from discindo.
@@ -5342,7 +5342,7 @@ tratus; the other son, Hippias, was banished from Athens, B.C.
 
 510.
 144. The great eruption of Vesuvius took place A.D. 79.
-torrentis modo ; ''like a torrent."
+torrentis modo ; "like a torrent."
 167. & triumviris Octavian, Antony, Lepidus were appointed to
 1 regulate public affairs, B.c. 48.
 dno
@@ -5365,24 +5365,24 @@ by report."
 200. ea quae in terra . . .; ?.e. pitfalls and other obstacles. 7
 204. Battle of Lake Trasimene, B.C. 217.
 209. Hannibal crossed the Alps B.c. 218.
-211. intentis omnibus; ''while all were turning attention to the
+211. intentis omnibus; "while all were turning attention to the
 river and the hope" . . .
-219. cautum; ''care was taken that" . . . .
+219. cautum; "care was taken that" . . . .
 218. septunces auri; septunx-� 4 of libra, 7 ounces.
 214. non capit; "cannot endure."
 215. domestici belli ; depend on causa. .
 prohibebant ingredi ; prohibeo and veto are usually constructed
 with an inf.
-3 294. nostros praesidia deducturos; ''that we (the Romans) would
+3 294. nostros praesidia deducturos; "that we (the Romans) would
 withdraw our troops."
 295. Terrai; the early form of terrae ; matris agrees with it.
 puerum ; contracted for puerorum. 4
-298. pulsa; ''blown."
+298. pulsa; "blown."
 traducat; "bring me to a quiet life." A
 229. suo, deinde omnium . . . equis ; suo, sc. equo. :
 ea disiecta ; ?.e. the phalanx.
 232. quod dedit ille ; * which he gave to serve against wild beasts."
-) Tune mihi vita foret. ''If I had lived then." * " |
+) Tune mihi vita foret. "If I had lived then." * " |
 B AB Jj r
 "y - '
 i D
