@@ -246,6 +246,9 @@ faults the author is entirely responsible.
     - [118. A Difficult Case.](#118-a-difficult-case)
     - [119.](#119)
     - [120.](#120)
+    - [121. An Infamous Horse.](#121-an-infamous-horse)
+    - [122. The Singer And The Cricket.](#122-the-singer-and-the-cricket)
+    - [123. Antigonus And His Horses.](#123-antigonus-and-his-horses)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2516,7 +2519,7 @@ Protagoras, contra eum conversum ita retulit, ut discipulus
 magistrum devicerit.
 
 
-1 121. AN INFAMOUS Honsx.
+### 121. An Infamous Horse.
 
 Cn. Seium scribunt Romani auctores equum Argis natum
 habuisse, qui magnitudine inusitata, cervicibus arduis,
@@ -2524,51 +2527,52 @@ colore phoeniceo, comanti iuba, omnibusque aliis equorum
 laudibus longe praestabat; at tali usus est fortuna, ut
 quisquis eum haberet cum omni domo, familia, fortunis,
 funditus deperiret. Itaque, quum Seius capitis damnatus
-miserando supplicio esset affectus, Dolabella in Syriam pro-
-fectus istius equi fama adductus est, ut, Argos deverteret et
+miserando supplicio esset affectus, Dolabella in Syriam profectus
+istius equi fama adductus est, ut Argos deverteret et
 sestertiorum centum milibus eum emeret. At bello civili
 Dolabella in Syria obsesso atque interfecto, C. Cassius, qui
 Dolabellam obsederat, equum abduxit: idem, exercitu suo
-fuso, miseram mortem oppetiit Hinc illud de hominibus
-calamitosis ortum dicique solitum, *ille Seianum equum
-habet." P
+fuso, miseram mortem oppetiit. Hinc illud de hominibus
+calamitosis ortum dicique solitum, "ille Seianum equum
+habet."
 
-122. THE SINGER AND THE CRICKET.
+
+### 122. The Singer And The Cricket.
 
 Fidicen quidam, qui certamen canendi iniit, et, voce et
-fidibus canere tanta arte incepit, ut non modo amicos cir-
-cumstantes sed eos etiam, qui peritius de arte canendi
+fidibus canere tanta arte incepit, ut non modo amicos circumstantes
+sed eos etiam, qui peritius de arte canendi
 disceptabant, delectare posset. At dum hac iucunda
 voluptate omnes fruuntur, subito una e septem fidibus,
-quibus lyra est comparata, interrumpitur, quam ita inter-
-ruptam fidicen frustra tentat attingere. Luic aegre canenti
+quibus lyra est comparata, interrumpitur, quam ita interruptam
+fidicen frustra tentat attingere. Huic aegre canenti
 cicada auxilium praestat, quae per artem singularem pro
 nervo iam deficiente suam vocem tam iuste praebet, ut
 nemo praeter ipsum fidicinem illius nervi proprium sonitum
-deesse intelligat. 'lTum demum ille victor, praemio accepto,
+deesse intelligat. Tum demum ille victor, praemio accepto,
 domum rediit: nec tamen ingratus, sui imaginem de
 marmore faciendam, et cicadae tanquam adiutricis effigiem
-ad lyrae fides apponendam curavit. - T
+ad lyrae fides apponendam curavit.
 
-Pu p
-p�� "-
-LATIN READER - 67
-FF � ME
-Jl E 123. ANTIGONUS AND HIS HORSES. D �
-Cum Antigonus in castello Phrygiae, quod Nora appel-
-latur, cireumsederetur et vereretur, ne uno loco manens
+
+### 123. Antigonus And His Horses.
+
+Cum Antigonus in castello Phrygiae, quod Nora appellatur,
+circumsederetur et vereretur, ne uno loco manens
 equos militares perderet, quod spatium non esset agitandi,
-callidum fuit eius inventum, quemadmodum stans iumen-
-tum calefieri exercerique posset, quo libentius et cibo
-uteretur, eb � corporis motu non removeretur. Altius
+callidum fuit eius inventum, quemadmodum stans iumentum
+calefieri exercerique posset, quo libentius et cibo
+uteretur, et a corporis motu non removeretur. Altius
 substringebat caput loro quam ut prioribus pedibus plane
 terram posset attingere. Deinde post verberibus cogebat
 exsultare et calces remittere: qui motus non minus sudorem
-exeutiebat quam si in spatio decurreret. Quo factum est,
+excutiebat quam si in spatio decurreret. Quo factum est,
 quod omnibus mirabile visum est, ut iumenta aeque nitida
 ex castello educeret, cum complures menses in obsidione
 fuisset, ac si in campestribus ea locis habuisset.
-m �
+
+
+
 E ES 124. RoMAN RULE. -� q [.
 Refert Cicero L. Domitium praetorem in Sicilia, quum
 aper ingens ad eum allatus esset, admiratum requisivisse
