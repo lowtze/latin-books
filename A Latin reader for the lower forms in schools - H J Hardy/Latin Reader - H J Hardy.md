@@ -249,6 +249,9 @@ faults the author is entirely responsible.
     - [121. An Infamous Horse.](#121-an-infamous-horse)
     - [122. The Singer And The Cricket.](#122-the-singer-and-the-cricket)
     - [123. Antigonus And His Horses.](#123-antigonus-and-his-horses)
+    - [124. Roman Rule.](#124-roman-rule)
+    - [125. Justice And Mercy.](#125-justice-and-mercy)
+    - [126. Fat Man In Londonderry.](#126-fat-man-in-londonderry)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2572,56 +2575,55 @@ ex castello educeret, cum complures menses in obsidione
 fuisset, ac si in campestribus ea locis habuisset.
 
 
+### 124. Roman Rule.
 
-E ES 124. RoMAN RULE. -� q [.
 Refert Cicero L. Domitium praetorem in Sicilia, quum
 aper ingens ad eum allatus esset, admiratum requisivisse
 quis eum percussisset. Quum audisset pastorem fuisse,
-eum ad se vocari iussisse : illum cupide ad praetorem quasi
-ad laudem et ad praemium aecurrisse: quaesivisse Domi-
-tium, quomodo tantam bestiam percussisset: illum respon-
-disse, venabulo. Statim deinde iussu praetoris in crucem
-esse sublatum. De quo intellegendum esse maluisse Domi-
-tium crudelem in animadvertendo quam in praetermittendo
+eum ad se vocari iussisse: illum cupide ad praetorem quasi
+ad laudem et ad praemium accurrisse: quaesivisse Domitium,
+quomodo tantam bestiam percussisset: illum respondisse,
+venabulo. Statim deinde iussu praetoris in crucem
+esse sublatum. De quo intellegendum esse maluisse Domitium
+crudelem in animadvertendo quam in praetermittendo
 dissolutum videri. Nobis autem hoc edictum, ne quis cum
 telo servus esset, quo Domitius utebatur, haud civile,
-supplicium, quo pastor est aff�ctus, inhumanum videtur. ,
-� (o�
-63 LATIN READER
-! m 125. JuSTICE AND MERCY. MP Y
-Zaleucus, si quis alius sapiens e ad rempublicam geren-
-dam sagax, urbem Locrensium saluberrimis et utilissimis
-legibus munivit: quas ut. confirmaret, aliis sceleribus alias
+supplicium, quo pastor est affectus, inhumanum videtur.
+
+
+### 125. Justice And Mercy.
+
+Zaleucus, si quis alius sapiens e ad rempublicam gerendam
+sagax, urbem Locrensium saluberrimis et utilissimis
+legibus munivit: quas ut confirmaret, aliis sceleribus alias
 poenas iuste assignavit. His compositis quum filius eius
 crimine damnatus secundum ius ab ipso constitutum utroque
-oculo carere deberet, aec tota civitas in honorem patris
+oculo carere deberet, ac tota civitas in honorem patris
 poenam adolescentuli remitteret, aliquamdiu repugnavit.
 Tum demum precibus populi devictus, suo prius, deinde
 filii oculo effosso, usum videndi utrique reliquit. Ita
 debitum supplicii modum legi reddidit: quo facto cum
 civem iustum tum patrem misericordem se praestitit.
-) r 126. FAT MAN IN LONDONDERRY. , |
-- Urbe quadam Hibernica diu obsessa, cives cuncti tanta
-fame afficiebantur, ut etiam canes, equos, alia animalia con-
-sumere cogerentur. Panis enim in paucis locis idemque
+
+
+### 126. Fat Man In Londonderry.
+
+Urbe quadam Hibernica diu obsessa, cives cuncti tanta
+fame afficiebantur, ut etiam canes, equos, alia animalia consumere
+cogerentur. Panis enim in paucis locis idemque
 mucidus inveniri poterat: et nocte et interdiu cives undique
-mortui ante oculos omnium iacebant: ommes intellexerunt,
+mortui ante oculos omnium iacebant: omnes intellexerunt,
 nisi auxilium sine mora adveniret, fore ut urbs, quam tanta
 virtute defendissent, ab hostibus caperetur. At inter
 homines fame confectos et macie corruptos unus pinguis
-propter corporis magnitudinem invidiam patiebatur: ad-
-mirati enim illum tam pinguem esse multi paene devora-
-turi videbantur. Ille autem omnis facinoris praeter
+propter corporis magnitudinem invidiam patiebatur: admirati
+enim illum tam pinguem esse multi paene devoraturi
+videbantur. Ille autem omnis facinoris praeter
 obesitatem innocens, ut esurientium et mortem minantium
 aspectum vitaret, domi perterritus manebat. Tum demum,
 urbe obsidione liberata, id quod ei maximo periculo fuerat,
-ludibrio solum postea fit. � E.
-2
-pc �
+ludibrio solum postea fit.
 
-LATIN READER 69
-
-r En
 
 197. Cusrows or THE MAORIES.
 
