@@ -252,6 +252,9 @@ faults the author is entirely responsible.
     - [124. Roman Rule.](#124-roman-rule)
     - [125. Justice And Mercy.](#125-justice-and-mercy)
     - [126. Fat Man In Londonderry.](#126-fat-man-in-londonderry)
+    - [127. Customs Of The Maories.](#127-customs-of-the-maories)
+    - [128. Building Of Athens.](#128-building-of-athens)
+    - [129.](#129)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2625,14 +2628,14 @@ urbe obsidione liberata, id quod ei maximo periculo fuerat,
 ludibrio solum postea fit.
 
 
-197. Cusrows or THE MAORIES.
+### 127. Customs Of The Maories.
 
-, Saevi mores et crudeles inter eos, qui nec iura divina
+Saevi mores et crudeles inter eos, qui nec iura divina
 nec humana cognoverunt, referuntur. At permulta, quae
 nobis absurda et plane ridicula videntur, nonnunquam e
-consilio neque insulso neque imprudenti sunt orta. Maori-
-enses enim, qui partem orbis terrarum regioni nostrae oppo-
-sitam colunt, cum moribus quibusdam bonis et honestis
+consilio neque insulso neque imprudenti sunt orta. Maorienses
+enim, qui partem orbis terrarum regioni nostrae oppositam
+colunt, cum moribus quibusdam bonis et honestis
 usi tum disciplinas artesque haud despiciendas prosecuti,
 multam laudem merentur. Sed, quamvis in aliis modis
 aliquantum humanitatis exhiberent, homines comedere
@@ -2642,38 +2645,42 @@ consumere possent, in illis insulis invenissent, ut carnem
 humanam praegustarent, sibi persuadebant. Eo accedebat
 ut, mirae opinioni obsecuti, se omnibus et corporis et animi
 virtutibus eius quem comederent potituros, se corrigere et
-emendare per illas epulas vellent. E |
+emendare per illas epulas vellent.
 
-128. BUILDING OF ATHENS.
 
-) .. Post Persas apud Salamina devietos Lacedaemonii, post-
-quam audierunt muros �theniensium instrui, legatos Athenas
+### 128. Building Of Athens.
+
+Post Persas apud Salamina devictos Lacedaemonii, postquam
+audierunt muros Atheniensium instrui, legatos Athenas
 miserunt, qui id fieri vetarent. His praesentibus desierunt
 Athenienses ac se de ea re legatos ad eos missuros dixerunt.
-Hanc legationem suscepit Themistocles et solus primo pro-
-fectus est: reliqui legati ut tum exirent, cum altitudo muri
+Hanc legationem suscepit Themistocles et solus primo profectus
+est: reliqui legati ut tum exirent, cum altitudo muri
 satis magna videretur, praecepit: ut interim omnes servi
 atque liberi opus facerent neque ulli loco parcerent, sive
-sacer esset sive profanus. Themistocles autem ut Lace-
-daemonem venit, adire ad magistratus noluit, et dedit
+sacer esset sive profanus. Themistocles autem ut Lacedaemonem
+venit, adire ad magistratus noluit, et dedit
 operam ut quam longissimum tempus duceretur: causam
-enim interposuit, se collegas exspectare. m r
-r� l� �
-70 LATIN READER
-I 20MN�$o L
-"Cum Lacedaemonii quererentur opus nihilominus fieri
+enim interposuit, se collegas exspectare.
+
+
+### 129.
+
+Cum Lacedaemonii quererentur opus nihilominus fieri
 eumque in ea re conari fallere, interim reliqui legati sunt
-secuti ; a quibus cum audiisset non multum superesse muni-
-tionis, apud Ephoros Lacedaemoniorum accessit et con-
-tendit, falsa iis esse delata: quare aequum esse illos bonos
+secuti; a quibus cum audiisset non multum superesse munitionis,
+apud Ephoros Lacedaemoniorum accessit et contendit,
+falsa iis esse delata: quare aequum esse illos bonos
 nobilesque viros mittere, quibus fides haberetur, qui rem
 explorarent; interea se obsidem retinerent. Gestus est ei
 mos: tresque legati summis functi honoribus Athenas
-missi sunt. Cum his collegas suos Themistocles iussit pro-
-fiisci eisque praedixit, ut ne prius Lacedaemoniorum
-legatos dimitterent quam ipse esset remissus. Hos post-
-quam Athenas pervenisse ratus est, apud Ephoros liberrime
+missi sunt. Cum his collegas suos Themistocles iussit proficisci
+eisque praedixit, ut ne prius Lacedaemoniorum
+legatos dimitterent quam ipse esset remissus. Hos postquam
+Athenas pervenisse ratus est, apud Ephoros liberrime
 professus est Athenienses suo consilio muris urbem saepsisse.
+
+
 : � 130. TrMOLEON IN SICILY. D � �
 Timoleon post res optime gestas Syracusis, quod reliquum
 vitae fuit, privatus vixit. Nullus honor huic defuit; neque
