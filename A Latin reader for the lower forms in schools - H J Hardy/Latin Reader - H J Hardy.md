@@ -255,6 +255,11 @@ faults the author is entirely responsible.
     - [127. Customs Of The Maories.](#127-customs-of-the-maories)
     - [128. Building Of Athens.](#128-building-of-athens)
     - [129.](#129)
+    - [130. Timoleon In Sicily.](#130-timoleon-in-sicily)
+    - [131. An Eastern Preacher.](#131-an-eastern-preacher)
+    - [132. The Artful Hannibal.](#132-the-artful-hannibal)
+    - [133.](#133)
+    - [134.](#134)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2681,7 +2686,8 @@ Athenas pervenisse ratus est, apud Ephoros liberrime
 professus est Athenienses suo consilio muris urbem saepsisse.
 
 
-: � 130. TrMOLEON IN SICILY. D � �
+### 130. Timoleon In Sicily.
+
 Timoleon post res optime gestas Syracusis, quod reliquum
 vitae fuit, privatus vixit. Nullus honor huic defuit; neque
 postea res ulla Syracusis gesta est publice, de qua prius sit
@@ -2689,78 +2695,82 @@ decretum quam Timoleontis sententia cognita. Nec tamen
 propter hanc rem ad superbiam est elatus. Is enim, cum
 quidam nomine Demaenetus in contione populi de rebus
 gestis eius detrahere coepisset, ac multa inveheretur in
-"Timoleonta, dixit nune demum se voti esse damnatum;
+Timoleonta, dixit nunc demum se voti esse damnatum;
 namque hoc a Diis immortalibus semper precatum, ut talem
 libertatem restitueret Syracusanis, in qua cuivis liceret, de
 quo vellet, impune dicere. Hic cum diem supremum obiisset,
 publice a Syracusanis in gymnasio, tota celebrante Sicilia,
-sepultus est. Mdh | Ani P
-pe p
-LATIN READER 7 b.
-' � B 131. AN EASTERN PREACHER. Y p
+sepultus est.
+
+
+### 131. An Eastern Preacher.
+
 Inter Arabas olim erant sacerdotes qui in contionem
-populum advocare solerent; e quibus unus insolitum ser-
-monem habuit. Utrum eos qui audiebant dolore afficere,
+populum advocare solerent; e quibus unus insolitum sermonem
+habuit. Utrum eos qui audiebant dolore afficere,
 an domum quam celerrime redire voluerit, incertum est.
-* Num scitis," inquit, *quae sim hodie dicturus?" Omnes
-negabant. Idcirco," respondit ille, *nil mihi prodest
-tempus consumere, ut homines tam insulsos doceam. Post-
-ridie quum ad tribunal ascendisset, rogavit, utrum ii qui
-audiebant, quae esset dicturus, seirent necne. Se scire
+"Num scitis," inquit, "quae sim hodie dicturus?" Omnes
+negabant. "Idcirco," respondit ille, "nil mihi prodest
+tempus consumere, ut homines tam insulsos doceam. Postridie
+quum ad tribunal ascendisset, rogavit, utrum ii qui
+audiebant, quae esset dicturus, scirent necne. Se scire
 responderunt; dixit ille, nil igitur opus esse se illa narrare.
-Tertio tandem die sacerdoti idem interroganti respond-
-erunt, alios illa scire, alios ignorare. Quibus autem ad
-respondendum paratus *ii qui sciunt," inquit, ignorantes
+Tertio tandem die sacerdoti idem interroganti responderunt,
+alios illa scire, alios ignorare. Quibus autem ad
+respondendum paratus "ii qui sciunt," inquit, "ignorantes
 faciant certiores."
-� m 132. Tug AgRTFUL HANNIBAL. B b
-Ad Eumenem regem Romanis amicissimum interficien-
-dum Hannibal talem iniit rationem. � Classe paucis diebus
+
+
+### 132. The Artful Hannibal.
+
+Ad Eumenem regem Romanis amicissimum interficiendum
+Hannibal talem iniit rationem. Classe paucis diebus
 erant decreturi. Superabatur Hannibal navium multitudine.
 Dolo igitur erat pugnandum, cum par non esset armis.
-Hie iussit quam plurimas venenatas serpentes vivas colligi
+Hic iussit quam plurimas venenatas serpentes vivas colligi
 easque in vasa fictilia conici. Harum cum confecisset
 magnam multitudinem, die ipso, quo facturus erat navale
 proelium, classiarios convocat hisque praecepit, omnes ut in
 unam Eumenis regis concurrant navem; rex autem in qua
 nave veheretur, ut scirent, se facturum promittit; quem
 si aut cepissent, aut interfecissent, magno illis pollicetur
-praemio fore. - n e
--� . "A
-� ��:
-12 LATIN READER
-, 133.
+praemio fore.
+
+
+### 133.
 
 Tali cohortatione militum facta, classis ab utrisque in
-proelium deducitur. ' Quarum acie constituta, priusquam
+proelium deducitur. Quarum acie constituta, priusquam
 signum pugnae daretur, Hannibal ut palam faceret suis,
 quo loco Eumenes esset, tabellarium in scapha cum caduceo
 mittit; qui, ubi ad naves adversariorum pervenit, epistolam
 ostendens, se regem professus est quaerere. Statim ad
 Eumenem deductus est, quod nemo dubitabat quin id de
 pace esset scriptum. Tabellarius, ducis nave declarata, eodem,
-unde ierat,se recepit. At Eumenes, soluta epistola, nihil in
+unde ierat, se recepit. At Eumenes, soluta epistola, nihil in
 ea reperit, nisi quod ad irridendum pertinet; cuius etsi
 causam mirabatur (neque reperiebat), tamen proelium statim
-committere non dubitavit. Horum in concursu DBithyni
+committere non dubitavit. Horum in concursu Bithyni
 Hannibalis praecepto universi navem Eumenis adoriuntur.
 
-; 134. ]
+
+### 134.
 
 Quorum vim cum rex sustinere non posset, fuga salutem
 petiit; quam consecutus non esset, nisi intra sua praesidia
-se recepisset, quae in proximo litore erant collocata. Reli-
-quae Pergamenae naves cum adversarios premerent acrius,
+se recepisset, quae in proximo litore erant collocata. Reliquae
+Pergamenae naves cum adversarios premerent acrius,
 repente in eas vasa illa fictilia, de quibus mentionem supra
-fecimus, conici coepta sunt ; quae iacta initio risum pugnan-
-tibus excitarunt, nec, quare id fieret, poterat intellegi.
+fecimus, conici coepta sunt; quae iacta initio risum pugnantibus
+excitarunt, nec, quare id fieret, poterat intellegi.
 Postquam autem naves completas conspexerunt serpentibus,
-nova re perterritij cum, quid potissimum vitarent, non
-viderent, puppes averterunt, seque ad sua castra nautica re-
-tulerunt. Sie Hannibal consilio arma Pergamenorum
+nova re perterriti, cum, quid potissimum vitarent, non
+viderent, puppes averterunt, seque ad sua castra nautica retulerunt.
+Sic Hannibal consilio arma Pergamenorum
 superavit: neque tum solum sed saepe alias pedestribus
-eopiis pari prudentia pepulit adversarios. � a 4
-pee� �
-- i LATIN READER 19
+copiis pari prudentia pepulit adversarios.
+
+
 4 1 m. WnrHAT IS IN THE Dac! e D
 In Libycis desertis vagatus Arabs tandem, quum nullum
 cibum diu consecutus esset, paene fame consumebatur.
