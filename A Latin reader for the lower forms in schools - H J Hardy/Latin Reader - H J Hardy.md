@@ -260,6 +260,10 @@ faults the author is entirely responsible.
     - [132. The Artful Hannibal.](#132-the-artful-hannibal)
     - [133.](#133)
     - [134.](#134)
+    - [135. What Is In The Bag?](#135-what-is-in-the-bag)
+    - [136. Alexander's Doctor.](#136-alexanders-doctor)
+    - [137. The Dervish.](#137-the-dervish)
+    - [138.](#138)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2771,21 +2775,25 @@ superavit: neque tum solum sed saepe alias pedestribus
 copiis pari prudentia pepulit adversarios.
 
 
-4 1 m. WnrHAT IS IN THE Dac! e D
+### 135. What Is In The Bag?
+
 In Libycis desertis vagatus Arabs tandem, quum nullum
 cibum diu consecutus esset, paene fame consumebatur.
 Lacum autem subito aspicit, apud quem aquationis causa,
-ut bibant cameli, viatores consistunt ; ad quem quum perven-
-isset, in arena deiectum culeum vidit, quem ut distentum
-sensit, *Grates Dis immortalibus ago maximas," inquit, **hunc
+ut bibant cameli, viatores consistunt; ad quem quum pervenisset,
+in arena deiectum culeum vidit, quem ut distentum
+sensit, "Grates Dis immortalibus ago maximas," inquit, "hunc
 enim culeum aut palmulas aut nuces continere pro certo
 habeo; quam iucundis epulis frui potero! quanta commoda
 diu optata mihi contingent!" quibus dictis animo elato, dum
-cibum sibi esurienti futurum sperat, culeum aperit. lis vero,
-quae ibi conduntur, expositis, magnum concipit dolorem :
-* Vae mihi misero," inquit, *nihil inest praeter margaritas
-inutiles." L5
-4 136. ALEXANDER's DocTOR. m
+cibum sibi esurienti futurum sperat, culeum aperit. Iis vero,
+quae ibi conduntur, expositis, magnum concipit dolorem:
+"Vae mihi misero," inquit, "nihil inest praeter margaritas
+inutiles."
+
+
+### 136. Alexander's Doctor.
+
 Quum Alexander Tarsum venisset, captus Cydni
 amoenitate in praefrigidam undam se proiecit. Tum
 repente tantus nervos eius occupavit rigor, ut nulla spes
@@ -2794,44 +2802,45 @@ Philippus qui solus remedium pollicebatur; sed illum
 epistola a Parmenione pridie missa suspectum faciebat, qui
 ignarus Alexandri infirmitatis monuerat, ut a Philippo
 medico caveret; nam corruptum illum a Dario ingenti
-pecunia esse. "Tutius tamen est ratus Alexander dubiae se
+pecunia esse. Tutius tamen est ratus Alexander dubiae se
 fidei medici credere, quam indubitate morbo perire. Accepto
-igitur poculo, epistolam medico tradidit ; itaque inter biben-
-dum oculos in vultum legentis intendit. ^ Ut securum
-conspexit, laetior factus sanitatem quarta die recepit. |
-��� �
-TA LATIN READER ^
-p� 2 m
-� 137. Tug DERvisR. B
+igitur poculo, epistolam medico tradidit; itaque inter bibendum
+oculos in vultum legentis intendit. Ut securum
+conspexit, laetior factus sanitatem quarta die recepit.
+
+
+### 137. The Dervish.
+
 Philosophus ingenio praeditus subtili et rerum omnium
 peritus, per Sericas partes vagatus, quum ad oppidum
-Baleam pervenisset, in regis palatium, quod pro publico
+Balcam pervenisset, in regis palatium, quod pro publico
 hospitio habuit, forte iniit. Postea omnia, quae palam
 erant exposita, conspicatus, stragulo, ut mos est, humi
 deposito requiescere voluit. Cui haec molienti obviam se
 ferebat unus e custodibus, qui eum rogavit, quid facere
-vellet. Respondit philosophus se in illo hospitio dever-
-surum esse '.At," inquit ille iratus, **haec domus revera
+vellet. Respondit philosophus se in illo hospitio deversurum
+esse "At," inquit ille iratus, "haec domus revera
 regis palatium est, non publicum hospitium." Dum haec
 aegre ferebant custodes, accidit ut rex ipse haud procul
-ambularet atque eos disceptantes exaudiret. 1
-m
-BEEN 4
+ambularet atque eos disceptantes exaudiret.
+
+
+### 138. 
+
 Qui quum errori philosophi innocentis arrisisset, rogavit
 eum haud immiti usus voce, quamobrem tam insulsus
-.. esset, ut nullum diserimen inter hospitium et palatium
-intellegeret. **Da mihi petenti veniam," respondit philo-
-. sophus; "cupio enim te pauca interrogare. Quis primus
-. hanc domum iam aedifieatam incolebat?" Rex respondit
+esset, ut nullum discrimen inter hospitium et palatium
+intellegeret. "Da mihi petenti veniam," respondit philosophus;
+"cupio enim te pauca interrogare. Quis primus
+hanc domum iam aedificatam incolebat?" Rex respondit
 primo suos incoluisse avos, tunc autem suum patrem.
-*Quis autem hodie incolit?" Se ipsum. '*Quis tandem
+"Quis autem hodie incolit?" Se ipsum. "Quis tandem
 tibi mortuo succedet!" Filium suum iuvenem. At
-respondit philosophus * Ea domus, quae incolas saepissime
+respondit philosophus "Ea domus, quae incolas saepissime
 mutet neque eosdem hospites retinere possit, mihi quidem
-hospitium, non palatium videtur." iii �
-p����� uu
-d LATIN READER 1b
-E �� o�
+hospitium, non palatium videtur."
+
+
 B B 139. Tue NoniLITY OF IPHICRATES. u 1
 i
 
