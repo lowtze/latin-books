@@ -264,6 +264,9 @@ faults the author is entirely responsible.
     - [136. Alexander's Doctor.](#136-alexanders-doctor)
     - [137. The Dervish.](#137-the-dervish)
     - [138.](#138)
+    - [139. The Nobility Of Iphicrates.](#139-the-nobility-of-iphicrates)
+    - [140.](#140)
+    - [141. An Idle Boy.](#141-an-idle-boy)
   - [Notes To Introductory Stories.](#notes-to-introductory-stories)
   - [Notes To Latin Stories.](#notes-to-latin-stories)
 
@@ -2841,41 +2844,40 @@ mutet neque eosdem hospites retinere possit, mihi quidem
 hospitium, non palatium videtur."
 
 
-B B 139. Tue NoniLITY OF IPHICRATES. u 1
-i
+### 139. The Nobility Of Iphicrates.
 
-Iphierates Atheniensis non tam magnitudine rerum
+Iphicrates Atheniensis non tam magnitudine rerum
 gestarum quam disciplina militari nobilitatus est. Fuit
-enim talis dux, ut non solum aetatis suae cum primis com-
-pararetur, sed ne de maioribus natu quidem quisquam
-anteponeretur Multum vero in bello versatus saepe
-exercitibus praefuit: nusquam culpa sua male rem gessit :
-semper consilio vici�: tantumque eo valuit, ut multa in re
+enim talis dux, ut non solum aetatis suae cum primis compararetur,
+sed ne de maioribus natu quidem quisquam
+anteponeretur. Multum vero in bello versatus saepe
+exercitibus praefuit: nusquam culpa sua male rem gessit:
+semper consilio vicit: tantumque eo valuit, ut multa in re
 militari partim nova attulerit, partim meliora fecerit.
 Namque ille pedestria arma mutavit, cum ante illum
 imperatorem maximis clipeis, acribus hastis, minutis
 gladiis uterentur. Ille e contrario peltam pro parma fecit,
-ut ad motus concursusque essent leviores. Iastae modum
+ut ad motus concursusque essent leviores. Hastae modum
 duplicavit; gladios longiores fecit.
 
-EM 140. | | .
+
+### 140.
 
 Apud Corinthum tanta severitate exercitui praefuit, ut
 nullae unquam in Graecia neque exercitatiores copiae,
 neque magis dicto audientes fuerint duci: in eamque
-consuetudinem adduxit, ut, cum proelii signum ab im-
-peratore esset datum, sine ducis opera sic ordinatae consis-
-terent, ut singuli ab peritissimo imperatore dispositi
+consuetudinem adduxit, ut, cum proelii signum ab imperatore
+esset datum, sine ducis opera sic ordinatae consisterent,
+ut singuli ab peritissimo imperatore dispositi
 viderentur. Hic autem a sutoribus originem traxit: quod
-quum opprobrio obiecisset& homo nobilis quidem sed turpis
+quum opprobrio obiecisset homo nobilis quidem sed turpis
 et scelestus, qui inter avos Harmodium iactavit, respondit
-Iphierates, *Ista nobilitas quae ad te devenit, illico
+Iphicrates, "Ista nobilitas quae ad te devenit, illico
 evanescit: mea autem, quae a me est exorta, in posteros
-progredietur." E r
-�:
-16 LATIN READER n
-Fr M88
-141. AN IpLE Boy.
+progredietur."
+
+
+### 141. An Idle Boy.
 
 Tres pueri ad ludum ventitabant. Ludi autem magister
 eos multa et utilia docere voluit: curam enim adhibebat
@@ -2883,14 +2885,15 @@ non modo ut Latine et Graece loquerentur, sed et ea, quae
 geometrae et mathematici scripserant, intellegerent. At,
 quum tres menses haec didicissent, ludi magister experiri
 voluit, utrum ea quae docuisset in memoria retinerent
-neene. Die mihi, sodes," inquit ille, * orbisne terrarum
-circum solem movetur an sol circum orbem terrarum vol-
-vitur?" Pueri autem quid respondere possent nesciebant :
-primus igitur respondit orbem terrarum cireum solem
+neene. "Dic mihi, sodes," inquit ille, "orbisne terrarum
+circum solem movetur an sol circum orbem terrarum volvitur?"
+Pueri autem quid respondere possent nesciebant:
+primus igitur respondit orbem terrarum circum solem
 moveri, secundus autem rem contrarie dispositam esse
-affirmavit. Sed tertius in diversas partes distractus, * Uno
-die" inquit *sol circum orbem terrarum, altero orbis ter-
-rarum circum solem movetur."
+affirmavit. Sed tertius in diversas partes distractus, "Uno
+die" inquit "sol circum orbem terrarum, altero orbis terrarum
+circum solem movetur."
+
 
 s 142. A RoMAN GENTLEMAN OUTWITTED. �
 
